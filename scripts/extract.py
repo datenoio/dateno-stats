@@ -17,6 +17,23 @@ ARCHIVE_PATH  = '../data/archive'
 
 TYPE_LIST = 1
 TYPE_AGG = 2
+TYPE_DUMP = 3
+
+
+
+def aggregate_double_fields(coll, fieldname_1, name_1, fieldname_2, name_2, unwind_1: False, unwind_2: False):
+    print('aggregate by fields %s and %s' % (fieldname_1, fieldname_2))
+    query = []
+    if unwind_1: 
+        query.append({'$unwind' : "$" + fieldname_1.rsplit('.', 1)[0]})
+    if unwind_2:
+        query.append({'$unwind' : "$" + fieldname_2.rsplit('.', 1)[0]})
+
+    query.append({ "$group": {"_id": { name_1: "$" + fieldname_1, name_2 : "$" + fieldname_2 },"count": { "$sum": 1 }}})
+    cursor = coll.aggregate(query, allowDiskUse=True)
+    data = list(cursor)
+
+    return data
 
 
 def aggregate_field(coll, fieldname):
@@ -67,6 +84,19 @@ def save_current(data):
             f.write('value\n')
             for row in record[1]:
                 f.write(str(row) + '\n')
+        elif record[2] == TYPE_DUMP:
+            keys = record[1][0]["_id"].keys()
+            headers = list(keys)
+            headers.append('count')
+            writer = csv.writer(f)
+            writer.writerow(headers)
+            data_ = sorted(record[1], key=lambda item: item['count'], reverse=True)
+            for row in data_:
+                r = []
+                for k in keys:
+                    r.append(row['_id'][k])
+                r.append(row['count'])
+                writer.writerow(r)               
         elif record[2] == TYPE_AGG:
             data = record[1]
             data_ = sorted(data.items(), key=lambda item: item[1], reverse=True)
@@ -97,13 +127,15 @@ def save_archive():
     pass
 
 
-def run():    
-    save_archive()
-    return
+def run():    
     conn = MongoClient()  # For test environment only, production protected with auth
     coll = conn[DEFAULT_DB][DEFAULT_COLL]
   
     data_list = []
+    save_current(["stats_country_type", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.catalog_type', 'catalog_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
+    save_current(["stats_country_software", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.software.name', 'software', unwind_1=True, unwind_2=True), TYPE_DUMP])
+    save_current(["stats_country_owner", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.owner_type', 'owner_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
+
     save_current(['crawledsources', coll.distinct('source.uid'), TYPE_LIST])
     save_current(['stats_software', aggregate_field_unwind(coll, 'source.software.name'), TYPE_AGG])
     save_current(['stats_langs', aggregate_field_unwind(coll, 'source.langs.name'), TYPE_AGG])
@@ -117,7 +149,7 @@ def run():
     save_current(['stats_type', aggregate_field(coll, 'source.catalog_type'), TYPE_AGG])
     save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
     save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
-#    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
+    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
     save_archive()
           
 

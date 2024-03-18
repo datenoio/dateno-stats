@@ -1,0 +1,813 @@
+country,software,count
+Germany,Geonetwork,1592269
+European Union,CKAN,1317182
+United States,CKAN,587699
+World,Data.bis.org platform,558028
+Germany,CKAN,341868
+Australia,CKAN,309280
+Indonesia,CKAN,236048
+France,Geonetwork,196014
+Russian Federation,Geonetwork,194927
+United Kingdom,CKAN,183258
+Netherlands,Dataverse,155481
+Australia,Geonetwork,125111
+United States,ArcGIS Server,124685
+Czech Republic,CKAN,122033
+Portugal,CKAN,111860
+United States,Dataverse,108009
+United Kingdom,Geonetwork,96934
+Unknown,ArcGIS Server,93350
+European Union,GeoServer,83116
+Canada,CKAN,82420
+United States,ArcGIS Hub,80033
+Poland,Dataverse,79756
+Canada,ArcGIS Server,78803
+Brazil,CKAN,72071
+United States,Socrata,68114
+Switzerland,ArcGIS Server,67986
+Unknown,GeoNode,58956
+Spain,Geonetwork,54702
+New Zealand,Geonetwork,52600
+Austria,CKAN,51794
+Argentina,Geonetwork,48513
+Netherlands,Geonetwork,45857
+Antarctic,Geonetwork,44120
+Australia,GeoServer,43255
+Unknown,GeoServer,42894
+Brazil,Geonetwork,42811
+Poland,Geonetwork,41777
+India,NADA,39172
+Germany,ArcGIS Server,36846
+Belgium,GeoServer,36066
+Greece,ArcGIS Server,33516
+Belgium,Geonetwork,33451
+Spain,ArcGIS Server,32851
+New Zealand,CKAN,32180
+Unknown,Geonetwork,32136
+Canada,ArcGIS Hub,31034
+Thailand,ArcGIS Server,30823
+Japan,CKAN,30563
+Switzerland,Geonetwork,30444
+World,OpenDataSoft,29990
+Australia,ArcGIS Server,29816
+Spain,CKAN,29493
+European Union,Geonetwork,27743
+Unknown,ArcGIS Hub,26618
+Thailand,CKAN,24241
+European Union,ArcGIS Server,23855
+Colombia,Socrata,23431
+Canada,Dataverse,22650
+Saudi Arabia,ArcGIS Server,22441
+Italy,Geonetwork,22433
+France,Data.bis.org platform,22323
+Colombia,ArcGIS Hub,21307
+India,CKAN,21290
+New Zealand,ArcGIS Server,21257
+World,NADA,20458
+Spain,Data.bis.org platform,20275
+Mexico,CKAN,20136
+Brazil,GeoNode,19334
+Austria,Data.bis.org platform,19170
+Colombia,ArcGIS Server,18995
+Oceania,DKAN,18913
+Mexico,ArcGIS Server,18750
+United Kingdom,Data.bis.org platform,18409
+Ireland,CKAN,18328
+Italy,Data.bis.org platform,18270
+Sweden,Data.bis.org platform,18050
+Australia,Data.bis.org platform,17339
+Slovakia,ArcGIS Server,17215
+Netherlands,ArcGIS Server,16754
+Switzerland,Data.bis.org platform,16707
+Netherlands,CKAN,16607
+World,Geonetwork,16051
+Canada,Data.bis.org platform,15793
+Netherlands,Data.bis.org platform,15525
+Belgium,Data.bis.org platform,14745
+Japan,Data.bis.org platform,14427
+United States,Data.bis.org platform,14393
+Korea,Data.bis.org platform,14341
+Taiwan,Data.bis.org platform,14264
+Italy,GeoServer,14255
+Germany,Data.bis.org platform,14233
+Ireland,Data.bis.org platform,13993
+Netherlands,GeoServer,13754
+Germany,GeoServer,13501
+Finland,Data.bis.org platform,13166
+Russian Federation,ArcGIS Server,12760
+Luxembourg,Data.bis.org platform,12709
+Finland,Geonetwork,12600
+Switzerland,CKAN,12521
+Oceania,CKAN,12018
+Denmark,Data.bis.org platform,11984
+Greece,CKAN,11898
+Finland,ArcGIS Server,11834
+Cambodia,CKAN,11536
+Portugal,Geonetwork,11332
+Spain,GeoServer,10959
+United Kingdom,ArcGIS Server,10819
+Italy,CKAN,10735
+Hong Kong,Data.bis.org platform,10722
+France,uData,10080
+Argentina,CKAN,10009
+Italy,GeoNode,10008
+Sweden,Geonetwork,9995
+China,GeoNode,9914
+Italy,ArcGIS Server,9713
+Canada,Geonetwork,9622
+Estonia,ArcGIS Server,9544
+Norway,ArcGIS Server,9498
+France,OpenDataSoft,9490
+China,ArcGIS Server,9272
+Greece,Data.bis.org platform,9264
+Austria,Geonetwork,9192
+Finland,GeoServer,8981
+Portugal,Data.bis.org platform,8868
+Ecuador,Geonetwork,8765
+India,Data.bis.org platform,8650
+Vietnam,ArcGIS Server,8628
+World,Invenio,8600
+Russian Federation,CKAN,8413
+Sweden,ArcGIS Server,8306
+Singapore,Data.bis.org platform,8059
+Portugal,GeoServer,7860
+Poland,GeoServer,7754
+France,GeoServer,7747
+Brazil,Data.bis.org platform,7716
+Türkiye,Data.bis.org platform,7624
+Indonesia,ArcGIS Server,7562
+Greece,GeoServer,7533
+Chile,Data.bis.org platform,7521
+Canada,Socrata,7471
+Peru,ArcGIS Server,7415
+Kazakhstan,GeoServer,7375
+Israel,CKAN,7350
+Norway,Data.bis.org platform,7163
+United States,GeoServer,7121
+Africa,CKAN,7054
+South Africa,Data.bis.org platform,6987
+Saudi Arabia,CKAN,6931
+Belgium,ArcGIS Server,6840
+Poland,ArcGIS Server,6837
+New Zealand,Koordinates,6522
+Isle of Man,Data.bis.org platform,6442
+India,ArcGIS Server,6387
+Mexico,Geonetwork,6306
+United Kingdom,ArcGIS Hub,6293
+Pakistan,CKAN,6085
+France,ArcGIS Server,6074
+Israel,ArcGIS Server,5901
+Serbia,Geonetwork,5799
+Switzerland,Invenio,5768
+Taiwan,CKAN,5764
+European Union,DKAN,5715
+Denmark,ArcGIS Server,5698
+European Union,GeoNode,5643
+Ireland,Geonetwork,5601
+World,Openml.org platform,5551
+Colombia,CKAN,5469
+Malaysia,ArcGIS Server,5330
+Mexico,Data.bis.org platform,5277
+Czech Republic,ArcGIS Server,5261
+Mexico,GeoNode,5244
+United Kingdom,GeoServer,5220
+Guernsey,Data.bis.org platform,5187
+Unknown,Socrata,5140
+Philippines,Data.bis.org platform,5116
+Lithuania,ArcGIS Server,5063
+Makedonia,GeoServer,5019
+Spain,ArcGIS Hub,4983
+Colombia,Geonetwork,4973
+,Data.bis.org platform,4960
+Brazil,GeoServer,4959
+Macao SAR,Data.bis.org platform,4909
+Jersey,Data.bis.org platform,4876
+Argentina,GeoServer,4859
+Germany,DKAN,4834
+Denmark,Geonetwork,4765
+Germany,Dataverse,4744
+Mauritania,GeoNode,4665
+Chile,ArcGIS Server,4568
+Slovakia,GeoServer,4535
+Austria,ArcGIS Server,4457
+Bolivia,Geonetwork,4348
+Sweden,GeoServer,4330
+Indonesia,Dataverse,4249
+Iran,CKAN,4215
+Panama,CKAN,4146
+Brazil,ArcGIS Server,4127
+Argentina,ArcGIS Server,4111
+Indonesia,DKAN,4051
+Colombia,GeoNode,3926
+Denmark,CKAN,3895
+Nigeria,Geonetwork,3894
+Australia,ArcGIS Hub,3831
+United States,DKAN,3744
+Ecuador,GeoNode,3661
+Romania,CKAN,3581
+Indonesia,GeoServer,3497
+Ecuador,ArcGIS Server,3472
+Argentina,GeoNode,3471
+Luxembourg,Geonetwork,3468
+Netherlands,ArcGIS Hub,3393
+Italy,Socrata,3371
+Portugal,ArcGIS Server,3363
+Latvia,ArcGIS Server,3358
+Peru,DKAN,3353
+South Korea,GeoServer,3341
+Slovakia,CKAN,3330
+Germany,InvenioRDM,3286
+France,Dataverse,3284
+Oceania,GeoNode,3233
+Iceland,ArcGIS Server,3214
+France,ArcGIS Hub,3210
+France,CKAN,3203
+Greenland,ArcGIS Server,3200
+Laos,ArcGIS Hub,3176
+United Kingdom,GeoNode,3151
+World,GeoServer,3132
+Finland,CKAN,3108
+Ireland,ArcGIS Server,3053
+Thailand,GeoServer,3039
+Bulgaria,ArcGIS Server,2974
+Marocco,ArcGIS Server,2933
+Romania,ArcGIS Server,2904
+Romania,Geonetwork,2848
+Unknown,CKAN,2810
+Japan,ArcGIS Server,2774
+Latin America,CKAN,2717
+Russian Federation,GeoServer,2688
+Bolivia,GeoNode,2687
+Indonesia,GeoNode,2621
+Croatia,Geonetwork,2598
+Kazakhstan,Geoserver,2536
+Indonesia,Data.bis.org platform,2473
+Cyprus,Data.bis.org platform,2433
+Norway,GeoNode,2360
+China,Data.bis.org platform,2341
+China,ArcGIS Hub,2330
+Hong Kong,ArcGIS Hub,2330
+Malaysia,Data.bis.org platform,2325
+Tunis,CKAN,2309
+Russia,Data.bis.org platform,2291
+Estonia,GeoServer,2260
+Mongolia,CKAN,2259
+Panama,Data.bis.org platform,2239
+Egypt,ArcGIS Server,2222
+Belgium,ArcGIS Hub,2164
+Saudi Arabia,Data.bis.org platform,2150
+Slovakia,Data.bis.org platform,2080
+New Zealand,Data.bis.org platform,2071
+Belgium,OpenDataSoft,2067
+Iceland,GeoServer,2038
+Bahrain,Data.bis.org platform,2021
+Hungary,ArcGIS Server,2007
+Luxemburg,Geonetwork,1996
+Hungary,Data.bis.org platform,1984
+Argentina,Data.bis.org platform,1961
+United Arab Emirates,Data.bis.org platform,1955
+Singapore,CKAN,1953
+Lithuania,Data.bis.org platform,1946
+Costa Rica,ArcGIS Server,1946
+Czechia,Data.bis.org platform,1895
+Thailand,Data.bis.org platform,1893
+New Zealand,ArcGIS Hub,1857
+Sri Lanka,GeoNode,1848
+Latvia,Data.bis.org platform,1844
+Portugal,uData,1840
+Faroe Islands,ArcGIS Server,1833
+Slovenia,Data.bis.org platform,1828
+Thailand,GeoNode,1798
+Poland,Data.bis.org platform,1785
+Spain,Dataverse,1772
+Estonia,Data.bis.org platform,1760
+Kazakhstan,GeoNode,1720
+Slovakia,Geonetwork,1709
+Spain,Socrata,1703
+Iceland,Geonetwork,1695
+Chile,GeoNode,1692
+United States,OpenDataSoft,1670
+South Korea,CKAN,1596
+Slovenia,Geonetwork,1594
+Germany,GeoNode,1574
+Luxemburg,GeoServer,1567
+The Bahamas,Data.bis.org platform,1563
+Ireland,GeoServer,1562
+Honduras,GeoServer,1553
+United Kingdom,Socrata,1545
+Cayman Islands,Data.bis.org platform,1540
+Austria,Dataverse,1534
+Norway,Dataverse,1508
+Uruguay,ArcGIS Server,1475
+Portugal,GeoNode,1474
+Czech Republic,GeoServer,1468
+Bermuda,Data.bis.org platform,1467
+Makedonia,ArcGIS Server,1462
+Italy,DKAN,1456
+Turkey,ArcGIS Server,1391
+Algeria,Geonetwork,1391
+Colombia,Data.bis.org platform,1389
+Romania,Data.bis.org platform,1372
+Brazil,Dataverse,1361
+United Arab Emirates,CKAN,1357
+Uruguay,GeoServer,1355
+Mongolia,ArcGIS Server,1351
+Developing Europe,Data.bis.org platform,1334
+Trinidad and Tobago,ArcGIS Server,1312
+Malta,Data.bis.org platform,1300
+Poland,GeoNode,1299
+Montenegro,Geonetwork,1292
+Kazakhstan,ArcGIS Server,1291
+Saudi Arabia,OpenDataSoft,1283
+Bulgaria,Data.bis.org platform,1282
+Cyprus,DKAN,1280
+Spain,OpenDataSoft,1277
+Lithuania,Geonetwork,1239
+Ireland,ArcGIS Hub,1238
+Peru,Data.bis.org platform,1233
+South Africa,ArcGIS Server,1226
+Switzerland,OpenDataSoft,1224
+Hungary,Dataverse,1210
+Chile,GeoServer,1206
+Bangladesh,GeoNode,1141
+United Kingdom,DKAN,1114
+Germany,ArcGIS Hub,1112
+Tanzania,GeoNode,1108
+Israel,Data.bis.org platform,1096
+Peru,Geonetwork,1088
+Vietnam,GeoServer,1086
+Czech Republic,ArcGIS Hub,1071
+Iceland,Data.bis.org platform,1064
+Croatia,GeoServer,1060
+Denmark,GeoServer,1053
+Netherlands Antilles,Data.bis.org platform,1045
+Bosnia and Herzegovina,Geonetwork,1031
+Switzerland,GeoServer,1029
+Mexico,GeoServer,1023
+India,DKAN,1012
+All exchanges,Data.bis.org platform,1008
+Lithuania,GeoServer,994
+Paraguay,DKAN,979
+Ukraine,CKAN,964
+Kuwait,ArcGIS Server,949
+Switzerland,NADA,946
+Luxemburg,ArcGIS Server,928
+Croatia,Data.bis.org platform,916
+Andorra,Geonetwork,915
+Andorra,GeoServer,915
+Republica Dominicana,CKAN,906
+West Indies UK,Data.bis.org platform,896
+Australia,OpenDataSoft,889
+Colombia,GeoServer,879
+Hong Kong,ArcGIS Server,865
+Canada,GeoServer,853
+New Zealand,GeoNode,851
+Costa Rica,Data.bis.org platform,838
+South Korea,ArcGIS Server,834
+Papua New Guinea,DKAN,826
+Turkey,CKAN,825
+Vanuatu,GeoNode,810
+El Salvador,ArcGIS Server,808
+Kuwait,Data.bis.org platform,807
+Curaçao,Data.bis.org platform,806
+Brazil,ArcGIS Hub,795
+Latvia,CKAN,787
+Luxembourg,ArcGIS Hub,784
+Qatar,Data.bis.org platform,775
+Uruguay,Geonetwork,770
+Japan,ArcGIS Hub,746
+Venezuela,Data.bis.org platform,743
+Barbados,GeoServer,737
+Mongolia,GeoServer,732
+Kazakhstan,Data.bis.org platform,727
+Bolivia,GeoServer,724
+Nigeria,Data.bis.org platform,718
+Jordan,ArcGIS Server,716
+Norway,GeoServer,714
+Malaysia,GeoNode,705
+Oceania,NADA,691
+Lebanon,Data.bis.org platform,682
+Ukraine,Data.bis.org platform,679
+Euro area 20 - 2023,Data.bis.org platform,660
+Kyrgyzstan,ArcGIS Server,660
+Italy,OpenDataSoft,649
+Oman,Data.bis.org platform,647
+Kyrgyzstan,CKAN,646
+Vietnam,Data.bis.org platform,646
+Serbia,ArcGIS Server,644
+Peru,GeoServer,641
+World,ArcGIS Hub,640
+Greece,DKAN,636
+Norway,CKAN,635
+Guatemala,ArcGIS Server,634
+Lebanon,Dataverse,630
+Nepal,CKAN,629
+Gibraltar,Data.bis.org platform,624
+Africa,ArcGIS Hub,619
+United Arab Emirates,ArcGIS Server,619
+Estonia,Geonetwork,616
+Mauritius,Data.bis.org platform,615
+Uruguay,Data.bis.org platform,615
+Russian Federation,Geoserver,609
+Republic of North Macedonia,CKAN,607
+Mexico,ArcGIS Hub,605
+Dominican Republic,Data.bis.org platform,598
+Ecuador,CKAN,591
+Aruba,Data.bis.org platform,590
+Barbados,Data.bis.org platform,582
+Norway,ArcGIS Hub,575
+Panama,ArcGIS Hub,574
+Solomon Islands,DKAN,570
+Trinidad and Tobago,Data.bis.org platform,567
+Micronesia,DKAN,562
+Ethiopia,CKAN,561
+Chile,Geonetwork,561
+Nauru,DKAN,559
+Portugal,DKAN,558
+Albania,Geonetwork,556
+Venezuela,GeoServer,552
+European Union,InvenioRDM,551
+Mongolia,Data.bis.org platform,550
+Egypt,Data.bis.org platform,550
+Caribbean,CKAN,545
+Niue,DKAN,541
+Vanuatu,DKAN,536
+Tunisia,Data.bis.org platform,535
+Australia,Socrata,533
+Cook Islands,DKAN,531
+Unknown,DKAN,529
+Liechtenstein,Data.bis.org platform,528
+Tuvalu,DKAN,527
+Bangladesh,ArcGIS Server,523
+Finland,GeoNode,520
+Tonga,DKAN,519
+Spain,DKAN,518
+Uganda,ArcGIS Server,515
+Ecuador,Data.bis.org platform,512
+Algeria,Data.bis.org platform,510
+Unknown,NADA,507
+Serbia,uData,500
+Belgium,CKAN,496
+Kiribati,DKAN,488
+Iran,Data.bis.org platform,487
+El Salvador,Data.bis.org platform,486
+Uzbekistan,ArcGIS Server,486
+Germany,OpenDataSoft,480
+Palau,DKAN,475
+Morocco,Data.bis.org platform,475
+Palestine,ArcGIS Server,470
+Colombia,NADA,467
+Gambia,Geonetwork,464
+Bosnia and Herzegovina,ArcGIS Server,461
+World,CKAN,461
+Republic of Marshall Islands,DKAN,453
+Malta,ArcGIS Server,448
+United Kingdom,OpenDataSoft,448
+Vietnam,Geonetwork,446
+South Korea,Geonetwork,444
+Taiwan,ArcGIS Server,440
+China,CKAN,429
+Lithuania,Dataverse,428
+Belgium,Dataverse,428
+Slovakia,GeoNode,423
+Sri Lanka,Data.bis.org platform,423
+Azerbaijan,Data.bis.org platform,422
+Belarus,Data.bis.org platform,422
+Uzbekistan,Data.bis.org platform,422
+Morocco,CKAN,416
+Croatia,ArcGIS Server,414
+Serbia and Montenegro,Data.bis.org platform,412
+Haiti,GeoNode,411
+Bahrain,OpenDataSoft,395
+Guatemala,Data.bis.org platform,390
+Georgia,Data.bis.org platform,390
+Paraguay,Data.bis.org platform,390
+Guatemala,GeoServer,386
+Luxembourg,uData,380
+Slovenia,GeoServer,378
+Côte d'Ivoire,Data.bis.org platform,374
+Macau,ArcGIS Server,370
+Slovenia,ArcGIS Server,367
+Laos,ArcGIS Server,366
+Kenya,Data.bis.org platform,358
+Suriname,Data.bis.org platform,358
+Bolivia,Data.bis.org platform,358
+Niue,ArcGIS Server,357
+Pakistan,Data.bis.org platform,357
+Marshall Islands,Data.bis.org platform,352
+Cuba,Data.bis.org platform,352
+Georgia,GeoServer,348
+Papua New Guinea,ArcGIS Server,345
+Serbia,Data.bis.org platform,344
+Pakistan,ArcGIS Server,339
+Costa Rica,GeoNode,338
+Italy,Dataverse,338
+Nepal,GeoNode,332
+Madagascar,GeoNode,331
+Paraguay,ArcGIS Server,331
+Uganda,GeoNode,330
+Samoa,DKAN,327
+Jamaica,Data.bis.org platform,326
+Egypt,ArcGIS Hub,324
+Portugal,ArcGIS Hub,319
+Rwanda,ArcGIS Server,315
+Kyrgyzstan,GeoServer,313
+Sweden,OpenDataSoft,312
+Slovakia,ArcGIS Hub,304
+Antigua and Barbuda,GeoNode,297
+Grenada,Data.bis.org platform,294
+United States,Geonetwork,294
+Jordan,Data.bis.org platform,294
+Gabon,Data.bis.org platform,294
+Canada,GeoNode,294
+Mozambique,ArcGIS Hub,288
+Tunis,ArcGIS Server,286
+Bulgaria,Geonetwork,285
+Montenegro,GeoNode,282
+Georgia,Geonetwork,278
+Canada,OpenDataSoft,271
+Panama,Geonetwork,268
+St Lucia,Data.bis.org platform,262
+Togo,ArcGIS Server,262
+Honduras,Data.bis.org platform,262
+Papua New Guinea,Data.bis.org platform,262
+Belize,Data.bis.org platform,262
+Armenia,Data.bis.org platform,262
+Maldives,Data.bis.org platform,262
+Africa,NADA,260
+France,NADA,258
+Hungary,GeoServer,257
+Indonesia,ArcGIS Hub,256
+Lebanon,ArcGIS Server,254
+France,GeoNode,253
+Greece,Geonetwork,250
+Greece,GeoNode,248
+Senegal,Data.bis.org platform,246
+Zimbabwe,GeoServer,238
+Kyrgyzstan,GeoNode,234
+Belarus,DKAN,229
+Sri Lanka,ArcGIS Server,228
+Mozambique,ArcGIS Server,227
+Madagascar,ArcGIS Hub,223
+Albania,ArcGIS Server,216
+Lithuania,ArcGIS Hub,214
+North Macedonia,Data.bis.org platform,213
+Tajikistan,GeoNode,207
+Senegal,ArcGIS Server,206
+Cyprus,GeoNode,206
+Austria,InvenioRDM,205
+New Zealand,GeoServer,203
+Armenia,GeoServer,202
+Nicaragua,Geonetwork,202
+Bosnia and Herzegovina,Data.bis.org platform,202
+Albania,Data.bis.org platform,199
+Cameroon,Data.bis.org platform,198
+Iraq,Data.bis.org platform,198
+Zimbabwe,Data.bis.org platform,198
+Madagascar,Data.bis.org platform,198
+Laos,Data.bis.org platform,198
+Nicaragua,Data.bis.org platform,198
+Ghana,Data.bis.org platform,198
+Togo,Data.bis.org platform,198
+Mozambique,Data.bis.org platform,198
+Republic of Congo,Data.bis.org platform,198
+Albania,CKAN,194
+Czechoslovakia,Data.bis.org platform,192
+Turks and Caicos Islands,Data.bis.org platform,192
+Israel,ArcGIS Hub,190
+Bolivia,NADA,189
+Costa Rica,GeoServer,188
+South Africa,NADA,186
+Taiwan,GeoServer,185
+Egypt,NADA,185
+Switzerland,GeoNode,184
+Myanmar,GeoNode,182
+World,ArcGIS Server,181
+Republic of Ivory Coast,GeoServer,181
+Zimbabwe,GeoNode,179
+Moldova,GeoServer,167
+Fiji,Data.bis.org platform,166
+Moldova,Geonetwork,165
+Costa Rica,DKAN,164
+Mexico,DKAN,161
+Dominica,GeoNode,158
+Costa Rica,NADA,157
+Sri Lanka,DKAN,156
+United Arab Emirates,OpenDataSoft,156
+World,GeoNode,153
+Kenya,ArcGIS Hub,152
+Netherlands,Socrata,151
+Bhutan,GeoServer,150
+Azerbaijan,ArcGIS Server,150
+Croatia,CKAN,149
+Greenland,ArcGIS Hub,146
+Finland,ArcGIS Hub,139
+India,ArcGIS Hub,139
+Liberia,Data.bis.org platform,138
+Hungary,Geonetwork,136
+Ethiopia,Data.bis.org platform,134
+Tajikistan,Data.bis.org platform,134
+Zambia,Data.bis.org platform,134
+Haiti,Data.bis.org platform,134
+Angola,Data.bis.org platform,134
+Seychelles,Data.bis.org platform,134
+Rwanda,Data.bis.org platform,134
+Myanmar,Data.bis.org platform,134
+Bangladesh,Data.bis.org platform,134
+Guinea,Data.bis.org platform,134
+Sudan,Data.bis.org platform,134
+Namibia,Data.bis.org platform,134
+Montenegro,Data.bis.org platform,134
+Moldova,Data.bis.org platform,134
+Benin,Data.bis.org platform,134
+Cameroon,ArcGIS Hub,125
+Sweden,ArcGIS Hub,124
+Dominican Republic,ArcGIS Server,123
+Singapore,ArcGIS Server,121
+Austria,GeoServer,121
+Moldova,CKAN,120
+Tunis,uData,120
+Brazil,DKAN,119
+Romania,GeoServer,118
+Iceland,CKAN,118
+Switzerland,ArcGIS Hub,118
+Denmark,ArcGIS Hub,118
+Netherlands,OpenDataSoft,117
+Ethiopia,GeoNode,117
+Cyprus,ArcGIS Server,116
+Lesotho,ArcGIS Server,113
+Latvia,GeoServer,105
+Jamaica,CKAN,103
+Ecuador,GeoServer,103
+Botswana,Data.bis.org platform,102
+Djibouti,Data.bis.org platform,102
+Armenia,ArcGIS Hub,102
+Chile,Dataverse,102
+Cambodia,Data.bis.org platform,102
+Honduras,GeoNode,100
+Cabo Verde,ArcGIS Server,99
+Mexico,OpenDataSoft,99
+Residual British Overseas Territories,Data.bis.org platform,96
+Mongolia,Geonetwork,95
+Armenia,GeoNode,95
+Kenya,ArcGIS Server,92
+Cote d Ivoire,ArcGIS Hub,90
+Switzerland,InvenioRDM,88
+Euro area,Data.bis.org platform,87
+Estonia,ArcGIS Hub,87
+Austria,GeoNode,86
+Malaysia,GeoServer,84
+Mali,NADA,82
+Hong Kong,CKAN,82
+Mongolia,GeoNode,81
+Kenya,NADA,80
+Malaysia,ArcGIS Hub,75
+South Korea,ArcGIS Hub,75
+Belarus,ArcGIS Server,72
+Serbia,GeoServer,71
+Hong Kong,Dataverse,71
+Syria,Data.bis.org platform,70
+Tanzania,Data.bis.org platform,70
+Norway,Geonetwork,70
+Greenland,GeoServer,68
+Nepal,NADA,67
+Bolivia,CKAN,66
+French Polynesia,Data.bis.org platform,64
+Nauru,Data.bis.org platform,64
+Jamaica,DKAN,63
+Uruguay,GeoNode,63
+Trinidad and Tobago,CKAN,62
+Romania,GeoNode,60
+Zambia,ArcGIS Server,60
+Algeria,GeoNode,60
+Niger,Data.bis.org platform,58
+Spain,GeoNode,58
+Latvia,Dataverse,58
+Kyrgyzstan,Geonetwork,57
+Republica Dominicana,GeoServer,55
+Unknown,OpenDataSoft,54
+United States,InvenioRDM,53
+Poland,DKAN,52
+Italy,InvenioRDM,52
+Sri Lanka,CKAN,51
+Uganda,NADA,50
+Australia/New Zealand exchanges,Data.bis.org platform,48
+Asian/Pacific exchanges,Data.bis.org platform,48
+Iran,ArcGIS Server,48
+Chile,CKAN,48
+Other exchanges,Data.bis.org platform,48
+Asian exchanges,Data.bis.org platform,48
+European exchanges,Data.bis.org platform,48
+North American exchanges,Data.bis.org platform,48
+Austria,ArcGIS Hub,48
+Republica Dominicana,GeoNode,46
+Dominican Republic,GeoServer,46
+Laos,GeoServer,46
+Paraguay,GeoServer,45
+Tanzania,NADA,40
+Ghana,NADA,40
+European Union,OpenDataSoft,34
+India,Geonetwork,34
+Yemen,GeoNode,34
+Nigeria,GeoNode,31
+Rwanda,GeoNode,30
+Iceland,Dataverse,30
+New Zealand,Socrata,30
+Bulgaria,GeoServer,28
+Costa Rica,Geonetwork,28
+Fiji,ArcGIS Server,26
+Armenia,NADA,26
+Angola,NADA,26
+Estonia,InvenioRDM,26
+Croatia,ArcGIS Hub,26
+Advanced economies,Data.bis.org platform,25
+Belize,ArcGIS Hub,25
+European Union,ArcGIS Hub,25
+South Africa,GeoServer,23
+Emerging market economies (aggregate),Data.bis.org platform,22
+All reporting economies,Data.bis.org platform,21
+Benin,CKAN,21
+G20 economies,Data.bis.org platform,21
+Paraguay,GeoNode,20
+Phillipines,ArcGIS Server,19
+Suriname,ArcGIS Hub,19
+Argentina,Dataverse,19
+Australia,GeoNode,18
+Lebanon,ArcGIS Hub,18
+Mozambique,GeoNode,17
+Burkina Faso,GeoServer,17
+Argentina,ArcGIS Hub,17
+Greece,ArcGIS Hub,16
+Vietnam,DKAN,16
+Lithuania,CKAN,15
+Botswana,NADA,15
+Panama,GeoNode,15
+Jamaica,ArcGIS Server,14
+Croatia,Dataverse,14
+Hungary,GeoNode,14
+Phillipines,GeoNode,14
+Vietnam,CKAN,13
+Uganda,DKAN,13
+Costa Rica,ArcGIS Hub,12
+United Arab Emirates,ArcGIS Hub,11
+South Africa,GeoNode,9
+Czech Republic,DKAN,8
+Mexico,NADA,8
+New Caledonia,DKAN,8
+Bolivia,ArcGIS Hub,7
+Colombia,Dataverse,7
+Brunei,Data.bis.org platform,7
+Nepal,Data.bis.org platform,7
+Guatemala,CKAN,7
+South Sudan,Data.bis.org platform,6
+Malawi,Data.bis.org platform,6
+Guinea-Bissau,Data.bis.org platform,6
+Samoa,Data.bis.org platform,6
+Vanuatu,Data.bis.org platform,6
+Bhutan,Data.bis.org platform,6
+Micronesia,Data.bis.org platform,6
+Mauritania,Data.bis.org platform,6
+San Marino,Data.bis.org platform,6
+St Kitts and Nevis,Data.bis.org platform,6
+Chad,Data.bis.org platform,6
+Antigua and Barbuda,Data.bis.org platform,6
+Montserrat,Data.bis.org platform,6
+Cabo Verde,Data.bis.org platform,6
+Mali,Data.bis.org platform,6
+Turkmenistan,Data.bis.org platform,6
+Other developing Europe,Data.bis.org platform,6
+Residual developed countries,Data.bis.org platform,6
+Eritrea,Data.bis.org platform,6
+EU developing countries,Data.bis.org platform,6
+Yemen,Data.bis.org platform,6
+Sierra Leone,Data.bis.org platform,6
+São Tomé and Príncipe,Data.bis.org platform,6
+St Vincent and the Grenadines,Data.bis.org platform,6
+Equatorial Guinea,Data.bis.org platform,6
+Central African Republic,Data.bis.org platform,6
+Lesotho,Data.bis.org platform,6
+Uganda,Data.bis.org platform,6
+Comoros,Data.bis.org platform,6
+Burkina Faso,Data.bis.org platform,6
+Libya,Data.bis.org platform,6
+Guyana,Data.bis.org platform,6
+Dominica,Data.bis.org platform,6
+Anguilla,Data.bis.org platform,6
+Democratic Republic of the Congo,Data.bis.org platform,6
+Kyrgyz Republic,Data.bis.org platform,6
+Tonga,Data.bis.org platform,6
+Eswatini,Data.bis.org platform,6
+Burundi,Data.bis.org platform,6
+The Gambia,Data.bis.org platform,6
+Solomon Islands,Data.bis.org platform,6
+Kiribati,Data.bis.org platform,6
+Waemu,Data.bis.org platform,6
+Afghanistan,Data.bis.org platform,6
+Morocco,Geonetwork,5
+United States,GeoNode,4
+Algeria,ArcGIS Server,3
+Honduras,ArcGIS Server,3
+Russian Federation,DKAN,3
+Poland,CKAN,3
+Ecuador,Dataverse,1
+Montenegro,ArcGIS Server,1
