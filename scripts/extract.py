@@ -132,6 +132,7 @@ def run():
     coll = conn[DEFAULT_DB][DEFAULT_COLL]
   
     data_list = []
+    save_current(['stats_res_mimetypes', aggregate_field_unwind(coll, 'resources.mimetype'), TYPE_AGG])
     save_current(["stats_country_type", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.catalog_type', 'catalog_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
     save_current(["stats_country_software", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.software.name', 'software', unwind_1=True, unwind_2=True), TYPE_DUMP])
     save_current(["stats_country_owner", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.owner_type', 'owner_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
