@@ -1,0 +1,3411 @@
+name,count
+HTML,1656084
+JSON,1418148
+SDMX,1091019
+ geoJSON,797454
+CSV,660004
+PDF,614196
+XML,584361
+ZIP,403439
+KML,343776
+ PBF,327754
+ AMF,243298
+PNG,229966
+GML,217087
+TIFF,207338
+XLSX,202381
+WMS,175340
+JPG,165446
+GIF,165390
+KMZ,165092
+GeoTIFF,163719
+SVG,163550
+application/x-netcdf,157380
+XLS,151782
+RSS,133009
+GeoJSON,91293
+WFS,82548
+WCS,56126
+GZ,48748
+JPEG,42881
+TXT,38795
+MVT,38571
+TopoJSON,37786
+ERDDAP,36734
+Esri REST,36178
+OPeNDAP,36161
+SHP,34771
+ERDDAP-TableDAP,34744
+TEXT,30290
+RDF,25856
+GPKG,25677
+SID,25594
+http://publications.europa.eu/resource/authority/file-type/CSV,25415
+ArcGIS GeoServices REST API,23331
+html,22151
+csv,21304
+pdf,20766
+DOCX,19368
+7Z,18834
+zip,18638
+json,16308
+XYZ,15943
+gml,15026
+http://publications.europa.eu/resource/authority/file-type/JSON,14300
+xml,13838
+Sqlite,13778
+jpg,13117
+png,12852
+Karte,12550
+Webanwendung,12549
+DWG,12039
+excel,11990
+other,11192
+sos,11188
+BIN,9703
+TSV,9683
+DXF,9642
+NetCDF,9435
+TAB,8919
+MapInfo File,8851
+http://publications.europa.eu/resource/authority/file-type/WMS_SRVC,8764
+FileGDB,8662
+http://publications.europa.eu/resource/authority/file-type/ATOM,8028
+px,7824
+json-stat,7133
+http://publications.europa.eu/resource/authority/file-type/PDF,7125
+https://www.iana.org/assignments/media-types/text/csv,6932
+MIF,6604
+csw,6491
+API,6342
+wsdl,6231
+PC-Axis,6184
+Diverse,5878
+tif,5843
+http://publications.europa.eu/resource/authority/file-type/WFS_SRVC,5733
+DOC,5314
+.xlsx,5299
+xlsx,5250
+XSD,4934
+QGIS,4870
+shp,4525
+OAF,4248
+http://publications.europa.eu/resource/authority/file-type/PNG,4140
+ODS,3992
+http://publications.europa.eu/resource/authority/file-type/HTML,3893
+http://publications.europa.eu/resource/authority/file-type/XLSX,3730
+xls,3683
+las,3665
+GTiff,3637
+http://publications.europa.eu/resource/authority/file-type/ZIP,3618
+KEA,3538
+http://publications.europa.eu/resource/authority/file-type/SHP,3176
+http://publications.europa.eu/resource/authority/file-type/JPEG,2935
+MapInfo MIF,2922
+HFA,2713
+JP2KAK,2708
+JP2KAK_LOSSLESS,2703
+https://www.iana.org/assignments/media-types/text/xml,2695
+http://publications.europa.eu/resource/authority/file-type/XLS,2677
+SERVICE,2660
+GDB,2626
+URL,2508
+Extended TAB,2490
+geotiff,2393
+arff,2369
+onLine,2326
+kml,2295
+http://publications.europa.eu/resource/authority/file-type/GML,2251
+DDS,2204
+BIL,2204
+OGC WMS,2200
+ArcGIS Online Map,2186
+OGC WFS,2148
+http://publications.europa.eu/resource/authority/file-type/KML,2127
+URI,2123
+ARFF,2033
+ESRI REST,2017
+text/csv+extended,1949
+EDI,1881
+vnd.ms-excel,1831
+wms,1672
+SOS,1512
+RAR,1488
+.csv,1467
+GEOJSON,1444
+http://publications.europa.eu/resource/authority/file-type/MAP_SRVC,1444
+TAR,1368
+gpkg,1326
+http://publications.europa.eu/resource/authority/file-type/GEOJSON,1312
+view,1284
+download,1277
+application/vnd.geo+json,1273
+JP2,1240
+jpeg,1200
+word,1164
+WMTS,1155
+Sparse_ARFF,1149
+text/html; charset=utf-8,1132
+cdx,1129
+multiple,1111
+warc.gz,1081
+CDF,1080
+application/html,1001
+API ArcGIS Server Map Service,987
+FGDB,973
+application/mp4,972
+tiles,904
+EXE,902
+AAIGrid,890
+x-gzip,880
+geojson,868
+http://publications.europa.eu/resource/authority/file-type/N3,867
+REST,867
+shape,864
+linked rdf,860
+TIF,828
+fgdb,828
+7z,816
+http://publications.europa.eu/resource/authority/file-type/MAP_PRVW,815
+.pdf,813
+application/vnd.lotus-organizer,806
+document,805
+ods,803
+http://publications.europa.eu/resource/authority/file-type/WCS_SRVC,801
+docx,793
+http://publications.europa.eu/resource/authority/file-type/JSONLD,789
+http://publications.europa.eu/resource/authority/file-type/TURTLE,789
+http://publications.europa.eu/resource/authority/file-type/RDFXML,789
+http://publications.europa.eu/resource/authority/file-type/JSONL,789
+http://publications.europa.eu/resource/authority/file-type/FGB,789
+http://publications.europa.eu/resource/authority/file-type/TIFF,760
+WMS_SRVC,758
+ARCGIS REST SERVICE,757
+FGDB/GDB,756
+http://publications.europa.eu/resource/authority/file-type/XML,753
+RDF XML,736
+octet-stream,726
+JSON-LD,726
+N3,720
+RDF Turtle,720
+warc.xz,719
+log.xz,682
+dxf,674
+cdx.xz,673
+GeoPackage,659
+application/vnd.lotus-1-2-3,592
+application/vnd.ogc.wms_xml,582
+.xls,576
+Shared Definition,576
+http://publications.europa.eu/resource/authority/file-type/PARQUET,564
+data,526
+DATA,517
+Shape,512
+https://www.iana.org/assignments/media-types/application/json,504
+DAP,501
+XLSM,488
+url,483
+oracle_sde,471
+ArcGIS Map Preview,456
+ArcGIS Map Service,456
+api,439
+zip mapinfo,436
+openapi-json,424
+application/vnd.ogc.wfs_xml,419
+Undefined,418
+FGB,412
+gdb,412
+wfs,403
+nc,400
+excel (.xlsx),374
+chemical/x-mdl-sdfile,374
+SPARQL,351
+video/x-msvideo,351
+00,348
+application/x-tika-msoffice,348
+esri rest,335
+PPTX,333
+DWC_ARCHIVE,325
+vnd.google-earth.kml+xml,323
+txt,316
+API ArcGIS Server Feature Service,310
+DB_TABLE,308
+http://publications.europa.eu/resource/authority/file-type/OV2,306
+http://publications.europa.eu/resource/authority/file-type/GPX,306
+ESRI Shape file,298
+BMP,297
+GEOPACKAGE,296
+GeoTIF,282
+audio/x-wav,278
+http://publications.europa.eu/resource/authority/file-type/GPKG,277
+WebGIS,273
+api/sparql,270
+ASCII Grid,266
+PXWEB,264
+ags_mapserver,264
+Unknown,263
+GEOTIFF,254
+SEGY,254
+ODT,253
+log,247
+ACCESS,246
+doc,244
+ECW,240
+ASCII GRID,231
+POWERPOINT,230
+elp,229
+scorm,229
+rss+xml,222
+shapefile,216
+mrc,215
+application/postscript,213
+SHTML,212
+SHP TAB JPEG2000 - GDA2020 - MGA2020,212
+http://publications.europa.eu/resource/authority/file-type/GEOTIFF,210
+SPATIAL VIEWER,208
+JPEG2000 - GDA2020 - MGA2020,207
+zip (shp),207
+audio/mpeg,200
+LAS,199
+http://publications.europa.eu/resource/authority/file-type/TXT,199
+Data Explorer,197
+SOAP,195
+exel,195
+OpenData,193
+text/vnd.ascii-art,192
+www:download-1.0-http--download,192
+kmz,191
+application/rtf,191
+WFS_SRVC,189
+Zipped DAT,188
+"SHP, TAB, FGDB, KMZ, GPKG",187
+ERDDAP-GridDAP,183
+Geotiff,182
+cdfnc,182
+Animal Health,181
+ASCII,179
+File Geodatabase Feature Class,178
+b0,178
+http://publications.europa.eu/resource/authority/file-type/RDF,174
+OData,173
+text/html; charset=UTF-8,172
+xlxs,171
+image,169
+Public Health,168
+http://publications.europa.eu/resource/authority/file-type/ODS,167
+XLSB,166
+application/gml+xml,163
+PJNZ,161
+PPT,160
+JPEG 2000,158
+video/quicktime,157
+INSPIRE View Service,155
+INSPIRE Download Service,155
+application/x-hdf,153
+Food Safety,153
+ASPX,150
+https://data.overheid.nl/format/unknown,150
+dBase,149
+LINK,149
+Zipped SAS,146
+webpage,145
+application/txt,144
+SHAPE,141
+Atom,141
+sld,141
+.zip,140
+WEB,139
+arcgis_rest,139
+video/mp4,138
+MP4,138
+GTFS,137
+audio/basic,137
+hyperlink,134
+Zipped XLS,134
+plain,133
+image/x-3ds,130
+"zip, shp",130
+xlb,128
+csv-geo-au,127
+data_table,127
+application/msword,125
+CZML,125
+WWW:LINK-1.0-http--link,122
+Atom Feed,122
+HTTPS,121
+database,120
+svg+xml,119
+INTERLIS,119
+service,117
+esri shape and layer files,116
+Map Viewer,116
+https://www.iana.org/assignments/media-types/application/zip,116
+WebApp,114
+IVT,113
+application/x-7z-compressed,112
+MXD,109
+application/vnd.dbf,108
+geopackage,105
+Zipped CSV,104
+rtf,103
+Shapefiles,102
+esri shapefile - zipped,102
+zipped shapefile,102
+SLD,101
+data tool,100
+data viewer,99
+http,99
+.ods,98
+Spatial Data Format,94
+SIPU,94
+chemical/x-molconn-Z,93
+Other,93
+gezippte CSV-Dateien,91
+CDR,91
+xsd,90
+text,89
+website link,89
+shapefiles,87
+SHX,87
+arcgrid,84
+.docx,83
+tgz,83
+atom,83
+OAI-PMH,83
+CSV (comma-separated values),82
+sipu,81
+RTF,81
+GetDATA,80
+hdf,78
+Zipped SAS7BDAT,78
+SEED Web Map,78
+accdb,78
+page web,77
+a0,76
+XML/Atom,75
+application/fits,75
+arcgis,75
+ASC,74
+link,74
+application/x-msdos-program,73
+SHP / Zip,73
+SQLITE,71
+KUNTAGML,71
+"csv, xml, json",71
+shapefile (gezippt),70
+xslx,70
+mat,70
+FIP,69
+http://publications.europa.eu/resource/authority/file-type/RDF_XML,69
+vnd.google-earth.kmz,69
+http://publications.europa.eu/resource/authority/file-type/WMS,68
+shp.zip,68
+http://publications.europa.eu/resource/authority/file-type/WFS,68
+php,68
+Word,67
+LYR,66
+aspx,65
+PRJ,64
+dwg,64
+grd,64
+.doc,64
+zipped esri file geodatabase,64
+words,63
+Download,63
+shx,63
+MQTT,62
+gezippte shape,62
+Documentazione,62
+GIS,62
+"application/zip, application/octet-stream, application/x-zip-compressed, multipart/x-zip",62
+img,62
+arcgis geoservices rest api,60
+application/x-info,60
+"xls, ods",60
+mpk,60
+Zipped SAV,60
+Zipped TSV,60
+WORD,60
+prj,60
+application/xhtml+xml,59
+Zipped text,59
+STA,59
+.tif,59
+shp / zip,57
+application/text,56
+application/vnd.api+json,56
+gráfico,56
+Api,56
+"esri gdb, esri shape file",55
+ICS,55
+VIDEO,54
+MPG,53
+TORRENT,53
+website,53
+"xml,rdf",52
+ogc wms,52
+application/vnd.ecowin.chart,52
+microsoft excel,52
+application/dat,52
+webmap,52
+Mesh Dataset,52
+web,52
+Link,51
+"html, pdf",51
+.TAR.GZ,50
+SHP (Shapefile),50
+binary/octet-stream,50
+DXF (Autocad),50
+xml/soap,50
+GML (Geographic Markup Language),50
+HWP,50
+RasterDataset,49
+http://publications.europa.eu/resource/authority/file-type/RSS,49
+KML (Google),49
+EPUB,48
+pptx,48
+xsl,48
+"xml, xls",48
+text/html;charset=UTF-8,47
+.CSV,47
+TTL,46
+ICMS,46
+xlsm,46
+SL3,45
+http://publications.europa.eu/resource/authority/file-type/TAR_XZ,45
+gpx,45
+mp4,45
+R,44
+method-engine,44
+APP,44
+.txt,44
+SHAPE FILE,43
+rest api,43
+gi,43
+image/fits,43
+igis_wms,43
+.shp,43
+zip(shp),42
+RTOD,42
+WWW:DOWNLOAD-1.0-http--download,42
+Zipped MDB,42
+jrss,42
+PDF/A-1,41
+HDF5,41
+SQL,41
+excel;,41
+JPEG2000,41
+ACCDB,41
+text/x-csrc,41
+OTHERS,40
+www:link-1.0-http--link,40
+DO,40
+text/TXT,40
+ZIP (SHP),40
+excel workbook (*.xlsx),39
+external resources,39
+.html,39
+dbf,39
+GPX,39
+PHP,39
+http://publications.europa.eu/resource/authority/file-type/KMZ,39
+dta,38
+c0,38
+RICH TEXT,38
+Mixed Formats,38
+tar.gz,38
+.jpg,38
+Geodatabase,38
+Open Data Site,38
+dat,37
+ESRI Hub,37
+http://publications.europa.eu/resource/authority/file-type/NETCDF,37
+text/x-dsrc,36
+ArcGIS Rest Services,36
+EMAIL,36
+xml.net,36
+Archive,36
+"Shapefile, WMS 1.3.0, GML 3.2",35
+DGN,35
+MapInfo TAB,35
+File Geodatabase Raster Dataset,35
+autre,35
+application/x-emf,34
+md,34
+application/x-bibtex-text-file,34
+ipynb,33
+message/rfc822,33
+.XLSX,33
+cvs,33
+OpenSpending API,32
+ASHX,32
+applicationzip,32
+web page,32
+"api, json",32
+lpk,32
+csv.,32
+0&SERVICE=WMS&REQUEST=getcapabilities,32
+application/blender,32
+xps,31
+asc,31
+GeoXML,31
+INSPIRE-GML,31
+dlis,31
+TMX,30
+ogc wfs,30
+application/opensearchdescription+xml,30
+geotif,30
+.xlxs,30
+application/x-matroska,30
+"GeoService API, GeoJSON API, csv, kml, shapefile, GeoJSON, File Geodatabase",29
+Website,29
+TFW,29
+Chart,29
+tsv,28
+MSI,28
+shape file,28
+text/html;charset=utf-8,28
+shape file .shp,28
+gif,28
+OTHER,28
+xSV,28
+excel (xlsx),27
+ArcGIS,27
+Zipped TXT,27
+sbn,27
+SHP TAB,27
+BibTeX,27
+Zipped SPSS,26
+sbx,26
+application/unknown,26
+rar,26
+"xls, ods, pdf",26
+xlsb,26
+QML,26
+01,26
+csv/zip,26
+esri rest service,26
+GEOSERVICE,26
+https://www.iana.org/assignments/media-types/application/pdf,25
+CPG,25
+.zip shp,25
+"xlsx, ods",25
+CITYGML,25
+Text,24
+RDFa,24
+"url, xml",24
+wmv,24
+weblink,24
+ArcGIS Rest Service,24
+application/x-troff-man,24
+wmst,23
+applicationpdf,23
+application/x-123,23
+CVS,23
+ERT,23
+text/x-python,23
+sav,23
+pjnz,23
+icms,23
+ArcGIS REST SERVICE,23
+Mixed,23
+google spreadsheet,22
+arcGis,22
+PDF/UA,22
+Information and Download,22
+Microsoft Word Document,22
+Undefinedtar,22
+02,22
+xlsx.,22
+OBJ,22
+sta,22
+null,22
+SAV,22
+Raster Dataset,22
+csv/utf8,21
+"Excel, PDF",20
+tab,20
+MDB,20
+geo.json,20
+"zip,csv",20
+text/turtle,20
+ttu,20
+spreadsheet,20
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,20
+.kml,19
+rdf,19
+GRIB2,19
+py,19
+TDS,19
+application/vnd.tcpdump.pcap,19
+gezippte csv-dateien,19
+"xml, rar",19
+Data Dictionary,18
+application/vnd.ogc.wmts_xml,18
+compressed zip folder,18
+marcxml,18
+SAS txt file,18
+STEP,18
+application/vnd.openxmlformats-officedocument.presentationml.pre,18
+Microsoft Excel Document,18
+.odt,18
+modsxml,18
+application/simple-filter+xml,18
+CSV (delimitado por comas),18
+owl,18
+sql,18
+gràfic,18
+"CSV, EXCEL",18
+SPSS txt file,18
+application/x-zip,18
+Webpage,18
+SQLite,18
+application/download,18
+csv (wfs),17
+odt,17
+esri shapefile,17
+sid,17
+https://www.iana.org/assignments/media-types/application/ld+json,17
+https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,17
+https://daten.berlin.de/schema/dist-format/wfs,17
+esri gdb,16
+https://www.iana.org/assignments/media-types/text/turtle,16
+json (wfs),16
+shape (wfs),16
+Zip/CSV,16
+ascii,16
+lnk,16
+mht,16
+jp2,16
+xhtml,16
+sgy,16
+application/vnd.wolfram.mathematica.package,16
+gifpng,16
+OBIS,16
+pt/getogc/services/INSPIRE/LU_SpatialPlan_POC/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,16
+"zip, doc",16
+IGS,16
+http://publications.europa.eu/resource/authority/file-type/GDB,16
+"rar,xls",16
+",pdf",16
+gtfs,16
+http://publications.europa.eu/resource/authority/file-type/lnk,16
+csv.zip,16
+Database,16
+tiff (gezippt),16
+zip/csv,16
+dgn,16
+text/javascript,16
+https://www.iana.org/assignments/media-types/application/rdf+xml,16
+Microsoft Excel,16
+web map,16
+application/vnd.openxmlformats-officedocument.wordprocessingml.d,16
+oracle,16
+text/x-chdr,16
+Python,15
+CSW,15
+MAP_SRVC,15
+yaml,15
+ecw,15
+kml/kmz,15
+"geoservice api, geojson api, csv, kml, shapefile, geojson, file geodatabase",15
+Microdatos,15
+zip:shp,15
+DAT,15
+image/vnd.microsoft.icon,15
+arcsde connection,15
+.png,15
+application/epub+zip,15
+georss (wms),15
+DBF,15
+warc,15
+JSONL,15
+NEX,15
+"zip:dbf, zip:prj, zip:shp, zip:shx",15
+kml (wms),15
+asp,14
+openxml,14
+image/jpg,14
+DQS - PDF,14
+gov,14
+application/vnd,14
+hdfjpg,14
+csv / zip,14
+xml.,14
+application/x-font-ttf,14
+GBFS,14
+vnd.openxmlformats-officedocument.spreadsheetml.sheet,14
+tiff,14
+application/x-archive,14
+JS,14
+01 / 2015 / CSV,14
+.ODS,14
+bibtex,14
+pt/conservacao/ordenamentoegestao/planosdeordenamentodeareasprotegidas,14
+gml (wfs),14
+STYLE,14
+.pptx,14
+text/html; charset=ISO-8859-1,14
+HTML Visor Cartográfico,13
+JPEG (Joint Photographic Experts Group),13
+esri shape file,13
+soap+xml,13
+SHAPEFILES,13
+MapView,13
+.gif,13
+MySQL,13
+zip-compressed folder of csv,13
+.sav,13
+zipped mapinfo,13
+MapInfo,13
+qlr,13
+XLXS,13
+raster,13
+ATOM,13
+application/vnd.ms-htmlhelp,13
+.kmz,13
+FSKX,12
+application/x-stata-dta,12
+shp (wgs84),12
+sqlite,12
+h5,12
+map,12
+http://publications.europa.eu/resource/authority/file-type/NetCDF,12
+information and download,12
+pt/getogc/services/INSPIRE/NZ_Diretiva200760CE_ram_100/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,12
+JSONLD,12
+application/x-download,12
+mapviewer,12
+SDE Feature Class,12
+Binary,12
+dtd,12
+Geographic Markup Language (GML),12
+"csv, api",12
+HTML Microdatos,12
+image/x-png,12
+ORACLE,12
+OVL,12
+pt/getogc/services/INSPIRE/NZ_Diretiva200760CE_ram_20/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,12
+NAS,12
+application/x-thermo-isodat,12
+http://publications.europa.eu/resource/authority/file-type/DOC,12
+georss,12
+".zip shapefile, file geodatabase, mapinfo mid/mif",12
+"msword, msexcel, pdf",12
+dot,12
+hobo,12
+XSL,12
+TCX,12
+http://publications.europa.eu/resource/authority/file-type/JSON_LD,12
+Julia package,12
+cas,12
+topojson,12
+ili,12
+Data Services,12
+Oracle,12
+CSV / Zip,12
+SBX,11
+"PDF, shp",11
+GTFS-RT,11
+sql server,11
+pt/getogc/services/INSPIRE/NZ_Diretiva200760CE_ram_500/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,11
+exce,11
+matlab,11
+"XLSX, CSV, JSON, JSON-STAT, PX",11
+portable document format,11
+PBIX,11
+application/x-msi,11
+XSLT,11
+https://www.iana.org/assignments/media-types/application/n-triples,11
+表形式,11
+https,11
+Geopackage,11
+WebAPI,11
+Darwin Core Archive,11
+JSON/REST,10
+ESRI SCENESERVER,10
+"RAR, CSV",10
+Github,10
+xlw,10
+application/vnd.ms-excel.sheet.binary.macroEnabled.12,10
+application/mathematica,10
+rdata,10
+Mixed Spatial Formats,10
+qml,10
+fasta,10
+LAZ,10
+excell.,10
+Open Data Website,10
+.xml,10
+gjson,10
+GRAPHQL,10
+01 / 2016 / CSV,10
+application/nappdf,10
+MP3,10
+plain text,10
+zipped jpeg,10
+GRIB,10
+application/x-itunes-itlp,10
+*.zip,10
+zipped tif,10
+SBN,10
+esri rest api,10
+csv zip,10
+gzip,10
+Zip/Spreadsheet,10
+application/vnd.rar,10
+SQL Server 2012,10
+Undefinedtsv,10
+google sheets,10
+shz,10
+HTML+RDFa,10
+Zipped DTA,9
+vnd.oasis.opendocument.spreadsheet,9
+csv.gz,9
+wmts,9
+SKP,9
+spss,9
+text/troff,9
+webservice,9
+extern,9
+".rar, .shp",9
+application/vnd.ms-excel.sheet.macroEnabled.12,9
+avi,9
+m,9
+sh,9
+"api, csv",9
+audio/x-ms-wma,9
+mpg,9
+csv-datei,9
+"URL, PDF",9
+XLS_CSV,9
+video/x-ms-wmv,9
+.ppt,9
+gtiff,9
+HMTL,9
+SAS,9
+ttl,9
+application/ecmascript,9
+application/x-tika-ooxml,9
+netCDF,9
+DSS,9
+.shp (zip),9
+cpg,9
+"pdf, zip",9
+embbed_video,9
+DQS - XML,9
+application/xlsx,8
+JSP,8
+File Geodatabase,8
+tiff+zip,8
+GIS FILE,8
+rss,8
+application/docx,8
+sas,8
+application/x-matlab-data,8
+MAP,8
+.PDF,8
+Access Database,8
+WMF,8
+GDB (ESRI FILE GEODATABASE),8
+shtml,8
+svg,8
+text/x-pascal,8
+01 / 2017 / CSV,8
+PostGIS,8
+FASTA,8
+CSV e PDF,8
+"über WMS, ATOMFeed, WFS verfügbar",8
+Multiple,8
+05 / 2017 / CSV,8
+con,8
+python,8
+image/x-lwo,8
+webseite,8
+.xsl,8
+.cvs,8
+TRE,8
+http://publications.europa.eu/resource/authority/file-type/GeoJSON,8
+XHTML,8
+ESRI REST API,8
+sgml,8
+Data,8
+Git repository,8
+XSLX,8
+SHZ,8
+application/vnd.ms-pkistl,8
+ODP,8
+text/markdown,8
+application/geopackage+sqlite3,8
+lyr,8
+"csv""",8
+text/x-objcsrc,8
+application/zip,8
+http://publications.europa.eu/resource/authority/file-type/TSV,8
+Undefinedtsvtxt,8
+application/x-troff,8
+application/x-pdf,8
+ArcGis,8
+pt/dados_abertos/info_recursosminerais?Id=1704,8
+"Plataforma Joomla, Formato de los archivos .CSV",8
+"RAR,CSV",7
+"rar, shp, xml",7
+powerpoint,7
+EML,7
+CSV.,7
+SD,7
+application/vnd.ms-excel.sheet.macroenabled.12,7
+"zip, xls",7
+GDB SHP TAB,7
+mdb,7
+"NAS, Shape",7
+WMS/WFS,7
+ARCGIS,7
+Adobe Acrobat Reader,7
+https://www.iana.org/assignments/media-types/application/gml+xml,7
+GeoRSS,7
+ID,7
+hdf5,7
+html + xml,7
+eps,7
+openspending api,7
+json/protobuf,7
+SHP-ZIP,7
+lis,7
+.xslx,7
+"zip, csv",7
+RDS,7
+.ZIP,7
+.lyr,7
+Leapfrog Model File,7
+"csv, xls",7
+esri_toolbox,7
+qpj,7
+JAR,7
+http://publications.europa.eu/resource/authority/file-type/REST,7
+OV2,7
+rest,7
+"CSV, XLS, XML",7
+"prj, shp, dbf",7
+.rmd,7
+xisx,7
+LOG,7
+netcdf4,7
+ovr,7
+"csv, excel, html",7
+S3,7
+ESRI Rest API,6
+01 / 2016 / csv,6
+RData,6
+jl,6
+Restricted Use CD-ROM,6
+vec,6
+http://publications.europa.eu/resource/authority/file-type/OCTET,6
+application/vnd.openxmlformats-officedocument.spreadsheetml.shee,6
+excel file,6
+VEC,6
+Undefinedzip,6
+1,6
+10 / 2015 / csv,6
+application/vnd.google-apps.document,6
+Topaz Banking_ ORACLE,6
+CSV/ZIP,6
+laz,6
+WMV,6
+tenv3,6
+datalab,6
+http://publications.europa.eu/resource/authority/file-type/DOCX,6
+.geojson,6
+qt,6
+Geosoft Grid,6
+application/tsv,6
+CSV/Zip,6
+SPARQL web form,6
+zip (csv utf8),6
+csv file,6
+SMET,6
+h,6
+MOBILE APPLICATION,6
+Esri Grid,6
+application/force-download,6
+GitHub Repository,6
+text/json,6
+10 / 2016 / CSV,6
+ASCII text,6
+画像,6
+CFM,6
+"zip,shp",6
+HTTP,6
+rmd,6
+r script (flat-ascii text),6
+pt/getogc/services/INSPIRE/NZ_Diretiva200760CE_ptcont_20/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,6
+htm,6
+3DM,6
+txt/plain,6
+bin,6
+text/tab,6
+gdb shp kmz tab,6
+NGSIv2JSON,6
+text/url,6
+ATCO.CIF,6
+excel workbook,6
+zip+xls,6
+zipped,6
+SQLite-DB mit Rasterdaten im PNG-Format,6
+.rar,6
+file geodatabase or shapefile,6
+Zipped ASCII,6
+xls / xlsx,6
+06 / 2016 / CSV,6
+shp tab,6
+HTML5,6
+c,6
+WAV,6
+ARC,6
+Undefinedtxt,6
+"aplicativo: rfc ampliado
+
+base de datos: oracle 11g",6
+esri  rest,6
+cad,6
+SPSS,6
+Excel,6
+CON,6
+s2p,6
+xmlcon,6
+excel CSV,6
+IMG,6
+scm,6
+SQL Server,6
+.webloc,5
+WKT,5
+rest service,5
+vcf,5
+QGS,5
+http://publications.europa.eu/resource/authority/file-type/geojson,5
+web link,5
+GRD,5
+TURTLE,5
+groundwater level data viewer,5
+.SHP,5
+"ZIP, JPEG",5
+diverse,5
+E00,5
+.RAR,5
+Manejador de Bases de Datos MySQL.,5
+application/vnd.openxmlformats-officedocument.spreadsheetml.template,5
+pt/getogc/services/SNIAmb/MA_PtCont/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,5
+application/vnd.ms-excel,5
+tab-separated-values,5
+obj,5
+Web Service,5
+xml+gml,5
+SPATIAL DATA FORMAT,5
+tar.xz,5
+SHP (ESRI SHAPE),5
+metadata,5
+video/mpeg,5
+printable_map,5
+"factura electrónica: aplicativo en la nube con sql server
+
+firma electrónica: base de datos de oracle 11g",5
+"über WMS, ATOMFeed und WFS verfügbar",5
+pt/getogc/services/SNIAmb/MA_PtCont/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,5
+MODEL,5
+GitHub,5
+http://publications.europa.eu/resource/authority/file-type/ODT,5
+base de datos sql,5
+XLSX / ODS,5
+ESRI Shapefile,5
+ngsi,5
+dbase,5
+external url,5
+.md,5
+index/html,5
+ogc:wfs-1.0.0-http-get-capabilities,5
+xlsl,5
+Turtle,5
+out,5
+nas,5
+GTFS-JP,5
+MTL,5
+"csv, json, excel, shp",5
+x,5
+02 / 2015 / csv,4
+ms word,4
+applicationvndopenxmlformatsofficedocumentspreadsheetmlsheet,4
+"CSV, XLSX",4
+7zip,4
+mapas bogota,4
+application/ppt,4
+"csv,rdf",4
+"ascii x, y, z",4
+xpt,4
+STL,4
+rdk,4
+text/x-yaml,4
+cfm,4
+mysql,4
+Comma Separated Value Spreadsheet,4
+WAF,4
+"Excel, SPSS, DBF",4
+"PDF, Shape",4
+fastq,4
+REST-JSON,4
+application/x-www-form-urlencoded; charset=utf-8,4
+Search portal,4
+PDF / PDF,4
+tableau,4
+"doc, docx",4
+"rar,csv",4
+jsonl,4
+msh,4
+04 / 2016 / CSV,4
+application/x-ole-storage,4
+11 / 2013 / CSV,4
+ris,4
+cdfjpgpng,4
+FTP,4
+divers,4
+pbf,4
+HTLM,4
+Comma-Separated Values (CSV) text,4
+esri_addin,4
+www,4
+http://publications.europa.eu/resource/authority/file-type/ODP,4
+ai,4
+Por definir,4
+12 / 2014 / csv,4
+XLS / Zip,4
+audio/mp4,4
+No aplica,4
+CSS,4
+MAX,4
+10 / 2014 / csv,4
+jupyter notebook,4
+zip archive,4
+"txt, html",4
+Undefinedrdk,4
+shp (l93),4
+Web,4
+A GitHub repository,4
+"Digital Object Identifier, a persistent identifier",4
+pdf / pdf,4
+06 / 2017 / CSV,4
+phase2,4
+microsoft excel 2007,4
+application/pgp-keys,4
+https://www.iana.org/assignments/media-types/application/vnd.ms-excel,4
+RDF LINKED OPEN DATA,4
+NBT,4
+MOV,4
+07 / 2015 / csv,4
+2,4
+sps,4
+"json, shp",4
+PDF/A,4
+zipped file folder,4
+zip/spreadsheet,4
+07 / 2016 / CSV,4
+dashboard,4
+ogc:wms-1.3.0-http-get-capabilities,4
+Map Service,4
+08 / 2017 / CSV,4
+XLS / ODS,4
+.shx,4
+Cloud Optimized GeoTIFF,4
+11 / 2014 / CSV,4
+03 / 2016 / csv,4
+MS Excel File,4
+XZ,4
+phase1a,4
+pdf.,4
+adobe acrobat reader,4
+bz2,4
+YAML,4
+.tab (zip),4
+x_t,4
+Compranet,4
+02 / 2016 / CSV,4
+"shp, zip",4
+POSTGRESQL,4
+text/csv; charset=UTF-8,4
+Arc Gis,4
+excell,4
+Excel Spreadsheet,4
+Datex II,4
+pdf/word,4
+pdf?t=1612906699,4
+GZIP,4
+phase1b,4
+open data site,4
+csv ods pdf,4
+text/html; charset=iso-8859-1,4
+.sld,4
+"Database, JSON",4
+ASP,4
+Undefinedcom,4
+tec,4
+CSV / CSV,4
+ESRI,4
+QPJ,4
+txt file,4
+application/x-object,4
+CityGML,4
+.zip OBJ,4
+Excel spreadsheet,4
+03 / 2015 / csv,4
+03 / 2015 / CSV,4
+12 / 2015 / csv,4
+MICROSOFT SQL SERVER,4
+JSON/Protobuf,4
+Undefinedtartsv,4
+xml/atom,4
+01 / 2015 / csv,4
+.owl,4
+08 / 2015 / csv,4
+http://publications.europa.eu/resource/authority/file-type/GZIP,4
+PDF Document,4
+mapinfo table,4
+json rest api,4
+lyrx,4
+exsel,4
+html web page,4
+GDB SHP TAB KML,4
+Base de Datos Mysql,4
+11 / 2017 / CSV,4
+application/vnd.snesdev-page-table,4
+QMD,4
+cs,4
+application/x-yaml,4
+"Available via .zip, .tar.gz, or git repository",4
+3DS,4
+Excel workbook,4
+08 / 2016 / CSV,4
+video,4
+text/csv,4
+"Database, HTML",4
+DER,4
+Texto,4
+07 / 2017 / CSV,4
+https://www.iana.org/assignments/media-types/application/vnd.hdt,4
+SHP KMZ TAB,4
+inp,4
+csv / csv,4
+/,4
+GeoTiff,4
+zipped file - geotiff,4
+comma-separated values,4
+excel (xls),4
+JSON_LD,4
+api/json,4
+parquet,4
+vnd.google-earth.kmz+xml,4
+RDF-XML,4
+application/pdf;charset=UTF-8,4
+"text , .txt , html",4
+AI,4
+"ivt, xls, csv",4
+English text,4
+application/gpkg,4
+archived webpage,4
+arcgis rest wms wfs,4
+application/http,4
+02 / 2017 / CSV,4
+pt/dados_abertos/info_recursosminerais?Id=1944,4
+JNB,4
+Excel spreadsheet with 4 tabs,4
+software,4
+Base de Datos SQL,4
+GPKG_ZIP,4
+rds,4
+windows_app,4
+MIRO,4
+gezippte csv-Dateien,4
+pt/getogc/services/SNIAmb/ProtCaptacoes_AgConsHumano/MapServer/WMSServer?SERVICE=WMS&request=GetCapabilities,3
+mbtiles,3
+qgs,3
+Zipped ascii,3
+"WORD,RAR",3
+georef. TIFF,3
+pb,3
+gtfs-jp,3
+Zipped R,3
+tfw,3
+Zipped multiple DAT,3
+.avi,3
+file geodatabase,3
+stata,3
+Zipped SD2,3
+video/x-m4v,3
+PARQUET,3
+IDX,3
+3D PDF Geoscience Analyst IWS GOCAD,3
+egg,3
+Zipped Stata,3
+dm,3
+application/x-sharedlib,3
+ZIP + CSV,3
+psv,3
+"pdf, xls, ods",3
+Zipped POR,3
+SQLBase Server 7.6,3
+CSDP .cdn file,3
+esriAddin for ArcMap,3
+various,3
+PY,3
+gtfs-rt,3
+Zipped XLSX,3
+shape-zip,3
+stl,3
+http://publications.europa.eu/resource/authority/file-type/LAZ,3
+TAB GDB KML SHP,3
+004,3
+.mat,3
+"Factura Electrónica: Aplicativo en la nube con SQL Server
+
+Firma Electrónica: Base de Datos de Oracle 11g",3
+OWL,3
+xml zip,3
+darwin core archive,3
+.m,3
+zip:csv,3
+json_LD,3
+"excel, sql server 2000",3
+png/jpeg,3
+.R,3
+"kml, kmz",3
+"Shapefile, WFS 1.1.0, WFS 2.0.0, WMS 1.3.0, GML 3.2",3
+http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE,3
+TAB SHP KML GDB,3
+application/x-executable,3
+.XLS,3
+FBX,3
+ParkAPI,3
+postgresql,3
+400,3
+binary,3
+meta/void,3
+"ascii, tab separated, also as excel table",3
+"csv, excel",3
+esri gdb - zipped,3
+rdf/xml,3
+application/javascript,3
+AVI,3
+"JSON,DAT,DAT_OLD,MCA,TOML,LOCK",3
+CSV file displayed using HTML,3
+Zipped ACCDB,3
+sql server 2000,3
+exl,3
+.xlsm,3
+"gis, shapefile",3
+bus,3
+DLL,3
+zip (csv),3
+Zipped SYS,3
+ArcGIS Pro map package,3
+-,3
+Metadata,3
+XCL,3
+XLX,3
+zip (tab),3
+gdb shp tab,3
+HTML Portal Web,3
+"html, excel, csv",3
+ags_featureserver,3
+Archivo de texto,3
+OpenDAP,3
+pdf/a,3
+"cvs, ods.xls",3
+ArcGIS Desktop map package,3
+Zipped binary text,3
+epub,3
+Fixed-format text,3
+tar.bz2,3
+Power BI,3
+RINEX,3
+SHP GDB TAB,3
+atom+xml,3
+geopdf,3
+Pbix,3
+ppt,3
+Leapfrog Viewer file,3
+.json,3
+web service,3
+RDF_turtle,3
+application/x-ms-wmz,3
+image/cgm,3
+REST Service,3
+.mp4,3
+webcast,3
+"GDB og SHP, ISN93",3
+txv,3
+"Koordinatentripel (Rechtswert, Hochwert, Höhe)",3
+CSV SHP TAB,3
+Filegeodatabase,3
+ogc:wms,3
+informix,3
+"CSV,XLS",3
+BAT,3
+REST API,3
+BAG,3
+.dbf,3
+OSD,3
+zip-compressed folder of tab-delimited text files,3
+"zip, pdf",3
+ESRI Shape,3
+Table,3
+zip csv,3
+fbx,3
+"xml, pdf",3
+HDF,3
+Portable Document Format,3
+ogc:wfs,3
+"Shapefile, WMS 1.1.0, WMS 1.3.0, GML 3.2",3
+formulár,3
+pt/getogc/services/SNIAmb/ProtCaptacoes_AgConsHumano/MapServer/WFSServer?SERVICE=WFS&request=GetCapabilities,3
+PCM,3
+trip,3
+application/x-sql,3
+"pdf, xls",3
+XLSL,3
+sfc,3
+CSV VALIDATION SCHEMA,3
+JSON:API,3
+xcl,3
+ORDNER,2
+pnggif,2
+textcsv,2
+Spreadsheet,2
+"csv, dbase",2
+RDF-Turtle,2
+r,2
+scv,2
+a zip file containing .dat files with 5 columns,2
+zipped pdf,2
+Compressed zip file containing text files and Python scripts,2
+comma separated value,2
+AutoCAD DWG format,2
+slx,2
+CSV feed,2
+MapInfo Table,2
+csv (zip),2
+xml / html / tab / zip,2
+_xlsx,2
+"csv, .mat, .m",2
+io,2
+text files in zip file,2
+Three Excel files with labelled columns for each approach. The frequency averaging bandwidth is given in the name of the file.,2
+Flatgeobuf,2
+application/vnd.ms-excel (xlsx),2
+0&request=GetCapabilities,2
+.cpg,2
+NOV 2014 / CSV,2
+wpr,2
+WMTS_SRVC,2
+.tgz file of data,2
+http://publications.europa.eu/resource/authority/file-type/MDB,2
+Source code in plain text,2
+MATLAB data files (.mat) and scripts (.m),2
+xp,2
+zipped numpy binary,2
+Protocol buffers,2
+dpf,2
+xml (tgz file),2
+Microsoft Office - OOXML - Spreadsheet (.xlsx),2
+fmwt,2
+Microsoft Excel Workbook (*.xlsx),2
+.dta,2
+dadta columns as described above,2
+Source Code in C - Linux,2
+TPS,2
+odata,2
+SHA-256 hash of zipped data file,2
+ISO/DIS 22029 - ISO/EMSA Spectrum File Format embedded in a PKZIP file,2
+一般網頁連結,2
+MS-SQL,2
+JAN 2015 / CSV,2
+CWR,2
+columns,2
+NETCDF,2
+application/vnd.pmi.widget,2
+Undefinedrdktar,2
+GeoXML-ITM,2
+pt/getogc/services/SNIAmb/MA_Est_Peco_Quim_Quant_PTCont/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,2
+zip file with jpeg images,2
+AXD,2
+2 column csv file,2
+A .pdf manuscript,2
+121303,2
+"txt, shp",2
+"PostgreSQL, Excel",2
+Rmd,2
+02 / 2016 / csv,2
+"COI, Excel",2
+Geo-TIFF,2
+jsonld,2
+jsp,2
+"This is a link to a spreadsheet that contains the BIA Tribe Names, BIA tribe codes, and EPA internal identifiers for each tribe.  Tribe names are tracked from 1978 - present.",2
+Compressed archive of Octave .m files,2
+zip file containing .dat files with single columns of values,2
+ad2cp,2
+grib2,2
+"json,xml",2
+"kmz,xlsx",2
+Undefinedtxttsvpdfasc,2
+For each .xlsx file: Col. 1: x-axis data; Col. 2: Counts for histogram; Col. 3: Neff as function of threshold,2
+"gif, jpg, png, grib, raw",2
+video/x-matroska,2
+"xlxs,shp",2
+102112,2
+gdb shp tab kml,2
+zipped obj,2
+no export is available.  Anyone seeking permission to a copy of the data needs to go through the application admins.,2
+"xls, pdf",2
+input,2
+DEC 2014 / CSV,2
+Java,2
+็HTML,2
+.mdb,2
+Webseite,2
+017,2
+Excel sheet,2
+Text files in a zip file,2
+e57,2
+"Zip folder containing raw "".D"" files",2
+Microsoft Excel Worksheet,2
+gbfs,2
+11 / 2014_0 / CSV,2
+Images,2
+8 bit tiff image,2
+TAR/GZIP compressed file,2
+Source code,2
+7-ZIP,2
+MARCXML/gzip,2
+application/x-matlab-workspace,2
+534,2
+"html, xls",2
+short,2
+GDB SHP KMZ TAB,2
+"zip, kml",2
+02 / 2015 / CSV,2
+"WMS, WFS",2
+php?sid=9241&parent_link=Permanent&pview=original,2
+Compressed file of CSV files,2
+CSV file encoded with UTF-8,2
+comma delimited,2
+xqgis,2
+ｘｌｓｘ,2
+This file is saved as plain text.,2
+R file,2
+ASCII .dat file,2
+Github Repository,2
+00009-3,2
+ZIP (DXF),2
+Undefinedmpg,2
+"PDF,HTML",2
+SHA256,2
+IMO,2
+Microsoft Excel file,2
+gov%7Cf7f296750461435a78cb08db677071df%7Ca0f29d7e28cd4f5484427885aee7c080%7C0%7C0%7C638217504862373534%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tiZW4JA%2FyXQVnpOSlYrdiK3A0k5tlJKGC2%2FRrCbd65k%3D&reserved=0,2
+WCL,2
+These files use the Instrument Parameter File format described in the GSAS Technical Manual [4].,2
+mapa,2
+plain text file,2
+par,2
+GDB SHP TAB KMZ,2
+C Source File (.c),2
+Fortran 77 program ascii text,2
+Diferentes aplicaciones y dos manejadores de base de datos con replicación para su actualización: Informix 11 y SQL Server 2008,2
+SEP 2014 / CSV,2
+08 / 2014 / CSV,2
+ISO 25178-72 X3P format for 3D data. TIFF and PNG for 2D images.,2
+Excel files with labeled columns,2
+Web link,2
+https://www.iana.org/assignments/media-types/text/html,2
+application/dbf,2
+Excel y Adobe Acrobat Reader,2
+youtube,2
+comma-separated values (CSV),2
+"json, xgml, txt",2
+"zip file, Wolfram Mathematica 13.0 notebook, pdf",2
+.csv and .pcap files,2
+R Markdown,2
+not specified,2
+html?id=ed66f9f99cf54bcab12fb69095bf1c1c,2
+"Database,CSV",2
+MAR 2015 / CSV,2
+FGDC CSDGM Metadata,2
+A github repository containing .csv files with experimental data and a .md text file describing these measurements,2
+"Fortran 77 program listing, ascii",2
+7 / pdf,2
+.zip and .csv,2
+stx,2
+zip file containing .mat file for MATLAB,2
+text in a zip file,2
+PHY,2
+Comma-separated variable,2
+XML / Zip,2
+Undefinedtartxt,2
+ige,2
+JPEG formatted images,2
+CRS,2
+xz compressed tar archive,2
+Compressed archive in .zip format,2
+mapview,2
+zipped collection of .csv files,2
+02071716007,2
+"ESRI Shapefile, KML, GeoJSON, Text, HTML, OGC WMS, OGC WFS",2
+english,2
+HTML webpage,2
+Undefinedmdvofn,2
+"CAD file , CAM file, TXT, XML",2
+gzipped tar archive,2
+JPEG/PNG,2
+npz,2
+8bit tiff image,2
+文書形式,2
+turtle,2
+"ZIP, PDF, XLSX",2
+csv / pdf,2
+.txt file,2
+Data is in csv files as json files for the simulation,2
+This is a zipped complication of six .csv files and one .txt readme file.,2
+XL5X,2
+application/vnd.oma.drm.message,2
+EPS,2
+The file is in Word format,2
+"html, xml",2
+Microsoft Excel (*.xlsx),2
+halfsrcs,2
+zipped KMZ,2
+1 / ODS,2
+Base de Datos SQL Server 2012,2
+"Aplicativo Multiplataformas, Base de Datos en el Mainframe DB2 v10
+Legados con SQL Server 2008",2
+mysql a cvs,2
+25,2
+Portal Web php y sql,2
+Tab-separated text,2
+12 / 2015 / CSV,2
+public folder,2
+"xls, csv, ods",2
+Flash,2
+zipped JSON files and python code,2
+CSV file of raw data from the NIST Center for Neutron Research.,2
+625976&zL=4%3Fvisible,2
+Undefinedpdf,2
+utf8,2
+wcs služba,2
+SQLite SQL,2
+"ESRI GDB, ESRI Shape file",2
+Pendiente,2
+video/example,2
+space delimited,2
+TAR-GZIP compressed file,2
+102662,2
+06 / 2015 / CSV,2
+Maps,2
+qtm,2
+PDBv3,2
+video/avi,2
+.HTML,2
+Base de datos oracle,2
+application/json; charset=utf-8,2
+mif,2
+VGL,2
+temp,2
+zippe shapefile,2
+org,2
+CSV files with explanatory metadata in columns,2
+4273891,2
+zipped file with historical angular calibration data,2
+GFC,2
+Portable Document Format (PDF),2
+HTMLHTML,2
+PDF/A-2,2
+xlms,2
+้html,2
+Microsoft Word,2
+CSV file,2
+12545,2
+cdfidl,2
+nc tar,2
+text/PDF,2
+05 / 2015 / csv,2
+KML-ITM,2
+rdf/nt,2
+xodr,2
+Excel file with labeled columns.,2
+application/vnd.ms-office,2
+MAP SERVICE,2
+BSON,2
+dsv,2
+03 / 2016 / CSV,2
+http://publications.europa.eu/resource/authority/file-type/MXD,2
+Arcgis,2
+M4A,2
+wep page,2
+".kml, .tab, .csv, .shp",2
+1373870,2
+TAR/GZIP compressed data file,2
+".html , text , pdf",2
+adf,2
+VIEW,2
+application/vnd.google-apps.map,2
+ZIP Archive File,2
+Python scripts in a GitHub repository,2
+html y pdf,2
+cgi?article=1364&context=etdr,2
+msword,2
+Documento,2
+pdf formatted manuscript,2
+Mbtiles,2
+http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC,2
+"mp4, xml, json, png",2
+Python scripts and Jupyter notebooks,2
+This data set has been compressed using Windows 7-Zip,2
+"HTML, PDF",2
+fabgz,2
+.rwl,2
+A GITHUB Repository,2
+web site,2
+Undefinednc tarasc,2
+11 / 2014 / csv,2
+zipped exe executable,2
+ZIP + SHP,2
+netcdf4 cf-1.6,2
+application/pdf;charset=ISO-8859-1,2
+pdf/xls,2
+sol,2
+application/xhdf5,2
+gov%7Cd934b881d2804bf4eefa08d993f69b97%7Ca0f29d7e28cd4f5484427885aee7c080%7C0%7C0%7C637703509782258631%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=V0OZKyurCcKgJv%2FxeoloftD4YjA%2BSWLriN8SjJSPlvg%3D&reserved=0,2
+Web pages,2
+application/java-vm,2
+ESRI GeoService,2
+04 / 2016 / csv,2
+Excel files with rows and columns corresponding to correlation matrix entries,2
+2022 MML Accolade winners csv file,2
+Compressed ZIP file containing CSV data files.,2
+En SPSS  (Statistical Package for the Social Sciences) para el procesamiento de información y en Excel para diferentes reportes,2
+"Fortran 77 code, ASCII",2
+ArcGIS maps and file geodatabase,2
+reloc,2
+github repository,2
+TXT plain text,2
+.gdb,2
+"MapInfo, Shape, Geomedia",2
+RTF / PDF,2
+This is a github repository primarily written in javascript.,2
+GML3.2.1,2
+/ PDF,2
+"zip, dwg",2
+mmCIF/PDBX,2
+plain text files stored on a public GitHub repository,2
+mlx,2
+AUG 2014 / CSV,2
+dwg/dxf,2
+"xml,zip",2
+Excel file with labeled columns,2
+tab-d,2
+GEO JSON,2
+map portal,2
+text/html; charset=ISO-88509-1,2
+exc,2
+".html, .text, .txt",2
+CRL,2
+"mp4 xml, and plain text",2
+Archivos CSV y ArcGis,2
+"plain, readable text",2
+application/msaccess,2
+Sin Base de Datos,2
+wrb,2
+sp1,2
+pt/pesca,2
+PDF e CSV,2
+POSTGRES,2
+pd,2
+03 / 2017 / CSV,2
+10 / 2015 / CSV,2
+".pdf, word",2
+python source code,2
+PDF document,2
+.csv file which is a machine readable format. Opening the file in excel provides a human readable format.,2
+zip file format,2
+"sql server, postgres, acces",2
+Undefinedpnggif,2
+XML instance file,2
+"Actualmente, esta información es reportada a la SHCP, a través del Sistema de Pago Electrónico de Contribuciones e5cinco",2
+markdown documentation,2
+The data are in .csv format for easy export into data analysis tools. Opening data in excel allow for the data to be viewed in human readable format.,2
+Undefinedgifasc,2
+"Fortran 77 program, ASCII",2
+Python code,2
+44,2
+625976&zL=4,2
+rrd,2
+text/xlsx,2
+B-Plan,2
+ZIP / ZIP,2
+ukjent,2
+aschdf,2
+the downloaded file is in zipped format with the images in PNG format,2
+"XMI, HTML, mdzip",2
+Microsoft Excel 2007,2
+TIFF file format,2
+ins,2
+".doc, png",2
+xml、rdf,2
+TRIAS-API,2
+XML Schema definition document,2
+CSV (zip),2
+application/vnd.arinc,2
+CSV File,2
+text files in a zip file,2
+0%2Fvirtual_buoy%2F,2
+Excel files with column headings labeled.,2
+Website containing data files,2
+web-optimised PDF,2
+PTS,2
+"xls, ods. pdf",2
+application/vnd.wolfram.player,2
+php?mode=pubs&action=view&record=1034680,2
+mov,2
+Word/PDF,2
+qgz,2
+word processing document,2
+CSV file with explanatory metadata in columns,2
+zip format file,2
+videos are in mp4 and captions are in plain text.,2
+zip file of IUCr Crystallographic Information File (CIF) datasets,2
+"json, pdf, txt",2
+Rdata,2
+動画,2
+8,2
+mph,2
+zip pdf,2
+json-ld,2
+GFF,2
+GitHub repository for Jupyter notebooks to implement ANDiE,2
+"Zip archive containing plain text, python, png, svg, csv, opju and ppt files.",2
+A structure data file (SDF) readable in any plain text editor.,2
+DM,2
+http:,2
+zip (sql + jpeg),2
+".tab, .kml, .shp, .json",2
+text/html;charset=ISO-8859-1,2
+ogv,2
+MS-Form,2
+".xlsx, png",2
+cdfjpg,2
+BIOCASE,2
+34521484375001&zL=5,2
+php?sid=116&parent_link=Permanent&pview=original,2
+usnistgov GitHub page for software,2
+application/vndams-excel,2
+image/jpx,2
+compressed zip file,2
+tradb,2
+Excél,2
+zip / zip,2
+EPUB3,2
+compressed ascii text file,2
+PDF e HTML,2
+50084,2
+Web site with links to data and analysis programs,2
+.zip archive containing TIFF images,2
+06 / 2014_0 / CSV,2
+MP4 video,2
+PAF,2
+zip-kml,2
+"The data is provided as wav files for the audio clips used, and results are presented as csv files.",2
+application/x-rar-compressed,2
+gov%7C195f0cdfd8654a97026f08d864bb73c6%7Ca0f29d7e28cd4f5484427885aee7c080%7C0%7C0%7C637370103552780722&sdata=yzp2Bl8fakjgFR8tuyYcfihFocHZNqJ%2FjH6WrztmzMk%3D&reserved=0,2
+2 column csv,2
+ZIP-Datei,2
+geo+json,2
+http://publications.europa.eu/resource/authority/file-type/QGS,2
+HDF4,2
+Python module,2
+Web Map Viewer,2
+xml osm,2
+word doc,2
+gda,2
+OCPDB-API,2
+9608&rep=rep1&type=pdf,2
+asccdfnc,2
+open data website,2
+virtual instruments (VI) that run under LabVIEW environment on Windows 7.  zipped into an archive,2
+Matlab function,2
+The file is saved as a csv.,2
+video files on NIST Tube,2
+text/x-web-markdown,2
+01 / 2015_0 / csv,2
+gri,2
+fgb,2
+zip / xlsm,2
+SketchUp Model,2
+STL part file,2
+Windows .exe,2
+WW:DOWNLOAD-1.0-http--download,2
+rdf/turtle,2
+Seismic_Velocity_Model_FORGE_Site,2
+comma-separated-value,2
+php?cite=202,2
+SpatiaLite,2
+Comma Separated Values (CSV),2
+3dm,2
+PB,2
+pdf / zip,2
+MBTILES,2
+esri compact cache,2
+11 / 2016 / CSV,2
+Demo images in TIFF and code in MATLAB 2016b,2
+"For each Excel file, the nominal Neff values are in Col. 2 and the 95% confidence interval is in Col. 7",2
+Moka,2
+WWW:DOWNLOAD-1.0-ftp--download,2
+Diferentes aplicaciones y dos manejadores de base de datos con replicación para su actualización:Oracle 11g (principal) e Informix IDS 11,2
+twb,2
+J060866,2
+ukst,2
+text/xml; charset=utf-8,2
+zip files,2
+o PDF),2
+Stata .do,2
+Python source code,2
+image/svg,2
+application/jpeg,2
+text format file,2
+Zipped Shapefile,2
+web page with data links,2
+OCT 2014 / CSV,2
+317,2
+"virtual instrument that runs under National Instruments LabVIEW environment on windows 7, zipped into one file",2
+text/xls,2
+PowerBI,2
+118,2
+"Sitio Web Institucional, Manejador de Contenidos Joomla. Los mapas son obtenidos en Google Maps",2
+pt/,2
+Shiny,2
+text/x-sh,2
+Microsoft Access 2000,2
+A data respository,2
+zipped supplemental data file,2
+Formatted text with embedded tables and figures,2
+csv and json,2
+NIST-LANL Lanthanide/Actinide Opacity Database,2
+Plain text,2
+esri rest - token,2
+ff,2
+ascii text,2
+H,2
+RSS-Feed,2
+ArcInfo,2
+ESRI GDB,2
+coNLL-U,2
+website containing data files,2
+GRID_ASCII,2
+portal web html y xml,2
+A version controlled repository on Github.com,2
+9b02179,2
+SQL Server 2000,2
+2022-1293,2
+jgw,2
+php?sid=9240&parent_link=Permanent&pview=original,2
+video files and ground truth,2
+"Gif, Texto",2
+GJSON,2
+pgn,2
+Archived Webpage,2
+html#data-access-examples,2
+meta/rdf-schema,2
+Open Date Site,2
+HDML,2
+pridb,2
+Winrar,2
+"SHP, GDB, TAB, QLR",2
+MARC/gzip,2
+Tableau Workbook,2
+PHYLIP,2
+Undefinednc tarlogdatmpgidljpg,2
+application/x-gtar,2
+cif,2
+CVC,2
+matlab fig file,2
+Matlab script,2
+application/vnd.wolfram.cdf,2
+Postgresql,2
+human readable header file,2
+Testdaten,2
+xslm,2
+102,2
+pdf#search=INL%20Seismic%20Monitoring%202010%20Annual%20Report,2
+RDFA,2
+"ascii text, two columns",2
+Zipped file containing raw GC-MS data files.,2
+ESRI Token,2
+IKT,2
+api arcgis server map service,2
+dataset,2
+AGIS_MAPPING,2
+Project Open Data Schema 1.1 JSON,2
+Text files in zip file,2
+image/vnd.dxf,2
+"SHP, KML",2
+pt/getogc/services/SNIAmb/Estacoes_monitorizacao_aguas_subterraneas/MapServer/WFSServer?SERVICE=WFS&request=GetCapabilities,2
+JSON in ZIP,2
+MATLAB data file,2
+GML / zip,2
+Exel,2
+KML/SHP/CSV,2
+"excel, pdf",2
+2022-1098,2
+Sybase Versión 12.5,2
+A zip file,2
+GeoJSON-ITM,2
+00142,2
+esri feature service,2
+ASCII text file  (*.txt),2
+3 column csv,2
+"space-delimited 8-column text file with 6 lines of comments at the beginning. format is :# data set structure # column    1: energy, eV # column    2: system efficiency # column 3, 4: raw intensity and standard error # column 5, 6: raw background and standard error # column 7, 8: efficiency corrected net intensity and standard error",2
+link to Github,2
+"CSV, Excel, SPSS, Stata",2
+10 / 2014 / CSV,2
+CIF,2
+"txt,html",2
+zip-compressed folder of R scripts and tab-delimited text files,2
+"csv,xls",2
+application/htmlf,2
+Web interface access portal,2
+EasyPlot files and tab-deliminted text files with data plotted in paper.,2
+monthlywspike,2
+11 / 2015 / csv,2
+"ascii, jpeg",2
+1573769535,2
+Weblink,2
+"SICAM 
+(Sistema de Información de Cáncer de la Mujer)",2
+Zipped JSON,2
+"CSV, Excel, HTML",2
+csv-semicolon delimited,2
+fmp12,2
+aspx?DataId=3&ERCOT___Ancillary_Services_MCP,2
+txt / gz,2
+"array, scales for axes",2
+GitHub repository,2
+1 / 15 / CSV,2
+Formato Shapefile completo,2
+Excel file with one column corresponding to the correlation matrix values,2
+Base de Datos,2
+dng,2
+Undefinedmntpngtxtgifmpgjpgasc,2
+Compressed archive,2
+ca,2
+text/x-expect,2
+Perl,2
+"text, csv,pdf",2
+04 / 2017 / CSV,2
+"Excel
+El Manejadro de Base de Datos es parte del servicio que proporciona el proveedor y es Oracle 11g",2
+ASCII text file,2
+Undefinedjpg,2
+".csv, .mat, .wav",2
+xqis,2
+CSV-ITM,2
+github,2
+MS Excel,2
+MAS,2
+Undefinednc tar,2
+2113985119,2
+http://publications.europa.eu/resource/authority/file-type/JPEG2000,2
+"Organized with x data given in the first column and, for line plots, y data given in subsequent columns or, for surface plots, y data given in the second column and z or color data given in the third column. Column headers define each axis with units reported as ""_units"".",2
+siri lite,2
+Folders corresponding to figures in the paper,2
+06 / 2015 / csv,2
+VSV,2
+"json, xml, csv",2
+zip-datei,2
+0&SERVICE=WFS&REQUEST=getcapabilities,2
+Persistent identifier for Analysis and Optical Modeling of Individual Heterogeneous Asian Dust Particles Collected at Mauna Loa Observatory,2
+pfd,2
+fpeg,2
+php?state=NV,2
+"A version controlled, Github repository with each addition to (or edit of) measurement data saved with a unique identifier (i.e., commit tag).  Measurement data from repeated experiments is saved in separate, ASCII comma-delimited (.csv) files, each numbered sequentially.",2
+comma-separated values file,2
+pd0,2
+"MAT, TAR, CSV, TXT, XLSX",2
+"excel, csv, html",2
+pdf y página web del consejo,2
+101877,2
+SDF (text file),2
+tpl,2
+"SICAM 
+(Sistema de Información de Cáncer de la Mujer)",2
+fof,2
+MATLAB and Python Code,2
+.m file with script; .mat files with data,2
+ashx,2
+conll,2
+/ csv,2
+Webcast,2
+JSON structured material metadata records,2
+JGW,2
+NGI,2
+osm,2
+NSRL main page,2
+"TBX, XML",2
+DWC,2
+ARQUIVO_ZIP,2
+"XLS,Google Maps",2
+zip-compressed file of JSON and NumPy data files,2
+SlidesShare,2
+tab-separated text file,2
+Matlab .mat data file,2
+a text file,2
+021,2
+MSQLi,2
+Servicio Web,2
+GitHub repository for software,2
+citygml,2
+dSV,2
+"zip,txt",2
+"sub-virtual instruments that run in the National Instruments LabVIEW environment on Windows 7, zipped into one file",2
+extracción del sistema automatizado aduanero integral (saai) - excel,2
+A Microsoft Excel spreadsheet,2
+Adobe,2
+deutsch,2
+xlx,2
+segy,2
+bag,2
+Web application,2
+formato shapefile completo,2
+"Source code in C, precompiled examples",2
+00511,2
+HyperText Markup Language (HTML) (.html),2
+"base de datos: sql server 2008
+
+esquema anterior: informix ids 10.0",2
+"CSV, Excel, SPSS, Stata, SAS",2
+",xlsx",2
+.dat and .png,2
+Matlab data and code as .mat and .m files,2
+Github repository site for software,2
+12 / 2016 / CSV,2
+ESRI GEODATABASE,2
+ASCII text with CRLF line terminators,2
+universal DXF CAD format,2
+SHP TAB JPEG2000 - GDA94 JPEG2000 - MGA94,2
+09 / 2015 / CSV,2
+"Information is read directly from webpages.  Where information is sortable, it can be downloaded into a pdf, Excel, html format.",2
+Arc/Info Binary Grid Format,2
+"text, pdf",2
+esri,2
+"SQL SERVER, POSTGRES, ACCES",2
+TAR.GZIP compressed file,2
+音声,2
+2015,2
+OD / ODS,2
+Python repository,2
+2 / PDF,2
+comma-separated value text file,2
+crv,2
+ZIP file with .jpg and MATLAB .fig plots.,2
+Undefinedziphtm,2
+"Python source code, documentation in jupyter notebook, markdown and rst formats",2
+zip file with html and jpeg formatted images,2
+0_V2 / PDF,2
+db2,2
+.tiff,2
+kmx,2
+Google Sheets,2
+CSV-formatted table,2
+catalogue,2
+Open data Site,2
+AutoCAD,2
+pt/dados_abertos/info_recursosminerais?Id=1701,2
+zipped excel spreadsheet,2
+Comma-separated values,2
+ASCII Text,2
+"ascii text, columns",2
+Bitmap,2
+ascii numbers,2
+.pdf documents,2
+zipped sql and text files,2
+Microsoft Access 365,2
+matlab figure file,2
+ZIP file containing MPEG-4 thermal videos,2
+open,2
+2006IUR.zip contains 4 DBF files and an IUR_2006_Readme.doc file. The DBF files store the non-confidential IUR records for 2006.,2
+Zip file of source code,2
+Manejador de Bases de Datos SQL Server.,2
+"consulta local)
+base de datos: sql server 2008",2
+pdf documentation file,2
+comma separated files in a compressed zip file,2
+1 / XLS,2
+edu,2
+*.pdf,2
+Undefinedmpgjpg,2
+f,2
+GEN,2
+Undefinedmpgpdfpgdjpgascpgt,2
+text/htm,2
+others,2
+mo,2
+esri vtpk,2
+Undefinednc txttsvtarziphtmsybpdfpgd,2
+this file is in ASCII text format,2
+edi,2
+Vector,2
+"Python source code, documentation in Jupyter notebook, markdown and rst formats",2
+rdf/n3,2
+Python pickle file,2
+"solidworks part, SLDPRT",2
+OGC GeoPackage Encoding Standard,2
+stp,2
+image/heic,2
+github software repository,2
+mvt,2
+"csv, zip",2
+LPK,2
+hdr,2
+text/rtf,2
+pdf?sequence=1&isAllowed=y,2
+TXT / GZ,2
+Excel.,2
+JUL 2014 / CSV,2
+"html, csv",2
+application/ibooks,2
+skp,2
+FILE:GEO,2
+video/vnd.dece-mp4,2
+ppmod,2
+SQL Server 2008,2
+"mp4, xml, json",2
+ASCII text in comma separated variable (CSV) format,2
+013,2
+cav,2
+"Origin Project, OPJU",2
+text/kmz,2
+php?id=35430,2
+lst,2
+Github Repository URL,2
+1 / PDF,2
+Undefinednc,2
+"solidworks assembly, SLDASM",2
+Github Source Repository,2
+STL file,2
+zipped text files,2
+"xls, zip",2
+Undefinedpdfasc,2
+FEB 2015 / CSV,2
+SKOS RDF,2
+zip (sql),2
+"C code, ASCII text",2
+Undefinednc tsv,2
+Agilent Technologies and Thermo Scientific raw data files,2
+YouTube,2
+GML2,2
+04 / 2015 / csv,2
+geom,2
+SQLite Database Format,2
+MATLAB mat file,2
+All data are given as .txt. files,2
+pdf?p_id=12,2
+wrf,2
+3DTiles,2
+ESRI Shp,2
+application/x-bzip2,2
+Compressed file archive,2
+12 / 2014 / CSV,2
+BIB,2
+"3-column text file, delimited with spaces.  First column is photon energy in eV.  Second column is intensity.  Third column is the spline coefficient, as described in the paper.",2
+000,2
+Dicha información se concentra a través del Portal Aplicativo de la Secretaría de Hacienda y Crédito Público (PASH),2
+Excel file,2
+.s2p,2
+mdv,2
+ZIP file with .img raw IR camera files,2
+application/vnd.openxmlformats-officedocument.wordprocessingml.t,2
+Compressed archive.,2
+Python 3.8 module,2
+spp,2
+N/A,2
+application/csv,2
+mif−mid,2
+Matlab code and app designer files.,2
+vnd.esri-fgdb,2
+image/example,2
+"array, columns, and rows",2
+SGML files,2
+kmzv,2
+"Fortran 90 code, MPI, ASCII text",2
+Excel files with labelled columns,2
+MATLAB function,2
+diferentes aplicaciones y dos manejadores de base de datos con replicación para su actualización: informix 11 y sql server 2008,2
+Python Code,2
+xlsx / zip,2
+Comma-Separated Values (.csv),2
+grib,2
+"Fortran 90 code, ascii",2
+raw files,2
+HTML page,2
+Github repository,2
+application/x-iso9660-image,2
+"JSON, JSONP",2
+jpeg2000,2
+tar.gz compressed file,2
+.prj,2
+DB,2
+C/C++,2
+4111&rep=rep1&type=pdf,2
+base de datos,2
+CSV files,2
+"Origin project, OPJU",2
+"Excel
+NOTA: Diferentes aplicativos pero sus bases de datos son Informix IDS 11",1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_ULMUS_PARVIFOLIA_TODD_PDF,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_EUCALYPTUS_LEUCOXYLON_EUKY_WARF_PDF,1
+posstatio,1
+003,1
+pt/dados_abertos/info_recursosminerais?Id=3782,1
+ZIP(CSV),1
+online database,1
+ts,1
+ypynb,1
+posreprol,1
+005,1
+dossier contenant les images,1
+pospaysag,1
+"ASCII, BIL",1
+qix,1
+text/html; Charset=UTF-8,1
+http://publications.europa.eu/resource/authority/file-type/ICS,1
+java,1
+pt/getogc/services/SNIAmb/Promocao_e_Cidadania_Ambiental/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+.sps,1
+"url, xlsx",1
+OpenLayers,1
+posperime,1
+"SHP, KML, CSV",1
+Swagger,1
+linked data,1
+AU/API/V2/CATALOG/DATASETS/OFF-STREET-CAR-PARKS-WITH-CAPACITY-AND-TYPE/ATTACHMENTS/CLUE_DEFINITIONS_4_PDF,1
+"XLSX, HTML, PDF",1
+pt/dados_abertos/info_recursosminerais?Id=1708,1
+VIDEO/X-MS-WMV,1
+"html, xml,pdf",1
+predefined ATOM,1
+APSX,1
+http://publications.europa.eu/resource/authority/file-type/pdf,1
+poszone,1
+application/x-tex,1
+binary/fits,1
+qmd,1
+TGZ,1
+"zip, cubes multi-dimensionnels (application disar)",1
+.csaplan,1
+id,1
+base de datos oracle.,1
+Jso,1
+model/gltf-binary,1
+"CSV, XLSX, XML",1
+Msg,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_geologica_acores,1
+"pdf, zip, doc",1
+"text (.csv), semicolon separated",1
+wms & wfs,1
+"WORD, RAR",1
+pt/pt/dados_abertos/cartografia_geologica/cgp500k,1
+"BIL, ASCII",1
+ogc/wms,1
+AU/API/V2/CATALOG/DATASETS/ROOFTOPS-WITH-ENVIRONMENTAL-RETROFITTING-OPPORTUNITIES-ROOFTOP-PROJECT/ATTACHMENTS/THE_ROOFTOP_PROJECT_RAW_GEOTIFFS_ZIP,1
+zip-compressed folder of text files (f90),1
+pt/geoserver/DDO_RAM/wms?REQUEST=GetCapabilities&SERVICE=WMS,1
+.gz,1
+gis,1
+"SHP, TAB, FGDB, KMZ",1
+access relational database,1
+WCS_SRVC,1
+SDE-Feature-Class,1
+application/pdf; charset=UTF-8,1
+pdf; xlxs,1
+AU/API/V2/CATALOG/DATASETS/BUILDING-OUTLINES-20140/ATTACHMENTS/BUILDING_OUTLINES_2014_DATA_DICTIONARY_PDF,1
+trig,1
+pt/getogc/services/SNIAmb/Estacoes_monitorizacao_qualidade_aguas_superficias/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+xml / json,1
+pt/pt/dados_abertos/cartografia_geologica/cartografiageologicainternacional/cartageologicamacau,1
+zip-compressed folder of MATLAB scripts and tab-delimited text files,1
+AU/API/V2/CATALOG/DATASETS/TREE-PLANTING-ZONE-SCHEDULES-WITH-YEARS-URBAN-FOREST/ATTACHMENTS/DATA_DICTIONARY_TREE_PLANTING_SCHEDULE_PDF,1
+/SLIDEPACKS/JULY%202015,1
+"shapefile, dwg, tif, asci, DTM, DEM, DSM, xyz, xyzi, las",1
+"shp, csv, json",1
+AU/API/V2/CATALOG/DATASETS/THERMAL-IMAGE-2012/ATTACHMENTS/THERMAL_IMAGE_2012_JPEG,1
+.zip .tiff,1
+pt/getogc/services/INSPIRE/AM_DesignatedWaters/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+Program,1
+Webloc,1
+application/java-archive,1
+posloceqp,1
+VIDEO/QUICKTIME,1
+lien vers,1
+zip:KMZ,1
+NETCDF-CF1.6 format,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_DWARF_FLOWERING_GUM_PDF,1
+pt/pt/dados_abertos/cartografia_geologica/cgp1m/,1
+FRM,1
+WEBSOCKET/JSON,1
+"ZIP, TIFF",1
+ArcGIS Signature file gsg,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_EUCALYPTUS_SIDEROXYLON_PDF,1
+.sbx,1
+ogc/wfs,1
+"zip, word",1
+zrxp,1
+XLS/PDF,1
+Beyond 20/20,1
+pospaspar,1
+ZIP (CSV),1
+RTCM,1
+pt/pt/dados_abertos/cartografia_geologica/cgp200k/,1
+http://publications.europa.eu/resource/authority/file-type/HDF,1
+"wms,wfs",1
+postscript,1
+marc,1
+002,1
+pospolyimplant,1
+"xls,ods",1
+GRI,1
+source code (fortran 95),1
+ARCINFO_COV,1
+pt/getogc/services/INSPIRE/EF_DQA_QUALSUP/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+pt/getogc/services/INSPIRE/AM_WaterBodyForWFD_WFDTransitional/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+pt/getogc/services/INSPIRE/AM_SensitiveArea_lessSensitiveArea/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+o03,1
+pt/dados_abertos/info_recursosminerais?Id=1691,1
+GSB,1
+zip-compressed folder of matlab scripts and tab-delimited text files,1
+pt/getogc/services/INSPIRE/LU_SupplementaryRegulation_AlbufeirasAguasPublicas/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+map application,1
+SHP/KML,1
+TFIS NAS,1
+posintacc,1
+BAS,1
+pt/geoserver/DDO_RAA_GRUPOOCIDENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS,1
+pt/getogc/services/INSPIRE/HY_PhysicalWaters_BaciasDQA/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+PBF,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_CORYMBIA_CITRIODORA_PDF,1
+DTA,1
+.mxd,1
+application/vnd.ogc.wcs_xml,1
+FINF,1
+zmap,1
+เว็บไซต์,1
+AU/API/V2/CATALOG/DATASETS/ROOFTOPS-WITH-ENVIRONMENTAL-RETROFITTING-OPPORTUNITIES-ROOFTOP-PROJECT/ATTACHMENTS/THE_ROOFTOP_PROJECT_DATA_INFORMATION_DM,1
+gramm-sci,1
+wiki,1
+GIS Shape,1
+"jpg, png",1
+a-qgis,1
+"doc, xls, zip",1
+zip:DXF,1
+GraphQL,1
+csv.xlx,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/cgp2m,1
+"xls, GeoJSON, GML m.m.",1
+.txm,1
+posoaqs,1
+Map,1
+"RAR,XLS",1
+pt/getogc/services/INSPIRE/EF_Hidrometricas/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+wbn,1
+csv zipped,1
+sources,1
+synop,1
+Ansys-APDL,1
+Nesstar,1
+"Excel
+SQL Server 2000",1
+zip odt,1
+WARC,1
+text/plain; charset=UTF-8,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_HAKEA_BUCCULENTA_X_FRANCISIANA_PDF,1
+esri shp,1
+pt/geoserver/DDO_PT_CONTINENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS,1
+dcx,1
+"Database,Image,HTML",1
+autodesk 3ds,1
+"Excel, SQL Server 2000",1
+pt/dados_abertos/info_recursosminerais?Id=3202,1
+"XLXS, PDF",1
+MPA,1
+.BIL,1
+zipped OBJ,1
+http://apps.cbp.gov/bwt/bwt.xml,1
+GeoPDF,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_ACACIA_IMPLEXA_PDF,1
+PDf,1
+PED,1
+AU/API/V2/CATALOG/DATASETS/BARS-AND-PUBS-WITH-PATRON-CAPACITY/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+pt/getogc/services/INSPIRE/US_Residuos_OAU/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+smet,1
+vnd.oasis.opendocument.text,1
+bib,1
+mid,1
+GEOJASON,1
+zip.odt,1
+".png , .csv , .nc (netcdf)",1
+STRU,1
+ics,1
+zip/tsv,1
+網址,1
+zip\dbf,1
+pt/getogc/services/INSPIRE/US_Residuos_MRRU/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+ZIP/CSV,1
+"gml, geopackage, esri gdb",1
+CV,1
+"Leapfrog Geo Model, Leapfrog Viewer File, ESRI Grid, GOCAD ASCII",1
+"zip, shp, xml. mxd",1
+.ΧLS,1
+pdf & xlsx,1
+RDF-Linked,1
+th,1
+GeoJson,1
+"pdf, shp",1
+LMF,1
+"zip,xls",1
+hyper,1
+http://publications.europa.eu/resource/authority/file-type/CSS,1
+DMI,1
+nadcon,1
+RIS,1
+xls html csv,1
+"xls, ivt, csv",1
+HTML + XML,1
+"zip:dat, zip:id, zip:map, zip:tab",1
+"4GL - Visual Basic
+Base de Datos: Informix IDS 11",1
+Polygon geodatabase,1
+RDF-N3,1
+"json, xml",1
+common alerting protocol,1
+".xls , Database",1
+aaigrid,1
+pt/getogc/services/SNIAmb/Estacoes_monitorizacao_aguas_subterraneas/MapServer/WMSServer?SERVICE=WMS&request=GetCapabilities,1
+zip-compresses folder of R scripts,1
+GRIB 1,1
+png et svg,1
+Shared Defintion,1
+.gx,1
+DML,1
+Google Doc,1
+.gh,1
+zip/json,1
+Online database,1
+WMS-C,1
+AU/API/V2/CATALOG/DATASETS/THERMAL-IMAGE-2012/ATTACHMENTS/GEOTIFF_1_ZIP,1
+AU/API/V2/CATALOG/DATASETS/PARKING-RESTRICTIONS-SOUTHEAST-CBD-ONLY-2014/ATTACHMENTS/MELBOURNE_PARKING_RESTRICTIONS_SUBSET_HTML,1
+OPT,1
+Excell,1
+page,1
+text.html,1
+"shp, shx, prj, dbf",1
+zip-compressed folder of ASCII files,1
+"csv,xlsx",1
+*.7z,1
+http://publications.europa.eu/resource/authority/file-type/PDFA1A,1
+pt/getogc/services/SNIAmb/Avaliacao_de_Impacte_Ambiental,1
+.XLX,1
+ATAG,1
+Sodium hydrosulfite,1
+"""""",1
+MS Word,1
+"shp, rar, xml",1
+analoges Kartenwerk,1
+application/x-csh,1
+"SHP, CSV, JSON",1
+resn rest api,1
+"pdf, html",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaAML_100k,1
+SHP map,1
+CitySDK,1
+SHP TAB GDB KMZ,1
+csvtmp,1
+image/x-portable-graymap,1
+TILES,1
+"spf, mwx, bfr",1
+bash,1
+microsoft office excel,1
+pt/getogc/services/INSPIRE/EF_Qualidade_do_Ar/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+AU/API/V2/CATALOG/DATASETS/PRE-COLONIAL-PLANT-LIST/ATTACHMENTS/PRE_COLONIAL_PLANT_LIST_FOR_THE_CITY_OF_MELBOURNE_PDF,1
+|,1
+vtk,1
+zip-compressed folder of tif files (raster layers),1
+http://publications.europa.eu/resource/authority/file-type/SPARQLQ,1
+AU/API/V2/CATALOG/DATASETS/BUSINESS-ESTABLISHMENTS-WITH-ADDRESS-AND-INDUSTRY-CLASSIFICATION/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+image/webp,1
+ogc,1
+"XLSX, CSV",1
+pt/getogc/services/SNIAmb/MA_BaciasHidrograficas_PtCont/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+pt/getogc/services/INSPIRE/AM_RiverBasinDistrict/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+poshauvoi,1
+"zip,csv,mat",1
+application/sla,1
+FAS,1
+",rar",1
+mp3,1
+pt/pt/dados_abertos/cartografia_geologica/carta_hidrogeologica_200k/,1
+"Excel
+Sin identificación",1
+"zip,xml",1
+"FGDB, TAB, XLS",1
+SHP.ZIP,1
+"csv,html table",1
+.sh,1
+arcinfo binary coverage,1
+0&REQUEST=GetCapabilities,1
+ATOM FEED,1
+IATI,1
+ΚΜL,1
+icalendar,1
+application/x-ntriples,1
+IND,1
+Tab separated values,1
+tab delimited,1
+pt/dados_abertos/info_recursosminerais?Id=3868,1
+csv\,1
+spatiallite,1
+apk,1
+XCSV,1
+CSV.7z,1
+pt/getogc/services/SNIAmb/ZonasAdjacentes_PubDR/MapServer/WFSServer?SERVICE=WFS&request=GetCapabilities,1
+",PDF",1
+"search, view & download data",1
+"SHP, TAB, GDB, QLR",1
+ogc web map service (wms),1
+.tab,1
+pt/server/services/CartaDepositosMinerais_Norte/MapServer/WMSServer?Request=GetCapabilities&Service=WMS,1
+postexte_sms,1
+pt/getogc/services/INSPIRE/HY_PhysicalWaters_Catchments_Drainage_Basin/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+ogc web feature service (wfs),1
+Matlab code,1
+WMC,1
+power bi report,1
+"rar,doc",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_hidrogeologica_1m/carta_nascentes_minerais_1m,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_ZELKOVA_SERRATA_GREEN_VASE_PDF,1
+http://publications.europa.eu/resource/authority/file-type/ARC,1
+"zip, jpeg",1
+esri token,1
+"JPG,PNG,TIFF",1
+it,1
+"Excel
+NOTA: Diferentes aplicativos pero sus bases de datos son Informix IDS 11",1
+"SEG-Y, SEG-D, MIRF5",1
+classifide,1
+"html,doc,docx",1
+.asc,1
+Markdown,1
+NEAD,1
+ply,1
+p,1
+zip:dxf,1
+pt/server/services/CartaRecursosArgilosos/MapServer/WMSServer?Request=GetCapabilities&Service=WMS,1
+pdf doc,1
+CDF_abrupt change_AMOC,1
+.html .json .xml .csv,1
+"shp, xlsx",1
+pt/getogc/services/INSPIRE/LU_ZoningElement_POAAP/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+AUX,1
+git,1
+tableau workbook,1
+http://publications.europa.eu/resource/authority/file-type/SVG,1
+"zip,pdf",1
+AU/API/V2/CATALOG/DATASETS/2020-BUILDING-FOOTPRINTS/ATTACHMENTS/ROOF_TYPE_DEFINITIONS_PDF,1
+pt/product/mapa-de-depositos-minerais-de-portugal-escala-1-200-000/,1
+meta,1
+excel spreadsheet,1
+AU/API/V2/CATALOG/DATASETS/THERMAL-IMAGE-2012/ATTACHMENTS/GEOTIFF_2_ZIP,1
+Excel Workbook (*.xlsx),1
+Otros,1
+"rar, shp",1
+pospieton,1
+http://publications.europa.eu/resource/authority/file-type/7Z,1
+mathematica notebook,1
+Esri GDB - zipped,1
+AU/API/V2/CATALOG/DATASETS/2018-AERIAL-IMAGERY-TRUE-ORTHO/ATTACHMENTS/PREVIEW_IMAGE_JPEG,1
+shiny90,1
+AU/API/V2/CATALOG/DATASETS/EVENT-PERMITS-2014-2018-INCLUDING-FILM-SHOOTS-PHOTO-SHOOTS-WEDDINGS-CHRISTMAS-PA/ATTACHMENTS/DATA_DICTIONARY_FOR_EVENT_PERMITS_PDF,1
+"shapefile, ascii and kml",1
+pdt,1
+"Formatos JPEG, BMP, PNG",1
+ASCII grid,1
+"shp, gml, geojson, csv",1
+postsgresql 8,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_EUCALYPTUS_LEUCOXYLON_PDF,1
+zip-compressed folder of ascii files,1
+image/vnd.dwg,1
+Gerber,1
+pt/dados_abertos/info_recursosminerais?Id=3221,1
+PLY,1
+Sistema de Aprovechamiento en el Derecho de Vía de la DGDC (SIADV),1
+gix,1
+pt/getogc/services/INSPIRE/HY_PhysicalWaters_Bacias_MassasAgua/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+xlslx,1
+pt/getogc/services/SNIAmb/POC/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,1
+COG,1
+pt/pt/dados_abertos/cartografia_geologica/cartas_hidrogeologicas_100k/carta_hidrogeologica_orlaalgarvia_100k,1
+"zip:gml, zip:xsd",1
+SHP TAB GDB KML CSV XLS,1
+MIF / TAB,1
+posdocumentcommune,1
+MIF/MID,1
+0,1
+ortho_2012,1
+ppid,1
+Visualisation,1
+PX,1
+shape-file,1
+xmdf,1
+zip + csv,1
+asmx xml,1
+AU/API/V2/CATALOG/DATASETS/BUILDINGS-WITH-NAME-AGE-SIZE-ACCESSIBILITY-AND-BICYCLE-FACILITIES/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+webp,1
+Tab-delimited text,1
+SHP tab,1
+"ZIP,MAT",1
+a,1
+renovacion seguro popular,1
+Shape File,1
+SHP or TAB,1
+M-file,1
+"zip, doc, pdf",1
+application/vnd.ms-excel; charset=utf-8,1
+SOSI,1
+"esri grid, esri gdb, esri shapefile",1
+"shape, GeoJSON, JSON, XML, fileGeoDataBase, WMS, WFS",1
+JPEG2020 - GDA2020 - MGA2020,1
+wkt,1
+ogc api - features,1
+api arcgis map service,1
+CKPT,1
+MS Access,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_MELALEUCA_LANCEOLATA_PDF,1
+Map portal,1
+.3dm,1
+"html , Database",1
+OGC API,1
+VIDEO/DREAMBROKER,1
+ALTO XML,1
+MAT,1
+REST-API,1
+APPLICATION/X-7Z-COMPRESSED,1
+http://publications.europa.eu/resource/authority/file-type/PPTX,1
+AU/API/V2/CATALOG/DATASETS/DEVELOPMENT-ACTIVITY-MONITOR/ATTACHMENTS/DAM_INFO_DAM_MAY_2016_META_DATA_INFO_PDF,1
+extended tab,1
+sistema integral de contabilidad aduanera (sica) informix,1
+ArcGIS REST WMS WFS,1
+text/x-bibtex,1
+"JSON, XML",1
+JPG_ZIP,1
+Keine Angabe,1
+grib1,1
+pt/geoserver/DDO_RAA_GRUPOCENTRAL_ORIENTAL/wms?REQUEST=GetCapabilities&SERVICE=WMS,1
+XLSLX,1
+AU/API/V2/CATALOG/DATASETS/PEDESTRIAN-COUNTING-SYSTEM-MONTHLY-COUNTS-PER-HOUR/ATTACHMENTS/PEDESTRIAN_COUNTING_SYSTEM_MONTHLY_COUNTS_PER_HOUR_MAY_2009_TO_14_DEC_2022_CSV_ZIP,1
+JPEG-2000,1
+ZIP+XML,1
+GRID,1
+xml; gif,1
+ogc api feature,1
+SRT,1
+feather,1
+eForms / ZIP,1
+PostGIS database,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_BUCKINGHAMIA_CELSISSIMA_PDF,1
+Cypher,1
+pt/getogc/services/INSPIRE/AM_WaterBodyForWFD_GroundWaterbody/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+pt/getogc/services/INSPIRE/PF_Prevencao_Acidentes_Graves/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+image/bmp,1
+RAW,1
+pt/getogc/services/INSPIRE/PF_CELE/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+TBX,1
+url;xls,1
+xlt,1
+pt/getogc/services/SNIAmb/PraiasAcessiveis/MapServer/WFSServer?SERVICE=WFS&request=GetCapabilities,1
+tab separated values,1
+"PDF, SHP",1
+zipped - esri grid,1
+8 bit-GeoTIFF,1
+"WMS, WMTS-Time",1
+gml.gz,1
+pt/getogc/services/INSPIRE/US_EnvironmentalEdCentre/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+mpeg,1
+.do,1
+SHP ZIP,1
+"xml, html, xls, rdf",1
+chemical/x-gamess-input,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_FRAXINUS_ANGUSTIFOLIA_RAYWOOD_PDF,1
+ags_geocodeserver,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_MELIA_AZEDARACH_PDF,1
+"csv, json",1
+Url,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaMadeira_PortoSanto_80k,1
+"csv,json",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaDouroInternacional_50k,1
+AU/API/V2/CATALOG/DATASETS/MAHLSTEDTS-FIRE-PLANS-OF-MELBOURNE-1888/ATTACHMENTS/MAHLSTEDT_1880_ZIP,1
+"Shape, KML",1
+AU/API/V2/CATALOG/DATASETS/LANEWAYS-WITH-GREENING-POTENTIAL/ATTACHMENTS/LANEWAYS_WITH_GREENING_POTENTIAL_PDF,1
+poslimimp,1
+"SHP, TAB, FGDB",1
+XLM,1
+"csv, xml, json, ical",1
+"csw,html,xml",1
+text/html; charset=WINDOWS-1252,1
+fm 35 - temp,1
+"Excel
+SQL Server 2000",1
+doc pdf zip,1
+Zip,1
+google drive,1
+pt/pt/dados_abertos/cartografia_geologica/cartografiageologicainternacional/cartaguinebissau,1
+Digital terrain model,1
+zip-compressed folder of r scripts and data files,1
+pt/product/mapa-geologico-de-espanha-e-portugal-a-escala-11-000-000/,1
+"Shape, CSV",1
+Pdf doc zip,1
+*.csv,1
+pt/getogc/services/INSPIRE/PF_Licenciamento/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+"esri gdb, esri shp, esri mdb, dgn, dxf",1
+"xls, ods.",1
+ESRI File-Geodatabase,1
+pt/florestas/prof,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaMunicipioGois,1
+FNP,1
+"xls,ods, pdf",1
+EXL,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaParqueNaturalRiaFormosa_100k,1
+csv (delimitado por comas),1
+ESRI shapefile - zipped,1
+CSV e XLS,1
+posespnonaed,1
+"esri gdb, esri shp, esri mdb",1
+"zip, ods",1
+pt/getogc/services/SNIAmb/RegHidrograficas_PtCont/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,1
+fm 32 - pilot,1
+xdt,1
+polygon package,1
+"doc, xls, zip, pdf",1
+zipped kml,1
+gtm,1
+.py,1
+"pdf, xml",1
+slk,1
+pt/getogc/services/SNIAmb/Unid_Hidrogeologicas/MapServer/WMSServer?SERVICE=WMS&request=GetCapabilities,1
+"RAR, XLS",1
+DBV,1
+data download,1
+ENVI binary,1
+stationxml,1
+XSD-Beschreibungsdatei für die XML-Datei,1
+ict,1
+app,1
+AU/API/V2/CATALOG/DATASETS/BUSINESS-ESTABLISHMENTS-PER-BLOCK-BY-CLUE-INDUSTRY/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+arcgis server,1
+ZIP/DBF,1
+WEBSITE,1
+postertia,1
+AU/API/V2/CATALOG/DATASETS/MICROCLIMATE-SENSOR-READINGS/ATTACHMENTS/MICROCLIMATESENSORS_METADATA_ATTACHMENT_DATADICTIONARY_1_PDF,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_PYRUS_CALLERYANA_CHANTICLEER_PDF,1
+ZIP PDF,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaConcelhoLisboa_10k,1
+DWG und FBX Format,1
+"shp, kml, txt",1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_FRAXINUS_PENNSYLVANICA_URBANITE_PDF,1
+Esri Shape,1
+"TIFF, LAZ",1
+flat-ascii text,1
+JOSN,1
+csv xml,1
+"zip, doc, xls",1
+/SLIDEPACKS/JANUARY%202015,1
+"esri gdb, esri shp, gpkg",1
+siri,1
+IPYNB,1
+mbTiles,1
+"Leapfrog Viewer File, ESRI Grid, GOCAD ASCII",1
+hlml,1
+pt/getogc/services/SNIAmb/PraiasAcessiveis/MapServer/WMSServer?SERVICE=WMS&request=GetCapabilities,1
+xls excel,1
+polygone-shp,1
+arc,1
+ini,1
+Dr Susan M Ellis,1
+WMS Dienst,1
+geoJSON,1
+zip/dbf,1
+CSV SHP KMZ TAB GDB,1
+application/x-compress,1
+warc.zip,1
+"rar,shp,xml",1
+"Excel
+Sin identificación",1
+http://publications.europa.eu/resource/authority/file-type/PPT,1
+pt/getogc/services/INSPIRE/AM_WaterBodyForWFD_WFDCoastal19/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+WPS,1
+arcgis rest,1
+GDb,1
+quakeml,1
+"HTML , XML , JSON",1
+tav,1
+.grd,1
+"xlm, xls",1
+.stl,1
+grid,1
+.xlms,1
+"pdf, doc",1
+Google Drive,1
+ftp site with zipped esri file geodabases,1
+"zip, shp, xml",1
+tessla,1
+jfif,1
+"csv, nc",1
+zipped software,1
+python code,1
+"url, pdf",1
+Fichero KMZ,1
+AU/API/V2/CATALOG/DATASETS/SMALL-AREAS-FOR-CENSUS-OF-LAND-USE-AND-EMPLOYMENT-CLUE/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+microsoft word document,1
+"shape, mapinfo, txt",1
+.XSLX,1
+Shiny90,1
+AU/API/V2/CATALOG/DATASETS/BUTTERFLY-BIODIVERSITY-SURVEY-2017/ATTACHMENTS/OUR_CITY_S_LITTLE_GEMS_PDF,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaParqueNaturezaNoudar_10k,1
+AU/API/V2/CATALOG/DATASETS/BLOCKS-FOR-CENSUS-OF-LAND-USE-AND-EMPLOYMENT-CLUE/ATTACHMENTS/CLUE_DEFINITIONS_1_PDF,1
+beyond 20/20,1
+analoge Karte,1
+"jpg, xls, shp, tiff",1
+IAM,1
+SHP TAB JEPG2000 - GDA2020 - MGA2020,1
+pt/getogc/services/INSPIRE/US_PilhasRedeElectrao/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+http://publications.europa.eu/resource/authority/file-type/SKOS_XML,1
+geojsom,1
+ArcGIS REST  WMS  WFS,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/ParqueNaturalSintraCascais_50k,1
+Zip/Text,1
+pt/getogc/services/INSPIRE/US_Residuos_SILOGR/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+c/c++,1
+006,1
+gml+xml,1
+json_ld,1
+rdf-n3,1
+MPEG4,1
+CLR,1
+text/x-tex,1
+"CSS, Java, PHP, JavaScript",1
+ERDAS imagine,1
+Quadri,1
+docx1,1
+postexte_paysag,1
+"CSV, XML",1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_ALLOCASUARINA_VERTICILLATA_PDF,1
+http://publications.europa.eu/resource/authority/file-type/ECW,1
+meta/sitemap,1
+AU/API/V2/CATALOG/DATASETS/DIGITAL-SURFACE-MODEL/ATTACHMENTS/DSM_JPEG,1
+VIDEO/YOUTUBE,1
+AU/API/V2/CATALOG/DATASETS/SUPER-SUNDAY-BIKE-COUNT/ATTACHMENTS/SUPER_SUNDAY_BIKE_COUNTS_METADATA_PDF,1
+wma,1
+"shp,xls,zip",1
+"zip, odt",1
+jtd,1
+shapfile,1
+npy,1
+.csv .mp4 .zip,1
+".pdf, XML",1
+Home Page,1
+TAB GDB KML CSV SHP,1
+"Excel, CSV, HTML",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/mapageologicosectornordestebraganca,1
+pt/pt/dados_abertos/info_recursosminerais/?id=1698,1
+pbix,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_BRACHYCHITON_JERILDERE_RED_PDF,1
+"ZIP,CSV",1
+poscommer,1
+"Extracción del Sistema Automatizado Aduanero Integral (SAAI) - Excel
+Base de Datos: Informix IDS 11",1
+postexte_loceqp,1
+"csv, xlsx, xls...",1
+vnd.restful+json,1
+test,1
+CNA,1
+application/pdf;charset=utf-8,1
+.pdf .py .zip,1
+MONOGRAI DESA KALIPANG TAHUN 2017,1
+"XML, JSON",1
+"xml,pdf",1
+SUBES,1
+AU/API/V2/CATALOG/DATASETS/CITY-OF-MELBOURNE-3D-POINT-CLOUD-2018/ATTACHMENTS/COM_3D_POINT_CLOUD_PREVIEW_JPEG,1
+"XLSX, PDF",1
+pt/caca,1
+xlk,1
+"shp, mxd, zip",1
+paf,1
+"esri shape file, kmz",1
+AU/API/V2/CATALOG/DATASETS/CITY-OF-MELBOURNE-3D-TEXTURED-MESH-PHOTOMESH-2018/ATTACHMENTS/TILE_INDEX_KML,1
+"TIFF, PDF",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaSerrasAireCandeeiros_50k,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_LOPHOSTEMON_CONFERTUS_PDF,1
+Web-Service,1
+pt/dados_abertos/info_recursosminerais?Id=1700,1
+jason,1
+xla,1
+http://publications.europa.eu/resource/authority/file-type/PSD,1
+all,1
+MIF2,1
+de,1
+OOXML,1
+othergeo,1
+1.2024..xlsx,1
+.zip .owl,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_CORYMBIA_EXIMIA_NANA_PDF,1
+xht,1
+007,1
+pt/getogc/services/INSPIRE/EF_DQA_QUANSUB/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+sistema desarrollado internamente  con información exportable a formato excel,1
+zip gdb,1
+pt/getogc/services/SNIAmb/Estacoes_monitorizacao_qualidade_aguas_superficias/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,1
+mxd,1
+"HDF5, geojson",1
+เว็บไซต์คณะวิทยาศาสตร์และเทคโนโลยี,1
+CSX,1
+zip:DHX,1
+VPF,1
+pt/geovisualizador/refloa/,1
+/SUGINAMI/OPENDATADETAIL,1
+poscote,1
+"Aplicación: PDC
+
+Diferentes Bases de Datos de Oracle 11g",1
+xlxb,1
+huggingface dataset,1
+".shp, .tif",1
+LAS/LAZ,1
+Ascii Grid,1
+SKOS,1
+dublincore/debatescore,1
+pt/getogc/services/SNIAmb/MA_BaciasHidrograficas_PtCont/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,1
+tiff +tfw,1
+"CSV, ZIP",1
+spatialite,1
+GDB SHP KML TAB,1
+fortran,1
+"pdf,rar",1
+"gem, ggf, gff, gdb, gsf, gms, dat, grd, gtx",1
+.rdata,1
+CLS,1
+zip:pdf,1
+pt/dados_abertos/info_recursosminerais?Id=1692,1
+001,1
+BVF,1
+Compact Disc,1
+airo.maynoothuniversity.ie,1
+eap,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaSerraEstrela_75k,1
+pt/getogc/services/SNIAmb/Promocao_e_Cidadania_Ambiental/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities,1
+DATEX II Lite,1
+pt/getogc/services/INSPIRE/AM_Residuos/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+".tiff, .gdf, .hdf5, .xlsx",1
+KLS,1
+AU/API/V2/CATALOG/DATASETS/ANNUAL-BIKE-COUNTS-SUPER-TUESDAY/ATTACHMENTS/SUPER_TUESDAY_BIKE_COUNTS_METADATA_PDF,1
+audio/midi,1
+Servicio Rest,1
+sparql,1
+b.d. postguesql,1
+".rdf, .owl",1
+ortho2009_vue_ensemble_16cm_cc46,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/ParqueNacionalPenedaGeres_50k,1
+application/pdf; charset=utf-8,1
+dox,1
+"xml , pdf",1
+AU/API/V2/CATALOG/DATASETS/INDICATORS-OF-QUALITY-OF-LIFE-AND-CITY-SERVICES-BY-YEAR/ATTACHMENTS/ISO_37120_2014_EN_3_PDF,1
+"xls, geojson, gml m.m.",1
+poscontinuite,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_hidrogeologica_1m,1
+csv gdb kmz shp tab,1
+Parquet,1
+pt/getogc/services/SNIAmb/ZonasAdjacentes_PubDR/MapServer/WMSServer?SERVICE=WMS&request=GetCapabilities,1
+jso,1
+postexte_oaqs,1
+Tif,1
+pt/pt/dados_abertos/info_recursosminerais/,1
+xml et pdf,1
+zip:SHP,1
+FRX,1
+sistema desarrollado internamente con información exportable a formato excel,1
+war,1
+ical,1
+sdltb,1
+http://publications.europa.eu/resource/authority/file-type/MPEG4,1
+pt/getogc/services/INSPIRE/EF_DQA_QUALSUB/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+cvc,1
+"xlsx, ods, pdf",1
+rest-api,1
+pub,1
+xcel,1
+ipt,1
+xmlx,1
+"ascii, tab separated, also as Excel table",1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_geologica_madeira,1
+ENVI binary image,1
+CSV GDB SHP TAB,1
+restservice,1
+DIFF,1
+exls,1
+"Geotiff, Shapefile",1
+pt/getogc/services/INSPIRE/AM_DrinkingWaterProtectionArea/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+http://publications.europa.eu/resource/authority/file-type/ARCINFO_COV,1
+posloceqs,1
+TAG,1
+Fortran,1
+zipped jpg,1
+"ZIP, RAR",1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_EUCALYPTUS_MANNIFERA_LITTLE_SPOTTY_PDF,1
+urdf,1
+ArcInfo Binary Coverage,1
+ASCII-Grid,1
+google maps,1
+"CSV, XLS",1
+"JSON, PNG",1
+XLSX/ODS,1
+flux rss,1
+pmfx,1
+mif/mid,1
+datapackage,1
+ebook,1
+Kaart,1
+"xls, csv, ivt",1
+Shapfile,1
+二宮金次郎（報徳社）,1
+SNO,1
+.rdf,1
+SVC,1
+application/octet-stream; charset=UTF-8,1
+TBA,1
+text/zip,1
+"xlsx,  csv",1
+AU/API/V2/CATALOG/DATASETS/2019-FALSE-COLOUR-COMPOSITE-AERIAL-IMAGERY/ATTACHMENTS/PREVIEW_IMAGE_JPG,1
+S-57,1
+ELSX,1
+sv,1
+HML,1
+3D PDF GeoModeller Geoscience Analyst IWS GOCAD,1
+LASZ,1
+"ZIP, MAT",1
+"GIS, Shapefile",1
+pt/en/opendata/energy_info?id=1706,1
+knwf,1
+postgis,1
+"HTML, Excel, CSV",1
+ortho2012_vue_ensemble_20cm_cc46,1
+RDF+xml,1
+text/css,1
+posreserv,1
+posafival,1
+SpatialLite,1
+pospatpro,1
+SHP dat,1
+docs,1
+rar.pdf,1
+PDF_ZIP,1
+"sistema de control de agentes y apoderados aduanales (scaaa) - excel
+aplicativo scaaa central y scaaa local.
+base de datos: informix 11",1
+pt/florestas/fitossanidade/nematododamadeiradopinheiro,1
+pt/pt/dados_abertos/cartografia_geologica/cgp50k/,1
+example/rdf+xml,1
+"rar, xml, shp, mxd",1
+https://fdm.ub.uni-muenchen.de/opendata/text/x-python,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_PRUNUS_X_BLIREIANA_PDF,1
+rdf-xml,1
+.RData,1
+CORE,1
+csy,1
+LOD,1
+MAT-file,1
+".jpeg, .kml, .txt, .xlxs",1
+ger,1
+AU/API/V2/CATALOG/DATASETS/TRAFFIC-COUNT-VEHICLE-CLASSIFICATION-2014-2017/ATTACHMENTS/DATA_DICTIONARY_FOR_VEHICLE_CLASSIFICATION_DATA_1_PDF,1
+3D PDF Geoscience Analyst IWS GOCAD Geomodeller,1
+get json,1
+AU/API/V2/CATALOG/DATASETS/BUILDING-OUTLINES-2015/ATTACHMENTS/BUILDING_FOOTPRINTS_DATA_DICTIONARY_2015_PDF,1
+pt/pt/dados_abertos/cartografia_geologica/cartografiageologicainternacional/mgep1m,1
+http://www.port.co.th/cs/internet/internet/ViewNews.html?content=1487063350200,1
+pdf; tableau,1
+powerbi,1
+NetCDF4 CF-1.6,1
+.exl,1
+AU/API/V2/CATALOG/DATASETS/2018-BUILDING-FOOTPRINTS/ATTACHMENTS/ROOF_TYPE_DEFINITIONS_PDF,1
+"CSV, GPKG",1
+pt/pt/dados_abertos/cartografia_geologica/cartas_hidrogeologicas_100k/carta_hidrogeologica_fontes_100k,1
+XML JA CSV,1
+chemical/x-cdx,1
+"CSV, TXT",1
+tar,1
+GTFS/GTFS-JP,1
+BASH,1
+AU/API/V2/CATALOG/DATASETS/ROAD-CORRIDORS/ATTACHMENTS/COM_SERVICE_PROD_11295301_V1_OPEN_DATA_DATASET_DESCRIPTION_ROAD_CORRIDORS_DOCX,1
+ascci,1
+Outro,1
+zsav,1
+",docx",1
+.sbn,1
+ogc/sos,1
+.pro,1
+pt/pt/dados_abertos/info_recursosenergeticos?id=3794,1
+AU/API/V2/CATALOG/DATASETS/PEDESTRIAN-NETWORK/ATTACHMENTS/PEDESTRIAN_NETWORK_METADATA_PDF,1
+image/x-xcf,1
+TAB SHP,1
+"Base de Datos: SQL Server 2008
+
+Esquema anterior: Informix IDS 10.0",1
+posrichso,1
+text/plain;charset=UTF-8,1
+/DATASET/B_BUS_GTFS_RT-TOEI,1
+AU/API/V2/CATALOG/DATASETS/2019-AERIAL-IMAGERY/ATTACHMENTS/PREVIEW_IMAGE_JPG,1
+AU/API/V2/CATALOG/DATASETS/BICYCLE-NETWORK/ATTACHMENTS/BICYCLE_NETWORK_METADATA_PDF,1
+kml.xml,1
+7ZIP,1
+jar,1
+"html, word, pdf",1
+ECW ERS TAB,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_PYRUS_BETULAEFOLIA_SOUTHWORTH_DANCER_PDF,1
+SHP (Esri Shape),1
+"CSV, XML, JSON",1
+csv et dbase,1
+netCDF4,1
+Website Link,1
+xksx,1
+pt/getogc/services/INSPIRE/AM_SensitiveArea_catchments/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+Table in ESRI File Geodatabase,1
+point-shp,1
+csv\zip,1
+"soap, wsdl",1
+tbx,1
+ESRI Grid,1
+s57,1
+sistema de control de agentes y apoderados aduanales (scaaa) - excel,1
+ncl,1
+"tif, png, pdf, gml, dxf, shp",1
+fdf,1
+COM,1
+Stata dta file,1
+"dbf, zip",1
+INSPIRE GML gemäß Umsetzungsrichtlinie von 2010,1
+base de datos mysql,1
+http://publications.europa.eu/resource/authority/file-type/PPSX,1
+QuakeML (https://quake.ethz.ch/quakeml/),1
+SHP id,1
+xl,1
+HTML/JS,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/cartas_algarve_100k,1
+image/vnd.adobe.photoshop,1
+force-download,1
+pt/en/opendata/energy_info?id=3027,1
+http://publications.europa.eu/resource/authority/file-type/TAR,1
+pt/getogc/services/SNIAmb/Unid_Hidrogeologicas/MapServer/WFSServer?SERVICE=WFS&request=GetCapabilities,1
+possms,1
+email,1
+pt/getogc/services/INSPIRE/EF_NITRATOS_QUALSUB/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+WEB Base,1
+pt/getogc/services/INSPIRE/AM_WaterBodyForWFD_WFDRiver/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_BRACHYCHITON_POPULNEUS_PDF,1
+Raw,1
+pt/getogc/services/INSPIRE/EF_NITRATOS_QUALSUP/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+AU/API/V2/CATALOG/DATASETS/DEVELOPMENT-ACTIVITY-MODEL-FOOTPRINTS/ATTACHMENTS/3D_DEVELOPMENT_ACTIVITY_MONITOR_METADATA_INFORMATION_PDF,1
+AU/API/V2/CATALOG/DATASETS/ROOFTOPS-WITH-ENVIRONMENTAL-RETROFITTING-OPPORTUNITIES-ROOFTOP-PROJECT/ATTACHMENTS/GREENROOFTOPPOLYGONLAYERS_ZIP,1
+VRT,1
+org/search?q=Red%2B%20Book%2B%20of%2B%20Mammals%2BPortugal,1
+fits,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/CartaRegiaoDemarcadaDouro_25k,1
+pt/pt/dados_abertos/cartografia_geologica/cartografia_outras_escalas/ParqueArqueologicoValeCoa_80k,1
+TAB GDB SHP,1
+AU/API/V2/CATALOG/DATASETS/CITY-ACTIVITIES-AND-PLANNED-WORKS/ATTACHMENTS/CITY_ACTIVITIES_AND_PLANNED_DISRUPTIONS_METADATA_XLSX,1
+pt/getogc/services/INSPIRE/AM_WaterBodyForWFD_WFDRiver_area/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+"xsl, ods",1
+https://fdm.ub.uni-muenchen.de/opendata/video/x-msvideo,1
+sparse_arff,1
+posboise,1
+possmsreg,1
+markdown,1
+rep,1
+"Most popular formats including ESRI shape, MapInfo Tab and Oracle Spatial",1
+"PDF, XLSX en CSV",1
+"zip, gpkg",1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_ANGOPHORA_COSTATA_PDF,1
+application/pdf;charset=base64,1
+"YAML, HTML",1
+"CityGML, ESRI-Shape",1
+ESRI REST Service,1
+FITS,1
+JSON-STAT,1
+zip-compressed folder of NetCDF files,1
+"TIFF, JPG",1
+Fritzing,1
+OCDS / ZIP,1
+BUFR,1
+zipped shapefie,1
+pt/getogc/services/SNIAmb/RegHidrograficas_PtCont/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+AU/API/V2/CATALOG/DATASETS/CITY-OF-MELBOURNE-3D-POINT-CLOUD-2018/ATTACHMENTS/TILE_INDEX_KML,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_MALUS_TSCHONOSKI_PDF,1
+.ifc,1
+AGIS_GEODATA,1
+IoTデータ,1
+SGML,1
+"ivt, xls",1
+pt/getogc/services/INSPIRE/US_PontosRecolhaPneus/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+WEBP,1
+ArcGIS geodatabase,1
+PostGresSQL,1
+TPM,1
+AU/API/V2/CATALOG/DATASETS/EMPLOYMENT-BY-BLOCK-BY-SPACE-USE/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+en spss  (statistical package for the social sciences) para el procesamiento de información y en excel para diferentes reportes,1
+HTML - Microdatos,1
+"csv, dbase, xls...",1
+xlsc,1
+AU/API/V2/CATALOG/DATASETS/TREES-FACTSHEETS/ATTACHMENTS/STREET_TREE_FACT_SHEET_CORYMBIA_MACULATA_PDF,1
+MapInfo table,1
+"PDF, DXF, Shape",1
+none,1
+obat,1
+CTF Data,1
+GEOSOFT XYZ,1
+Zip/MapInfo,1
+"csv, xml",1
+pdf; xlxs; tableau,1
+pt/getogc/services/INSPIRE/EF_EstRADNET/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+"excel, word",1
+ZIP (gpkg),1
+arj,1
+formuár,1
+GEOJSON-Datei,1
+*.txt,1
+posboispt,1
+.adf,1
+pt/getogc/services/INSPIRE/LU_SupplementaryRegulation_LagoasAguasPublicas/MapServer/WMSServer?SERVICE=WMS&REQUEST=GetCapabilities,1
+Flat raster binary,1
+AU/API/V2/CATALOG/DATASETS/2019-FALSE-COLOUR-COMPOSITE-AERIAL-IMAGERY/ATTACHMENTS/FALSE_COLOR_COMPOSITE_JPG,1
+Daten (diverse Formate),1
+gpgk,1
+"LAS/LAZ, Tiff",1
+AU/API/V2/CATALOG/DATASETS/EMPLOYMENT-BY-BLOCK-BY-CLUE-INDUSTRY/ATTACHMENTS/CLUE_DEFINITIONS_4_PDF,1
+w,1
+"doc, xls",1
+AU/API/V2/CATALOG/DATASETS/THERMAL-IMAGE-2012/ATTACHMENTS/CLIPPED_THERMAL_ZIP,1
+"xlt, docx,doc",1
+AU/API/V2/CATALOG/DATASETS/DIGITAL-SURFACE-MODEL/ATTACHMENTS/DSM_TILE_INDEX_KML,1
+"html, doc, docx",1
+HTML-,1
+DLIS,1
+BDF,1
+AU/API/V2/CATALOG/DATASETS/FLOOR-SPACE-BY-USE-BY-BLOCK/ATTACHMENTS/CLUE_DEFINITIONS_PDF,1
+csm,1

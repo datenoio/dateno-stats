@@ -1,0 +1,129 @@
+#!/usr/bin/env python
+import sys
+import os
+import datetime
+import csv
+import shutil
+import json
+from pymongo import MongoClient
+from functools import reduce
+
+
+DEFAULT_DB = "cdisearch"
+DEFAULT_COLL = 'fulldb'
+
+CURRENT_PATH  = '../data/current'
+ARCHIVE_PATH  = '../data/archive'
+
+TYPE_LIST = 1
+TYPE_AGG = 2
+
+
+def aggregate_field(coll, fieldname):
+    print('aggregate by field %s' % (fieldname))
+    cursor = coll.aggregate([{ "$group": {"_id": "$" + fieldname,"count": { "$sum": 1 }}}], allowDiskUse=True) 
+
+    data = list(cursor)
+    print(data)
+
+    result = reduce(lambda x,y: dict(list(x.items()) + list({ y['_id']: y['count'] }.items())), data,{})
+    return result
+
+
+def aggregate_field_unwind(coll, fieldname):
+    print('aggregate by field %s' % (fieldname))
+    cursor = coll.aggregate([{ '$unwind' : "$%s" % fieldname.rsplit('.', 1)[0]}, {"$group": {"_id": "$" + fieldname ,"count": { "$sum": 1 }}}], allowDiskUse=True) 
+
+    data = list(cursor)
+
+    result = reduce(lambda x,y: dict(list(x.items()) + list({ y['_id']: y['count'] }.items())), data,{})
+    return result
+
+
+def aggregate_array(coll, fieldname):
+    print('aggregate array %s' % (fieldname))
+    cursor = coll.aggregate([{'$unwind' : '$' + fieldname}, { "$group": {"_id": "$" + fieldname, 
+"count": { "$sum": 1 }
+#"%s" % fieldname.rsplit('.', 1)[-1] : {"$first" : "$" + fieldname},
+}}], allowDiskUse=True)
+    data = list(cursor)
+#    print(data)
+#    for row in data:
+#        print(row['_id'])
+
+    print(data)
+    result = reduce(lambda x,y: dict(list(x.items()) + list({ y['_id']: y['count'] }.items())), data,{})
+    return result
+
+
+def save_current(data):
+#    print(datalist)
+    for record in [data, ]:
+        f = open(os.path.join(CURRENT_PATH, record[0] + '.json'), 'w', encoding='utf8')
+        f.write(json.dumps(record[1]))
+        f.close()
+        f = open(os.path.join(CURRENT_PATH, record[0] + '.csv'), 'w', encoding='utf8')
+        if record[2] == TYPE_LIST:
+            f.write('value\n')
+            for row in record[1]:
+                f.write(str(row) + '\n')
+        elif record[2] == TYPE_AGG:
+            data = record[1]
+            data_ = sorted(data.items(), key=lambda item: item[1], reverse=True)
+            writer = csv.writer(f)
+            writer.writerow(['name', 'count'])
+            for row in data_:
+                writer.writerow(row)   
+        f.close()
+        print('saved %s' % (record[0]))
+        pass
+
+def save_archive():
+    today = datetime.datetime.now()
+    daypath = '%d-%d-%d' % (today.year, today.month, today.day)
+    dirname = os.path.join(ARCHIVE_PATH, daypath)
+    os.makedirs(dirname, exist_ok=True)
+    filenames = os.listdir(CURRENT_PATH)   
+    for name in filenames:
+        shutil.copyfile(os.path.join(CURRENT_PATH, name), os.path.join(dirname, name))
+    f = open(os.path.join(dirname, 'state.json'), 'w', encoding='utf8')
+    f.write(json.dumps({'generated' : daypath}))
+    f.close()
+    cwd = os.getcwd()
+    os.chdir(dirname)
+    os.system('gzip -9 *.csv')
+    os.system('gzip -9 *.json')
+    os.chdir(cwd)
+    pass
+
+
+def run():    
+    save_archive()
+    return
+    conn = MongoClient()  # For test environment only, production protected with auth
+    coll = conn[DEFAULT_DB][DEFAULT_COLL]
+  
+    data_list = []
+    save_current(['crawledsources', coll.distinct('source.uid'), TYPE_LIST])
+    save_current(['stats_software', aggregate_field_unwind(coll, 'source.software.name'), TYPE_AGG])
+    save_current(['stats_langs', aggregate_field_unwind(coll, 'source.langs.name'), TYPE_AGG])
+    save_current(['stats_countries', aggregate_field_unwind(coll, 'source.countries.name'), TYPE_AGG])
+    save_current(['stats_subregions', aggregate_field_unwind(coll, 'source.subregions.name'), TYPE_AGG])
+    save_current(['stats_res_formats', aggregate_field_unwind(coll, 'resources.format'), TYPE_AGG])
+    save_current(['stats_topics', aggregate_array(coll, 'dataset.topics'), TYPE_AGG])
+    save_current(['stats_geotopics', aggregate_array(coll, 'dataset.geotopics'), TYPE_AGG])
+    save_current(['stats_sources', aggregate_field(coll, 'source.uid'), TYPE_AGG])
+    save_current(['stats_schemas', aggregate_field(coll, 'source.schema'), TYPE_AGG])
+    save_current(['stats_type', aggregate_field(coll, 'source.catalog_type'), TYPE_AGG])
+    save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
+    save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
+#    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
+    save_archive()
+          
+
+    
+     
+
+if __name__ == "__main__":
+    run()
+
