@@ -1,260 +1,362 @@
 name,count
-Germany,2014747
-European Union,1463864
-United States,995819
-World,643245
-Australia,530072
-United Kingdom,327191
-Netherlands,267639
-Unknown,262994
-France,261936
-Indonesia,260757
-Canada,249211
-Russian Federation,219400
-Spain,158591
-Brazil,153293
-Portugal,147474
-Poland,139263
-Switzerland,137015
+Germany,2750299
+European Union,1475162
+United States,1059709
+World,764542
+Australia,548439
+United Kingdom,377757
+France,293877
+Netherlands,286009
+Indonesia,282526
+Canada,267578
+Unknown,262661
+Russian Federation,241048
+Brazil,215063
+Spain,177056
+Portugal,166054
+Poland,160502
+Switzerland,155016
+New Zealand,135238
 Czech Republic,129841
-New Zealand,117571
-Belgium,96257
-Italy,91280
-Austria,86607
-Colombia,80843
-India,76684
-Argentina,72960
-Greece,63361
-Thailand,61794
-Mexico,57609
-Finland,50348
-Japan,48510
+Belgium,114837
+Italy,109762
+Austria,104974
+Colombia,102499
+India,97720
+Argentina,94474
+Thailand,83153
+Greece,81890
+Mexico,79480
+Finland,69849
+Japan,66512
+Ireland,61776
+Sweden,59697
+Saudi Arabia,51636
+Denmark,47230
+China,46103
 Antarctic,44120
-Ireland,43775
-Sweden,41117
+Norway,41040
+Ecuador,38189
+Chile,37172
+Luxembourg,35817
+Peru,35251
+Kazakhstan,34979
 Oceania,34855
-Saudi Arabia,32805
+Cambodia,34536
+Estonia,32889
+Israel,32217
+Romania,31838
+All countries (total),31322
+Lithuania,31058
+South Africa,30561
+Bolivia,30134
 Slovakia,29596
-Denmark,27513
-China,24286
-Norway,22523
-Taiwan,20653
-Luxembourg,17341
-Ecuador,17105
-Chile,15698
-Israel,14537
+Pakistan,29227
+Malaysia,28922
+Panama,28342
+Nigeria,27996
+Hungary,27528
+Mongolia,27499
+Kenya,27341
+Latvia,27310
+Singapore,26824
+Serbia,26767
+Philippines,26447
+Croatia,26446
+Iceland,26140
+Bulgaria,25845
+Uruguay,25791
+Mauritania,25658
+Costa Rica,25301
+Uganda,24625
+Madagascar,24488
+Bangladesh,24381
+Sri Lanka,24252
+Rwanda,24217
+Paraguay,23664
+Nepal,23653
+Ethiopia,23607
+Albania,23523
+Cote d'Ivoire,23360
+Zambia,23352
+Guatemala,23284
+Bosnia and Herzegovina,23251
+Liberia,23183
+Morocco,23145
+Moldova,23143
+Cameroon,23136
+Honduras,23123
+Tajikistan,23122
+Georgia,23104
+Djibouti,23097
+Taiwan,23064
+Nicaragua,23007
+El Salvador,22931
+Burkina Faso,22818
+Mauritius,22733
+Benin,22722
+Sierra Leone,22701
+Dominican Republic,22697
+Kyrgyz Republic,22633
+Malawi,22515
+Papua New Guinea,22435
+Slovenia,22394
+Ukraine,22379
+Afghanistan,22150
+Tunisia,22147
+Tanzania,22116
+Cyprus,22095
+Jordan,21893
+Armenia,21883
+Namibia,21842
+"Yemen, Rep.",21782
+Senegal,21756
+Uzbekistan,21728
+Togo,21657
+"Egypt, Arab Rep.",21584
+Lesotho,21536
+Jamaica,21523
+Kosovo,21507
+Mozambique,21369
+Turkiye,21364
+Tonga,21300
+Lebanon,21279
+Slovak Republic,21157
+Ghana,21132
+Belize,21021
+Fiji,20997
+Belarus,20985
+Solomon Islands,20899
+Guinea,20868
+"Gambia, The",20853
+Botswana,20841
+Montenegro,20832
+Mali,20828
+Niger,20797
+Central African Republic,20740
+West Bank and Gaza,20633
+Chad,20617
+Haiti,20536
+"Congo, Dem. Rep.",20525
+Samoa,20519
+Zimbabwe,20414
+Angola,20317
+Malta,20226
+Maldives,20166
+Gabon,20053
+Czechia,20026
+Lao PDR,19905
+Algeria,19895
+Myanmar,19844
+Trinidad and Tobago,19834
+"Congo, Rep.",19804
+Sudan,19741
+Eswatini,19727
+Comoros,19688
+Bhutan,19667
+Palau,19568
+Kiribati,19543
+Azerbaijan,19403
+Sao Tome and Principe,19309
+Dominica,19259
+Iraq,19150
+South Sudan,19117
+Timor-Leste,19098
+Isle of Man,19074
+United Arab Emirates,18989
+Vanuatu,18987
+North Macedonia,18942
+Viet Nam,18816
+"Iran, Islamic Rep.",18796
+"Venezuela, RB",18618
+Guinea-Bissau,18606
+Cabo Verde,18600
+"Korea, Rep.",18384
+Syrian Arab Republic,18249
+Seychelles,18179
+Qatar,18052
+St. Lucia,17773
+Burundi,17678
+Bahrain,17657
+Suriname,17656
+Marshall Islands,17309
+Somalia,17266
+Kuwait,17134
+"Micronesia, Fed. Sts.",17095
+"Hong Kong SAR, China",16989
+"Bahamas, The",16896
+Barbados,16358
+Greenland,16212
+Guyana,16107
+Sub-Saharan Africa ,16071
+Oman,15923
+Antigua and Barbuda,15780
+Libya,15617
+Puerto Rico,15438
+Upper middle income,15271
+Lower middle income,15271
+Low income,15271
+South Asia,15269
+Cayman Islands,15236
+High income,15235
+Europe & Central Asia,15233
+Middle East & North Africa,15233
+Latin America & Caribbean ,15233
+East Asia & Pacific,15233
+Bermuda,14797
+Andorra,14765
+Grenada,14667
+Turkmenistan,14653
+Eritrea,14511
+Nauru,14509
+Faroe Islands,14465
+Equatorial Guinea,14435
+Euro area,14412
 Korea,14341
-Estonia,14293
+Tuvalu,14277
 Hong Kong,14070
-Peru,13730
-Kazakhstan,13649
-Cambodia,11638
-Romania,10883
+Aruba,13955
+St. Vincent and the Grenadines,13929
+San Marino,13916
+St. Kitts and Nevis,13844
+Cuba,13397
+Sub-Saharan Africa (excluding high income),13362
+Liechtenstein,13336
+Brunei Darussalam,13281
+French Polynesia,13223
+Gibraltar,13220
+Turks and Caicos Islands,13219
+"Macao SAR, China",13017
+Curacao,12979
+Sint Maarten (Dutch part),12979
+Guam,12958
+Virgin Islands (U.S.),12947
+New Caledonia,12851
+American Samoa,12850
+British Virgin Islands,12677
+"Korea, Dem. People's Rep.",12620
+Monaco,12618
+Middle income,12571
+Channel Islands,12568
+North America,12566
+Middle East & North Africa (excluding high income),12560
+Latin America & Caribbean (excluding high income),12560
+East Asia & Pacific (excluding high income),12560
+Europe & Central Asia (excluding high income),12560
+Northern Mariana Islands,12535
+Low & middle income,12535
+OECD members,12524
+Arab World,12524
+St. Martin (French part),12488
+Caribbean small states,11661
+Least developed countries: UN classification,11406
+IDA total,11404
+IBRD only,11403
+Small states,11331
+Heavily indebted poor countries (HIPC),11298
+IDA blend,11296
+IDA only,11296
+IDA & IBRD total,11295
+Early-demographic dividend,11295
+Pre-demographic dividend,11295
+East Asia & Pacific (IDA & IBRD countries),11295
+Late-demographic dividend,11295
+Middle East & North Africa (IDA & IBRD countries),11295
+South Asia (IDA & IBRD),11295
+Latin America & the Caribbean (IDA & IBRD countries),11295
+Sub-Saharan Africa (IDA & IBRD countries),11295
+Other small states,11295
+Post-demographic dividend,11295
+Central Europe and the Baltics,11295
+Europe & Central Asia (IDA & IBRD countries),11295
+Pacific island small states,11293
+Fragile and conflict affected situations,11293
 Vietnam,10835
-Singapore,10133
-Lithuania,9899
-Malaysia,8519
-South Africa,8431
-Bolivia,8379
-Iceland,8159
-Africa,7933
+Africa,8807
 Türkiye,7624
-Serbia,7358
-Panama,7242
-Pakistan,6781
 Makedonia,6481
-Isle of Man,6442
 South Korea,6290
-Latvia,6152
-Hungary,5608
+Tunis,5199
 Guernsey,5187
-Croatia,5177
-Philippines,5116
-Mongolia,5068
 ,4960
 Macao SAR,4909
 Jersey,4876
 Iran,4750
-Mauritania,4671
-Nigeria,4643
-Bulgaria,4569
 Luxemburg,4491
-Uruguay,4278
-Slovenia,4167
-United Arab Emirates,4098
-Cyprus,4035
 Laos,3786
-Costa Rica,3671
-Greenland,3414
-Egypt,3281
+Egypt,3339
+Africa Western and Central,2957
+Africa Eastern and Southern,2957
 Marocco,2933
 Latin America,2717
-Tunis,2715
-Sri Lanka,2706
-Bahrain,2416
 Russia,2291
-Turkey,2216
-Algeria,1964
-Trinidad and Tobago,1941
-Honduras,1918
+Turkey,2225
 Kyrgyzstan,1910
-Czechia,1895
-Faroe Islands,1833
-Andorra,1830
-Bangladesh,1798
-Paraguay,1765
-Kuwait,1756
-Malta,1748
-Montenegro,1709
-Bosnia and Herzegovina,1694
-Ukraine,1643
-Lebanon,1584
+Not classified,1642
 The Bahamas,1563
-Cayman Islands,1540
-Bermuda,1467
-Papua New Guinea,1433
-Guatemala,1417
-Vanuatu,1352
 Developing Europe,1334
-Barbados,1319
 Venezuela,1295
-El Salvador,1294
-Tanzania,1218
-Albania,1165
 Netherlands Antilles,1045
-Nepal,1035
-Georgia,1016
-Jordan,1010
 All exchanges,1008
 Republica Dominicana,1007
-Uganda,914
-Uzbekistan,908
 Niue,898
-Morocco,896
 West Indies UK,896
-Ethiopia,812
+East Asia and the Pacific (IFC classification),881
+Middle East (developing only),881
+Latin America and the Caribbean (IFC classification),881
+South Asia (IFC classification),881
+Sub-Saharan Africa (IFC classification),881
+Europe and Central Asia (IFC classification),881
+Middle East and North Africa (IFC classification),881
+North Africa,838
+Sub-Saharan Africa excluding South Africa,838
+Sub-Saharan Africa excluding South Africa and Nigeria,838
 Curaçao,806
-Qatar,775
-Dominican Republic,767
-Madagascar,752
-Mozambique,730
-Belarus,723
-Armenia,687
-Kenya,682
 Euro area 20 - 2023,660
-Oman,647
-Gibraltar,624
-Nauru,623
-Mauritius,615
-Zimbabwe,615
 Republic of North Macedonia,607
-Aruba,590
-Moldova,586
-Solomon Islands,576
-Azerbaijan,572
 Micronesia,568
 Caribbean,545
-Haiti,545
-Tunisia,535
 Cook Islands,531
-Liechtenstein,528
-Tuvalu,527
-Tonga,525
-Jamaica,506
-Kiribati,494
-Rwanda,479
-Palau,475
-Palestine,470
+Palestine,510
 Gambia,464
-Togo,460
 Republic of Marshall Islands,453
-Senegal,452
 Serbia and Montenegro,412
-Nicaragua,400
-Suriname,377
 Côte d'Ivoire,374
 Macau,370
-Marshall Islands,352
-Cuba,352
-Tajikistan,341
-Samoa,333
-Cameroon,323
-Myanmar,316
-Antigua and Barbuda,303
-Gabon,294
-Grenada,294
-Belize,287
 St Lucia,262
-Maldives,262
-Ghana,238
-North Macedonia,213
-Iraq,198
 Republic of Congo,198
-Zambia,194
-Turks and Caicos Islands,192
-Fiji,192
 Czechoslovakia,192
 Republic of Ivory Coast,181
-Dominica,164
-Angola,160
-Bhutan,156
-Benin,155
-Liberia,138
-Sudan,134
-Namibia,134
-Seychelles,134
-Guinea,134
-Lesotho,119
-Botswana,117
-Cabo Verde,105
-Djibouti,102
+South Asia (IDA-eligible countries),109
+East Asia & Pacific (IDA-eligible countries),109
+Latin America & the Caribbean (IDA-eligible countries),109
+Europe & Central Asia (IDA-eligible countries),109
+Middle East & North Africa (IDA-eligible countries),109
+Sub-Saharan Africa (IDA-eligible countries),109
 Residual British Overseas Territories,96
 Cote d Ivoire,90
-Mali,88
-Euro area,87
 Syria,70
-French Polynesia,64
-Niger,58
-Asian/Pacific exchanges,48
 European exchanges,48
-Australia/New Zealand exchanges,48
+Asian/Pacific exchanges,48
 North American exchanges,48
+Australia/New Zealand exchanges,48
 Other exchanges,48
 Asian exchanges,48
 Yemen,40
 Phillipines,33
 Advanced economies,25
-Burkina Faso,23
 Emerging market economies (aggregate),22
 All reporting economies,21
 G20 economies,21
-New Caledonia,8
 Brunei,7
-São Tomé and Príncipe,6
-Residual developed countries,6
-San Marino,6
-Afghanistan,6
-Other developing Europe,6
-Kyrgyz Republic,6
-Eritrea,6
-Comoros,6
-Guyana,6
 Anguilla,6
-Central African Republic,6
+Residual developed countries,6
+Other developing Europe,6
+São Tomé and Príncipe,6
 St Kitts and Nevis,6
-Chad,6
 EU developing countries,6
-Sierra Leone,6
 St Vincent and the Grenadines,6
-Burundi,6
-South Sudan,6
-Guinea-Bissau,6
-Turkmenistan,6
 The Gambia,6
 Montserrat,6
-Libya,6
-Malawi,6
-Equatorial Guinea,6
-Democratic Republic of the Congo,6
 Waemu,6
-Eswatini,6
+Democratic Republic of the Congo,6

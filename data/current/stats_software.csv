@@ -1,12 +1,13 @@
 name,count
-CKAN,3775163
-Geonetwork,2823973
+Custom software,4833586
+CKAN,3837950
+Geonetwork,3628961
 Data.bis.org platform,1090729
-ArcGIS Server,909833
+ArcGIS Server,916914
 Dataverse,387684
 GeoServer,386917
 ArcGIS Hub,204366
-GeoNode,161428
+GeoNode,163116
 Socrata,111489
 NADA,63910
 DKAN,56598
@@ -17,3 +18,6 @@ Koordinates,6522
 Openml.org platform,5551
 InvenioRDM,4261
 Geoserver,3145
+Aleph,303
+Geonode,64
+Pycsw,10
