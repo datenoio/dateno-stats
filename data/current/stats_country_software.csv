@@ -70,8 +70,8 @@ Djibouti,Custom software,22995
 Saudi Arabia,ArcGIS Server,22904
 Cambodia,Custom software,22898
 Cameroon,Custom software,22813
-Burkina Faso,Custom software,22795
 Ethiopia,Custom software,22795
+Burkina Faso,Custom software,22795
 Tajikistan,Custom software,22781
 Sierra Leone,Custom software,22695
 Canada,Dataverse,22650
@@ -209,20 +209,20 @@ Italy,Custom software,18482
 Greece,Custom software,18482
 Malta,Custom software,18478
 Luxembourg,Custom software,18476
-Denmark,Custom software,18465
 Germany,Custom software,18465
 Spain,Custom software,18465
+Denmark,Custom software,18465
 United Kingdom,Data.bis.org platform,18409
 "Korea, Rep.",Custom software,18384
 United States,Custom software,18382
 Saudi Arabia,Custom software,18368
+Finland,Custom software,18367
+France,Custom software,18367
 Canada,Custom software,18367
 Netherlands,Custom software,18367
 Australia,Custom software,18367
-France,Custom software,18367
-Finland,Custom software,18367
-Austria,Custom software,18367
 United Kingdom,Custom software,18367
+Austria,Custom software,18367
 Ireland,CKAN,18328
 Italy,Data.bis.org platform,18270
 Syrian Arab Republic,Custom software,18249
@@ -232,8 +232,8 @@ Cyprus,Custom software,18060
 Sweden,Data.bis.org platform,18050
 Seychelles,Custom software,18045
 Japan,Custom software,18002
-Switzerland,Custom software,18001
 Ireland,Custom software,18001
+Switzerland,Custom software,18001
 Iceland,Custom software,17981
 Algeria,Custom software,17931
 Trinidad and Tobago,Custom software,17857
@@ -264,16 +264,16 @@ Antigua and Barbuda,Custom software,15477
 Puerto Rico,Custom software,15438
 Kuwait,Custom software,15378
 Oman,Custom software,15276
-Lower middle income,Custom software,15271
 Upper middle income,Custom software,15271
+Lower middle income,Custom software,15271
 Low income,Custom software,15271
 South Asia,Custom software,15269
 Bahrain,Custom software,15241
 High income,Custom software,15235
-Latin America & Caribbean ,Custom software,15233
 East Asia & Pacific,Custom software,15233
-Europe & Central Asia,Custom software,15233
 Middle East & North Africa,Custom software,15233
+Europe & Central Asia,Custom software,15233
+Latin America & Caribbean ,Custom software,15233
 Barbados,Custom software,15039
 United Arab Emirates,Custom software,14891
 Qatar,Custom software,14879
@@ -329,9 +329,9 @@ Gibraltar,Custom software,12596
 Middle income,Custom software,12571
 Channel Islands,Custom software,12568
 North America,Custom software,12566
-Latin America & Caribbean (excluding high income),Custom software,12560
-East Asia & Pacific (excluding high income),Custom software,12560
 Middle East & North Africa (excluding high income),Custom software,12560
+East Asia & Pacific (excluding high income),Custom software,12560
+Latin America & Caribbean (excluding high income),Custom software,12560
 Europe & Central Asia (excluding high income),Custom software,12560
 Northern Mariana Islands,Custom software,12535
 Low & middle income,Custom software,12535
@@ -350,25 +350,25 @@ IDA total,Custom software,11404
 IBRD only,Custom software,11403
 Portugal,Geonetwork,11332
 Small states,Custom software,11331
-Heavily indebted poor countries (HIPC),Custom software,11298
 European Union,Custom software,11298
-IDA blend,Custom software,11296
+Heavily indebted poor countries (HIPC),Custom software,11298
 IDA only,Custom software,11296
-Sub-Saharan Africa (IDA & IBRD countries),Custom software,11295
+IDA blend,Custom software,11296
 Europe & Central Asia (IDA & IBRD countries),Custom software,11295
 Late-demographic dividend,Custom software,11295
-South Asia (IDA & IBRD),Custom software,11295
-East Asia & Pacific (IDA & IBRD countries),Custom software,11295
-Early-demographic dividend,Custom software,11295
 Other small states,Custom software,11295
-Post-demographic dividend,Custom software,11295
 IDA & IBRD total,Custom software,11295
-Latin America & the Caribbean (IDA & IBRD countries),Custom software,11295
-Pre-demographic dividend,Custom software,11295
 Middle East & North Africa (IDA & IBRD countries),Custom software,11295
 Central Europe and the Baltics,Custom software,11295
-Pacific island small states,Custom software,11293
+Latin America & the Caribbean (IDA & IBRD countries),Custom software,11295
+Early-demographic dividend,Custom software,11295
+Sub-Saharan Africa (IDA & IBRD countries),Custom software,11295
+East Asia & Pacific (IDA & IBRD countries),Custom software,11295
+South Asia (IDA & IBRD),Custom software,11295
+Pre-demographic dividend,Custom software,11295
+Post-demographic dividend,Custom software,11295
 Fragile and conflict affected situations,Custom software,11293
+Pacific island small states,Custom software,11293
 Spain,GeoServer,10959
 United Kingdom,ArcGIS Server,10866
 Italy,CKAN,10735
@@ -377,6 +377,7 @@ France,uData,10080
 Argentina,CKAN,10009
 Italy,GeoNode,10008
 Sweden,Geonetwork,9995
+Finland,PxWeb,9956
 China,GeoNode,9914
 Italy,ArcGIS Server,9713
 Canada,Geonetwork,9622
@@ -410,11 +411,13 @@ Israel,CKAN,7350
 Norway,Data.bis.org platform,7163
 United States,GeoServer,7121
 Africa,CKAN,7054
+Estonia,PxWeb,6991
 South Africa,Data.bis.org platform,6987
 Denmark,ArcGIS Server,6950
 Saudi Arabia,CKAN,6931
 Belgium,ArcGIS Server,6840
 Poland,ArcGIS Server,6837
+Latvia,PxWeb,6696
 New Zealand,Koordinates,6522
 Isle of Man,Data.bis.org platform,6442
 India,ArcGIS Server,6387
@@ -440,6 +443,7 @@ Guernsey,Data.bis.org platform,5187
 Unknown,Socrata,5140
 Philippines,Data.bis.org platform,5116
 Lithuania,ArcGIS Server,5063
+Sweden,PxWeb,5063
 Makedonia,GeoServer,5019
 Spain,ArcGIS Hub,4983
 Colombia,Geonetwork,4973
@@ -496,8 +500,8 @@ World,GeoServer,3132
 Ireland,ArcGIS Server,3053
 Thailand,GeoServer,3039
 Bulgaria,ArcGIS Server,2974
-Africa Western and Central,Custom software,2957
 Africa Eastern and Southern,Custom software,2957
+Africa Western and Central,Custom software,2957
 Marocco,ArcGIS Server,2933
 Kenya,Geonetwork,2918
 Romania,ArcGIS Server,2904
@@ -516,9 +520,10 @@ Cyprus,Data.bis.org platform,2433
 Qatar,ArcGIS Server,2398
 Norway,GeoNode,2360
 China,Data.bis.org platform,2341
-Hong Kong,ArcGIS Hub,2330
 China,ArcGIS Hub,2330
+Hong Kong,ArcGIS Hub,2330
 Malaysia,Data.bis.org platform,2325
+Phillipines,PxWeb,2320
 Russia,Data.bis.org platform,2291
 Estonia,GeoServer,2260
 Mongolia,CKAN,2259
@@ -529,6 +534,7 @@ Saudi Arabia,Data.bis.org platform,2150
 Slovakia,Data.bis.org platform,2080
 New Zealand,Data.bis.org platform,2071
 Belgium,OpenDataSoft,2067
+Unknown,PxWeb,2042
 Iceland,GeoServer,2038
 Bahrain,Data.bis.org platform,2021
 Hungary,ArcGIS Server,2007
@@ -539,6 +545,7 @@ United Arab Emirates,Data.bis.org platform,1955
 Singapore,CKAN,1953
 Costa Rica,ArcGIS Server,1946
 Lithuania,Data.bis.org platform,1946
+Iceland,PxWeb,1915
 Czechia,Data.bis.org platform,1895
 Thailand,Data.bis.org platform,1893
 New Zealand,ArcGIS Hub,1857
@@ -569,6 +576,7 @@ United Kingdom,Socrata,1545
 Cayman Islands,Data.bis.org platform,1540
 Austria,Dataverse,1534
 Norway,Dataverse,1508
+Makedonia,PxWeb,1493
 Uruguay,ArcGIS Server,1475
 Portugal,GeoNode,1474
 Czech Republic,GeoServer,1468
@@ -625,18 +633,20 @@ Switzerland,NADA,946
 World,GeoNode,945
 Luxemburg,ArcGIS Server,928
 Croatia,Data.bis.org platform,916
-Andorra,GeoServer,915
 Andorra,Geonetwork,915
+Andorra,GeoServer,915
 Republica Dominicana,CKAN,906
+Greenland,PxWeb,902
+Denmark,PxWeb,902
 West Indies UK,Data.bis.org platform,896
 Australia,OpenDataSoft,889
-Europe and Central Asia (IFC classification),Custom software,881
-East Asia and the Pacific (IFC classification),Custom software,881
-Sub-Saharan Africa (IFC classification),Custom software,881
-Latin America and the Caribbean (IFC classification),Custom software,881
-South Asia (IFC classification),Custom software,881
 Middle East and North Africa (IFC classification),Custom software,881
+East Asia and the Pacific (IFC classification),Custom software,881
+Latin America and the Caribbean (IFC classification),Custom software,881
 Middle East (developing only),Custom software,881
+Europe and Central Asia (IFC classification),Custom software,881
+Sub-Saharan Africa (IFC classification),Custom software,881
+South Asia (IFC classification),Custom software,881
 Colombia,GeoServer,879
 Africa,Custom software,874
 Hong Kong,ArcGIS Server,865
@@ -644,10 +654,10 @@ Nepal,CKAN,863
 Canada,GeoServer,853
 New Zealand,GeoNode,851
 Malawi,GeoNode,850
-Costa Rica,Data.bis.org platform,838
-Sub-Saharan Africa excluding South Africa and Nigeria,Custom software,838
 North Africa,Custom software,838
+Sub-Saharan Africa excluding South Africa and Nigeria,Custom software,838
 Sub-Saharan Africa excluding South Africa,Custom software,838
+Costa Rica,Data.bis.org platform,838
 Turkey,CKAN,834
 South Korea,ArcGIS Server,834
 Papua New Guinea,DKAN,826
@@ -656,6 +666,7 @@ El Salvador,ArcGIS Server,808
 Kuwait,Data.bis.org platform,807
 Curaçao,Data.bis.org platform,806
 Brazil,ArcGIS Hub,795
+Faroe Islands,PxWeb,788
 Latvia,CKAN,787
 Luxembourg,ArcGIS Hub,784
 Qatar,Data.bis.org platform,775
@@ -663,6 +674,7 @@ Uruguay,Geonetwork,770
 Hungary,CKAN,751
 Japan,ArcGIS Hub,746
 Venezuela,Data.bis.org platform,743
+Croatia,PxWeb,738
 Barbados,GeoServer,737
 Mongolia,GeoServer,732
 Kazakhstan,Data.bis.org platform,727
@@ -678,8 +690,8 @@ Kyrgyzstan,ArcGIS Server,660
 Euro area 20 - 2023,Data.bis.org platform,660
 Italy,OpenDataSoft,649
 Oman,Data.bis.org platform,647
-Vietnam,Data.bis.org platform,646
 Kyrgyzstan,CKAN,646
+Vietnam,Data.bis.org platform,646
 Serbia,ArcGIS Server,644
 Peru,GeoServer,641
 World,ArcGIS Hub,640
@@ -688,11 +700,11 @@ Norway,CKAN,635
 Guatemala,ArcGIS Server,634
 Lebanon,Dataverse,630
 Gibraltar,Data.bis.org platform,624
-Africa,ArcGIS Hub,619
 United Arab Emirates,ArcGIS Server,619
+Africa,ArcGIS Hub,619
 Estonia,Geonetwork,616
-Mauritius,Data.bis.org platform,615
 Uruguay,Data.bis.org platform,615
+Mauritius,Data.bis.org platform,615
 Russian Federation,Geoserver,609
 Republic of North Macedonia,CKAN,607
 Mexico,ArcGIS Hub,605
@@ -705,8 +717,8 @@ Panama,ArcGIS Hub,574
 Solomon Islands,DKAN,570
 Trinidad and Tobago,Data.bis.org platform,567
 Micronesia,DKAN,562
-Ethiopia,CKAN,561
 Chile,Geonetwork,561
+Ethiopia,CKAN,561
 Nauru,DKAN,559
 Portugal,DKAN,558
 Albania,Geonetwork,556
@@ -733,6 +745,7 @@ Algeria,Data.bis.org platform,510
 Unknown,NADA,507
 Serbia,uData,500
 Belgium,CKAN,496
+Jordan,PxWeb,492
 Kiribati,DKAN,488
 Iran,Data.bis.org platform,487
 Uzbekistan,ArcGIS Server,486
@@ -744,6 +757,7 @@ Palestine,ArcGIS Server,470
 Colombia,NADA,467
 Gambia,Geonetwork,464
 Bosnia and Herzegovina,ArcGIS Server,461
+Cyprus,PxWeb,459
 Republic of Marshall Islands,DKAN,453
 Malta,ArcGIS Server,448
 United Kingdom,OpenDataSoft,448
@@ -752,19 +766,21 @@ South Korea,Geonetwork,444
 China,CKAN,429
 Belgium,Dataverse,428
 Lithuania,Dataverse,428
-Slovakia,GeoNode,423
 Sri Lanka,Data.bis.org platform,423
+Slovakia,GeoNode,423
 Azerbaijan,Data.bis.org platform,422
-Belarus,Data.bis.org platform,422
 Uzbekistan,Data.bis.org platform,422
+Belarus,Data.bis.org platform,422
 Morocco,CKAN,416
 Croatia,ArcGIS Server,414
 Serbia and Montenegro,Data.bis.org platform,412
 Haiti,GeoNode,411
 Bahrain,OpenDataSoft,395
-Paraguay,Data.bis.org platform,390
-Guatemala,Data.bis.org platform,390
+Liechtenstein,PxWeb,393
 Georgia,Data.bis.org platform,390
+Guatemala,Data.bis.org platform,390
+Paraguay,Data.bis.org platform,390
+Montenegro,PxWeb,386
 Guatemala,GeoServer,386
 Luxembourg,uData,380
 Slovenia,GeoServer,378
@@ -772,9 +788,9 @@ Côte d'Ivoire,Data.bis.org platform,374
 Macau,ArcGIS Server,370
 Slovenia,ArcGIS Server,367
 Laos,ArcGIS Server,366
-Bolivia,Data.bis.org platform,358
-Kenya,Data.bis.org platform,358
 Suriname,Data.bis.org platform,358
+Kenya,Data.bis.org platform,358
+Bolivia,Data.bis.org platform,358
 Niue,ArcGIS Server,357
 Pakistan,Data.bis.org platform,357
 Marshall Islands,Data.bis.org platform,352
@@ -799,11 +815,11 @@ Sweden,OpenDataSoft,312
 Slovakia,ArcGIS Hub,304
 United States,Aleph,300
 Antigua and Barbuda,GeoNode,297
-Canada,GeoNode,294
-Grenada,Data.bis.org platform,294
-Jordan,Data.bis.org platform,294
-Gabon,Data.bis.org platform,294
 United States,Geonetwork,294
+Grenada,Data.bis.org platform,294
+Gabon,Data.bis.org platform,294
+Jordan,Data.bis.org platform,294
+Canada,GeoNode,294
 Mozambique,ArcGIS Hub,288
 Tunis,ArcGIS Server,286
 Bulgaria,Geonetwork,285
@@ -811,14 +827,15 @@ Montenegro,GeoNode,282
 Belize,ArcGIS Hub,281
 Georgia,Geonetwork,278
 Canada,OpenDataSoft,271
+Norway,PxWeb,268
 Panama,Geonetwork,268
-Honduras,Data.bis.org platform,262
-Maldives,Data.bis.org platform,262
 Belize,Data.bis.org platform,262
-Armenia,Data.bis.org platform,262
+Honduras,Data.bis.org platform,262
 St Lucia,Data.bis.org platform,262
-Papua New Guinea,Data.bis.org platform,262
+Maldives,Data.bis.org platform,262
 Togo,ArcGIS Server,262
+Papua New Guinea,Data.bis.org platform,262
+Armenia,Data.bis.org platform,262
 Africa,NADA,260
 France,NADA,258
 Hungary,GeoServer,257
@@ -827,6 +844,7 @@ Lebanon,ArcGIS Server,254
 France,GeoNode,253
 Greece,Geonetwork,250
 Greece,GeoNode,248
+World,PxWeb,247
 Senegal,Data.bis.org platform,246
 Zimbabwe,GeoServer,238
 Kyrgyzstan,GeoNode,234
@@ -838,24 +856,25 @@ Albania,ArcGIS Server,216
 Lithuania,ArcGIS Hub,214
 North Macedonia,Data.bis.org platform,213
 Tajikistan,GeoNode,207
-Cyprus,GeoNode,206
 Senegal,ArcGIS Server,206
+Cyprus,GeoNode,206
 Austria,InvenioRDM,205
 New Zealand,GeoServer,203
+Armenia,GeoServer,202
 Nicaragua,Geonetwork,202
 Bosnia and Herzegovina,Data.bis.org platform,202
-Armenia,GeoServer,202
 Albania,Data.bis.org platform,199
-Laos,Data.bis.org platform,198
-Ghana,Data.bis.org platform,198
-Iraq,Data.bis.org platform,198
-Madagascar,Data.bis.org platform,198
-Zimbabwe,Data.bis.org platform,198
 Togo,Data.bis.org platform,198
+Mozambique,Data.bis.org platform,198
+Ghana,Data.bis.org platform,198
+Zimbabwe,Data.bis.org platform,198
+Madagascar,Data.bis.org platform,198
+Laos,Data.bis.org platform,198
+Iraq,Data.bis.org platform,198
+Cameroon,Data.bis.org platform,198
 Nicaragua,Data.bis.org platform,198
 Republic of Congo,Data.bis.org platform,198
-Mozambique,Data.bis.org platform,198
-Cameroon,Data.bis.org platform,198
+Switzerland,PxWeb,194
 Albania,CKAN,194
 Turks and Caicos Islands,Data.bis.org platform,192
 Czechoslovakia,Data.bis.org platform,192
@@ -863,8 +882,8 @@ Israel,ArcGIS Hub,190
 Bolivia,NADA,189
 Costa Rica,GeoServer,188
 South Africa,NADA,186
-Egypt,NADA,185
 Taiwan,GeoServer,185
+Egypt,NADA,185
 Switzerland,GeoNode,184
 Myanmar,GeoNode,182
 Republic of Ivory Coast,GeoServer,181
@@ -881,81 +900,86 @@ United Arab Emirates,OpenDataSoft,156
 Sri Lanka,DKAN,156
 Kenya,ArcGIS Hub,152
 Netherlands,Socrata,151
-Bhutan,GeoServer,150
 Azerbaijan,ArcGIS Server,150
+Bhutan,GeoServer,150
 Croatia,CKAN,149
 Greenland,ArcGIS Hub,146
-Finland,ArcGIS Hub,139
+Slovenia,PxWeb,142
 India,ArcGIS Hub,139
+Finland,ArcGIS Hub,139
 Liberia,Data.bis.org platform,138
 Hungary,Geonetwork,136
-Myanmar,Data.bis.org platform,134
+Benin,Data.bis.org platform,134
 Bangladesh,Data.bis.org platform,134
-Seychelles,Data.bis.org platform,134
-Rwanda,Data.bis.org platform,134
-Moldova,Data.bis.org platform,134
-Montenegro,Data.bis.org platform,134
-Sudan,Data.bis.org platform,134
-Guinea,Data.bis.org platform,134
-Ethiopia,Data.bis.org platform,134
-Tajikistan,Data.bis.org platform,134
 Angola,Data.bis.org platform,134
+Tajikistan,Data.bis.org platform,134
+Rwanda,Data.bis.org platform,134
 Zambia,Data.bis.org platform,134
 Haiti,Data.bis.org platform,134
-Benin,Data.bis.org platform,134
+Seychelles,Data.bis.org platform,134
+Guinea,Data.bis.org platform,134
+Moldova,Data.bis.org platform,134
+Ethiopia,Data.bis.org platform,134
+Montenegro,Data.bis.org platform,134
+Myanmar,Data.bis.org platform,134
 Namibia,Data.bis.org platform,134
+Sudan,Data.bis.org platform,134
+Ghana,PxWeb,126
 Cameroon,ArcGIS Hub,125
+France,PxWeb,124
 Sweden,ArcGIS Hub,124
 Dominican Republic,ArcGIS Server,123
 Austria,GeoServer,121
 Singapore,ArcGIS Server,121
-Tunis,uData,120
 Moldova,CKAN,120
+Tunis,uData,120
 Brazil,DKAN,119
-Denmark,ArcGIS Hub,118
 Iceland,CKAN,118
 Romania,GeoServer,118
+Denmark,ArcGIS Hub,118
 Switzerland,ArcGIS Hub,118
 Ethiopia,GeoNode,117
 Netherlands,OpenDataSoft,117
 Cyprus,ArcGIS Server,116
 Lesotho,ArcGIS Server,113
 Europe & Central Asia (IDA-eligible countries),Custom software,109
-Sub-Saharan Africa (IDA-eligible countries),Custom software,109
-Middle East & North Africa (IDA-eligible countries),Custom software,109
-South Asia (IDA-eligible countries),Custom software,109
 Latin America & the Caribbean (IDA-eligible countries),Custom software,109
 East Asia & Pacific (IDA-eligible countries),Custom software,109
+South Asia (IDA-eligible countries),Custom software,109
+Middle East & North Africa (IDA-eligible countries),Custom software,109
+Sub-Saharan Africa (IDA-eligible countries),Custom software,109
+Luxembourg,PxWeb,105
 Latvia,GeoServer,105
-Ecuador,GeoServer,103
 Jamaica,CKAN,103
-Cambodia,Data.bis.org platform,102
-Botswana,Data.bis.org platform,102
-Armenia,ArcGIS Hub,102
+Ecuador,GeoServer,103
 Chile,Dataverse,102
+Botswana,Data.bis.org platform,102
+Cambodia,Data.bis.org platform,102
+Armenia,ArcGIS Hub,102
 Djibouti,Data.bis.org platform,102
 Honduras,GeoNode,100
-Mexico,OpenDataSoft,99
 Cabo Verde,ArcGIS Server,99
+Mexico,OpenDataSoft,99
 Trinidad and Tobago,CKAN,98
 Residual British Overseas Territories,Data.bis.org platform,96
-Armenia,GeoNode,95
 Mongolia,Geonetwork,95
+Armenia,GeoNode,95
 Kenya,ArcGIS Server,92
 Cote d Ivoire,ArcGIS Hub,90
+Vietnam,PxWeb,88
 Switzerland,InvenioRDM,88
 Euro area,Data.bis.org platform,87
 Estonia,ArcGIS Hub,87
 Austria,GeoNode,86
 Malaysia,GeoServer,84
-Hong Kong,CKAN,82
 Mali,NADA,82
+Hong Kong,CKAN,82
 Mongolia,GeoNode,81
 Kenya,NADA,80
 Haiti,ArcGIS Hub,77
 Poland,CKAN,76
-South Korea,ArcGIS Hub,75
 Malaysia,ArcGIS Hub,75
+South Korea,ArcGIS Hub,75
 Belarus,ArcGIS Server,72
 Hong Kong,Dataverse,71
 Serbia,GeoServer,71
@@ -966,80 +990,80 @@ Greenland,GeoServer,68
 Nepal,NADA,67
 Bolivia,CKAN,66
 French Polynesia,Data.bis.org platform,64
-Nauru,Data.bis.org platform,64
 Bhutan,Geonode,64
-Uruguay,GeoNode,63
+Nauru,Data.bis.org platform,64
 Jamaica,DKAN,63
-Algeria,GeoNode,60
+Uruguay,GeoNode,63
 Romania,GeoNode,60
+Algeria,GeoNode,60
 Zambia,ArcGIS Server,60
+Spain,GeoNode,58
 Niger,Data.bis.org platform,58
 Latvia,Dataverse,58
-Spain,GeoNode,58
 Kyrgyzstan,Geonetwork,57
 Republica Dominicana,GeoServer,55
 Unknown,OpenDataSoft,54
 United States,InvenioRDM,53
-Italy,InvenioRDM,52
 Poland,DKAN,52
+Italy,InvenioRDM,52
 Sri Lanka,CKAN,51
 Uganda,NADA,50
-North American exchanges,Data.bis.org platform,48
-Other exchanges,Data.bis.org platform,48
-Austria,ArcGIS Hub,48
-Australia/New Zealand exchanges,Data.bis.org platform,48
-Chile,CKAN,48
-Asian/Pacific exchanges,Data.bis.org platform,48
 European exchanges,Data.bis.org platform,48
 Asian exchanges,Data.bis.org platform,48
+Asian/Pacific exchanges,Data.bis.org platform,48
+Chile,CKAN,48
 Iran,ArcGIS Server,48
-Republica Dominicana,GeoNode,46
-Dominican Republic,GeoServer,46
-Egypt,GeoNode,46
+Other exchanges,Data.bis.org platform,48
+North American exchanges,Data.bis.org platform,48
+Austria,ArcGIS Hub,48
+Australia/New Zealand exchanges,Data.bis.org platform,48
 Laos,GeoServer,46
+Dominican Republic,GeoServer,46
+Republica Dominicana,GeoNode,46
+Egypt,GeoNode,46
 Paraguay,GeoServer,45
-Tanzania,NADA,40
-Ghana,NADA,40
 Palestine,CKAN,40
-Yemen,GeoNode,34
+Ghana,NADA,40
+Tanzania,NADA,40
 European Union,OpenDataSoft,34
+Yemen,GeoNode,34
 India,Geonetwork,34
 Nigeria,GeoNode,31
 Iceland,Dataverse,30
-New Zealand,Socrata,30
 Rwanda,GeoNode,30
-Costa Rica,Geonetwork,28
+New Zealand,Socrata,30
 Bulgaria,GeoServer,28
-Croatia,ArcGIS Hub,26
-Fiji,ArcGIS Server,26
+Costa Rica,Geonetwork,28
+Armenia,NADA,26
 Estonia,InvenioRDM,26
 Angola,NADA,26
-Armenia,NADA,26
-Advanced economies,Data.bis.org platform,25
+Fiji,ArcGIS Server,26
+Croatia,ArcGIS Hub,26
 European Union,ArcGIS Hub,25
+Advanced economies,Data.bis.org platform,25
 South Africa,GeoServer,23
 Emerging market economies (aggregate),Data.bis.org platform,22
-All reporting economies,Data.bis.org platform,21
 G20 economies,Data.bis.org platform,21
+All reporting economies,Data.bis.org platform,21
 Benin,CKAN,21
 Paraguay,GeoNode,20
+Suriname,ArcGIS Hub,19
 Phillipines,ArcGIS Server,19
 Argentina,Dataverse,19
-Suriname,ArcGIS Hub,19
-Lebanon,ArcGIS Hub,18
 Australia,GeoNode,18
+Lebanon,ArcGIS Hub,18
 Argentina,ArcGIS Hub,17
-Burkina Faso,GeoServer,17
 Mozambique,GeoNode,17
-Vietnam,DKAN,16
+Burkina Faso,GeoServer,17
 Greece,ArcGIS Hub,16
-Panama,GeoNode,15
-Botswana,NADA,15
+Vietnam,DKAN,16
 Lithuania,CKAN,15
-Phillipines,GeoNode,14
-Hungary,GeoNode,14
+Botswana,NADA,15
+Panama,GeoNode,15
 Croatia,Dataverse,14
 Jamaica,ArcGIS Server,14
+Phillipines,GeoNode,14
+Hungary,GeoNode,14
 Uganda,DKAN,13
 Vietnam,CKAN,13
 Costa Rica,ArcGIS Hub,12
@@ -1047,63 +1071,63 @@ United Arab Emirates,ArcGIS Hub,11
 Latvia,Pycsw,10
 South Africa,GeoNode,9
 New Caledonia,DKAN,8
-Czech Republic,DKAN,8
 Mexico,NADA,8
+Czech Republic,DKAN,8
+Nepal,Data.bis.org platform,7
+Bolivia,ArcGIS Hub,7
+Colombia,Dataverse,7
 Brunei,Data.bis.org platform,7
 Guatemala,CKAN,7
-Colombia,Dataverse,7
-Bolivia,ArcGIS Hub,7
-Nepal,Data.bis.org platform,7
-Afghanistan,Data.bis.org platform,6
-Solomon Islands,Data.bis.org platform,6
-The Gambia,Data.bis.org platform,6
-Eswatini,Data.bis.org platform,6
-Anguilla,Data.bis.org platform,6
-Kyrgyz Republic,Data.bis.org platform,6
+Lesotho,Data.bis.org platform,6
+Guinea-Bissau,Data.bis.org platform,6
+Mali,Data.bis.org platform,6
+St Vincent and the Grenadines,Data.bis.org platform,6
+Central African Republic,Data.bis.org platform,6
+Malawi,Data.bis.org platform,6
+Equatorial Guinea,Data.bis.org platform,6
+Dominica,Data.bis.org platform,6
+Guyana,Data.bis.org platform,6
+Cabo Verde,Data.bis.org platform,6
+Libya,Data.bis.org platform,6
+Yemen,Data.bis.org platform,6
+Democratic Republic of the Congo,Data.bis.org platform,6
+Eritrea,Data.bis.org platform,6
+Burundi,Data.bis.org platform,6
+Tonga,Data.bis.org platform,6
 San Marino,Data.bis.org platform,6
 St Kitts and Nevis,Data.bis.org platform,6
-Guinea-Bissau,Data.bis.org platform,6
+Anguilla,Data.bis.org platform,6
+Uganda,Data.bis.org platform,6
+Antigua and Barbuda,Data.bis.org platform,6
+Waemu,Data.bis.org platform,6
+Turkmenistan,Data.bis.org platform,6
+São Tomé and Príncipe,Data.bis.org platform,6
+Sierra Leone,Data.bis.org platform,6
 Samoa,Data.bis.org platform,6
 Vanuatu,Data.bis.org platform,6
-São Tomé and Príncipe,Data.bis.org platform,6
-Cabo Verde,Data.bis.org platform,6
-Turkmenistan,Data.bis.org platform,6
-Antigua and Barbuda,Data.bis.org platform,6
-Comoros,Data.bis.org platform,6
-Lesotho,Data.bis.org platform,6
-Uganda,Data.bis.org platform,6
-Burkina Faso,Data.bis.org platform,6
-Equatorial Guinea,Data.bis.org platform,6
-Central African Republic,Data.bis.org platform,6
-St Vincent and the Grenadines,Data.bis.org platform,6
-Kiribati,Data.bis.org platform,6
-Waemu,Data.bis.org platform,6
-Tonga,Data.bis.org platform,6
-Burundi,Data.bis.org platform,6
-Democratic Republic of the Congo,Data.bis.org platform,6
-Libya,Data.bis.org platform,6
-Guyana,Data.bis.org platform,6
-Dominica,Data.bis.org platform,6
-Mauritania,Data.bis.org platform,6
-Chad,Data.bis.org platform,6
-Micronesia,Data.bis.org platform,6
-Bhutan,Data.bis.org platform,6
-Malawi,Data.bis.org platform,6
-South Sudan,Data.bis.org platform,6
-Yemen,Data.bis.org platform,6
-Sierra Leone,Data.bis.org platform,6
-Mali,Data.bis.org platform,6
-Residual developed countries,Data.bis.org platform,6
-EU developing countries,Data.bis.org platform,6
+The Gambia,Data.bis.org platform,6
 Other developing Europe,Data.bis.org platform,6
-Eritrea,Data.bis.org platform,6
+EU developing countries,Data.bis.org platform,6
+Afghanistan,Data.bis.org platform,6
+Chad,Data.bis.org platform,6
+Bhutan,Data.bis.org platform,6
+South Sudan,Data.bis.org platform,6
+Eswatini,Data.bis.org platform,6
+Kyrgyz Republic,Data.bis.org platform,6
+Mauritania,Data.bis.org platform,6
+Comoros,Data.bis.org platform,6
+Micronesia,Data.bis.org platform,6
+Burkina Faso,Data.bis.org platform,6
+Residual developed countries,Data.bis.org platform,6
 Montserrat,Data.bis.org platform,6
-Morocco,Geonetwork,5
+Kiribati,Data.bis.org platform,6
+Solomon Islands,Data.bis.org platform,6
 Myanmar,CKAN,5
+Morocco,Geonetwork,5
 United States,GeoNode,4
+Algeria,ArcGIS Server,3
 Russian Federation,DKAN,3
 Honduras,ArcGIS Server,3
-Algeria,ArcGIS Server,3
 Netherlands,Aleph,3
-Montenegro,ArcGIS Server,1
 Ecuador,Dataverse,1
+Montenegro,ArcGIS Server,1

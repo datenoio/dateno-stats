@@ -68,7 +68,7 @@ def aggregate_array(coll, fieldname):
 #    for row in data:
 #        print(row['_id'])
 
-    print(data)
+#    print(data)
     result = reduce(lambda x,y: dict(list(x.items()) + list({ y['_id']: y['count'] }.items())), data,{})
     return result
 
@@ -132,29 +132,29 @@ def run():
     coll = conn[DEFAULT_DB][DEFAULT_COLL]
   
     data_list = []
-#    save_current(['stats_res_d_mime', aggregate_field_unwind(coll, 'resources.d_mime'), TYPE_AGG])
-#    save_current(['stats_res_mimetypes', aggregate_field_unwind(coll, 'resources.mimetype'), TYPE_AGG])
-#    save_current(['stats_res_formats', aggregate_field_unwind(coll, 'resources.format'), TYPE_AGG])
-#    save_current(['stats_res_d_ext', aggregate_field_unwind(coll, 'resources.d_ext'), TYPE_AGG])
+    save_current(['stats_res_d_mime', aggregate_field_unwind(coll, 'resources.d_mime'), TYPE_AGG])
+    save_current(['stats_res_mimetypes', aggregate_field_unwind(coll, 'resources.mimetype'), TYPE_AGG])
+    save_current(['stats_res_formats', aggregate_field_unwind(coll, 'resources.format'), TYPE_AGG])
+    save_current(['stats_res_d_ext', aggregate_field_unwind(coll, 'resources.d_ext'), TYPE_AGG])
 
-#    save_current(["stats_country_type", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.catalog_type', 'catalog_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
-#    save_current(["stats_country_software", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.software.name', 'software', unwind_1=True, unwind_2=True), TYPE_DUMP])
-#    save_current(["stats_country_owner", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.owner_type', 'owner_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
+    save_current(["stats_country_type", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.catalog_type', 'catalog_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
+    save_current(["stats_country_software", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.software.name', 'software', unwind_1=True, unwind_2=True), TYPE_DUMP])
+    save_current(["stats_country_owner", aggregate_double_fields(coll, 'source.countries.name', 'country', 'source.owner_type', 'owner_type', unwind_1=True, unwind_2=False), TYPE_DUMP])
 
-#    save_current(['crawledsources', coll.distinct('source.uid'), TYPE_LIST])
-#    save_current(['stats_software', aggregate_field_unwind(coll, 'source.software.name'), TYPE_AGG])
-#    save_current(['stats_langs', aggregate_field_unwind(coll, 'source.langs.name'), TYPE_AGG])
-#    save_current(['stats_countries', aggregate_field_unwind(coll, 'source.countries.name'), TYPE_AGG])
-#    save_current(['stats_subregions', aggregate_field_unwind(coll, 'source.subregions.name'), TYPE_AGG])
-#    save_current(['stats_macroregions', aggregate_field_unwind(coll, 'source.macroregions.name'), TYPE_AGG])
-#    save_current(['stats_topics', aggregate_array(coll, 'dataset.topics'), TYPE_AGG])
-#    save_current(['stats_geotopics', aggregate_array(coll, 'dataset.geotopics'), TYPE_AGG])
-#    save_current(['stats_sources', aggregate_field(coll, 'source.uid'), TYPE_AGG])
-#    save_current(['stats_schemas', aggregate_field(coll, 'source.schema'), TYPE_AGG])
-#    save_current(['stats_type', aggregate_field(coll, 'source.catalog_type'), TYPE_AGG])
-#    save_current(['stats_license', aggregate_field(coll, 'source.license_id'), TYPE_AGG])
-#    save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
-#    save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
+    save_current(['crawledsources', coll.distinct('source.uid'), TYPE_LIST])
+    save_current(['stats_software', aggregate_field_unwind(coll, 'source.software.name'), TYPE_AGG])
+    save_current(['stats_langs', aggregate_field_unwind(coll, 'source.langs.name'), TYPE_AGG])
+    save_current(['stats_countries', aggregate_field_unwind(coll, 'source.countries.name'), TYPE_AGG])
+    save_current(['stats_subregions', aggregate_field_unwind(coll, 'source.subregions.name'), TYPE_AGG])
+    save_current(['stats_macroregions', aggregate_field_unwind(coll, 'source.macroregions.name'), TYPE_AGG])
+    save_current(['stats_topics', aggregate_array(coll, 'dataset.topics'), TYPE_AGG])
+    save_current(['stats_geotopics', aggregate_array(coll, 'dataset.geotopics'), TYPE_AGG])
+    save_current(['stats_sources', aggregate_field(coll, 'source.uid'), TYPE_AGG])
+    save_current(['stats_schemas', aggregate_field(coll, 'source.schema'), TYPE_AGG])
+    save_current(['stats_type', aggregate_field(coll, 'source.catalog_type'), TYPE_AGG])
+    save_current(['stats_license', aggregate_field(coll, 'dataset.license_id'), TYPE_AGG])
+    save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
+    save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
 #    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
 
     save_current(['stats_datatypes', aggregate_array(coll, 'dataset.datatypes'), TYPE_AGG])

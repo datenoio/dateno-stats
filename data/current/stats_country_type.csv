@@ -2,7 +2,7 @@ country,catalog_type,count
 Germany,Geoportal,2362389
 European Union,Open data portal,1322920
 United States,Open data portal,691843
-World,Indicators catalog,665933
+World,Indicators catalog,666180
 Germany,Open data portal,347182
 Australia,Open data portal,310702
 Unknown,Geoportal,253621
@@ -35,17 +35,18 @@ Colombia,Geoportal,50080
 Austria,Open data portal,48680
 Antarctic,Geoportal,44120
 World,Open data portal,43051
+Sweden,Indicators catalog,41693
 Greece,Geoportal,41563
-France,Indicators catalog,40690
+Finland,Indicators catalog,41489
+France,Indicators catalog,40814
 India,Microdata catalog,39172
 Spain,Indicators catalog,38740
 Austria,Indicators catalog,37537
 United Kingdom,Indicators catalog,36776
 Italy,Indicators catalog,36752
-Sweden,Indicators catalog,36630
 Australia,Indicators catalog,35706
 Thailand,Geoportal,35660
-Switzerland,Indicators catalog,34708
+Switzerland,Indicators catalog,34902
 Finland,Geoportal,34572
 Spain,Open data portal,34186
 Canada,Indicators catalog,34160
@@ -57,12 +58,12 @@ Japan,Indicators catalog,32429
 New Zealand,Open data portal,32210
 Ireland,Indicators catalog,31994
 Mexico,Geoportal,31928
-Finland,Indicators catalog,31533
+Denmark,Indicators catalog,31351
 All countries (total),Indicators catalog,31322
-Luxembourg,Indicators catalog,31185
+Luxembourg,Indicators catalog,31290
 Oceania,Open data portal,30931
 Japan,Open data portal,30563
-Denmark,Indicators catalog,30449
+Latvia,Indicators catalog,29688
 India,Indicators catalog,29686
 Brazil,Indicators catalog,29617
 South Africa,Indicators catalog,29117
@@ -70,9 +71,10 @@ Chile,Indicators catalog,28995
 Colombia,Open data portal,28900
 Greece,Indicators catalog,27746
 Portugal,Indicators catalog,27448
+Estonia,Indicators catalog,27347
 Mexico,Indicators catalog,27148
 Philippines,Indicators catalog,26447
-Norway,Indicators catalog,25680
+Norway,Indicators catalog,25948
 Canada,Scientific data repository,25131
 Singapore,Indicators catalog,24750
 Portugal,Geoportal,24348
@@ -98,10 +100,10 @@ Djibouti,Indicators catalog,23097
 Colombia,Indicators catalog,23045
 Cameroon,Indicators catalog,23011
 Cambodia,Indicators catalog,23000
-Latvia,Indicators catalog,22992
 Mongolia,Indicators catalog,22981
 Poland,Indicators catalog,22951
 Ethiopia,Indicators catalog,22929
+Croatia,Indicators catalog,22923
 Tajikistan,Indicators catalog,22915
 Saudi Arabia,Geoportal,22904
 Nicaragua,Indicators catalog,22805
@@ -127,7 +129,6 @@ India,Open data portal,22302
 Romania,Indicators catalog,22296
 Paraguay,Indicators catalog,22289
 Guatemala,Indicators catalog,22257
-Croatia,Indicators catalog,22185
 Afghanistan,Indicators catalog,22150
 Tunisia,Indicators catalog,22147
 Uruguay,Indicators catalog,22128
@@ -138,6 +139,7 @@ Sri Lanka,Indicators catalog,21969
 Namibia,Indicators catalog,21842
 "Yemen, Rep.",Indicators catalog,21782
 Bosnia and Herzegovina,Indicators catalog,21759
+Jordan,Indicators catalog,21669
 Malawi,Indicators catalog,21665
 Russian Federation,Indicators catalog,21648
 Ecuador,Indicators catalog,21596
@@ -154,12 +156,13 @@ Turkiye,Indicators catalog,21364
 Jamaica,Indicators catalog,21343
 Papua New Guinea,Indicators catalog,21264
 Uzbekistan,Indicators catalog,21242
-Jordan,Indicators catalog,21177
+Ghana,Indicators catalog,21218
 Slovak Republic,Indicators catalog,21157
-Ghana,Indicators catalog,21092
 Mauritania,Indicators catalog,20993
 Fiji,Indicators catalog,20971
 Tanzania,Indicators catalog,20968
+Iceland,Indicators catalog,20960
+Cyprus,Indicators catalog,20952
 World,Geoportal,20949
 Guinea,Indicators catalog,20868
 "Gambia, The",Indicators catalog,20853
@@ -175,16 +178,14 @@ West Bank and Gaza,Indicators catalog,20633
 Chad,Indicators catalog,20617
 "Congo, Dem. Rep.",Indicators catalog,20525
 Saudi Arabia,Indicators catalog,20518
-Cyprus,Indicators catalog,20493
 World,Microdata catalog,20458
 Mexico,Open data portal,20396
 Lebanon,Indicators catalog,20377
-Estonia,Indicators catalog,20356
 Solomon Islands,Indicators catalog,20329
 Angola,Indicators catalog,20291
+Slovenia,Indicators catalog,20197
 Samoa,Indicators catalog,20192
 Maldives,Indicators catalog,20166
-Slovenia,Indicators catalog,20055
 Gabon,Indicators catalog,20053
 Haiti,Indicators catalog,20048
 Czechia,Indicators catalog,20026
@@ -198,9 +199,9 @@ New Zealand,Indicators catalog,19738
 Eswatini,Indicators catalog,19727
 Comoros,Indicators catalog,19688
 Myanmar,Indicators catalog,19657
+Montenegro,Indicators catalog,19643
 Bhutan,Indicators catalog,19453
 Sao Tome and Principe,Indicators catalog,19309
-Montenegro,Indicators catalog,19257
 Azerbaijan,Indicators catalog,19253
 Iraq,Indicators catalog,19150
 South Sudan,Indicators catalog,19117
@@ -209,7 +210,6 @@ Timor-Leste,Indicators catalog,19098
 Palau,Indicators catalog,19093
 Isle of Man,Indicators catalog,19074
 Kiribati,Indicators catalog,19055
-Iceland,Indicators catalog,19045
 North Macedonia,Indicators catalog,18942
 Viet Nam,Indicators catalog,18816
 "Iran, Islamic Rep.",Indicators catalog,18796
@@ -246,16 +246,16 @@ Barbados,Indicators catalog,15621
 Libya,Indicators catalog,15617
 Antigua and Barbuda,Indicators catalog,15483
 Puerto Rico,Indicators catalog,15438
-Upper middle income,Indicators catalog,15271
-Low income,Indicators catalog,15271
 Lower middle income,Indicators catalog,15271
+Low income,Indicators catalog,15271
+Upper middle income,Indicators catalog,15271
 South Asia,Indicators catalog,15269
 Cayman Islands,Indicators catalog,15236
 High income,Indicators catalog,15235
-East Asia & Pacific,Indicators catalog,15233
-Europe & Central Asia,Indicators catalog,15233
 Latin America & Caribbean ,Indicators catalog,15233
 Middle East & North Africa,Indicators catalog,15233
+East Asia & Pacific,Indicators catalog,15233
+Europe & Central Asia,Indicators catalog,15233
 Bermuda,Indicators catalog,14797
 Grenada,Indicators catalog,14667
 Turkmenistan,Indicators catalog,14653
@@ -272,9 +272,11 @@ San Marino,Indicators catalog,13916
 Austria,Geoportal,13904
 St. Kitts and Nevis,Indicators catalog,13844
 Tuvalu,Indicators catalog,13750
+Liechtenstein,Indicators catalog,13729
+Greenland,Indicators catalog,13700
+Faroe Islands,Indicators catalog,13420
 Cuba,Indicators catalog,13397
 Sub-Saharan Africa (excluding high income),Indicators catalog,13362
-Liechtenstein,Indicators catalog,13336
 Brunei Darussalam,Indicators catalog,13281
 French Polynesia,Indicators catalog,13223
 Gibraltar,Indicators catalog,13220
@@ -282,8 +284,8 @@ Turks and Caicos Islands,Indicators catalog,13219
 Norway,Geoportal,13217
 Switzerland,Open data portal,13124
 "Macao SAR, China",Indicators catalog,13017
-Curacao,Indicators catalog,12979
 Sint Maarten (Dutch part),Indicators catalog,12979
+Curacao,Indicators catalog,12979
 Guam,Indicators catalog,12958
 Virgin Islands (U.S.),Indicators catalog,12947
 Andorra,Indicators catalog,12935
@@ -291,23 +293,21 @@ Kazakhstan,Geoportal,12922
 Denmark,Geoportal,12886
 American Samoa,Indicators catalog,12850
 New Caledonia,Indicators catalog,12843
-Greenland,Indicators catalog,12798
 British Virgin Islands,Indicators catalog,12677
-Faroe Islands,Indicators catalog,12632
 "Korea, Dem. People's Rep.",Indicators catalog,12620
 Monaco,Indicators catalog,12618
 Greece,Open data portal,12581
 Middle income,Indicators catalog,12571
 Channel Islands,Indicators catalog,12568
 North America,Indicators catalog,12566
-Europe & Central Asia (excluding high income),Indicators catalog,12560
-East Asia & Pacific (excluding high income),Indicators catalog,12560
-Latin America & Caribbean (excluding high income),Indicators catalog,12560
 Middle East & North Africa (excluding high income),Indicators catalog,12560
-Northern Mariana Islands,Indicators catalog,12535
+Latin America & Caribbean (excluding high income),Indicators catalog,12560
+East Asia & Pacific (excluding high income),Indicators catalog,12560
+Europe & Central Asia (excluding high income),Indicators catalog,12560
 Low & middle income,Indicators catalog,12535
-OECD members,Indicators catalog,12524
+Northern Mariana Islands,Indicators catalog,12535
 Arab World,Indicators catalog,12524
+OECD members,Indicators catalog,12524
 Estonia,Geoportal,12507
 St. Martin (French part),Indicators catalog,12488
 Caribbean small states,Indicators catalog,11661
@@ -317,23 +317,23 @@ Least developed countries: UN classification,Indicators catalog,11406
 IDA total,Indicators catalog,11404
 IBRD only,Indicators catalog,11403
 Small states,Indicators catalog,11331
-European Union,Indicators catalog,11298
 Heavily indebted poor countries (HIPC),Indicators catalog,11298
-IDA only,Indicators catalog,11296
+European Union,Indicators catalog,11298
 IDA blend,Indicators catalog,11296
-Pre-demographic dividend,Indicators catalog,11295
+IDA only,Indicators catalog,11296
+East Asia & Pacific (IDA & IBRD countries),Indicators catalog,11295
+Latin America & the Caribbean (IDA & IBRD countries),Indicators catalog,11295
+Central Europe and the Baltics,Indicators catalog,11295
+IDA & IBRD total,Indicators catalog,11295
+Middle East & North Africa (IDA & IBRD countries),Indicators catalog,11295
 Post-demographic dividend,Indicators catalog,11295
-Late-demographic dividend,Indicators catalog,11295
 Sub-Saharan Africa (IDA & IBRD countries),Indicators catalog,11295
 Other small states,Indicators catalog,11295
-Early-demographic dividend,Indicators catalog,11295
-Middle East & North Africa (IDA & IBRD countries),Indicators catalog,11295
-Central Europe and the Baltics,Indicators catalog,11295
-Latin America & the Caribbean (IDA & IBRD countries),Indicators catalog,11295
 South Asia (IDA & IBRD),Indicators catalog,11295
+Late-demographic dividend,Indicators catalog,11295
 Europe & Central Asia (IDA & IBRD countries),Indicators catalog,11295
-IDA & IBRD total,Indicators catalog,11295
-East Asia & Pacific (IDA & IBRD countries),Indicators catalog,11295
+Early-demographic dividend,Indicators catalog,11295
+Pre-demographic dividend,Indicators catalog,11295
 Fragile and conflict affected situations,Indicators catalog,11293
 Pacific island small states,Indicators catalog,11293
 Hong Kong,Indicators catalog,10722
@@ -404,11 +404,13 @@ Costa Rica,Geoportal,2512
 Hungary,Geoportal,2414
 Qatar,Geoportal,2398
 Slovenia,Geoportal,2339
+Phillipines,Indicators catalog,2320
 Russia,Indicators catalog,2291
 Mongolia,Open data portal,2259
 Mongolia,Geoportal,2259
 Slovakia,Indicators catalog,2080
 Sri Lanka,Geoportal,2076
+Unknown,Indicators catalog,2042
 Singapore,Open data portal,1953
 Faroe Islands,Geoportal,1833
 Andorra,Geoportal,1830
@@ -421,6 +423,7 @@ Montenegro,Geoportal,1575
 The Bahamas,Indicators catalog,1563
 United Arab Emirates,Open data portal,1513
 Norway,Scientific data repository,1508
+Makedonia,Indicators catalog,1493
 Bosnia and Herzegovina,Geoportal,1492
 Algeria,Geoportal,1454
 Turkey,Geoportal,1391
@@ -441,20 +444,20 @@ Kuwait,Geoportal,949
 Switzerland,Microdata catalog,946
 Republica Dominicana,Open data portal,906
 West Indies UK,Indicators catalog,896
-Latin America and the Caribbean (IFC classification),Indicators catalog,881
-South Asia (IFC classification),Indicators catalog,881
 Sub-Saharan Africa (IFC classification),Indicators catalog,881
-Middle East and North Africa (IFC classification),Indicators catalog,881
-Europe and Central Asia (IFC classification),Indicators catalog,881
-East Asia and the Pacific (IFC classification),Indicators catalog,881
 Middle East (developing only),Indicators catalog,881
+Latin America and the Caribbean (IFC classification),Indicators catalog,881
+East Asia and the Pacific (IFC classification),Indicators catalog,881
+South Asia (IFC classification),Indicators catalog,881
+Europe and Central Asia (IFC classification),Indicators catalog,881
+Middle East and North Africa (IFC classification),Indicators catalog,881
 Africa,Indicators catalog,874
 Nepal,Open data portal,863
 Malawi,Geoportal,850
 Uganda,Geoportal,845
+North Africa,Indicators catalog,838
 Sub-Saharan Africa excluding South Africa,Indicators catalog,838
 Sub-Saharan Africa excluding South Africa and Nigeria,Indicators catalog,838
-North Africa,Indicators catalog,838
 Turkey,Open data portal,834
 Papua New Guinea,Open data portal,826
 Vanuatu,Geoportal,810
@@ -465,22 +468,22 @@ Albania,Geoportal,772
 Hungary,Open data portal,751
 Venezuela,Indicators catalog,743
 Barbados,Geoportal,737
+Vietnam,Indicators catalog,734
 Panama,Geoportal,723
 Jordan,Geoportal,716
 Oceania,Microdata catalog,691
 Euro area 20 - 2023,Indicators catalog,660
 Kyrgyzstan,Open data portal,646
-Vietnam,Indicators catalog,646
 Norway,Open data portal,635
-Lebanon,Scientific data repository,630
 United Arab Emirates,Geoportal,630
+Lebanon,Scientific data repository,630
 Georgia,Geoportal,626
 Africa,Geoportal,619
 Republic of North Macedonia,Open data portal,607
 Ecuador,Open data portal,591
 Solomon Islands,Open data portal,570
-European Union,Scientific data repository,562
 Micronesia,Open data portal,562
+European Union,Scientific data repository,562
 Ethiopia,Open data portal,561
 Nauru,Open data portal,559
 Madagascar,Geoportal,554
@@ -495,8 +498,8 @@ Tuvalu,Open data portal,527
 Tonga,Open data portal,519
 Unknown,Microdata catalog,507
 Serbia,Open data portal,500
-Haiti,Geoportal,488
 Kiribati,Open data portal,488
+Haiti,Geoportal,488
 Iran,Indicators catalog,487
 Uzbekistan,Geoportal,486
 Palau,Open data portal,475
@@ -507,8 +510,8 @@ Gambia,Geoportal,464
 Republic of Marshall Islands,Open data portal,453
 Malta,Geoportal,448
 China,Open data portal,429
-Belgium,Scientific data repository,428
 Lithuania,Scientific data repository,428
+Belgium,Scientific data repository,428
 Zimbabwe,Geoportal,417
 Morocco,Open data portal,416
 Serbia and Montenegro,Indicators catalog,412
@@ -520,8 +523,8 @@ Luxembourg,Open data portal,380
 Côte d'Ivoire,Indicators catalog,374
 Macau,Geoportal,370
 Niue,Geoportal,357
-Papua New Guinea,Geoportal,345
 Rwanda,Geoportal,345
+Papua New Guinea,Geoportal,345
 Pakistan,Geoportal,339
 Moldova,Geoportal,332
 Nepal,Geoportal,332
@@ -532,18 +535,18 @@ Antigua and Barbuda,Geoportal,297
 Tunis,Geoportal,286
 Belize,Geoportal,281
 Lebanon,Geoportal,272
-Togo,Geoportal,262
 St Lucia,Indicators catalog,262
+Togo,Geoportal,262
 Africa,Microdata catalog,260
 France,Microdata catalog,258
 Belarus,Open data portal,229
 Bhutan,Geoportal,214
-Tajikistan,Geoportal,207
 Sri Lanka,Open data portal,207
+Tajikistan,Geoportal,207
 Senegal,Geoportal,206
 Nicaragua,Geoportal,202
-Laos,Indicators catalog,198
 Republic of Congo,Indicators catalog,198
+Laos,Indicators catalog,198
 Albania,Open data portal,194
 Thailand,Scientific data repository,194
 Czechoslovakia,Indicators catalog,192
@@ -565,12 +568,12 @@ Moldova,Open data portal,120
 Iceland,Open data portal,118
 Ethiopia,Geoportal,117
 Lesotho,Geoportal,113
-Sub-Saharan Africa (IDA-eligible countries),Indicators catalog,109
 South Asia (IDA-eligible countries),Indicators catalog,109
-East Asia & Pacific (IDA-eligible countries),Indicators catalog,109
-Latin America & the Caribbean (IDA-eligible countries),Indicators catalog,109
-Europe & Central Asia (IDA-eligible countries),Indicators catalog,109
 Middle East & North Africa (IDA-eligible countries),Indicators catalog,109
+Sub-Saharan Africa (IDA-eligible countries),Indicators catalog,109
+Europe & Central Asia (IDA-eligible countries),Indicators catalog,109
+Latin America & the Caribbean (IDA-eligible countries),Indicators catalog,109
+East Asia & Pacific (IDA-eligible countries),Indicators catalog,109
 Jamaica,Scientific data repository,103
 Chile,Scientific data repository,102
 Republica Dominicana,Geoportal,101
@@ -578,11 +581,11 @@ Cabo Verde,Geoportal,99
 Trinidad and Tobago,Open data portal,98
 Residual British Overseas Territories,Indicators catalog,96
 Cote d Ivoire,Geoportal,90
-Mali,Microdata catalog,82
 Hong Kong,Open data portal,82
+Mali,Microdata catalog,82
 Kenya,Microdata catalog,80
-Austria,General research repository,72
 Belarus,Geoportal,72
+Austria,General research repository,72
 Hong Kong,Scientific data repository,71
 Syria,Indicators catalog,70
 Nepal,Microdata catalog,67
@@ -591,57 +594,57 @@ Jamaica,Open data portal,63
 Zambia,Geoportal,60
 Latvia,Scientific data repository,58
 Uganda,Microdata catalog,50
-North American exchanges,Indicators catalog,48
-Asian/Pacific exchanges,Indicators catalog,48
 Iran,Geoportal,48
-European exchanges,Indicators catalog,48
-Chile,Open data portal,48
-Other exchanges,Indicators catalog,48
-Australia/New Zealand exchanges,Indicators catalog,48
 Asian exchanges,Indicators catalog,48
-Tanzania,Microdata catalog,40
+North American exchanges,Indicators catalog,48
+Chile,Open data portal,48
+Australia/New Zealand exchanges,Indicators catalog,48
+Asian/Pacific exchanges,Indicators catalog,48
+European exchanges,Indicators catalog,48
+Other exchanges,Indicators catalog,48
 Palestine,Open data portal,40
 Ghana,Microdata catalog,40
+Tanzania,Microdata catalog,40
 Yemen,Geoportal,34
 Phillipines,Geoportal,33
 Iceland,Scientific data repository,30
 Vietnam,Open data portal,29
 Fiji,Geoportal,26
 Armenia,Microdata catalog,26
-Estonia,Scientific data repository,26
 Angola,Microdata catalog,26
+Estonia,Scientific data repository,26
 Advanced economies,Indicators catalog,25
 Emerging market economies (aggregate),Indicators catalog,22
-All reporting economies,Indicators catalog,21
 Benin,Open data portal,21
 G20 economies,Indicators catalog,21
+All reporting economies,Indicators catalog,21
 Suriname,Geoportal,19
 Argentina,Scientific data repository,19
 Burkina Faso,Geoportal,17
-Botswana,Microdata catalog,15
 Lithuania,Open data portal,15
+Botswana,Microdata catalog,15
 Jamaica,Geoportal,14
 Croatia,Scientific data repository,14
 Uganda,Open data portal,13
 New Caledonia,Open data portal,8
 Mexico,Microdata catalog,8
-Guatemala,Open data portal,7
-Colombia,Scientific data repository,7
 Brunei,Indicators catalog,7
-Yemen,Indicators catalog,6
-Residual developed countries,Indicators catalog,6
+Colombia,Scientific data repository,7
+Guatemala,Open data portal,7
+Democratic Republic of the Congo,Indicators catalog,6
 Montserrat,Indicators catalog,6
+Yemen,Indicators catalog,6
+Micronesia,Indicators catalog,6
+The Gambia,Indicators catalog,6
+Residual developed countries,Indicators catalog,6
+Waemu,Indicators catalog,6
 St Kitts and Nevis,Indicators catalog,6
+São Tomé and Príncipe,Indicators catalog,6
+Anguilla,Indicators catalog,6
 EU developing countries,Indicators catalog,6
 St Vincent and the Grenadines,Indicators catalog,6
-The Gambia,Indicators catalog,6
-Micronesia,Indicators catalog,6
-Anguilla,Indicators catalog,6
-Democratic Republic of the Congo,Indicators catalog,6
 Other developing Europe,Indicators catalog,6
-São Tomé and Príncipe,Indicators catalog,6
-Waemu,Indicators catalog,6
-Morocco,Geoportal,5
 Myanmar,Open data portal,5
+Morocco,Geoportal,5
 Russian Federation,Scientific data repository,3
 Ecuador,Scientific data repository,1
