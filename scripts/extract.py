@@ -200,16 +200,10 @@ def run():
     save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
     save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
 #    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
-<<<<<<< HEAD
     save_current(['stats_datatypes', aggregate_array(coll, 'dataset.datatypes'), TYPE_AGG])
 
     # Post processed custom code
     custom_update_continents()
-
-=======
-
-    save_current(['stats_datatypes', aggregate_array(coll, 'dataset.datatypes'), TYPE_AGG])
->>>>>>> refs/remotes/origin/main
     save_archive()
           
 
