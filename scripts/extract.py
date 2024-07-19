@@ -127,6 +127,50 @@ def save_archive():
     pass
 
 
+
+CONTINENTS_MAP = {
+'Western Europe' : 'Europe',
+'Northern America' : 'North America',
+'Australia and New Zealand' : 'Australia',
+'Northern Europe' : 'Europe',
+'Southern Europe' : 'Europe',
+'Eastern Europe' : 'Europe',
+'South America' : 'South America',
+'South-eastern Asia' : 'Asia',
+'Eastern Europe' : 'Europe',
+'Southern Asia' : 'Asia',
+'Eastern Asia' : 'Asia',
+'Central America' : 'North America',
+'Western Asia' : 'Asia',
+'Antarctica' : 'Antarctica',
+'Central Asia' : 'Asia',
+'Northern Africa' : 'Africa',
+'Western Africa' : 'Africa',
+'Eastern Africa' : 'Africa',
+'Caribbean' : 'North America',
+'Melanesia' : 'Australia',
+'Polynesia' : 'Australia',
+'Micronesia' : 'Australia',
+'Southern Africa' : 'Africa',
+'Middle Africa' : 'Africa'
+}
+
+
+def custom_update_continents():
+    f = open(os.path.join(CURRENT_PATH, 'stats_macroregions.json'), 'r', encoding='utf8')
+    data = json.load(f)
+    f.close()
+    results = {}
+    for k,v in data.items():
+        if k in CONTINENTS_MAP.keys():
+            if CONTINENTS_MAP[k] in results.keys():
+                results[CONTINENTS_MAP[k]] += v
+            else:
+                results[CONTINENTS_MAP[k]] = v
+        pass
+    save_current(['stats_continents', results, TYPE_AGG])
+
+
 def run():    
     conn = MongoClient()  # For test environment only, production protected with auth
     coll = conn[DEFAULT_DB][DEFAULT_COLL]
@@ -156,8 +200,16 @@ def run():
     save_current(['stats_owner', aggregate_field(coll, 'source.owner_type'), TYPE_AGG])
     save_current(['stats_formats', aggregate_array(coll, 'dataset.formats'), TYPE_AGG])
 #    save_current(['stats_tags', aggregate_array(coll, 'dataset.tags'), TYPE_AGG])
+<<<<<<< HEAD
+    save_current(['stats_datatypes', aggregate_array(coll, 'dataset.datatypes'), TYPE_AGG])
+
+    # Post processed custom code
+    custom_update_continents()
+
+=======
 
     save_current(['stats_datatypes', aggregate_array(coll, 'dataset.datatypes'), TYPE_AGG])
+>>>>>>> refs/remotes/origin/main
     save_archive()
           
 
@@ -166,4 +218,5 @@ def run():
 
 if __name__ == "__main__":
     run()
+
 
