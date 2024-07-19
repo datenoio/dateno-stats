@@ -35,4 +35,6 @@ All statistics available as JSON and CSV files:
 * stats_sources - Statistics by each data source. Schema: name, count
 * stats_subregions - Statistics by subregions. Schema: name, count
 * stats_topics - Statistics by topics from EU datasets topics classification. Schema: name, count
+* stats_totals - Statistics by total numbers of datasets and indexed data catalogs. Schena: name, count
 * stats_type  - Statistics by data catalog types. Schema: name, count
+
