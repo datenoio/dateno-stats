@@ -170,6 +170,19 @@ def custom_update_continents():
         pass
     save_current(['stats_continents', results, TYPE_AGG])
 
+def custom_update_totals():
+    f = open(os.path.join(CURRENT_PATH, 'stats_sources.json'), 'r', encoding='utf8')
+    data = json.load(f)
+    f.close()
+    results = {}
+    sources = 0
+    datasets = 0
+    for k,v in data.items():
+        sources += 1
+        datasets += v
+    results = {'sources' : sources, 'datasets' : datasets}
+    save_current(['stats_totals', results, TYPE_AGG])
+
 
 def run():    
     conn = MongoClient()  # For test environment only, production protected with auth
@@ -204,6 +217,8 @@ def run():
 
     # Post processed custom code
     custom_update_continents()
+    custom_update_totals()
+
     save_archive()
           
 
@@ -212,5 +227,6 @@ def run():
 
 if __name__ == "__main__":
     run()
+
 
 
