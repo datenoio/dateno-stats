@@ -1,24 +1,27 @@
 name,count
-Custom software,4833586
-CKAN,3837950
-Geonetwork,3628961
-Data.bis.org platform,1090729
-ArcGIS Server,916914
-Dataverse,387684
-GeoServer,386917
-ArcGIS Hub,204366
-GeoNode,163116
-Socrata,111489
-NADA,63910
-DKAN,56598
-OpenDataSoft,50905
-PxWeb,42830
+CKAN,5812082
+Data.WorldBank.org platform,4833586
+Geonetwork,3986264
+Data.bis.org platform,1181012
+ArcGIS Server,888925
+GeoServer,473483
+Dataverse,446034
+WTO.int website,328876
+ArcGIS Hub,260923
+Custom software,210540
+Ilostat website,167605
+GeoNode,155066
+Socrata,133115
+PxWeb,57889
+DKAN,57466
+NADA,25891
+OpenDataSoft,20820
 Invenio,14368
-uData,12920
+uData,10920
 Koordinates,6522
-Openml.org platform,5551
-InvenioRDM,4261
-Geoserver,3145
-Aleph,303
-Geonode,64
+Openml.org platform,5731
+InvenioRDM,4319
+ncWMS,2441
+Aleph,328
+Geonode,103
 Pycsw,10

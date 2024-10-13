@@ -1,1133 +1,1643 @@
 country,software,count
-Germany,Geonetwork,2309356
-European Union,CKAN,1317182
-United States,CKAN,632907
-World,Data.bis.org platform,526706
-Germany,CKAN,341868
-Australia,CKAN,309280
-Indonesia,CKAN,236069
-France,Geonetwork,208976
-Russian Federation,Geonetwork,194927
-United Kingdom,CKAN,183258
-Netherlands,Dataverse,155481
-World,Custom software,139227
-United Kingdom,Geonetwork,129086
-Australia,Geonetwork,125111
-United States,ArcGIS Server,124685
-Czech Republic,CKAN,122033
-Portugal,CKAN,111860
-United States,Dataverse,108009
-Unknown,ArcGIS Server,93350
-European Union,GeoServer,83116
-Brazil,Geonetwork,82680
-Canada,CKAN,82420
-United States,ArcGIS Hub,80033
-Poland,Dataverse,79756
-Canada,ArcGIS Server,78803
-Brazil,CKAN,72071
-United States,Socrata,68114
-Switzerland,ArcGIS Server,67986
-Unknown,GeoNode,58956
-Spain,Geonetwork,54702
-New Zealand,Geonetwork,52600
-Austria,CKAN,51794
-Argentina,Geonetwork,48513
-Netherlands,Geonetwork,45857
-Antarctic,Geonetwork,44120
-Australia,GeoServer,43255
-Unknown,GeoServer,42894
-Poland,Geonetwork,41777
-India,NADA,39172
-Germany,ArcGIS Server,36846
-Belgium,GeoServer,36066
-Greece,ArcGIS Server,33516
-Belgium,Geonetwork,33451
-Spain,ArcGIS Server,32851
-New Zealand,CKAN,32180
-Unknown,Geonetwork,32136
-All countries (total),Data.bis.org platform,31322
-Canada,ArcGIS Hub,31034
-Thailand,ArcGIS Server,30823
-Japan,CKAN,30563
-Switzerland,Geonetwork,30444
-World,OpenDataSoft,29990
-Australia,ArcGIS Server,29816
-Spain,CKAN,29493
-European Union,Geonetwork,27743
-Unknown,ArcGIS Hub,26285
-Thailand,CKAN,24241
-European Union,ArcGIS Server,23855
-Kenya,Custom software,23741
-Rwanda,Custom software,23738
-Madagascar,Custom software,23736
-Uganda,Custom software,23711
-Colombia,Socrata,23431
-Cote d'Ivoire,Custom software,23360
-Nigeria,Custom software,23353
-Zambia,Custom software,23158
-Liberia,Custom software,23045
-Djibouti,Custom software,22995
-Saudi Arabia,ArcGIS Server,22904
-Cambodia,Custom software,22898
-Cameroon,Custom software,22813
-Ethiopia,Custom software,22795
-Burkina Faso,Custom software,22795
-Tajikistan,Custom software,22781
-Sierra Leone,Custom software,22695
-Canada,Dataverse,22650
-Kyrgyz Republic,Custom software,22627
-Nicaragua,Custom software,22607
-Bangladesh,Custom software,22583
-Benin,Custom software,22567
-Moldova,Custom software,22557
-Pakistan,Custom software,22446
-Italy,Geonetwork,22433
-Mongolia,Custom software,22431
-Nepal,Custom software,22384
-Albania,Custom software,22358
-France,Data.bis.org platform,22323
-Morocco,Custom software,22249
-Afghanistan,Custom software,22144
-South Africa,Custom software,22130
-Mauritius,Custom software,22118
-Georgia,Custom software,22088
-Dominican Republic,Custom software,21930
-Brazil,Custom software,21901
-Paraguay,Custom software,21899
-Mexico,Custom software,21871
-Guatemala,Custom software,21867
-China,Custom software,21817
-"Yemen, Rep.",Custom software,21782
-Bolivia,Custom software,21755
-Indonesia,Custom software,21748
-Namibia,Custom software,21708
-Malawi,Custom software,21659
-Colombia,Custom software,21656
-Russian Federation,Custom software,21648
-El Salvador,Custom software,21637
-Costa Rica,Custom software,21630
-Tunisia,Custom software,21612
-"Egypt, Arab Rep.",Custom software,21584
-Bosnia and Herzegovina,Custom software,21557
-Sri Lanka,Custom software,21546
-Peru,Custom software,21521
-Argentina,Custom software,21514
-Uruguay,Custom software,21513
-Kosovo,Custom software,21507
-Chile,Custom software,21474
-Lesotho,Custom software,21417
-Turkiye,Custom software,21364
-Thailand,Custom software,21359
-Philippines,Custom software,21331
-Kazakhstan,Custom software,21330
-Colombia,ArcGIS Hub,21307
-Senegal,Custom software,21304
-India,CKAN,21290
-Bulgaria,Custom software,21276
-Croatia,Custom software,21269
-New Zealand,ArcGIS Server,21257
-Honduras,Custom software,21205
-Togo,Custom software,21197
-Armenia,Custom software,21196
-Hungary,Custom software,21169
-Poland,Custom software,21166
-Lithuania,Custom software,21159
-Slovak Republic,Custom software,21157
-Latvia,Custom software,21148
-Panama,Custom software,21100
-Ecuador,Custom software,21084
-India,Custom software,21036
-Jamaica,Custom software,21017
-Papua New Guinea,Custom software,21002
-Mauritania,Custom software,20987
-Romania,Custom software,20924
-Tanzania,Custom software,20898
-Ghana,Custom software,20894
-Jordan,Custom software,20883
-"Gambia, The",Custom software,20853
-Uzbekistan,Custom software,20820
-Fiji,Custom software,20805
-Tonga,Custom software,20775
-Mali,Custom software,20740
-Niger,Custom software,20739
-Ukraine,Custom software,20736
-Central African Republic,Custom software,20734
-Guinea,Custom software,20734
-Botswana,Custom software,20724
-Mozambique,Custom software,20639
-West Bank and Gaza,Custom software,20633
-Chad,Custom software,20611
-"Congo, Dem. Rep.",Custom software,20525
-Belize,Custom software,20478
-World,NADA,20458
-Malaysia,Custom software,20403
-Solomon Islands,Custom software,20323
-Spain,Data.bis.org platform,20275
-Belarus,Custom software,20262
-Samoa,Custom software,20186
-Angola,Custom software,20157
-Mexico,CKAN,20136
-Haiti,Custom software,19914
-Lao PDR,Custom software,19905
-Maldives,Custom software,19904
-"Congo, Rep.",Custom software,19804
-Zimbabwe,Custom software,19799
-Gabon,Custom software,19759
-Eswatini,Custom software,19721
-Lebanon,Custom software,19695
-Comoros,Custom software,19682
-Sudan,Custom software,19607
-Myanmar,Custom software,19523
-Bhutan,Custom software,19447
-Serbia,Custom software,19409
-Brazil,GeoNode,19334
-Sao Tome and Principe,Custom software,19309
-Austria,Data.bis.org platform,19170
-Montenegro,Custom software,19123
-South Sudan,Custom software,19111
-Timor-Leste,Custom software,19098
-Dominica,Custom software,19095
-Palau,Custom software,19093
-Kiribati,Custom software,19049
-Colombia,ArcGIS Server,18995
-Iraq,Custom software,18952
-Oceania,DKAN,18913
-Azerbaijan,Custom software,18831
-Viet Nam,Custom software,18816
-"Iran, Islamic Rep.",Custom software,18796
-Mexico,ArcGIS Server,18750
-North Macedonia,Custom software,18729
-"Venezuela, RB",Custom software,18618
-Guinea-Bissau,Custom software,18600
-Estonia,Custom software,18596
-Sweden,Custom software,18580
-Portugal,Custom software,18580
-Belgium,Custom software,18580
-Norway,Custom software,18517
-Cabo Verde,Custom software,18495
-Italy,Custom software,18482
-Greece,Custom software,18482
-Malta,Custom software,18478
-Luxembourg,Custom software,18476
-Germany,Custom software,18465
-Spain,Custom software,18465
-Denmark,Custom software,18465
-United Kingdom,Data.bis.org platform,18409
-"Korea, Rep.",Custom software,18384
-United States,Custom software,18382
-Saudi Arabia,Custom software,18368
-Finland,Custom software,18367
-France,Custom software,18367
-Canada,Custom software,18367
-Netherlands,Custom software,18367
-Australia,Custom software,18367
-United Kingdom,Custom software,18367
-Austria,Custom software,18367
-Ireland,CKAN,18328
-Italy,Data.bis.org platform,18270
-Syrian Arab Republic,Custom software,18249
-Slovenia,Custom software,18227
-Czechia,Custom software,18131
-Cyprus,Custom software,18060
-Sweden,Data.bis.org platform,18050
-Seychelles,Custom software,18045
-Japan,Custom software,18002
-Ireland,Custom software,18001
-Switzerland,Custom software,18001
-Iceland,Custom software,17981
-Algeria,Custom software,17931
-Trinidad and Tobago,Custom software,17857
-St. Lucia,Custom software,17773
-Israel,Custom software,17680
-Burundi,Custom software,17672
-New Zealand,Custom software,17667
-Vanuatu,Custom software,17635
-Australia,Data.bis.org platform,17339
-Suriname,Custom software,17279
-Somalia,Custom software,17266
-Slovakia,ArcGIS Server,17215
-"Micronesia, Fed. Sts.",Custom software,17095
-"Hong Kong SAR, China",Custom software,16989
-Marshall Islands,Custom software,16957
-"Bahamas, The",Custom software,16896
-Netherlands,ArcGIS Server,16754
-Switzerland,Data.bis.org platform,16707
-Singapore,Custom software,16691
-Netherlands,CKAN,16607
-Guyana,Custom software,16101
-Sub-Saharan Africa ,Custom software,16071
-World,Geonetwork,16051
-Canada,Data.bis.org platform,15793
-Libya,Custom software,15611
-Netherlands,Data.bis.org platform,15525
-Antigua and Barbuda,Custom software,15477
-Puerto Rico,Custom software,15438
-Kuwait,Custom software,15378
-Oman,Custom software,15276
-Upper middle income,Custom software,15271
-Lower middle income,Custom software,15271
-Low income,Custom software,15271
-South Asia,Custom software,15269
-Bahrain,Custom software,15241
-High income,Custom software,15235
-East Asia & Pacific,Custom software,15233
-Middle East & North Africa,Custom software,15233
-Europe & Central Asia,Custom software,15233
-Latin America & Caribbean ,Custom software,15233
-Barbados,Custom software,15039
-United Arab Emirates,Custom software,14891
-Qatar,Custom software,14879
-Belgium,Data.bis.org platform,14745
-Turkmenistan,Custom software,14647
-Eritrea,Custom software,14505
-Equatorial Guinea,Custom software,14429
-Japan,Data.bis.org platform,14427
-United States,Data.bis.org platform,14393
-Grenada,Custom software,14373
-Korea,Data.bis.org platform,14341
-Euro area,Custom software,14325
-Taiwan,Data.bis.org platform,14264
-Italy,GeoServer,14255
-Germany,Data.bis.org platform,14233
-Ireland,Data.bis.org platform,13993
-St. Vincent and the Grenadines,Custom software,13929
-San Marino,Custom software,13910
-Nauru,Custom software,13886
-St. Kitts and Nevis,Custom software,13844
-Netherlands,GeoServer,13754
-Tuvalu,Custom software,13750
-Cayman Islands,Custom software,13696
-Germany,GeoServer,13501
-Aruba,Custom software,13365
-Sub-Saharan Africa (excluding high income),Custom software,13362
-Bermuda,Custom software,13330
-Brunei Darussalam,Custom software,13281
-Finland,Data.bis.org platform,13166
-French Polynesia,Custom software,13159
-World,CKAN,13061
-Cuba,Custom software,13045
-Turks and Caicos Islands,Custom software,13027
-"Macao SAR, China",Custom software,13017
-Curacao,Custom software,12979
-Sint Maarten (Dutch part),Custom software,12979
-Guam,Custom software,12958
-Virgin Islands (U.S.),Custom software,12947
-Andorra,Custom software,12935
-American Samoa,Custom software,12850
-New Caledonia,Custom software,12843
-Liechtenstein,Custom software,12808
-Greenland,Custom software,12798
-Russian Federation,ArcGIS Server,12760
-Luxembourg,Data.bis.org platform,12709
-British Virgin Islands,Custom software,12677
-Isle of Man,Custom software,12632
-Faroe Islands,Custom software,12632
-"Korea, Dem. People's Rep.",Custom software,12620
-Monaco,Custom software,12618
-Finland,Geonetwork,12600
-Gibraltar,Custom software,12596
-Middle income,Custom software,12571
-Channel Islands,Custom software,12568
-North America,Custom software,12566
-Middle East & North Africa (excluding high income),Custom software,12560
-East Asia & Pacific (excluding high income),Custom software,12560
-Latin America & Caribbean (excluding high income),Custom software,12560
-Europe & Central Asia (excluding high income),Custom software,12560
-Northern Mariana Islands,Custom software,12535
-Low & middle income,Custom software,12535
-OECD members,Custom software,12524
-Arab World,Custom software,12524
-Switzerland,CKAN,12521
-St. Martin (French part),Custom software,12488
-Finland,ArcGIS Server,12332
-Oceania,CKAN,12018
-Denmark,Data.bis.org platform,11984
-Greece,CKAN,11945
-Caribbean small states,Custom software,11661
-Cambodia,CKAN,11536
-Least developed countries: UN classification,Custom software,11406
-IDA total,Custom software,11404
-IBRD only,Custom software,11403
-Portugal,Geonetwork,11332
-Small states,Custom software,11331
-European Union,Custom software,11298
-Heavily indebted poor countries (HIPC),Custom software,11298
-IDA only,Custom software,11296
-IDA blend,Custom software,11296
-Europe & Central Asia (IDA & IBRD countries),Custom software,11295
-Late-demographic dividend,Custom software,11295
-Other small states,Custom software,11295
-IDA & IBRD total,Custom software,11295
-Middle East & North Africa (IDA & IBRD countries),Custom software,11295
-Central Europe and the Baltics,Custom software,11295
-Latin America & the Caribbean (IDA & IBRD countries),Custom software,11295
-Early-demographic dividend,Custom software,11295
-Sub-Saharan Africa (IDA & IBRD countries),Custom software,11295
-East Asia & Pacific (IDA & IBRD countries),Custom software,11295
-South Asia (IDA & IBRD),Custom software,11295
-Pre-demographic dividend,Custom software,11295
-Post-demographic dividend,Custom software,11295
-Fragile and conflict affected situations,Custom software,11293
-Pacific island small states,Custom software,11293
-Spain,GeoServer,10959
-United Kingdom,ArcGIS Server,10866
-Italy,CKAN,10735
-Hong Kong,Data.bis.org platform,10722
-France,uData,10080
-Argentina,CKAN,10009
-Italy,GeoNode,10008
-Sweden,Geonetwork,9995
-Finland,PxWeb,9956
-China,GeoNode,9914
-Italy,ArcGIS Server,9713
-Canada,Geonetwork,9622
-Estonia,ArcGIS Server,9544
-Norway,ArcGIS Server,9498
-France,OpenDataSoft,9490
-China,ArcGIS Server,9272
-Greece,Data.bis.org platform,9264
-Austria,Geonetwork,9192
-Finland,GeoServer,8981
-Portugal,Data.bis.org platform,8868
-Ecuador,Geonetwork,8765
-India,Data.bis.org platform,8650
-Vietnam,ArcGIS Server,8628
+Germany,Geonetwork,2378574
+European Union,CKAN,1376062
+Unknown,CKAN,923262
+United States,CKAN,695087
+Unknown,Data.WorldBank.org platform,677354
+Unknown,Data.bis.org platform,594633
+Indonesia,CKAN,560227
+Australia,CKAN,426343
+Germany,CKAN,391020
+World,CKAN,284744
+France,Geonetwork,248001
+Russian Federation,Geonetwork,195146
+Australia,Geonetwork,178284
+Netherlands,Dataverse,164356
+United States,Dataverse,152549
+European Union,GeoServer,141045
+United Kingdom,CKAN,140700
+United States,ArcGIS Server,131731
+Canada,CKAN,131088
+European Union,Geonetwork,124304
+Portugal,CKAN,112302
+Switzerland,ArcGIS Server,104685
+United States,ArcGIS Hub,96974
+United Kingdom,Geonetwork,95328
+Brazil,Geonetwork,90826
+United States,Socrata,86296
+Japan,CKAN,86199
+Poland,Dataverse,79768
+Brazil,CKAN,77415
+Unknown,ArcGIS Server,72672
+Canada,ArcGIS Server,65488
+Austria,CKAN,59330
+Netherlands,Geonetwork,58336
+Argentina,Geonetwork,58080
+Poland,Geonetwork,52287
+Thailand,CKAN,52195
+Unknown,GeoNode,50843
+Spain,Geonetwork,47881
+"{'id': 'RS', 'name': 'Serbia'}",Data.WorldBank.org platform,47691
+Antarctic,Geonetwork,44111
+Unknown,GeoServer,43815
+New Zealand,Geonetwork,42965
+Spain,CKAN,40432
+Italy,CKAN,40257
+Australia,GeoServer,39901
+Germany,ArcGIS Server,38583
+Canada,ArcGIS Hub,38452
+Italy,Geonetwork,38180
+Unknown,ArcGIS Hub,38052
+Belgium,Geonetwork,35422
+Ukraine,CKAN,34957
+Unknown,Geonetwork,33349
+New Zealand,CKAN,32767
+Colombia,ArcGIS Hub,31840
+Australia,ArcGIS Server,30987
+Switzerland,Geonetwork,30546
+"{'id': 'TO', 'name': 'Tonga'}",Data.WorldBank.org platform,29807
+Argentina,CKAN,29149
+New Zealand,ArcGIS Server,28806
+Czech Republic,Geonetwork,28595
+"{'id': 'SS', 'name': 'South Sudan'}",Data.WorldBank.org platform,27184
+Colombia,Socrata,26350
+Greece,CKAN,26264
+Switzerland,CKAN,26193
+Netherlands,CKAN,26089
+Spain,ArcGIS Server,25757
+"{'id': 'SE', 'name': 'Sweden'}",Data.bis.org platform,25031
+Liberia,Data.WorldBank.org platform,25014
+Ireland,CKAN,24426
+India,CKAN,24259
+"{'id': 'UG', 'name': 'Uganda'}",Data.WorldBank.org platform,24063
+European Union,ArcGIS Server,24050
+"{'id': 'FR', 'name': 'France'}",Data.bis.org platform,24029
+Brazil,GeoServer,24025
+"{'id': 'RW', 'name': 'Rwanda'}",Data.WorldBank.org platform,23963
+"{'id': 'KE', 'name': 'Kenya'}",Data.WorldBank.org platform,23836
+"{'id': 'MG', 'name': 'Madagascar'}",Data.WorldBank.org platform,23797
+Sierra Leone,Data.WorldBank.org platform,23436
+"{'id': 'NG', 'name': 'Nigeria'}",Data.WorldBank.org platform,23384
+"{'id': 'CI', 'name': 'Republic of Ivory Coast'}",Data.WorldBank.org platform,23366
+Canada,Dataverse,23321
+"{'id': 'ZM', 'name': 'Zambia'}",Data.WorldBank.org platform,23183
+"{'id': 'TJ', 'name': 'Tajikistan'}",Data.WorldBank.org platform,23182
+"{'id': 'KH', 'name': 'Cambodia'}",Data.WorldBank.org platform,23062
+Djibouti,Data.WorldBank.org platform,23058
+Thailand,ArcGIS Server,23055
+Belgium,GeoServer,22986
+Portugal,Geonetwork,22974
+Uruguay,Geonetwork,22878
+"{'id': 'CM', 'name': 'Cameroon'}",Data.WorldBank.org platform,22816
+"{'id': 'ET', 'name': 'Ethiopia'}",Data.WorldBank.org platform,22799
+"{'id': 'BF', 'name': 'Burkina Faso'}",Data.WorldBank.org platform,22798
+"{'id': 'KG', 'name': 'Kyrgyzstan'}",Data.WorldBank.org platform,22749
+"{'id': 'NI', 'name': 'Nicaragua'}",Data.WorldBank.org platform,22615
+"{'id': 'MD', 'name': 'Moldova'}",Data.WorldBank.org platform,22613
+"{'id': 'BD', 'name': 'Bangladesh'}",Data.WorldBank.org platform,22585
+"{'id': 'BJ', 'name': 'Benin'}",Data.WorldBank.org platform,22576
+"{'id': 'SV', 'name': 'El Salvador'}",Data.WorldBank.org platform,22546
+"{'id': 'PK', 'name': 'Pakistan'}",Data.WorldBank.org platform,22460
+"{'id': 'MN', 'name': 'Mongolia'}",Data.WorldBank.org platform,22444
+"{'id': 'NP', 'name': 'Nepal'}",Data.WorldBank.org platform,22389
+"{'id': 'AL', 'name': 'Albania'}",Data.WorldBank.org platform,22365
+"{'id': 'MA', 'name': 'Marocco'}",Data.WorldBank.org platform,22328
+"{'id': 'TN', 'name': 'Tunis'}",Data.WorldBank.org platform,22241
+"{'id': 'ZA', 'name': 'South Africa'}",Data.WorldBank.org platform,22155
+Afghanistan,Data.WorldBank.org platform,22154
+Mauritius,Data.WorldBank.org platform,22138
+"{'id': 'GE', 'name': 'Georgia'}",Data.WorldBank.org platform,22092
+"{'id': 'DO', 'name': 'Republica Dominicana'}",Data.WorldBank.org platform,22038
+Saint Lucia,Data.WorldBank.org platform,21987
+"{'id': 'PY', 'name': 'Paraguay'}",Data.WorldBank.org platform,21954
+"{'id': 'BR', 'name': 'Brazil'}",Data.WorldBank.org platform,21902
+"{'id': 'MX', 'name': 'Mozambique'}",Data.WorldBank.org platform,21884
+"{'id': 'GT', 'name': 'Guatemala'}",Data.WorldBank.org platform,21871
+"{'id': 'LK', 'name': 'Sri Lanka'}",Data.WorldBank.org platform,21842
+"{'id': 'CN', 'name': 'China'}",Data.WorldBank.org platform,21817
+"{'id': 'TH', 'name': 'Thailand'}",Data.WorldBank.org platform,21817
+"{'id': 'YE', 'name': 'Yemen'}",Data.WorldBank.org platform,21807
+"{'id': 'SK', 'name': 'Slovakia'}",Data.WorldBank.org platform,21798
+"{'id': 'ID', 'name': 'Indonesia'}",Data.WorldBank.org platform,21767
+"{'id': 'RU', 'name': 'Russian Federation'}",Data.WorldBank.org platform,21759
+"{'id': 'BO', 'name': 'Bolivia'}",Data.WorldBank.org platform,21758
+"{'id': 'ES', 'name': 'Spain'}",Data.bis.org platform,21742
+"{'id': 'NA', 'name': 'Namibia'}",Data.WorldBank.org platform,21739
+"{'id': 'SN', 'name': 'Senegal'}",Data.WorldBank.org platform,21737
+"{'id': 'TR', 'name': 'Turkey'}",Data.WorldBank.org platform,21716
+"{'id': 'TG', 'name': 'Togo'}",Data.WorldBank.org platform,21686
+"{'id': 'MW', 'name': 'Malawi'}",Data.WorldBank.org platform,21673
+"{'id': 'CO', 'name': 'Colombia'}",Data.WorldBank.org platform,21666
+World,NADA,21665
+"{'id': 'CR', 'name': 'Costa Rica'}",Data.WorldBank.org platform,21636
+"{'id': 'UY', 'name': 'Uruguay'}",Data.WorldBank.org platform,21608
+"{'id': 'EG', 'name': 'Egypt'}",Data.WorldBank.org platform,21590
+"{'id': 'LS', 'name': 'Lesotho'}",Data.WorldBank.org platform,21588
+"{'id': 'BA', 'name': 'Bosnia and Herzegovina'}",Data.WorldBank.org platform,21558
+"{'id': 'PE', 'name': 'Peru'}",Data.WorldBank.org platform,21547
+"{'id': 'AR', 'name': 'Argentina'}",Data.WorldBank.org platform,21519
+Mexico,CKAN,21496
+"{'id': 'CL', 'name': 'Chile'}",Data.WorldBank.org platform,21480
+"{'id': 'KZ', 'name': 'Kazakhstan'}",Data.WorldBank.org platform,21399
+"{'id': 'PH', 'name': 'Phillipines'}",Data.WorldBank.org platform,21360
+"{'id': 'BG', 'name': 'Bulgaria'}",Data.WorldBank.org platform,21277
+"{'id': 'HR', 'name': 'Croatia'}",Data.WorldBank.org platform,21273
+"{'id': 'LT', 'name': 'Lithuania'}",Data.WorldBank.org platform,21256
+"{'id': 'LV', 'name': 'Latvia'}",Data.WorldBank.org platform,21251
+"{'id': 'TZ', 'name': 'Tanzania'}",Data.WorldBank.org platform,21241
+"{'id': 'HN', 'name': 'Honduras'}",Data.WorldBank.org platform,21213
+"{'id': 'AM', 'name': 'Armenia'}",Data.WorldBank.org platform,21199
+"{'id': 'PL', 'name': 'Poland'}",Data.WorldBank.org platform,21191
+"{'id': 'HU', 'name': 'Hungary'}",Data.WorldBank.org platform,21185
+"{'id': 'PA', 'name': 'Panama'}",Data.WorldBank.org platform,21120
+"{'id': 'EC', 'name': 'Ecuador'}",Data.WorldBank.org platform,21091
+"{'id': 'JM', 'name': 'Jamaica'}",Data.WorldBank.org platform,21085
+Germany,GeoServer,21079
+"{'id': 'IN', 'name': 'India'}",Data.WorldBank.org platform,21048
+"{'id': 'RO', 'name': 'Romania'}",Data.WorldBank.org platform,21038
+"{'id': 'PG', 'name': 'Papua New Guinea'}",Data.WorldBank.org platform,21013
+"{'id': 'UA', 'name': 'Ukraine'}",Data.WorldBank.org platform,21003
+"{'id': 'MR', 'name': 'Mauritania'}",Data.WorldBank.org platform,21001
+"{'id': 'JO', 'name': 'Jordan'}",Data.WorldBank.org platform,20946
+"{'id': 'UZ', 'name': 'Uzbekistan'}",Data.WorldBank.org platform,20921
+Chad,Data.WorldBank.org platform,20919
+"{'id': 'GH', 'name': 'Ghana'}",Data.WorldBank.org platform,20894
+"{'id': 'GM', 'name': 'Gambia'}",Data.WorldBank.org platform,20858
+"{'id': 'FJ', 'name': 'Fiji'}",Data.WorldBank.org platform,20811
+Niger,Data.WorldBank.org platform,20769
+"{'id': 'ML', 'name': 'Mali'}",Data.WorldBank.org platform,20756
+Central African Republic,Data.WorldBank.org platform,20737
+Guinea,Data.WorldBank.org platform,20736
+"{'id': 'BW', 'name': 'Botswana'}",Data.WorldBank.org platform,20730
+Timor-Leste,Data.WorldBank.org platform,20714
+"{'id': 'PS', 'name': 'Palestine'}",Data.WorldBank.org platform,20698
+"{'id': 'SB', 'name': 'Solomon Islands'}",Data.WorldBank.org platform,20690
+"{'id': 'MZ', 'name': 'Mozambique'}",Data.WorldBank.org platform,20651
+"{'id': 'LB', 'name': 'Lebanon'}",Data.WorldBank.org platform,20559
+"{'id': 'CD', 'name': 'Democratic Republic of the Congo'}",Data.WorldBank.org platform,20535
+"{'id': 'BZ', 'name': 'Belize'}",Data.WorldBank.org platform,20479
+"{'id': 'MY', 'name': 'Malaysia'}",Data.WorldBank.org platform,20406
+"{'id': 'LA', 'name': 'Laos'}",Data.WorldBank.org platform,20330
+"{'id': 'AT', 'name': 'Austria'}",Data.bis.org platform,20297
+"{'id': 'SO', 'name': 'Somalia'}",Data.WorldBank.org platform,20289
+"{'id': 'BY', 'name': 'Belarus'}",Data.WorldBank.org platform,20263
+"{'id': 'WS', 'name': 'Samoa'}",Data.WorldBank.org platform,20209
+Sao Tome and Principe,Data.WorldBank.org platform,20205
+"{'id': 'AO', 'name': 'Angola'}",Data.WorldBank.org platform,20164
+Eswatini,Data.WorldBank.org platform,20157
+"{'id': 'GB', 'name': 'United Kingdom'}",Data.bis.org platform,20110
+"{'id': 'NL', 'name': 'Netherlands'}",Data.bis.org platform,20052
+Unknown,Custom software,20035
+Netherlands,GeoServer,19952
+Sudan,Data.WorldBank.org platform,19939
+"{'id': 'MV', 'name': 'Maldives'}",Data.WorldBank.org platform,19937
+"{'id': 'HT', 'name': 'Haiti'}",Data.WorldBank.org platform,19922
+"{'id': 'ZW', 'name': 'Zimbabwe'}",Data.WorldBank.org platform,19817
+Congo,Data.WorldBank.org platform,19808
+Gabon,Data.WorldBank.org platform,19768
+Comoros,Data.WorldBank.org platform,19688
+"{'id': 'IT', 'name': 'Italy'}",Data.bis.org platform,19662
+"{'id': 'MM', 'name': 'Myanmar'}",Data.WorldBank.org platform,19534
+Netherlands,ArcGIS Server,19496
+"{'id': 'TT', 'name': 'Trinidad and Tobago'}",Data.WorldBank.org platform,19460
+"{'id': 'BT', 'name': 'Bhutan'}",Data.WorldBank.org platform,19449
+"{'id': 'KI', 'name': 'Kiribati'}",Data.WorldBank.org platform,19262
+"{'id': 'DM', 'name': 'Dominica'}",Data.WorldBank.org platform,19164
+Oceania,DKAN,19138
+"{'id': 'ME', 'name': 'Montenegro'}",Data.WorldBank.org platform,19136
+"{'id': 'PW', 'name': 'Palau'}",Data.WorldBank.org platform,19109
+"{'id': 'SE', 'name': 'Sweden'}",Data.WorldBank.org platform,19015
+"{'id': 'IQ', 'name': 'Iraq'}",Data.WorldBank.org platform,18993
+"{'id': 'VN', 'name': 'Vietnam'}",Data.WorldBank.org platform,18875
+"{'id': 'AZ', 'name': 'Azerbaijan'}",Data.WorldBank.org platform,18832
+"{'id': 'IR', 'name': 'Iran'}",Data.WorldBank.org platform,18820
+"{'id': 'MK', 'name': 'Makedonia'}",Data.WorldBank.org platform,18751
+"{'id': 'VE', 'name': 'Venezuela'}",Data.WorldBank.org platform,18682
+Greece,ArcGIS Server,18677
+"{'id': 'SI', 'name': 'Slovenia'}",Data.WorldBank.org platform,18627
+"{'id': 'EE', 'name': 'Estonia'}",Data.WorldBank.org platform,18603
+"{'id': 'PT', 'name': 'Mozambique'}",Data.WorldBank.org platform,18602
+Guinea-Bissau,Data.WorldBank.org platform,18600
+"{'id': 'BE', 'name': 'Belgium'}",Data.WorldBank.org platform,18582
+"{'id': 'SA', 'name': 'Saudi Arabia'}",Data.WorldBank.org platform,18570
+Italy,GeoServer,18550
+"{'id': 'LU', 'name': 'Luxembourg'}",Data.WorldBank.org platform,18528
+"{'id': 'DK', 'name': 'Denmark'}",Data.WorldBank.org platform,18527
+"{'id': 'NO', 'name': 'Norway'}",Data.WorldBank.org platform,18523
+"{'id': 'DE', 'name': 'Germany'}",Data.WorldBank.org platform,18518
+"{'id': 'KR', 'name': 'South Korea'}",Data.WorldBank.org platform,18518
+"{'id': 'IT', 'name': 'Italy'}",Data.WorldBank.org platform,18510
+"{'id': 'AU', 'name': 'Australia'}",Data.bis.org platform,18503
+"{'id': 'CV', 'name': 'Cabo Verde'}",Data.WorldBank.org platform,18501
+"{'id': 'GR', 'name': 'Greece'}",Data.WorldBank.org platform,18484
+"{'id': 'MT', 'name': 'Malta'}",Data.WorldBank.org platform,18484
+Syrian Arab Republic,Data.WorldBank.org platform,18481
+"{'id': 'ES', 'name': 'Spain'}",Data.WorldBank.org platform,18469
+"{'id': 'US', 'name': 'World'}",Data.WorldBank.org platform,18466
+"{'id': 'NL', 'name': 'Netherlands'}",Data.WorldBank.org platform,18371
+"{'id': 'FI', 'name': 'Finland'}",Data.WorldBank.org platform,18370
+"{'id': 'AT', 'name': 'Austria'}",Data.WorldBank.org platform,18369
+"{'id': 'FR', 'name': 'France'}",Data.WorldBank.org platform,18368
+"{'id': 'AU', 'name': 'Australia'}",Data.WorldBank.org platform,18368
+"{'id': 'GB', 'name': 'United Kingdom'}",Data.WorldBank.org platform,18367
+"{'id': 'CA', 'name': 'Canada'}",Data.WorldBank.org platform,18367
+"{'id': 'SC', 'name': 'Seychelles'}",Data.WorldBank.org platform,18249
+"{'id': 'CZ', 'name': 'Czech Republic'}",Data.WorldBank.org platform,18228
+Finland,Geonetwork,18161
+"{'id': 'CY', 'name': 'Cyprus'}",Data.WorldBank.org platform,18106
+"{'id': 'JP', 'name': 'Japan'}",Data.WorldBank.org platform,18040
+"{'id': 'IE', 'name': 'Ireland'}",Data.WorldBank.org platform,18012
+"{'id': 'CH', 'name': 'Switzerland'}",Data.WorldBank.org platform,18003
+"{'id': 'IS', 'name': 'Iceland'}",Data.WorldBank.org platform,17996
+"{'id': 'DZ', 'name': 'Algeria'}",Data.WorldBank.org platform,17954
+"{'id': 'CH', 'name': 'Switzerland'}",Data.bis.org platform,17850
+"{'id': 'IL', 'name': 'Israel'}",Data.WorldBank.org platform,17717
+Libya,Data.WorldBank.org platform,17711
+"{'id': 'BI', 'name': 'Burundi'}",Data.WorldBank.org platform,17677
+"{'id': 'SR', 'name': 'Suriname'}",Data.WorldBank.org platform,17676
+"{'id': 'NZ', 'name': 'New Zealand'}",Data.WorldBank.org platform,17673
+"{'id': 'VU', 'name': 'Vanuatu'}",Data.WorldBank.org platform,17669
+"{'id': 'CA', 'name': 'Canada'}",Data.bis.org platform,17399
+"{'id': 'FM', 'name': 'Micronesia'}",Data.WorldBank.org platform,17100
+"{'id': 'SG', 'name': 'Singapore'}",Data.WorldBank.org platform,17026
+"{'id': 'HK', 'name': 'Hong Kong'}",Data.WorldBank.org platform,16992
+"{'id': 'MH', 'name': 'Republic of Marshall Islands'}",Data.WorldBank.org platform,16980
+Bahamas,Data.WorldBank.org platform,16897
+Taiwan,CKAN,16688
+"{'id': 'BE', 'name': 'Belgium'}",Data.bis.org platform,16209
+Guyana,Data.WorldBank.org platform,16103
+"{'id': 'US', 'name': 'World'}",Data.bis.org platform,15766
+"{'id': 'KW', 'name': 'Kuwait'}",Data.WorldBank.org platform,15534
+"{'id': 'AG', 'name': 'Antigua and Barbuda'}",Data.WorldBank.org platform,15482
+Puerto Rico,Data.WorldBank.org platform,15459
+"Korea, Democratic People's Republic of",Data.bis.org platform,15426
+World,Geonetwork,15397
+"{'id': 'DE', 'name': 'Germany'}",Data.bis.org platform,15361
+"{'id': 'OM', 'name': 'Oman'}",Data.WorldBank.org platform,15285
+"{'id': 'BH', 'name': 'Bahrain'}",Data.WorldBank.org platform,15243
+"{'id': 'TM', 'name': 'Turkmenistan'}",Data.WorldBank.org platform,15140
+"{'id': 'BB', 'name': 'Barbados'}",Data.WorldBank.org platform,15040
+"{'id': 'QA', 'name': 'Qatar'}",Data.WorldBank.org platform,14954
+"{'id': 'AE', 'name': 'United Arab Emirates'}",Data.WorldBank.org platform,14896
+"{'id': 'TW', 'name': 'Taiwan'}",Data.bis.org platform,14880
+San Marino,Data.WorldBank.org platform,14857
+"{'id': 'IE', 'name': 'Ireland'}",Data.bis.org platform,14775
+Eritrea,Data.WorldBank.org platform,14511
+Equatorial Guinea,Data.WorldBank.org platform,14432
+Grenada,Data.WorldBank.org platform,14376
+"{'id': 'FI', 'name': 'Finland'}",Data.bis.org platform,14269
+"{'id': 'TV', 'name': 'Tuvalu'}",Data.WorldBank.org platform,14049
+Saint Vincent and the Grenadines,Data.WorldBank.org platform,14013
+Saint Kitts and Nevis,Data.WorldBank.org platform,13971
+"{'id': 'LU', 'name': 'Luxembourg'}",Data.bis.org platform,13892
+"{'id': 'NR', 'name': 'Nauru'}",Data.WorldBank.org platform,13891
+Cayman Islands,Data.WorldBank.org platform,13721
+"{'id': 'DK', 'name': 'Denmark'}",Data.bis.org platform,13682
+Aruba,Data.WorldBank.org platform,13375
+Bermuda,Data.WorldBank.org platform,13330
+"{'id': 'BN', 'name': 'Brunei'}",Data.WorldBank.org platform,13283
+French Polynesia,Data.WorldBank.org platform,13220
+Sint Maarten (Dutch part),Data.WorldBank.org platform,13214
+"{'id': 'TC', 'name': 'Turks and Caicos Islands'}",Data.WorldBank.org platform,13190
+"{'id': 'MO', 'name': 'Macau'}",Data.WorldBank.org platform,13060
+"{'id': 'LI', 'name': 'Liechtenstein'}",Data.WorldBank.org platform,13053
+"{'id': 'CU', 'name': 'Cuba'}",Data.WorldBank.org platform,13052
+Mexico,ArcGIS Server,13002
+"Virgin Islands, U.S.",Data.WorldBank.org platform,13000
+Curaçao,Data.WorldBank.org platform,12985
+Guam,Data.WorldBank.org platform,12959
+"{'id': 'AD', 'name': 'Andorra'}",Data.WorldBank.org platform,12939
+"{'id': 'AS', 'name': 'American Samoa'}",Data.WorldBank.org platform,12852
+"{'id': 'NC', 'name': 'New Caledonia'}",Data.WorldBank.org platform,12848
+"{'id': 'GL', 'name': 'Greenland'}",Data.WorldBank.org platform,12799
+"Virgin Islands, British",Data.WorldBank.org platform,12751
+"{'id': 'JP', 'name': 'Japan'}",Data.bis.org platform,12685
+Monaco,Data.WorldBank.org platform,12645
+"Korea, Democratic People's Republic of",Data.WorldBank.org platform,12640
+Isle of Man,Data.WorldBank.org platform,12639
+"{'id': 'FO', 'name': 'Faroe Islands'}",Data.WorldBank.org platform,12637
+Gibraltar,Data.WorldBank.org platform,12598
+United Kingdom,ArcGIS Server,12597
+Oceania,CKAN,12569
+Northern Mariana Islands,Data.WorldBank.org platform,12541
+Saint Martin (French part),Data.WorldBank.org platform,12522
+Cambodia,CKAN,12412
+Colombia,ArcGIS Server,12279
+"{'id': 'HK', 'name': 'Hong Kong'}",Data.bis.org platform,11990
+Finland,ArcGIS Server,11408
+Italy,ArcGIS Server,11310
+Finland,GeoServer,10885
+Norway,ArcGIS Server,10593
+Canada,Geonetwork,10565
+"{'id': 'GR', 'name': 'Greece'}",Data.bis.org platform,10509
+Brazil,GeoNode,10493
+Chile,Geonetwork,10365
+Estonia,ArcGIS Server,10193
+Finland,PxWeb,10183
+China,ArcGIS Server,10083
+Italy,GeoNode,9984
+"{'id': 'PT', 'name': 'Mozambique'}",Data.bis.org platform,9897
+Spain,GeoServer,9833
+Austria,Geonetwork,9800
+"{'id': 'IN', 'name': 'India'}",Data.bis.org platform,9660
+Saudi Arabia,ArcGIS Server,9542
+Norway,Geonetwork,9509
+India,ArcGIS Server,9473
+United States,GeoServer,9412
+"{'id': 'BR', 'name': 'Brazil'}",Data.bis.org platform,9292
+Estonia,PxWeb,9193
+Ecuador,Geonetwork,9171
+"{'id': 'TR', 'name': 'Turkey'}",Data.bis.org platform,9063
+"{'id': 'SG', 'name': 'Singapore'}",Data.bis.org platform,9061
+Slovenia,PxWeb,8978
+Peru,ArcGIS Server,8871
+Israel,CKAN,8601
+Indonesia,GeoServer,8601
 World,Invenio,8600
-Russian Federation,CKAN,8413
-Sweden,ArcGIS Server,8306
-Singapore,Data.bis.org platform,8059
-Portugal,GeoServer,7860
-Poland,GeoServer,7754
-France,GeoServer,7747
-Brazil,Data.bis.org platform,7716
-Türkiye,Data.bis.org platform,7624
-Indonesia,ArcGIS Server,7562
-Greece,GeoServer,7533
-Chile,Data.bis.org platform,7521
-Canada,Socrata,7471
-Peru,ArcGIS Server,7415
-Kazakhstan,GeoServer,7375
-Israel,CKAN,7350
-Norway,Data.bis.org platform,7163
-United States,GeoServer,7121
-Africa,CKAN,7054
-Estonia,PxWeb,6991
-South Africa,Data.bis.org platform,6987
-Denmark,ArcGIS Server,6950
+France,CKAN,8562
+Russian Federation,CKAN,8416
+Israel,ArcGIS Server,8267
+France,OpenDataSoft,8247
+Ireland,Geonetwork,8086
+"{'id': 'CN', 'name': 'China'}",Data.bis.org platform,8063
+Russian Federation,ArcGIS Server,8052
+Sweden,Geonetwork,7974
+"{'id': 'CL', 'name': 'Chile'}",Data.bis.org platform,7941
+"{'id': 'ZA', 'name': 'South Africa'}",Data.bis.org platform,7925
+France,uData,7880
+Colombia,GeoNode,7852
+"{'id': 'NO', 'name': 'Norway'}",Data.bis.org platform,7821
+Canada,Socrata,7434
+Kazakhstan,GeoServer,7425
+Vietnam,ArcGIS Server,7401
+Slovenia,CKAN,7247
+Pakistan,CKAN,7177
+United Kingdom,ArcGIS Hub,6947
 Saudi Arabia,CKAN,6931
-Belgium,ArcGIS Server,6840
-Poland,ArcGIS Server,6837
-Latvia,PxWeb,6696
+Africa,CKAN,6930
+Poland,ArcGIS Server,6926
+Latvia,PxWeb,6868
+Belgium,ArcGIS Server,6863
+Greece,GeoServer,6840
+Czech Republic,ArcGIS Server,6770
+France,GeoServer,6620
+Germany,DKAN,6548
 New Zealand,Koordinates,6522
-Isle of Man,Data.bis.org platform,6442
-India,ArcGIS Server,6387
-Mexico,Geonetwork,6306
-United Kingdom,ArcGIS Hub,6293
-Pakistan,CKAN,6085
-France,ArcGIS Server,6074
-Israel,ArcGIS Server,5901
-Serbia,Geonetwork,5799
+Brazil,ArcGIS Server,6516
+Isle of Man,Data.bis.org platform,6510
+"{'id': 'MX', 'name': 'Mozambique'}",Data.bis.org platform,6407
+United Kingdom,GeoServer,6388
+Mexico,Geonetwork,6349
+France,ArcGIS Server,6289
+Serbia,Geonetwork,6167
+Colombia,Geonetwork,5971
 Switzerland,Invenio,5768
-Taiwan,CKAN,5764
+Sweden,ArcGIS Server,5752
+Ecuador,ArcGIS Server,5731
+World,Openml.org platform,5731
 European Union,DKAN,5715
-European Union,GeoNode,5643
-Ireland,Geonetwork,5601
-World,Openml.org platform,5551
-Colombia,CKAN,5469
-Malaysia,ArcGIS Server,5330
-Mexico,Data.bis.org platform,5277
-Czech Republic,ArcGIS Server,5261
-Mexico,GeoNode,5244
-United Kingdom,GeoServer,5220
-Guernsey,Data.bis.org platform,5187
-Unknown,Socrata,5140
-Philippines,Data.bis.org platform,5116
-Lithuania,ArcGIS Server,5063
-Sweden,PxWeb,5063
-Makedonia,GeoServer,5019
-Spain,ArcGIS Hub,4983
-Colombia,Geonetwork,4973
-,Data.bis.org platform,4960
-Brazil,GeoServer,4959
-Macao SAR,Data.bis.org platform,4909
-Jersey,Data.bis.org platform,4876
-Argentina,GeoServer,4859
-Germany,DKAN,4834
-Tunis,CKAN,4793
-Denmark,Geonetwork,4765
-Germany,Dataverse,4744
+European Union,GeoNode,5693
+"{'id': 'GB', 'name': 'United Kingdom'}",Custom software,5669
+Mexico,GeoNode,5667
+"{'id': 'PH', 'name': 'Phillipines'}",Data.bis.org platform,5663
+Mongolia,Geonetwork,5604
+Germany,Dataverse,5558
+"{'id': 'NL', 'name': 'Netherlands'}",Custom software,5471
+Portugal,GeoServer,5465
+Colombia,CKAN,5426
+Sweden,PxWeb,5392
+Unknown,Socrata,5392
+Guernsey,Data.bis.org platform,5257
+Makedonia,GeoServer,5240
+Spain,ArcGIS Hub,5183
+World,GeoServer,5168
+Lithuania,ArcGIS Server,5167
+Slovakia,ArcGIS Server,4993
+Jersey,Data.bis.org platform,4937
+Tunis,CKAN,4868
+Argentina,GeoServer,4834
+Denmark,Geonetwork,4805
+Chile,ArcGIS Server,4756
+"{'id': 'JO', 'name': 'Jordan'}",Custom software,4730
+Panama,CKAN,4676
+India,GeoServer,4672
 Mauritania,GeoNode,4665
-Chile,ArcGIS Server,4568
-Slovakia,GeoServer,4535
-Austria,ArcGIS Server,4457
-Bolivia,Geonetwork,4348
-Sweden,GeoServer,4330
-Indonesia,Dataverse,4249
+Argentina,ArcGIS Server,4634
+Austria,ArcGIS Server,4628
+Japan,ArcGIS Server,4590
+China,GeoNode,4464
+Russian Federation,GeoServer,4436
+Denmark,ArcGIS Server,4408
+Indonesia,Dataverse,4350
+"{'id': 'NO', 'name': 'Norway'}",Custom software,4342
 Iran,CKAN,4215
-Panama,CKAN,4146
-Brazil,ArcGIS Server,4127
-Argentina,ArcGIS Server,4111
-Indonesia,DKAN,4051
-Colombia,GeoNode,3926
-Denmark,CKAN,3895
+Denmark,CKAN,4195
+United States,DKAN,4182
+Indonesia,DKAN,4119
+Iceland,ArcGIS Server,4084
+Finland,CKAN,3993
+Australia,ArcGIS Hub,3918
 Nigeria,Geonetwork,3894
-Australia,ArcGIS Hub,3831
-France,CKAN,3815
-Finland,CKAN,3744
-United States,DKAN,3744
+New Zealand,ArcGIS Hub,3883
+France,Dataverse,3817
+Luxembourg,Geonetwork,3753
+Sri Lanka,GeoNode,3696
+Indonesia,ArcGIS Server,3682
+Italy,Socrata,3665
 Ecuador,GeoNode,3661
+Argentina,GeoNode,3648
+Slovakia,GeoServer,3648
+Ireland,ArcGIS Server,3636
 Romania,CKAN,3612
-Indonesia,GeoServer,3497
-Ecuador,ArcGIS Server,3472
-Argentina,GeoNode,3471
-Luxembourg,Geonetwork,3468
-Netherlands,ArcGIS Hub,3393
-Italy,Socrata,3371
-Portugal,ArcGIS Server,3363
-Latvia,ArcGIS Server,3358
-Peru,DKAN,3353
-South Korea,GeoServer,3341
-Slovakia,CKAN,3330
+Netherlands,ArcGIS Hub,3603
+France,ArcGIS Hub,3581
+Phillipines,GeoNode,3549
+Portugal,ArcGIS Server,3517
+Norway,GeoNode,3497
+"{'id': 'CZ', 'name': 'Czech Republic'}",Data.bis.org platform,3480
+Sweden,GeoServer,3442
+United Kingdom,GeoNode,3406
+"{'id': 'HU', 'name': 'Hungary'}",Data.bis.org platform,3378
+Latvia,ArcGIS Server,3366
+Romania,ArcGIS Server,3343
+"{'id': 'PL', 'name': 'Poland'}",Data.bis.org platform,3342
+Slovakia,CKAN,3334
+Laos,ArcGIS Hub,3326
+"{'id': 'TH', 'name': 'Thailand'}",Data.bis.org platform,3309
 Germany,InvenioRDM,3286
-France,Dataverse,3284
-Oceania,GeoNode,3233
-Iceland,ArcGIS Server,3214
-France,ArcGIS Hub,3210
-Greenland,ArcGIS Server,3200
-Laos,ArcGIS Hub,3176
-United Kingdom,GeoNode,3151
-World,GeoServer,3132
-Ireland,ArcGIS Server,3053
-Thailand,GeoServer,3039
-Bulgaria,ArcGIS Server,2974
-Africa Eastern and Southern,Custom software,2957
-Africa Western and Central,Custom software,2957
-Marocco,ArcGIS Server,2933
+"{'id': 'ID', 'name': 'Indonesia'}",Data.bis.org platform,3266
+Thailand,GeoServer,3248
+"{'id': 'RU', 'name': 'Russian Federation'}",Data.bis.org platform,3197
+Greece,GeoNode,3190
+Greenland,ArcGIS Server,3165
+"{'id': 'CO', 'name': 'Colombia'}",Custom software,3015
+Bulgaria,ArcGIS Server,2983
+Taiwan,ArcGIS Server,2957
+"{'id': 'SK', 'name': 'Slovakia'}",Data.bis.org platform,2933
 Kenya,Geonetwork,2918
-Romania,ArcGIS Server,2904
-Taiwan,ArcGIS Server,2851
-Romania,Geonetwork,2848
-Unknown,CKAN,2810
-Japan,ArcGIS Server,2774
+"{'id': 'MY', 'name': 'Malaysia'}",Data.bis.org platform,2917
+Qatar,ArcGIS Server,2917
+"{'id': 'SA', 'name': 'Saudi Arabia'}",Data.bis.org platform,2905
+Hong Kong,ArcGIS Hub,2869
+China,ArcGIS Hub,2869
+Thailand,GeoNode,2866
+"{'id': 'CY', 'name': 'Cyprus'}",Data.bis.org platform,2814
+Poland,GeoServer,2796
+"{'id': 'BZ', 'name': 'Belize'}",Custom software,2736
+Malaysia,ArcGIS Server,2723
 Latin America,CKAN,2717
-Russian Federation,GeoServer,2688
-Bolivia,GeoNode,2687
-Indonesia,GeoNode,2621
-Croatia,Geonetwork,2598
-Kazakhstan,Geoserver,2536
-Indonesia,Data.bis.org platform,2473
-Cyprus,Data.bis.org platform,2433
-Qatar,ArcGIS Server,2398
-Norway,GeoNode,2360
-China,Data.bis.org platform,2341
-China,ArcGIS Hub,2330
-Hong Kong,ArcGIS Hub,2330
-Malaysia,Data.bis.org platform,2325
+Bolivia,GeoNode,2711
+"{'id': 'JP', 'name': 'Japan'}",Custom software,2711
+"{'id': 'AR', 'name': 'Argentina'}",Data.bis.org platform,2707
+Croatia,Geonetwork,2699
+"{'id': 'LT', 'name': 'Lithuania'}",Data.bis.org platform,2694
+Chile,CKAN,2690
+South Africa,CKAN,2685
+Cayman Islands,Custom software,2675
+"{'id': 'BG', 'name': 'Bulgaria'}",Data.bis.org platform,2665
+"{'id': 'BH', 'name': 'Bahrain'}",Data.bis.org platform,2608
+"{'id': 'UY', 'name': 'Uruguay'}",Custom software,2590
+"{'id': 'LV', 'name': 'Latvia'}",Data.bis.org platform,2575
+"{'id': 'NZ', 'name': 'New Zealand'}",Data.bis.org platform,2570
+"{'id': 'AE', 'name': 'United Arab Emirates'}",Data.bis.org platform,2569
+Cabo Verde,ArcGIS Server,2547
+Uruguay,CKAN,2523
+Indonesia,GeoNode,2477
+Estonia,GeoServer,2474
+"{'id': 'CA', 'name': 'Canada'}",Custom software,2472
+Costa Rica,ArcGIS Server,2463
+"{'id': 'EE', 'name': 'Estonia'}",Data.bis.org platform,2455
+"{'id': 'NG', 'name': 'Nigeria'}",Custom software,2439
+"{'id': 'SI', 'name': 'Slovenia'}",Data.bis.org platform,2422
+Vietnam,CKAN,2409
+"{'id': 'TT', 'name': 'Trinidad and Tobago'}",Custom software,2385
+Slovenia,Geonetwork,2375
+"{'id': 'US', 'name': 'World'}",Custom software,2369
+Hungary,CKAN,2357
+South Africa,ArcGIS Server,2340
 Phillipines,PxWeb,2320
-Russia,Data.bis.org platform,2291
-Estonia,GeoServer,2260
-Mongolia,CKAN,2259
-Panama,Data.bis.org platform,2239
-Egypt,ArcGIS Server,2234
-Belgium,ArcGIS Hub,2164
-Saudi Arabia,Data.bis.org platform,2150
-Slovakia,Data.bis.org platform,2080
-New Zealand,Data.bis.org platform,2071
-Belgium,OpenDataSoft,2067
+Turkey,ArcGIS Server,2315
+Mongolia,CKAN,2306
+Africa,ArcGIS Hub,2294
+Belgium,OpenDataSoft,2288
+Iceland,GeoServer,2283
+Spain,Dataverse,2280
+"{'id': 'PA', 'name': 'Panama'}",Data.bis.org platform,2275
+"{'id': 'TW', 'name': 'Taiwan'}",Custom software,2268
+"{'id': 'LU', 'name': 'Luxembourg'}",Custom software,2260
+Marocco,ArcGIS Server,2257
+Iceland,PxWeb,2217
+United Arab Emirates,ArcGIS Server,2214
+"{'id': 'CZ', 'name': 'Czech Republic'}",Custom software,2197
+Ecuador,CKAN,2187
+Luxemburg,Geonetwork,2185
+Belgium,ArcGIS Hub,2145
+Puerto Rico,Custom software,2142
+"{'id': 'GT', 'name': 'Guatemala'}",Custom software,2141
+"{'id': 'JM', 'name': 'Jamaica'}",Custom software,2075
 Unknown,PxWeb,2042
-Iceland,GeoServer,2038
-Bahrain,Data.bis.org platform,2021
-Hungary,ArcGIS Server,2007
-Luxemburg,Geonetwork,1996
-Hungary,Data.bis.org platform,1984
-Argentina,Data.bis.org platform,1961
-United Arab Emirates,Data.bis.org platform,1955
+China,WTO.int website,2028
+Faroe Islands,ArcGIS Server,2022
+Estonia,WTO.int website,2019
+Thailand,WTO.int website,2016
+"{'id': 'NI', 'name': 'Nicaragua'}",Custom software,2015
+"{'id': 'CN', 'name': 'China'}",Custom software,2012
+Portugal,uData,2000
+Austria,WTO.int website,1998
+Dominican Republic,WTO.int website,1982
+Malaysia,WTO.int website,1980
+South Africa,WTO.int website,1973
+Netherlands,WTO.int website,1969
+Türkiye,WTO.int website,1969
+Italy,WTO.int website,1961
+Hungary,ArcGIS Server,1960
+Poland,WTO.int website,1959
+Slovakia,ArcGIS Hub,1958
+Cyprus,WTO.int website,1954
 Singapore,CKAN,1953
-Costa Rica,ArcGIS Server,1946
-Lithuania,Data.bis.org platform,1946
-Iceland,PxWeb,1915
-Czechia,Data.bis.org platform,1895
-Thailand,Data.bis.org platform,1893
-New Zealand,ArcGIS Hub,1857
-Sri Lanka,GeoNode,1848
-Latvia,Data.bis.org platform,1844
-Portugal,uData,1840
-Faroe Islands,ArcGIS Server,1833
-Slovenia,Data.bis.org platform,1828
-Thailand,GeoNode,1798
-Poland,Data.bis.org platform,1785
-Spain,Dataverse,1772
-Estonia,Data.bis.org platform,1760
+Switzerland,WTO.int website,1949
+"{'id': 'HR', 'name': 'Croatia'}",Data.bis.org platform,1948
+Finland,WTO.int website,1946
+United Kingdom,WTO.int website,1943
+Singapore,Dataverse,1941
+Slovenia,WTO.int website,1940
+"{'id': 'BE', 'name': 'Belgium'}",Custom software,1939
+"Iran, Islamic Republic of",WTO.int website,1935
+Hungary,WTO.int website,1932
+Denmark,WTO.int website,1931
+Lithuania,WTO.int website,1928
+Belgium,WTO.int website,1928
+Australia,WTO.int website,1927
+Bangladesh,WTO.int website,1921
+Malta,WTO.int website,1920
+Greece,WTO.int website,1919
+Pakistan,WTO.int website,1917
+"{'id': 'EE', 'name': 'Estonia'}",Custom software,1916
+Ireland,WTO.int website,1911
+Sweden,WTO.int website,1906
+Norway,WTO.int website,1896
+Morocco,WTO.int website,1893
+"{'id': 'LT', 'name': 'Lithuania'}",Custom software,1893
+"{'id': 'CL', 'name': 'Chile'}",Custom software,1893
+Tunisia,WTO.int website,1891
+Czechia,WTO.int website,1890
+Jordan,WTO.int website,1888
+Myanmar,WTO.int website,1886
+World,GeoNode,1886
+"{'id': 'LV', 'name': 'Latvia'}",Custom software,1878
+El Salvador,ArcGIS Server,1875
+Maldives,WTO.int website,1871
+Brazil,WTO.int website,1866
+"{'id': 'IT', 'name': 'Italy'}",Custom software,1861
+Israel,WTO.int website,1860
+"{'id': 'MZ', 'name': 'Mozambique'}",Custom software,1855
+Germany,WTO.int website,1855
+Viet Nam,WTO.int website,1852
+Georgia,WTO.int website,1852
+Portugal,ncWMS,1848
+Chile,WTO.int website,1847
+"Moldova, Republic of",WTO.int website,1840
+"{'id': 'BG', 'name': 'Bulgaria'}",Custom software,1839
+Togo,WTO.int website,1833
+India,WTO.int website,1828
+Ukraine,WTO.int website,1824
+"{'id': 'LB', 'name': 'Lebanon'}",Custom software,1823
+Eswatini,WTO.int website,1822
+Canada,WTO.int website,1822
+South Korea,GeoServer,1821
+Uganda,WTO.int website,1820
+France,WTO.int website,1818
+Japan,WTO.int website,1817
+United States,WTO.int website,1816
+Mexico,WTO.int website,1814
+Oman,WTO.int website,1813
+Costa Rica,WTO.int website,1810
+Trinidad and Tobago,WTO.int website,1799
+Singapore,WTO.int website,1795
+Rwanda,WTO.int website,1785
+Serbia,WTO.int website,1784
+"{'id': 'RO', 'name': 'Romania'}",Data.bis.org platform,1779
+Qatar,WTO.int website,1778
+Ghana,WTO.int website,1777
+Armenia,WTO.int website,1777
+"{'id': 'CY', 'name': 'Cyprus'}",Custom software,1772
+Syrian Arab Republic,Custom software,1772
+"{'id': 'PT', 'name': 'Mozambique'}",Custom software,1771
+Luxemburg,GeoServer,1769
+Paraguay,WTO.int website,1768
+Poland,CKAN,1764
+United States,OpenDataSoft,1764
+Benin,WTO.int website,1763
+"{'id': 'PA', 'name': 'Panama'}",Custom software,1762
+"{'id': 'CR', 'name': 'Costa Rica'}",Custom software,1761
+Philippines,WTO.int website,1761
+Mauritius,WTO.int website,1760
+Latvia,WTO.int website,1758
+Malawi,WTO.int website,1758
+"{'id': 'MT', 'name': 'Malta'}",Custom software,1757
+Belize,WTO.int website,1756
+Côte d'Ivoire,WTO.int website,1755
+Falkland Islands (Malvinas),Custom software,1755
+Burkina Faso,WTO.int website,1755
+Bhutan,WTO.int website,1752
+Guyana,WTO.int website,1752
+Guatemala,WTO.int website,1751
+"Bonaire, Sint Eustatius and Saba",Custom software,1749
+Zimbabwe,WTO.int website,1748
+Belarus,WTO.int website,1744
+Albania,WTO.int website,1742
+Kyrgyzstan,WTO.int website,1741
+Kuwait,ArcGIS Server,1741
+Peru,WTO.int website,1739
+Mongolia,WTO.int website,1738
+Senegal,WTO.int website,1736
+Croatia,WTO.int website,1733
+El Salvador,WTO.int website,1732
+Azerbaijan,WTO.int website,1731
+Colombia,WTO.int website,1731
+Mali,WTO.int website,1729
+"{'id': 'TC', 'name': 'Turks and Caicos Islands'}",Custom software,1729
+Guadeloupe,Custom software,1729
+"{'id': 'BB', 'name': 'Barbados'}",Custom software,1728
+Honduras,WTO.int website,1727
+Uruguay,WTO.int website,1727
+Kenya,WTO.int website,1726
+"{'id': 'IL', 'name': 'Israel'}",Custom software,1724
+Ethiopia,WTO.int website,1722
+Spain,WTO.int website,1722
 Kazakhstan,GeoNode,1720
-Slovakia,Geonetwork,1709
-Spain,Socrata,1703
-Iceland,Geonetwork,1695
-Chile,GeoNode,1692
-United States,OpenDataSoft,1670
-Not classified,Custom software,1642
+Tajikistan,WTO.int website,1720
+Switzerland,OpenDataSoft,1718
+Bulgaria,WTO.int website,1717
+"Korea, Republic of",WTO.int website,1713
+"Virgin Islands, British",Custom software,1713
+Gambia,WTO.int website,1711
+Zambia,WTO.int website,1710
+Namibia,WTO.int website,1708
+Saint Lucia,WTO.int website,1708
+"{'id': 'MA', 'name': 'Marocco'}",Custom software,1707
+Lebanon,WTO.int website,1707
+"{'id': 'IQ', 'name': 'Iraq'}",Custom software,1704
+Fiji,WTO.int website,1704
+Montserrat,Custom software,1703
+"{'id': 'BR', 'name': 'Brazil'}",Custom software,1702
+Panama,WTO.int website,1698
+Uzbekistan,WTO.int website,1697
+Madagascar,WTO.int website,1695
+Lao People's Democratic Republic,WTO.int website,1694
+Luxembourg,WTO.int website,1693
+"{'id': 'DK', 'name': 'Denmark'}",Custom software,1693
+Romania,WTO.int website,1691
+Mauritania,WTO.int website,1691
+Burundi,WTO.int website,1690
+Saint Vincent and the Grenadines,Custom software,1689
+Afghanistan,WTO.int website,1686
+Niger,WTO.int website,1685
+Argentina,WTO.int website,1682
+"{'id': 'UA', 'name': 'Ukraine'}",Custom software,1681
+Jamaica,WTO.int website,1678
+Nepal,WTO.int website,1678
+Timor-Leste,WTO.int website,1677
+Iceland,WTO.int website,1677
+"{'id': 'MX', 'name': 'Mozambique'}",Custom software,1676
+Indonesia,WTO.int website,1676
+"{'id': 'ID', 'name': 'Indonesia'}",Custom software,1673
+Portugal,WTO.int website,1672
+"{'id': 'AD', 'name': 'Andorra'}",Custom software,1671
+Russian Federation,WTO.int website,1669
+"{'id': 'IE', 'name': 'Ireland'}",Custom software,1664
+Martinique,Custom software,1662
+Denmark,GeoServer,1661
+Lesotho,WTO.int website,1660
+"{'id': 'PL', 'name': 'Poland'}",Custom software,1657
+Sint Maarten (Dutch part),Custom software,1656
+Guyana,Custom software,1656
+Comoros,WTO.int website,1654
+"{'id': 'MT', 'name': 'Malta'}",Data.bis.org platform,1654
+Iraq,WTO.int website,1653
+Slovakia,WTO.int website,1653
+"{'id': 'RO', 'name': 'Romania'}",Custom software,1647
+Brunei Darussalam,WTO.int website,1647
+"{'id': 'CO', 'name': 'Colombia'}",Data.bis.org platform,1645
+Cambodia,WTO.int website,1643
+"{'id': 'IR', 'name': 'Iran'}",Custom software,1642
+"{'id': 'CU', 'name': 'Cuba'}",Custom software,1638
+Germany,GeoNode,1638
+"{'id': 'SV', 'name': 'El Salvador'}",Custom software,1637
+Nigeria,WTO.int website,1636
+Kazakhstan,WTO.int website,1636
+Cuba,WTO.int website,1634
+Cabo Verde,WTO.int website,1634
+Grenada,Custom software,1633
+Central African Republic,WTO.int website,1627
+Bahamas,Custom software,1624
+Bosnia and Herzegovina,WTO.int website,1623
+Egypt,WTO.int website,1622
+"{'id': 'DM', 'name': 'Dominica'}",Custom software,1621
+"{'id': 'CH', 'name': 'Switzerland'}",Custom software,1619
+"{'id': 'PH', 'name': 'Phillipines'}",Custom software,1619
+Montenegro,WTO.int website,1617
+"{'id': 'HR', 'name': 'Croatia'}",Custom software,1617
+Mozambique,WTO.int website,1616
+Syrian Arab Republic,WTO.int website,1614
+Cameroon,WTO.int website,1612
+"{'id': 'EC', 'name': 'Ecuador'}",Custom software,1611
+"{'id': 'GR', 'name': 'Greece'}",Custom software,1610
+"{'id': 'CO', 'name': 'Colombia'}",Ilostat website,1609
+Algeria,WTO.int website,1609
+"{'id': 'IN', 'name': 'India'}",Custom software,1608
+New Zealand,WTO.int website,1607
+Liberia,WTO.int website,1607
+Serbia,PxWeb,1607
+Guinea,WTO.int website,1606
+Bahamas,Data.bis.org platform,1606
+"{'id': 'DO', 'name': 'Republica Dominicana'}",Custom software,1604
+Chad,WTO.int website,1604
+Kazakhstan,ArcGIS Server,1603
+Ecuador,WTO.int website,1602
+"{'id': 'VN', 'name': 'Vietnam'}",Ilostat website,1601
+Gabon,WTO.int website,1600
+"{'id': 'PY', 'name': 'Paraguay'}",Custom software,1600
+Sri Lanka,WTO.int website,1598
+Saint Lucia,Custom software,1597
 South Korea,CKAN,1596
-Slovenia,Geonetwork,1594
-Germany,GeoNode,1574
-Luxemburg,GeoServer,1567
-The Bahamas,Data.bis.org platform,1563
-Ireland,GeoServer,1562
-Honduras,GeoServer,1553
-United Kingdom,Socrata,1545
-Cayman Islands,Data.bis.org platform,1540
-Austria,Dataverse,1534
+"Congo, The Democratic Republic of the",WTO.int website,1594
+"{'id': 'FI', 'name': 'Finland'}",Custom software,1593
+United Kingdom,Socrata,1592
+"{'id': 'SE', 'name': 'Sweden'}",Custom software,1589
+Turkmenistan,WTO.int website,1589
+"Tanzania, United Republic of",WTO.int website,1586
+"{'id': 'PE', 'name': 'Peru'}",Custom software,1585
+Angola,WTO.int website,1584
+Spain,Socrata,1582
+Sierra Leone,WTO.int website,1582
+"{'id': 'EG', 'name': 'Egypt'}",Custom software,1581
+Anguilla,Custom software,1579
+Grenada,WTO.int website,1578
+"{'id': 'AR', 'name': 'Argentina'}",Custom software,1578
+French Guiana,Custom software,1577
+"{'id': 'IS', 'name': 'Iceland'}",Custom software,1577
+Saint Kitts and Nevis,Custom software,1577
+"{'id': 'AO', 'name': 'Angola'}",Custom software,1576
+Honduras,GeoServer,1576
+"{'id': 'HT', 'name': 'Haiti'}",Custom software,1575
+Guinea-Bissau,WTO.int website,1575
+Papua New Guinea,WTO.int website,1572
+Congo,WTO.int website,1572
+Seychelles,WTO.int website,1570
+Botswana,WTO.int website,1570
+"{'id': 'FR', 'name': 'France'}",Custom software,1569
+Nicaragua,WTO.int website,1566
+Aruba,Custom software,1563
+Kiribati,WTO.int website,1562
+"{'id': 'SK', 'name': 'Slovakia'}",Custom software,1560
+"{'id': 'HU', 'name': 'Hungary'}",Custom software,1560
+"{'id': 'RU', 'name': 'Russian Federation'}",Custom software,1559
+Sudan,WTO.int website,1556
+"{'id': 'AU', 'name': 'Australia'}",Custom software,1554
+"{'id': 'AT', 'name': 'Austria'}",Custom software,1553
+"{'id': 'AG', 'name': 'Antigua and Barbuda'}",Custom software,1552
+Cayman Islands,Data.bis.org platform,1552
+Austria,Dataverse,1551
+North Macedonia,WTO.int website,1551
+Bahrain,WTO.int website,1550
+Suriname,WTO.int website,1547
+Chile,GeoNode,1541
+"{'id': 'ZA', 'name': 'South Africa'}",Custom software,1541
+"Bolivia, Plurinational State of",WTO.int website,1539
+"{'id': 'SR', 'name': 'Suriname'}",Custom software,1537
+"{'id': 'DE', 'name': 'Germany'}",Custom software,1535
+"{'id': 'CL', 'name': 'Chile'}",Ilostat website,1534
+"{'id': 'PK', 'name': 'Pakistan'}",Ilostat website,1531
+"{'id': 'ES', 'name': 'Spain'}",Custom software,1529
+"{'id': 'SI', 'name': 'Slovenia'}",Custom software,1529
+Sao Tome and Principe,WTO.int website,1527
+"{'id': 'BO', 'name': 'Bolivia'}",Ilostat website,1527
+"{'id': 'HN', 'name': 'Honduras'}",Custom software,1523
+Equatorial Guinea,WTO.int website,1522
+Saudi Arabia,WTO.int website,1521
+"{'id': 'PE', 'name': 'Peru'}",Ilostat website,1518
+Bermuda,Data.bis.org platform,1515
 Norway,Dataverse,1508
-Makedonia,PxWeb,1493
-Uruguay,ArcGIS Server,1475
-Portugal,GeoNode,1474
-Czech Republic,GeoServer,1468
-Bermuda,Data.bis.org platform,1467
-Makedonia,ArcGIS Server,1462
+Makedonia,PxWeb,1504
+Somalia,WTO.int website,1501
+Cook Islands,WTO.int website,1497
+Eritrea,WTO.int website,1490
+Slovakia,Geonetwork,1489
+Uruguay,ArcGIS Server,1484
+Yemen,WTO.int website,1480
+Haiti,WTO.int website,1478
+"{'id': 'ZW', 'name': 'Zimbabwe'}",Ilostat website,1475
+"{'id': 'RW', 'name': 'Rwanda'}",Ilostat website,1471
+"{'id': 'ZM', 'name': 'Zambia'}",Ilostat website,1471
+"Venezuela, Bolivarian Republic of",WTO.int website,1470
+Barbados,WTO.int website,1470
+Brazil,Dataverse,1469
+Mongolia,GeoServer,1462
+"{'id': 'MN', 'name': 'Mongolia'}",Ilostat website,1456
 Italy,DKAN,1456
+"{'id': 'PE', 'name': 'Peru'}",Data.bis.org platform,1454
+Tuvalu,WTO.int website,1450
+Vanuatu,WTO.int website,1448
+"{'id': 'LK', 'name': 'Sri Lanka'}",Ilostat website,1444
+Djibouti,WTO.int website,1443
+Samoa,WTO.int website,1435
+Tonga,WTO.int website,1429
+"{'id': 'MM', 'name': 'Myanmar'}",Ilostat website,1423
+Bosnia and Herzegovina,Geonetwork,1423
+"{'id': 'AM', 'name': 'Armenia'}",Ilostat website,1423
+Solomon Islands,WTO.int website,1413
+United Arab Emirates,WTO.int website,1406
+Iceland,Geonetwork,1405
+"{'id': 'UY', 'name': 'Uruguay'}",Ilostat website,1401
+"{'id': 'DO', 'name': 'Republica Dominicana'}",Ilostat website,1398
+"{'id': 'SN', 'name': 'Senegal'}",Ilostat website,1395
 Algeria,Geonetwork,1391
-Turkey,ArcGIS Server,1391
-Colombia,Data.bis.org platform,1389
-Romania,Data.bis.org platform,1372
-Brazil,Dataverse,1361
-United Arab Emirates,CKAN,1357
-Uruguay,GeoServer,1355
-Mongolia,ArcGIS Server,1351
-Developing Europe,Data.bis.org platform,1334
-Trinidad and Tobago,ArcGIS Server,1312
-Malta,Data.bis.org platform,1300
-Poland,GeoNode,1299
-Montenegro,Geonetwork,1292
-Kazakhstan,ArcGIS Server,1291
-Saudi Arabia,OpenDataSoft,1283
-Bulgaria,Data.bis.org platform,1282
+"{'id': 'ID', 'name': 'Indonesia'}",Ilostat website,1384
+"{'id': 'BW', 'name': 'Botswana'}",Ilostat website,1381
+South Sudan,WTO.int website,1380
+Bahamas,WTO.int website,1380
+"{'id': 'BD', 'name': 'Bangladesh'}",Ilostat website,1378
+"Korea, Democratic People's Republic of",WTO.int website,1376
+"{'id': 'RS', 'name': 'Serbia'}",Ilostat website,1376
+"{'id': 'CR', 'name': 'Costa Rica'}",Ilostat website,1375
+San Marino,WTO.int website,1373
+United Kingdom,DKAN,1371
+Turkey,CKAN,1364
+"{'id': 'GT', 'name': 'Guatemala'}",Ilostat website,1363
+"{'id': 'PS', 'name': 'Palestine'}",Ilostat website,1360
+Mongolia,ArcGIS Server,1358
+"Micronesia, Federated States of",WTO.int website,1358
+Libya,WTO.int website,1352
+United Arab Emirates,CKAN,1350
+"{'id': 'EC', 'name': 'Ecuador'}",Ilostat website,1346
+Antigua and Barbuda,WTO.int website,1340
+Kuwait,WTO.int website,1334
+Saudi Arabia,OpenDataSoft,1334
+Africa,GeoNode,1330
+Portugal,GeoNode,1328
+Bangladesh,GeoNode,1325
+Saint Vincent and the Grenadines,WTO.int website,1325
+"{'id': 'MD', 'name': 'Moldova'}",Ilostat website,1325
+Moldova,CKAN,1322
+Marshall Islands,WTO.int website,1321
+Ireland,ArcGIS Hub,1314
+Trinidad and Tobago,ArcGIS Server,1313
+"{'id': 'KE', 'name': 'Kenya'}",Ilostat website,1310
+"{'id': 'IL', 'name': 'Israel'}",Data.bis.org platform,1302
+Palau,WTO.int website,1300
+"{'id': 'YE', 'name': 'Yemen'}",Ilostat website,1296
+Spain,OpenDataSoft,1296
+Dominica,WTO.int website,1294
+Andorra,WTO.int website,1288
+Timor-Leste,Ilostat website,1283
+"{'id': 'JO', 'name': 'Jordan'}",Ilostat website,1281
 Cyprus,DKAN,1280
-Spain,OpenDataSoft,1277
-Lithuania,Geonetwork,1239
-Ireland,ArcGIS Hub,1238
-Peru,Data.bis.org platform,1233
-South Africa,ArcGIS Server,1226
-Switzerland,OpenDataSoft,1224
-Hungary,Dataverse,1210
-Chile,GeoServer,1206
-Bangladesh,GeoNode,1141
-United Kingdom,DKAN,1114
-Germany,ArcGIS Hub,1112
-Tanzania,GeoNode,1108
-Israel,Data.bis.org platform,1096
-Peru,Geonetwork,1088
+Lithuania,Geonetwork,1279
+Nauru,WTO.int website,1250
+"{'id': 'CR', 'name': 'Costa Rica'}",Data.bis.org platform,1250
+"{'id': 'GE', 'name': 'Georgia'}",Ilostat website,1246
+"{'id': 'MX', 'name': 'Mozambique'}",Ilostat website,1246
+"{'id': 'NG', 'name': 'Nigeria'}",Ilostat website,1241
+Chile,GeoServer,1236
+Saint Kitts and Nevis,WTO.int website,1231
+Sudan,Ilostat website,1228
+"{'id': 'BA', 'name': 'Bosnia and Herzegovina'}",Ilostat website,1225
+Monaco,WTO.int website,1225
+"{'id': 'ZA', 'name': 'South Africa'}",Ilostat website,1223
+"{'id': 'TN', 'name': 'Tunis'}",Ilostat website,1216
+"{'id': 'TH', 'name': 'Thailand'}",Ilostat website,1211
+"{'id': 'KH', 'name': 'Cambodia'}",Ilostat website,1207
+Niue,WTO.int website,1206
+Guyana,Ilostat website,1200
+Germany,ArcGIS Hub,1191
+"{'id': 'EG', 'name': 'Egypt'}",Ilostat website,1189
+Mexico,GeoServer,1188
+Czech Republic,ArcGIS Hub,1181
+Uruguay,GeoServer,1179
+"{'id': 'US', 'name': 'World'}",Ilostat website,1175
+"{'id': 'WS', 'name': 'Samoa'}",Ilostat website,1154
+"{'id': 'GB', 'name': 'United Kingdom'}",Ilostat website,1154
+"{'id': 'NI', 'name': 'Nicaragua'}",Ilostat website,1152
+"{'id': 'AT', 'name': 'Austria'}",Ilostat website,1143
+"{'id': 'GR', 'name': 'Greece'}",Ilostat website,1140
+Poland,GeoNode,1137
+"{'id': 'TZ', 'name': 'Tanzania'}",Ilostat website,1130
+"{'id': 'FR', 'name': 'France'}",Ilostat website,1119
+"{'id': 'JM', 'name': 'Jamaica'}",Ilostat website,1118
+"{'id': 'UG', 'name': 'Uganda'}",Ilostat website,1112
+Greece,DKAN,1111
+"{'id': 'BR', 'name': 'Brazil'}",Ilostat website,1105
+Switzerland,GeoServer,1102
+"{'id': 'CH', 'name': 'Switzerland'}",Ilostat website,1099
+"{'id': 'PL', 'name': 'Poland'}",Ilostat website,1094
+"{'id': 'TR', 'name': 'Turkey'}",Ilostat website,1091
 Vietnam,GeoServer,1086
-Czech Republic,ArcGIS Hub,1071
-Iceland,Data.bis.org platform,1064
-Croatia,GeoServer,1060
-Denmark,GeoServer,1053
-Netherlands Antilles,Data.bis.org platform,1045
-Bosnia and Herzegovina,Geonetwork,1031
-Switzerland,GeoServer,1029
-Mexico,GeoServer,1023
+"{'id': 'CZ', 'name': 'Czech Republic'}",Ilostat website,1076
+"{'id': 'MK', 'name': 'Makedonia'}",Ilostat website,1072
+Croatia,GeoServer,1065
+"{'id': 'IS', 'name': 'Iceland'}",Data.bis.org platform,1057
+Bangladesh,ArcGIS Server,1055
+"{'id': 'SK', 'name': 'Slovakia'}",Ilostat website,1048
+Jordan,ArcGIS Server,1047
+"{'id': 'SC', 'name': 'Seychelles'}",Ilostat website,1040
+"{'id': 'CY', 'name': 'Cyprus'}",Ilostat website,1038
+"{'id': 'ES', 'name': 'Spain'}",Ilostat website,1036
+Czech Republic,GeoServer,1035
+Ireland,GeoServer,1032
+"{'id': 'PT', 'name': 'Mozambique'}",Ilostat website,1032
+"{'id': 'AM', 'name': 'Armenia'}",Data.bis.org platform,1030
+"{'id': 'PA', 'name': 'Panama'}",Ilostat website,1024
+Montenegro,Geonetwork,1022
+Peru,Geonetwork,1020
+"{'id': 'SE', 'name': 'Sweden'}",Ilostat website,1020
+"{'id': 'IT', 'name': 'Italy'}",Ilostat website,1018
+Kyrgyzstan,CKAN,1017
+"{'id': 'PY', 'name': 'Paraguay'}",Ilostat website,1016
 India,DKAN,1012
-All exchanges,Data.bis.org platform,1008
-Lithuania,GeoServer,994
-Paraguay,DKAN,979
-Ukraine,CKAN,964
-Kuwait,ArcGIS Server,949
-Switzerland,NADA,946
-World,GeoNode,945
-Luxemburg,ArcGIS Server,928
-Croatia,Data.bis.org platform,916
+"{'id': 'RU', 'name': 'Russian Federation'}",Ilostat website,1004
+"{'id': 'VU', 'name': 'Vanuatu'}",Ilostat website,993
+Rwanda,ArcGIS Server,990
+Switzerland,NADA,989
+Oceania,GeoNode,987
+Canada,GeoServer,981
+Sierra Leone,Ilostat website,979
+"{'id': 'LT', 'name': 'Lithuania'}",Ilostat website,976
+"{'id': 'TO', 'name': 'Tonga'}",Ilostat website,974
+Afghanistan,Ilostat website,973
+Eswatini,Ilostat website,973
+"{'id': 'SO', 'name': 'Somalia'}",Ilostat website,972
+"{'id': 'LA', 'name': 'Laos'}",Ilostat website,970
+India,GeoNode,968
+"{'id': 'GH', 'name': 'Ghana'}",Ilostat website,968
+Mauritius,Ilostat website,967
+"{'id': 'LV', 'name': 'Latvia'}",Ilostat website,964
+"{'id': 'IE', 'name': 'Ireland'}",Ilostat website,964
+"{'id': 'MG', 'name': 'Madagascar'}",Ilostat website,963
+"{'id': 'GM', 'name': 'Gambia'}",Ilostat website,960
+"{'id': 'AR', 'name': 'Argentina'}",Ilostat website,959
+"{'id': 'NO', 'name': 'Norway'}",Ilostat website,939
+Luxemburg,ArcGIS Server,933
+"{'id': 'DE', 'name': 'Germany'}",Ilostat website,930
+"{'id': 'HN', 'name': 'Honduras'}",Ilostat website,930
+"{'id': 'LB', 'name': 'Lebanon'}",Data.bis.org platform,928
+"{'id': 'HU', 'name': 'Hungary'}",Ilostat website,928
+"{'id': 'CI', 'name': 'Republic of Ivory Coast'}",Ilostat website,928
+"{'id': 'PH', 'name': 'Phillipines'}",Ilostat website,927
+"{'id': 'BG', 'name': 'Bulgaria'}",Ilostat website,927
+"{'id': 'UA', 'name': 'Ukraine'}",Ilostat website,927
+"{'id': 'LS', 'name': 'Lesotho'}",Ilostat website,926
+"{'id': 'BE', 'name': 'Belgium'}",Ilostat website,923
+"{'id': 'SI', 'name': 'Slovenia'}",Ilostat website,921
+"{'id': 'FI', 'name': 'Finland'}",Ilostat website,919
+"{'id': 'EE', 'name': 'Estonia'}",Ilostat website,919
+Liberia,Ilostat website,918
+Andorra,GeoServer,918
+"{'id': 'MT', 'name': 'Malta'}",Ilostat website,917
 Andorra,Geonetwork,915
-Andorra,GeoServer,915
-Republica Dominicana,CKAN,906
-Greenland,PxWeb,902
+"{'id': 'LU', 'name': 'Luxembourg'}",Ilostat website,912
+Greenland,PxWeb,911
+Nepal,CKAN,911
+Australia,OpenDataSoft,909
+Malta,ArcGIS Server,907
+Guinea-Bissau,Ilostat website,906
+"{'id': 'KR', 'name': 'South Korea'}",Ilostat website,904
+"{'id': 'AO', 'name': 'Angola'}",Ilostat website,902
 Denmark,PxWeb,902
-West Indies UK,Data.bis.org platform,896
-Australia,OpenDataSoft,889
-Middle East and North Africa (IFC classification),Custom software,881
-East Asia and the Pacific (IFC classification),Custom software,881
-Latin America and the Caribbean (IFC classification),Custom software,881
-Middle East (developing only),Custom software,881
-Europe and Central Asia (IFC classification),Custom software,881
-Sub-Saharan Africa (IFC classification),Custom software,881
-South Asia (IFC classification),Custom software,881
-Colombia,GeoServer,879
-Africa,Custom software,874
-Hong Kong,ArcGIS Server,865
-Nepal,CKAN,863
-Canada,GeoServer,853
-New Zealand,GeoNode,851
+"{'id': 'IQ', 'name': 'Iraq'}",Ilostat website,899
+"{'id': 'HR', 'name': 'Croatia'}",Ilostat website,897
+"{'id': 'DK', 'name': 'Denmark'}",Ilostat website,895
+"{'id': 'AL', 'name': 'Albania'}",Ilostat website,887
+"{'id': 'IS', 'name': 'Iceland'}",Ilostat website,885
+"{'id': 'IN', 'name': 'India'}",Ilostat website,883
+"{'id': 'TG', 'name': 'Togo'}",Ilostat website,881
+Colombia,GeoServer,880
+Latvia,CKAN,877
+"{'id': 'ET', 'name': 'Ethiopia'}",Ilostat website,872
+"{'id': 'NL', 'name': 'Netherlands'}",Ilostat website,870
+Niger,Ilostat website,863
+Makedonia,ArcGIS Server,860
+South Korea,ArcGIS Server,855
+Comoros,Ilostat website,852
 Malawi,GeoNode,850
-North Africa,Custom software,838
-Sub-Saharan Africa excluding South Africa and Nigeria,Custom software,838
-Sub-Saharan Africa excluding South Africa,Custom software,838
-Costa Rica,Data.bis.org platform,838
-Turkey,CKAN,834
-South Korea,ArcGIS Server,834
-Papua New Guinea,DKAN,826
-Vanuatu,GeoNode,810
-El Salvador,ArcGIS Server,808
-Kuwait,Data.bis.org platform,807
-Curaçao,Data.bis.org platform,806
-Brazil,ArcGIS Hub,795
+Hong Kong,ArcGIS Server,850
+"{'id': 'NP', 'name': 'Nepal'}",Ilostat website,849
+"{'id': 'SV', 'name': 'El Salvador'}",Ilostat website,832
+Papua New Guinea,DKAN,831
+"{'id': 'BN', 'name': 'Brunei'}",Ilostat website,823
+"{'id': 'MH', 'name': 'Republic of Marshall Islands'}",Ilostat website,819
+"{'id': 'RO', 'name': 'Romania'}",Ilostat website,811
+"{'id': 'ME', 'name': 'Montenegro'}",Ilostat website,809
+"{'id': 'KW', 'name': 'Kuwait'}",Data.bis.org platform,807
+"{'id': 'FJ', 'name': 'Fiji'}",Ilostat website,804
+Luxembourg,ArcGIS Hub,794
+Liechtenstein,PxWeb,792
 Faroe Islands,PxWeb,788
-Latvia,CKAN,787
-Luxembourg,ArcGIS Hub,784
-Qatar,Data.bis.org platform,775
-Uruguay,Geonetwork,770
-Hungary,CKAN,751
-Japan,ArcGIS Hub,746
-Venezuela,Data.bis.org platform,743
-Croatia,PxWeb,738
+"{'id': 'IL', 'name': 'Israel'}",Ilostat website,785
+"{'id': 'BJ', 'name': 'Benin'}",Ilostat website,777
+"{'id': 'MV', 'name': 'Maldives'}",Ilostat website,776
+"{'id': 'NG', 'name': 'Nigeria'}",Data.bis.org platform,776
+"{'id': 'QA', 'name': 'Qatar'}",Data.bis.org platform,775
+"{'id': 'LB', 'name': 'Lebanon'}",Ilostat website,773
+"{'id': 'NA', 'name': 'Namibia'}",Ilostat website,770
+"{'id': 'BI', 'name': 'Burundi'}",Ilostat website,769
+Mozambique,PxWeb,764
+"{'id': 'BF', 'name': 'Burkina Faso'}",Ilostat website,759
+Peru,Dataverse,758
+Malaysia,GeoNode,758
+World,ArcGIS Server,757
+Japan,ArcGIS Hub,753
+Brazil,ArcGIS Hub,747
+Norway,CKAN,746
+Macau,ArcGIS Server,744
+"{'id': 'VE', 'name': 'Venezuela'}",Data.bis.org platform,743
+"{'id': 'ML', 'name': 'Mali'}",Ilostat website,740
+Croatia,PxWeb,739
 Barbados,GeoServer,737
-Mongolia,GeoServer,732
-Kazakhstan,Data.bis.org platform,727
-Bolivia,GeoServer,724
-Nigeria,Data.bis.org platform,718
-Jordan,ArcGIS Server,716
-Norway,GeoServer,714
-Malaysia,GeoNode,705
+Laos,ArcGIS Server,732
+"{'id': 'BB', 'name': 'Barbados'}",Ilostat website,728
+"{'id': 'KZ', 'name': 'Kazakhstan'}",Data.bis.org platform,727
+Uzbekistan,ArcGIS Server,721
+Bolivia,GeoServer,721
+Belgium,CKAN,720
+"{'id': 'KI', 'name': 'Kiribati'}",Ilostat website,713
+Lebanon,Dataverse,712
 Oceania,NADA,691
-Lebanon,Data.bis.org platform,682
-Ukraine,Data.bis.org platform,679
+"{'id': 'MW', 'name': 'Malawi'}",Ilostat website,688
+"{'id': 'AU', 'name': 'Australia'}",Ilostat website,686
+"{'id': 'VE', 'name': 'Venezuela'}",Ilostat website,683
+Phillipines,CKAN,682
+Guatemala,ArcGIS Server,680
+"{'id': 'UA', 'name': 'Ukraine'}",Data.bis.org platform,679
+"{'id': 'CV', 'name': 'Cabo Verde'}",Ilostat website,672
+Paraguay,DKAN,670
+"{'id': 'CA', 'name': 'Canada'}",Ilostat website,670
+"{'id': 'CM', 'name': 'Cameroon'}",Ilostat website,669
+"{'id': 'SR', 'name': 'Suriname'}",Ilostat website,662
 Kyrgyzstan,ArcGIS Server,660
-Euro area 20 - 2023,Data.bis.org platform,660
-Italy,OpenDataSoft,649
-Oman,Data.bis.org platform,647
-Kyrgyzstan,CKAN,646
-Vietnam,Data.bis.org platform,646
-Serbia,ArcGIS Server,644
-Peru,GeoServer,641
+Wallis and Futuna,Ilostat website,659
+Estonia,Geonetwork,658
+Singapore,ArcGIS Server,658
+Republic of North Macedonia,CKAN,656
+"{'id': 'CK', 'name': 'Cook Islands'}",Ilostat website,656
+"{'id': 'CD', 'name': 'Democratic Republic of the Congo'}",Ilostat website,655
+Italy,OpenDataSoft,652
+"{'id': 'OM', 'name': 'Oman'}",Data.bis.org platform,649
+"{'id': 'VN', 'name': 'Vietnam'}",Data.bis.org platform,646
 World,ArcGIS Hub,640
-Greece,DKAN,636
-Norway,CKAN,635
-Guatemala,ArcGIS Server,634
-Lebanon,Dataverse,630
+Slovenia,ArcGIS Server,639
+Uganda,ArcGIS Server,635
+Djibouti,Ilostat website,633
+"{'id': 'BZ', 'name': 'Belize'}",Ilostat website,627
+"{'id': 'NR', 'name': 'Nauru'}",Ilostat website,626
+"{'id': 'KG', 'name': 'Kyrgyzstan'}",Ilostat website,625
 Gibraltar,Data.bis.org platform,624
-United Arab Emirates,ArcGIS Server,619
-Africa,ArcGIS Hub,619
-Estonia,Geonetwork,616
-Uruguay,Data.bis.org platform,615
+Antigua and Barbuda,GeoNode,624
+"{'id': 'MR', 'name': 'Mauritania'}",Ilostat website,618
+Peru,GeoServer,617
+"{'id': 'UY', 'name': 'Uruguay'}",Data.bis.org platform,617
+"{'id': 'IR', 'name': 'Iran'}",Ilostat website,617
+Mexico,ArcGIS Hub,615
 Mauritius,Data.bis.org platform,615
-Russian Federation,Geoserver,609
-Republic of North Macedonia,CKAN,607
-Mexico,ArcGIS Hub,605
-Dominican Republic,Data.bis.org platform,598
-Ecuador,CKAN,591
+Morocco,CKAN,611
+"{'id': 'MZ', 'name': 'Mozambique'}",Ilostat website,610
+"{'id': 'TV', 'name': 'Tuvalu'}",Ilostat website,603
+"{'id': 'TJ', 'name': 'Tajikistan'}",Ilostat website,603
+Congo,Ilostat website,601
+"{'id': 'DO', 'name': 'Republica Dominicana'}",Data.bis.org platform,598
+Panama,ArcGIS Hub,597
+"{'id': 'HT', 'name': 'Haiti'}",Ilostat website,595
+Albania,Geonetwork,592
+Norway,GeoServer,591
 Aruba,Data.bis.org platform,590
-Barbados,Data.bis.org platform,582
-Norway,ArcGIS Hub,575
-Panama,ArcGIS Hub,574
-Solomon Islands,DKAN,570
-Trinidad and Tobago,Data.bis.org platform,567
-Micronesia,DKAN,562
-Chile,Geonetwork,561
-Ethiopia,CKAN,561
+Ghana,DKAN,587
+Solomon Islands,DKAN,583
+"{'id': 'BB', 'name': 'Barbados'}",Data.bis.org platform,582
+Saint Lucia,Ilostat website,580
+Australia,Socrata,579
+"{'id': 'BT', 'name': 'Bhutan'}",Ilostat website,575
+Estonia,ArcGIS Hub,574
+Micronesia,DKAN,572
+Lithuania,GeoServer,570
+"{'id': 'TT', 'name': 'Trinidad and Tobago'}",Data.bis.org platform,567
+Ethiopia,CKAN,567
+Marocco,CKAN,563
+Cyprus,PxWeb,562
 Nauru,DKAN,559
-Portugal,DKAN,558
-Albania,Geonetwork,556
-Venezuela,GeoServer,552
+Grenada,Ilostat website,558
+"{'id': 'TT', 'name': 'Trinidad and Tobago'}",Ilostat website,557
+Vanuatu,DKAN,555
 European Union,InvenioRDM,551
-Egypt,Data.bis.org platform,550
-Mongolia,Data.bis.org platform,550
-Caribbean,CKAN,545
-Niue,DKAN,541
-Vanuatu,DKAN,536
-Tunisia,Data.bis.org platform,535
-Australia,Socrata,533
-Cook Islands,DKAN,531
-Unknown,DKAN,529
-Liechtenstein,Data.bis.org platform,528
+"{'id': 'EG', 'name': 'Egypt'}",Data.bis.org platform,550
+"{'id': 'MN', 'name': 'Mongolia'}",Data.bis.org platform,550
+Portugal,DKAN,546
+Caribbean,CKAN,546
+Palestine,ArcGIS Server,544
+Pakistan,ArcGIS Server,543
+Vanuatu,GeoNode,543
+Saudi Arabia,GeoServer,542
+Niue,DKAN,542
+Cook Islands,DKAN,537
+"{'id': 'TN', 'name': 'Tunis'}",Data.bis.org platform,535
+"{'id': 'LI', 'name': 'Liechtenstein'}",Data.bis.org platform,528
 Tuvalu,DKAN,527
-Bangladesh,ArcGIS Server,523
-Finland,GeoNode,520
+Spain,DKAN,524
+Serbia,ArcGIS Server,520
 Tonga,DKAN,519
-Spain,DKAN,518
-Uganda,ArcGIS Server,515
-Ecuador,Data.bis.org platform,512
-Algeria,Data.bis.org platform,510
-Unknown,NADA,507
+Chad,Ilostat website,516
+"Palestine, State of",WTO.int website,512
+"{'id': 'DZ', 'name': 'Algeria'}",Data.bis.org platform,512
+"{'id': 'EC', 'name': 'Ecuador'}",Data.bis.org platform,512
+Unknown,DKAN,508
+"{'id': 'BY', 'name': 'Belarus'}",Ilostat website,507
+South Africa,GeoNode,505
 Serbia,uData,500
-Belgium,CKAN,496
-Jordan,PxWeb,492
+"{'id': 'SB', 'name': 'Solomon Islands'}",Ilostat website,500
+India,ArcGIS Hub,496
+Jordan,PxWeb,495
+"{'id': 'PG', 'name': 'Papua New Guinea'}",Ilostat website,490
 Kiribati,DKAN,488
-Iran,Data.bis.org platform,487
-Uzbekistan,ArcGIS Server,486
-El Salvador,Data.bis.org platform,486
-Germany,OpenDataSoft,480
-Morocco,Data.bis.org platform,475
+"{'id': 'IR', 'name': 'Iran'}",Data.bis.org platform,487
+Uganda,CKAN,486
+"{'id': 'SV', 'name': 'El Salvador'}",Data.bis.org platform,486
+Colombia,NADA,485
+United Kingdom,OpenDataSoft,483
+"{'id': 'MA', 'name': 'Marocco'}",Data.bis.org platform,475
 Palau,DKAN,475
-Palestine,ArcGIS Server,470
-Colombia,NADA,467
-Gambia,Geonetwork,464
-Bosnia and Herzegovina,ArcGIS Server,461
-Cyprus,PxWeb,459
-Republic of Marshall Islands,DKAN,453
-Malta,ArcGIS Server,448
-United Kingdom,OpenDataSoft,448
-Vietnam,Geonetwork,446
-South Korea,Geonetwork,444
+Gambia,GeoNode,470
+Angola,GeoNode,468
+Namibia,GeoNode,468
+Republic of Marshall Islands,DKAN,462
+"{'id': 'JP', 'name': 'Japan'}",Ilostat website,456
+"{'id': 'BZ', 'name': 'Belize'}",Data.bis.org platform,454
+South Korea,Geonetwork,453
+Belgium,Dataverse,453
+Tanzania,GeoNode,452
+"{'id': 'PW', 'name': 'Palau'}",Ilostat website,449
+"{'id': 'NU', 'name': 'Niue'}",Ilostat website,447
+Lithuania,Dataverse,446
+Egypt,ArcGIS Hub,437
+"{'id': 'MY', 'name': 'Malaysia'}",Ilostat website,435
+Bahrain,OpenDataSoft,433
+"{'id': 'SG', 'name': 'Singapore'}",Ilostat website,433
 China,CKAN,429
-Belgium,Dataverse,428
-Lithuania,Dataverse,428
-Sri Lanka,Data.bis.org platform,423
+"{'id': 'AE', 'name': 'United Arab Emirates'}",Ilostat website,426
+United States,Geonetwork,425
+"{'id': 'LK', 'name': 'Sri Lanka'}",Data.bis.org platform,423
 Slovakia,GeoNode,423
-Azerbaijan,Data.bis.org platform,422
-Uzbekistan,Data.bis.org platform,422
-Belarus,Data.bis.org platform,422
-Morocco,CKAN,416
-Croatia,ArcGIS Server,414
-Serbia and Montenegro,Data.bis.org platform,412
-Haiti,GeoNode,411
-Bahrain,OpenDataSoft,395
-Liechtenstein,PxWeb,393
-Georgia,Data.bis.org platform,390
-Guatemala,Data.bis.org platform,390
-Paraguay,Data.bis.org platform,390
+"{'id': 'AZ', 'name': 'Azerbaijan'}",Data.bis.org platform,422
+"{'id': 'UZ', 'name': 'Uzbekistan'}",Data.bis.org platform,422
+"{'id': 'BY', 'name': 'Belarus'}",Data.bis.org platform,422
+"{'id': 'PY', 'name': 'Paraguay'}",Data.bis.org platform,422
+Germany,OpenDataSoft,421
+Luxembourg,uData,420
+Sao Tome and Principe,Ilostat website,420
+Puerto Rico,Ilostat website,418
+Croatia,ArcGIS Server,409
+Unknown,NADA,401
+Guinea,Ilostat website,399
+Italy,Dataverse,395
+Papua New Guinea,ArcGIS Server,395
+"{'id': 'GE', 'name': 'Georgia'}",Data.bis.org platform,390
+"{'id': 'GT', 'name': 'Guatemala'}",Data.bis.org platform,390
 Montenegro,PxWeb,386
-Guatemala,GeoServer,386
-Luxembourg,uData,380
-Slovenia,GeoServer,378
-Côte d'Ivoire,Data.bis.org platform,374
-Macau,ArcGIS Server,370
-Slovenia,ArcGIS Server,367
-Laos,ArcGIS Server,366
-Suriname,Data.bis.org platform,358
-Kenya,Data.bis.org platform,358
-Bolivia,Data.bis.org platform,358
+Guatemala,GeoServer,384
+Tokelau,Ilostat website,381
+Peru,DKAN,380
+Bosnia and Herzegovina,ArcGIS Server,377
+Mozambique,ArcGIS Hub,377
+Republic of Ivory Coast,GeoServer,376
+United States,ncWMS,376
+"{'id': 'CI', 'name': 'Republic of Ivory Coast'}",Data.bis.org platform,374
+"{'id': 'UZ', 'name': 'Uzbekistan'}",Ilostat website,374
+Georgia,GeoServer,371
+Venezuela,GeoServer,368
+Nepal,GeoNode,366
+Czech Republic,CKAN,360
+"{'id': 'BO', 'name': 'Bolivia'}",Data.bis.org platform,359
+"{'id': 'SR', 'name': 'Suriname'}",Data.bis.org platform,358
+"{'id': 'KE', 'name': 'Kenya'}",Data.bis.org platform,358
+"{'id': 'FM', 'name': 'Micronesia'}",Ilostat website,358
+"{'id': 'JM', 'name': 'Jamaica'}",Data.bis.org platform,358
+Norway,ArcGIS Hub,358
 Niue,ArcGIS Server,357
-Pakistan,Data.bis.org platform,357
-Marshall Islands,Data.bis.org platform,352
-Cuba,Data.bis.org platform,352
-Georgia,GeoServer,348
-Papua New Guinea,ArcGIS Server,345
-Serbia,Data.bis.org platform,344
-Pakistan,ArcGIS Server,339
-Costa Rica,GeoNode,338
-Italy,Dataverse,338
-Nepal,GeoNode,332
+"{'id': 'MA', 'name': 'Marocco'}",Ilostat website,356
+"{'id': 'MH', 'name': 'Republic of Marshall Islands'}",Data.bis.org platform,352
+"{'id': 'CU', 'name': 'Cuba'}",Data.bis.org platform,352
+"{'id': 'PK', 'name': 'Pakistan'}",Data.bis.org platform,350
+"{'id': 'NC', 'name': 'New Caledonia'}",Ilostat website,349
+"{'id': 'RS', 'name': 'Serbia'}",Data.bis.org platform,344
+Cyprus,ArcGIS Server,343
+Panama,Geonetwork,342
+Croatia,CKAN,332
 Madagascar,GeoNode,331
-Paraguay,ArcGIS Server,331
 Uganda,GeoNode,330
 Samoa,DKAN,327
-Jamaica,Data.bis.org platform,326
-Egypt,ArcGIS Hub,324
-Portugal,ArcGIS Hub,319
-Rwanda,ArcGIS Server,315
+Moldova,Geonetwork,325
+"{'id': 'SS', 'name': 'South Sudan'}",Ilostat website,319
+Paraguay,ArcGIS Server,319
+Austria,InvenioRDM,315
+Sweden,OpenDataSoft,314
+"{'id': 'HK', 'name': 'Hong Kong'}",Ilostat website,313
 Kyrgyzstan,GeoServer,313
-Sweden,OpenDataSoft,312
-Slovakia,ArcGIS Hub,304
+Portugal,ArcGIS Hub,307
 United States,Aleph,300
-Antigua and Barbuda,GeoNode,297
-United States,Geonetwork,294
+Sri Lanka,ArcGIS Server,299
+"{'id': 'JO', 'name': 'Jordan'}",Data.bis.org platform,294
+Canada,GeoNode,294
 Grenada,Data.bis.org platform,294
 Gabon,Data.bis.org platform,294
-Jordan,Data.bis.org platform,294
-Canada,GeoNode,294
-Mozambique,ArcGIS Hub,288
 Tunis,ArcGIS Server,286
-Bulgaria,Geonetwork,285
-Montenegro,GeoNode,282
 Belize,ArcGIS Hub,281
 Georgia,Geonetwork,278
-Canada,OpenDataSoft,271
-Norway,PxWeb,268
-Panama,Geonetwork,268
-Belize,Data.bis.org platform,262
-Honduras,Data.bis.org platform,262
-St Lucia,Data.bis.org platform,262
-Maldives,Data.bis.org platform,262
-Togo,ArcGIS Server,262
-Papua New Guinea,Data.bis.org platform,262
-Armenia,Data.bis.org platform,262
-Africa,NADA,260
-France,NADA,258
-Hungary,GeoServer,257
-Indonesia,ArcGIS Hub,256
+Canada,OpenDataSoft,273
+Norway,PxWeb,273
+Bulgaria,Geonetwork,273
+"{'id': 'NZ', 'name': 'New Zealand'}",Ilostat website,268
+Lithuania,ArcGIS Hub,262
+"{'id': 'HN', 'name': 'Honduras'}",Data.bis.org platform,262
+"{'id': 'MV', 'name': 'Maldives'}",Data.bis.org platform,262
+"{'id': 'PG', 'name': 'Papua New Guinea'}",Data.bis.org platform,262
+France,NADA,259
+Oman,ArcGIS Server,257
+Indonesia,ArcGIS Hub,257
+"{'id': 'SA', 'name': 'Saudi Arabia'}",Ilostat website,256
+American Samoa,DKAN,256
 Lebanon,ArcGIS Server,254
-France,GeoNode,253
+Taiwan,Dataverse,253
+"{'id': 'TW', 'name': 'Taiwan'}",Ilostat website,253
 Greece,Geonetwork,250
-Greece,GeoNode,248
+France,PxWeb,248
+"{'id': 'SN', 'name': 'Senegal'}",Data.bis.org platform,247
 World,PxWeb,247
-Senegal,Data.bis.org platform,246
-Zimbabwe,GeoServer,238
-Kyrgyzstan,GeoNode,234
-Belarus,DKAN,229
-Sri Lanka,ArcGIS Server,228
-Mozambique,ArcGIS Server,227
+South Africa,NADA,246
+Hungary,GeoServer,241
+Montserrat,Ilostat website,240
+"{'id': 'MK', 'name': 'Makedonia'}",Data.bis.org platform,225
+Vietnam,Geonetwork,225
+Costa Rica,GeoNode,224
+Mozambique,ArcGIS Server,223
 Madagascar,ArcGIS Hub,223
+Saint Vincent and the Grenadines,Ilostat website,222
+Sweden,CKAN,217
 Albania,ArcGIS Server,216
-Lithuania,ArcGIS Hub,214
-North Macedonia,Data.bis.org platform,213
-Tajikistan,GeoNode,207
-Senegal,ArcGIS Server,206
+"{'id': 'QA', 'name': 'Qatar'}",Ilostat website,214
+"{'id': 'KZ', 'name': 'Kazakhstan'}",Ilostat website,209
 Cyprus,GeoNode,206
-Austria,InvenioRDM,205
-New Zealand,GeoServer,203
-Armenia,GeoServer,202
+Malaysia,DKAN,206
+United Arab Emirates,OpenDataSoft,204
 Nicaragua,Geonetwork,202
-Bosnia and Herzegovina,Data.bis.org platform,202
-Albania,Data.bis.org platform,199
-Togo,Data.bis.org platform,198
-Mozambique,Data.bis.org platform,198
-Ghana,Data.bis.org platform,198
-Zimbabwe,Data.bis.org platform,198
-Madagascar,Data.bis.org platform,198
-Laos,Data.bis.org platform,198
-Iraq,Data.bis.org platform,198
-Cameroon,Data.bis.org platform,198
-Nicaragua,Data.bis.org platform,198
-Republic of Congo,Data.bis.org platform,198
-Switzerland,PxWeb,194
-Albania,CKAN,194
-Turks and Caicos Islands,Data.bis.org platform,192
-Czechoslovakia,Data.bis.org platform,192
+"{'id': 'BA', 'name': 'Bosnia and Herzegovina'}",Data.bis.org platform,202
+Malaysia,CKAN,201
+Bolivia,Geonetwork,200
+"{'id': 'DZ', 'name': 'Algeria'}",Ilostat website,200
+"{'id': 'ZW', 'name': 'Zimbabwe'}",Data.bis.org platform,200
+"{'id': 'AL', 'name': 'Albania'}",Data.bis.org platform,199
+"{'id': 'GH', 'name': 'Ghana'}",Data.bis.org platform,199
+"{'id': 'BJ', 'name': 'Benin'}",Data.bis.org platform,199
+"{'id': 'MZ', 'name': 'Mozambique'}",Data.bis.org platform,199
+"{'id': 'AZ', 'name': 'Azerbaijan'}",Ilostat website,199
+"{'id': 'TG', 'name': 'Togo'}",Data.bis.org platform,198
+Armenia,GeoServer,198
+"{'id': 'CM', 'name': 'Cameroon'}",Data.bis.org platform,198
+"{'id': 'IQ', 'name': 'Iraq'}",Data.bis.org platform,198
+"{'id': 'LA', 'name': 'Laos'}",Data.bis.org platform,198
+"{'id': 'MG', 'name': 'Madagascar'}",Data.bis.org platform,198
+Mexico,DKAN,198
+"{'id': 'ME', 'name': 'Montenegro'}",Data.bis.org platform,198
+"{'id': 'NI', 'name': 'Nicaragua'}",Data.bis.org platform,198
+Bolivia,NADA,198
+"{'id': 'CN', 'name': 'China'}",Ilostat website,197
+Hong Kong,CKAN,196
+Syrian Arab Republic,Ilostat website,196
+Slovenia,GeoServer,195
+Netherlands,Socrata,195
+"{'id': 'TC', 'name': 'Turks and Caicos Islands'}",Data.bis.org platform,192
+Egypt,NADA,190
+Tajikistan,GeoNode,190
 Israel,ArcGIS Hub,190
-Bolivia,NADA,189
-Costa Rica,GeoServer,188
-South Africa,NADA,186
-Taiwan,GeoServer,185
-Egypt,NADA,185
-Switzerland,GeoNode,184
-Myanmar,GeoNode,182
-Republic of Ivory Coast,GeoServer,181
-World,ArcGIS Server,181
+Myanmar,GeoNode,188
+Finland,GeoNode,186
+Honduras,ArcGIS Hub,185
+Montenegro,GeoServer,183
+Malawi,CKAN,183
 Zimbabwe,GeoNode,179
-Moldova,GeoServer,167
-Fiji,Data.bis.org platform,166
-Moldova,Geonetwork,165
+Afganistan,GeoServer,178
+"Virgin Islands, U.S.",Ilostat website,176
+Costa Rica,GeoServer,174
+Qatar,OpenDataSoft,173
+"{'id': 'OM', 'name': 'Oman'}",Ilostat website,172
+New Zealand,GeoNode,168
+"{'id': 'BH', 'name': 'Bahrain'}",Ilostat website,167
+"{'id': 'FJ', 'name': 'Fiji'}",Data.bis.org platform,166
 Costa Rica,DKAN,164
-Mexico,DKAN,161
-Dominica,GeoNode,158
+New Zealand,GeoServer,163
+Sweden,ArcGIS Hub,160
+Switzerland,PxWeb,159
 Costa Rica,NADA,157
-United Arab Emirates,OpenDataSoft,156
-Sri Lanka,DKAN,156
+Italy,ArcGIS Hub,154
+"{'id': 'MO', 'name': 'Macau'}",Ilostat website,154
+France,ncWMS,154
 Kenya,ArcGIS Hub,152
-Netherlands,Socrata,151
-Azerbaijan,ArcGIS Server,150
+Cameroon,ArcGIS Hub,151
+Ethiopia,GeoNode,151
 Bhutan,GeoServer,150
-Croatia,CKAN,149
-Greenland,ArcGIS Hub,146
-Slovenia,PxWeb,142
-India,ArcGIS Hub,139
-Finland,ArcGIS Hub,139
+Trinidad and Tobago,CKAN,147
+Sri Lanka,DKAN,144
+Costa Rica,CKAN,144
+Greenland,ArcGIS Hub,142
+Finland,ArcGIS Hub,140
 Liberia,Data.bis.org platform,138
 Hungary,Geonetwork,136
-Benin,Data.bis.org platform,134
-Bangladesh,Data.bis.org platform,134
-Angola,Data.bis.org platform,134
-Tajikistan,Data.bis.org platform,134
-Rwanda,Data.bis.org platform,134
-Zambia,Data.bis.org platform,134
-Haiti,Data.bis.org platform,134
-Seychelles,Data.bis.org platform,134
-Guinea,Data.bis.org platform,134
-Moldova,Data.bis.org platform,134
-Ethiopia,Data.bis.org platform,134
-Montenegro,Data.bis.org platform,134
-Myanmar,Data.bis.org platform,134
-Namibia,Data.bis.org platform,134
+"{'id': 'TJ', 'name': 'Tajikistan'}",Data.bis.org platform,135
+Guinea,Data.bis.org platform,135
+"{'id': 'AO', 'name': 'Angola'}",Data.bis.org platform,135
 Sudan,Data.bis.org platform,134
+"{'id': 'SC', 'name': 'Seychelles'}",Data.bis.org platform,134
+"{'id': 'HT', 'name': 'Haiti'}",Data.bis.org platform,134
+"{'id': 'BD', 'name': 'Bangladesh'}",Data.bis.org platform,134
+"{'id': 'ET', 'name': 'Ethiopia'}",Data.bis.org platform,134
+"{'id': 'NA', 'name': 'Namibia'}",Data.bis.org platform,134
+"{'id': 'ZM', 'name': 'Zambia'}",Data.bis.org platform,134
+"{'id': 'MD', 'name': 'Moldova'}",Data.bis.org platform,134
+"{'id': 'MM', 'name': 'Myanmar'}",Data.bis.org platform,134
+"{'id': 'RW', 'name': 'Rwanda'}",Data.bis.org platform,134
+France,GeoNode,132
+Togo,ArcGIS Server,131
+Tunis,ArcGIS Hub,130
+Turkey,GeoServer,130
+Chile,Dataverse,129
+Hong Kong,Dataverse,128
 Ghana,PxWeb,126
-Cameroon,ArcGIS Hub,125
-France,PxWeb,124
-Sweden,ArcGIS Hub,124
-Dominican Republic,ArcGIS Server,123
-Austria,GeoServer,121
-Singapore,ArcGIS Server,121
-Moldova,CKAN,120
+Netherlands,OpenDataSoft,125
+Austria,GeoServer,122
+"{'id': 'TM', 'name': 'Turkmenistan'}",Ilostat website,122
+Cote d Ivoire,ArcGIS Hub,122
+Brazil,DKAN,121
 Tunis,uData,120
-Brazil,DKAN,119
+Switzerland,ArcGIS Hub,119
+Bahamas,Ilostat website,118
 Iceland,CKAN,118
-Romania,GeoServer,118
-Denmark,ArcGIS Hub,118
-Switzerland,ArcGIS Hub,118
-Ethiopia,GeoNode,117
-Netherlands,OpenDataSoft,117
-Cyprus,ArcGIS Server,116
-Lesotho,ArcGIS Server,113
-Europe & Central Asia (IDA-eligible countries),Custom software,109
-Latin America & the Caribbean (IDA-eligible countries),Custom software,109
-East Asia & Pacific (IDA-eligible countries),Custom software,109
-South Asia (IDA-eligible countries),Custom software,109
-Middle East & North Africa (IDA-eligible countries),Custom software,109
-Sub-Saharan Africa (IDA-eligible countries),Custom software,109
+"{'id': 'KW', 'name': 'Kuwait'}",Ilostat website,117
+"{'id': 'CU', 'name': 'Cuba'}",Ilostat website,117
+Honduras,GeoNode,116
+Latvia,GeoServer,114
+Senegal,ArcGIS Server,113
+Gabon,Ilostat website,112
+Guam,Ilostat website,111
+Kyrgyzstan,GeoNode,110
+French Polynesia,Ilostat website,108
 Luxembourg,PxWeb,105
-Latvia,GeoServer,105
 Jamaica,CKAN,103
-Ecuador,GeoServer,103
-Chile,Dataverse,102
-Botswana,Data.bis.org platform,102
-Cambodia,Data.bis.org platform,102
-Armenia,ArcGIS Hub,102
+Central African Republic,Ilostat website,103
+"{'id': 'BW', 'name': 'Botswana'}",Data.bis.org platform,102
 Djibouti,Data.bis.org platform,102
-Honduras,GeoNode,100
-Cabo Verde,ArcGIS Server,99
-Mexico,OpenDataSoft,99
-Trinidad and Tobago,CKAN,98
-Residual British Overseas Territories,Data.bis.org platform,96
-Mongolia,Geonetwork,95
-Armenia,GeoNode,95
-Kenya,ArcGIS Server,92
-Cote d Ivoire,ArcGIS Hub,90
-Vietnam,PxWeb,88
+"{'id': 'KH', 'name': 'Cambodia'}",Data.bis.org platform,102
+Vietnam,DKAN,101
+Montenegro,ArcGIS Server,101
+Africa,NADA,99
+Switzerland,GeoNode,98
+Laos,GeoNode,97
+Mexico,OpenDataSoft,97
+Madagascar,GeoServer,96
+Moldova,GeoServer,96
+San Marino,Ilostat website,96
+Botswana,ArcGIS Server,93
+Taiwan,GeoServer,93
+Laos,GeoServer,92
+Kenya,ArcGIS Server,90
+Equatorial Guinea,Ilostat website,88
 Switzerland,InvenioRDM,88
-Euro area,Data.bis.org platform,87
-Estonia,ArcGIS Hub,87
-Austria,GeoNode,86
-Malaysia,GeoServer,84
-Mali,NADA,82
-Hong Kong,CKAN,82
-Mongolia,GeoNode,81
+Vietnam,PxWeb,88
+Mali,NADA,87
+Libya,Ilostat website,86
+Romania,GeoServer,85
+Mongolia,GeoNode,84
+South Africa,GeoServer,82
+Réunion,Ilostat website,81
 Kenya,NADA,80
+Azerbaijan,ArcGIS Server,80
+Hungary,Dataverse,79
 Haiti,ArcGIS Hub,77
-Poland,CKAN,76
+South Korea,ArcGIS Hub,76
+Angola,ArcGIS Hub,76
+Bermuda,Ilostat website,75
 Malaysia,ArcGIS Hub,75
-South Korea,ArcGIS Hub,75
-Belarus,ArcGIS Server,72
-Hong Kong,Dataverse,71
+Denmark,ArcGIS Hub,74
+Vietnam,GeoNode,73
+Curaçao,Ilostat website,72
+Greenland,GeoServer,72
 Serbia,GeoServer,71
-Norway,Geonetwork,70
-Tanzania,Data.bis.org platform,70
-Syria,Data.bis.org platform,70
-Greenland,GeoServer,68
+Bahamas,ArcGIS Server,71
+Armenia,GeoNode,71
+Puerto Rico,WTO.int website,70
+"Korea, Democratic People's Republic of",Ilostat website,70
+Syrian Arab Republic,Data.bis.org platform,70
+"{'id': 'TZ', 'name': 'Tanzania'}",Data.bis.org platform,70
+India,Geonetwork,68
+Cayman Islands,Ilostat website,68
 Nepal,NADA,67
-Bolivia,CKAN,66
+Peru,CKAN,67
+Eritrea,Ilostat website,67
+Mozambique,NADA,66
+Aruba,Ilostat website,65
+Isle of Man,Ilostat website,65
 French Polynesia,Data.bis.org platform,64
+Kenya,CKAN,64
+"{'id': 'NR', 'name': 'Nauru'}",Data.bis.org platform,64
+Romania,GeoNode,64
 Bhutan,Geonode,64
-Nauru,Data.bis.org platform,64
 Jamaica,DKAN,63
-Uruguay,GeoNode,63
-Romania,GeoNode,60
+Latvia,Dataverse,62
 Algeria,GeoNode,60
 Zambia,ArcGIS Server,60
+Falkland Islands (Malvinas),Ilostat website,59
 Spain,GeoNode,58
-Niger,Data.bis.org platform,58
-Latvia,Dataverse,58
-Kyrgyzstan,Geonetwork,57
+Unknown,OpenDataSoft,56
+Palestine,ArcGIS Hub,56
+Guatemala,CKAN,56
+Uruguay,GeoNode,56
 Republica Dominicana,GeoServer,55
-Unknown,OpenDataSoft,54
+Dominica,GeoNode,55
+Western Sahara,Ilostat website,54
+Saint Lucia,GeoServer,54
+Macao,WTO.int website,54
 United States,InvenioRDM,53
+Austria,ArcGIS Hub,53
+Fiji,ArcGIS Server,52
 Poland,DKAN,52
-Italy,InvenioRDM,52
+Hong Kong,WTO.int website,51
+French Guiana,Ilostat website,51
 Sri Lanka,CKAN,51
-Uganda,NADA,50
-European exchanges,Data.bis.org platform,48
-Asian exchanges,Data.bis.org platform,48
-Asian/Pacific exchanges,Data.bis.org platform,48
-Chile,CKAN,48
-Iran,ArcGIS Server,48
-Other exchanges,Data.bis.org platform,48
-North American exchanges,Data.bis.org platform,48
-Austria,ArcGIS Hub,48
-Australia/New Zealand exchanges,Data.bis.org platform,48
-Laos,GeoServer,46
-Dominican Republic,GeoServer,46
-Republica Dominicana,GeoNode,46
+Tokelau,WTO.int website,51
+Anguilla,WTO.int website,49
+"{'id': 'DM', 'name': 'Dominica'}",Ilostat website,47
+Tanzania,NADA,47
+Guadeloupe,Ilostat website,46
+Uganda,NADA,46
 Egypt,GeoNode,46
+Bulgaria,GeoServer,46
+Argentina,ArcGIS Hub,45
 Paraguay,GeoServer,45
-Palestine,CKAN,40
+European Union,ncWMS,45
+Bolivia,CKAN,43
+Martinique,Ilostat website,43
+"{'id': 'AG', 'name': 'Antigua and Barbuda'}",Ilostat website,43
+Dominican Republic,ArcGIS Server,42
+Bulgaria,GeoNode,40
 Ghana,NADA,40
-Tanzania,NADA,40
-European Union,OpenDataSoft,34
+Mauritius,GeoNode,40
+Bulgaria,ArcGIS Hub,40
+Palestine,CKAN,40
+Sri Lanka,Geonode,39
+El Salvador,CKAN,38
+European Union,ArcGIS Hub,38
+"Virgin Islands, British",WTO.int website,38
+Jersey,Ilostat website,38
+Saint Kitts and Nevis,Ilostat website,37
+Turks and Caicos Islands,WTO.int website,37
+"{'id': 'GL', 'name': 'Greenland'}",Ilostat website,36
+Montserrat,WTO.int website,36
+"Virgin Islands, British",Ilostat website,35
+Bermuda,WTO.int website,35
 Yemen,GeoNode,34
-India,Geonetwork,34
-Nigeria,GeoNode,31
-Iceland,Dataverse,30
-Rwanda,GeoNode,30
+Burkina Faso,GeoServer,34
+European Union,OpenDataSoft,33
+Nigeria,GeoNode,33
+Anguilla,Ilostat website,33
+"{'id': 'AD', 'name': 'Andorra'}",Ilostat website,32
+Gibraltar,Ilostat website,32
+Namibia,ArcGIS Hub,32
+"{'id': 'TC', 'name': 'Turks and Caicos Islands'}",Ilostat website,32
+Republica Dominicana,GeoNode,32
+Monaco,Ilostat website,31
+Serbia,CKAN,31
+French Polynesia,WTO.int website,30
+Russian Federation,Dataverse,30
 New Zealand,Socrata,30
-Bulgaria,GeoServer,28
+Jamaica,ArcGIS Server,30
+Croatia,Dataverse,30
+Iceland,Dataverse,30
+Liechtenstein,WTO.int website,30
+Rwanda,GeoNode,30
+Cayman Islands,WTO.int website,29
+"{'id': 'AS', 'name': 'American Samoa'}",Ilostat website,28
 Costa Rica,Geonetwork,28
-Armenia,NADA,26
-Estonia,InvenioRDM,26
+Dominican Republic,GeoServer,28
+Romania,Geonetwork,28
+American Samoa,WTO.int website,27
+"{'id': 'LI', 'name': 'Liechtenstein'}",Ilostat website,27
+Portugal,Dataverse,27
+"Saint Helena, Ascension and Tristan da Cunha",Ilostat website,27
+Suriname,ArcGIS Hub,26
+Makedonia,CKAN,26
 Angola,NADA,26
-Fiji,ArcGIS Server,26
-Croatia,ArcGIS Hub,26
-European Union,ArcGIS Hub,25
-Advanced economies,Data.bis.org platform,25
-South Africa,GeoServer,23
-Emerging market economies (aggregate),Data.bis.org platform,22
-G20 economies,Data.bis.org platform,21
-All reporting economies,Data.bis.org platform,21
-Benin,CKAN,21
+Estonia,InvenioRDM,26
+Armenia,NADA,26
+Northern Mariana Islands,Ilostat website,25
+Germany,Aleph,25
+Argentina,Dataverse,24
+Guam,WTO.int website,23
+Ecuador,GeoServer,21
+Lebanon,ArcGIS Hub,21
+Greenland,WTO.int website,21
+Wallis and Futuna,WTO.int website,21
+Iran,ArcGIS Hub,20
 Paraguay,GeoNode,20
-Suriname,ArcGIS Hub,19
-Phillipines,ArcGIS Server,19
-Argentina,Dataverse,19
+Northern Mariana Islands,WTO.int website,20
+"{'id': 'FO', 'name': 'Faroe Islands'}",Ilostat website,19
+Guernsey,Ilostat website,19
+Aruba,WTO.int website,18
+Oceania,ncWMS,18
+New Caledonia,WTO.int website,18
 Australia,GeoNode,18
-Lebanon,ArcGIS Hub,18
-Argentina,ArcGIS Hub,17
 Mozambique,GeoNode,17
-Burkina Faso,GeoServer,17
+Kyrgyzstan,Geonetwork,17
+Curaçao,WTO.int website,17
+Sint Maarten (Dutch part),WTO.int website,17
 Greece,ArcGIS Hub,16
-Vietnam,DKAN,16
-Lithuania,CKAN,15
-Botswana,NADA,15
+Botswana,NADA,16
+French Guiana,WTO.int website,16
 Panama,GeoNode,15
-Croatia,Dataverse,14
-Jamaica,ArcGIS Server,14
-Phillipines,GeoNode,14
-Hungary,GeoNode,14
-Uganda,DKAN,13
-Vietnam,CKAN,13
+Algeria,ArcGIS Server,15
+Lithuania,CKAN,15
+Taiwan,ArcGIS Hub,14
+Uganda,DKAN,14
+Belarus,ArcGIS Server,12
+Mayotte,WTO.int website,12
+Bosnia and Herzegovina,CKAN,12
+Egypt,ArcGIS Server,12
 Costa Rica,ArcGIS Hub,12
 United Arab Emirates,ArcGIS Hub,11
+Norfolk Island,Ilostat website,11
 Latvia,Pycsw,10
-South Africa,GeoNode,9
-New Caledonia,DKAN,8
+Guyana,GeoServer,10
+"{'id': 'ML', 'name': 'Mali'}",Data.bis.org platform,9
+Cyprus,GeoServer,9
+Angola,DKAN,8
+South Africa,DKAN,8
+Namibia,DKAN,8
+Colombia,Dataverse,8
 Mexico,NADA,8
-Czech Republic,DKAN,8
-Nepal,Data.bis.org platform,7
+"{'id': 'KG', 'name': 'Kyrgyzstan'}",Data.bis.org platform,8
+New Caledonia,DKAN,8
+Montserrat,Data.bis.org platform,7
+Chad,Data.bis.org platform,7
+"{'id': 'TM', 'name': 'Turkmenistan'}",Data.bis.org platform,7
+"{'id': 'NP', 'name': 'Nepal'}",Data.bis.org platform,7
+Equatorial Guinea,Data.bis.org platform,7
 Bolivia,ArcGIS Hub,7
-Colombia,Dataverse,7
-Brunei,Data.bis.org platform,7
-Guatemala,CKAN,7
-Lesotho,Data.bis.org platform,6
-Guinea-Bissau,Data.bis.org platform,6
-Mali,Data.bis.org platform,6
-St Vincent and the Grenadines,Data.bis.org platform,6
-Central African Republic,Data.bis.org platform,6
-Malawi,Data.bis.org platform,6
-Equatorial Guinea,Data.bis.org platform,6
-Dominica,Data.bis.org platform,6
-Guyana,Data.bis.org platform,6
-Cabo Verde,Data.bis.org platform,6
-Libya,Data.bis.org platform,6
-Yemen,Data.bis.org platform,6
-Democratic Republic of the Congo,Data.bis.org platform,6
-Eritrea,Data.bis.org platform,6
-Burundi,Data.bis.org platform,6
-Tonga,Data.bis.org platform,6
-San Marino,Data.bis.org platform,6
-St Kitts and Nevis,Data.bis.org platform,6
+"{'id': 'SS', 'name': 'South Sudan'}",Data.bis.org platform,7
+"{'id': 'BN', 'name': 'Brunei'}",Data.bis.org platform,7
+"{'id': 'WS', 'name': 'Samoa'}",Data.bis.org platform,7
+Afghanistan,Data.bis.org platform,7
+"{'id': 'TO', 'name': 'Tonga'}",Data.bis.org platform,7
+Iran,ArcGIS Server,7
+"{'id': 'UG', 'name': 'Uganda'}",Data.bis.org platform,6
+"{'id': 'MR', 'name': 'Mauritania'}",Data.bis.org platform,6
 Anguilla,Data.bis.org platform,6
-Uganda,Data.bis.org platform,6
-Antigua and Barbuda,Data.bis.org platform,6
-Waemu,Data.bis.org platform,6
-Turkmenistan,Data.bis.org platform,6
-São Tomé and Príncipe,Data.bis.org platform,6
-Sierra Leone,Data.bis.org platform,6
-Samoa,Data.bis.org platform,6
-Vanuatu,Data.bis.org platform,6
-The Gambia,Data.bis.org platform,6
-Other developing Europe,Data.bis.org platform,6
-EU developing countries,Data.bis.org platform,6
-Afghanistan,Data.bis.org platform,6
-Chad,Data.bis.org platform,6
-Bhutan,Data.bis.org platform,6
-South Sudan,Data.bis.org platform,6
+"{'id': 'SB', 'name': 'Solomon Islands'}",Data.bis.org platform,6
+"{'id': 'YE', 'name': 'Yemen'}",Data.bis.org platform,6
+San Marino,Data.bis.org platform,6
+Libya,Data.bis.org platform,6
+Saint Pierre and Miquelon,Ilostat website,6
+"{'id': 'CV', 'name': 'Cabo Verde'}",Data.bis.org platform,6
+"{'id': 'KI', 'name': 'Kiribati'}",Data.bis.org platform,6
 Eswatini,Data.bis.org platform,6
-Kyrgyz Republic,Data.bis.org platform,6
-Mauritania,Data.bis.org platform,6
+"{'id': 'DM', 'name': 'Dominica'}",Data.bis.org platform,6
+Guyana,Data.bis.org platform,6
+"{'id': 'GM', 'name': 'Gambia'}",Data.bis.org platform,6
+Guinea-Bissau,Data.bis.org platform,6
+"{'id': 'VU', 'name': 'Vanuatu'}",Data.bis.org platform,6
+"{'id': 'LS', 'name': 'Lesotho'}",Data.bis.org platform,6
 Comoros,Data.bis.org platform,6
-Micronesia,Data.bis.org platform,6
-Burkina Faso,Data.bis.org platform,6
-Residual developed countries,Data.bis.org platform,6
-Montserrat,Data.bis.org platform,6
-Kiribati,Data.bis.org platform,6
-Solomon Islands,Data.bis.org platform,6
-Myanmar,CKAN,5
+"{'id': 'BI', 'name': 'Burundi'}",Data.bis.org platform,6
+"{'id': 'BF', 'name': 'Burkina Faso'}",Data.bis.org platform,6
+Sao Tome and Principe,Data.bis.org platform,6
+"{'id': 'BT', 'name': 'Bhutan'}",Data.bis.org platform,6
+Sierra Leone,Data.bis.org platform,6
+"{'id': 'MW', 'name': 'Malawi'}",Data.bis.org platform,6
+Eritrea,Data.bis.org platform,6
+Central African Republic,Data.bis.org platform,6
+"{'id': 'AG', 'name': 'Antigua and Barbuda'}",Data.bis.org platform,6
+Liberia,ArcGIS Hub,5
 Morocco,Geonetwork,5
+Myanmar,CKAN,5
 United States,GeoNode,4
-Algeria,ArcGIS Server,3
-Russian Federation,DKAN,3
+Czech Republic,DKAN,4
 Honduras,ArcGIS Server,3
+Hungary,GeoNode,3
+Russian Federation,DKAN,3
 Netherlands,Aleph,3
-Ecuador,Dataverse,1
-Montenegro,ArcGIS Server,1
+Ecuador,Dataverse,2
+Belarus,GeoServer,2
+Réunion,WTO.int website,2
+Faroe Islands,WTO.int website,2
+Phillipines,ArcGIS Server,2
+Zambia,NADA,2
+"Virgin Islands, U.S.",WTO.int website,1
+"Saint Helena, Ascension and Tristan da Cunha",WTO.int website,1
+"Bonaire, Sint Eustatius and Saba",WTO.int website,1
+Isle of Man,WTO.int website,1
+Guadeloupe,WTO.int website,1
+Martinique,WTO.int website,1
