@@ -1,810 +1,919 @@
 country,owner_type,count
-European Union,Central government,1315798
-Germany,Regional government,859433
-Germany,Unknown,772051
-Germany,Central government,717460
-World,International,695412
-United States,Central government,508014
-Australia,Regional government,295018
-Unknown,Unknown,264703
-Germany,Local government,224875
-Indonesia,Central government,208070
-United States,Unknown,198879
-Russian Federation,Academy,196124
-United States,Academy,172170
-Netherlands,Academy,156625
-Germany,Academy,142884
-United Kingdom,Academy,138008
-Czech Republic,Business,121710
-United Kingdom,Central government,114420
-European Union,Unknown,114146
-Portugal,Academy,113511
-Canada,Unknown,107502
-Australia,Unknown,98028
-Switzerland,Unknown,85974
-Poland,Academy,80593
-France,Unknown,78783
-France,Regional government,76167
-Australia,Central government,74133
-France,Central government,70394
-Spain,Unknown,64206
-Brazil,Regional government,63149
-Brazil,Unknown,61855
-United Kingdom,Unknown,61163
-Austria,Central government,56395
-United States,Local government,52444
-United States,Regional government,51983
-Canada,Central government,51703
-Italy,Unknown,51561
-Netherlands,Unknown,51090
-Argentina,Central government,49590
-Brazil,Central government,47855
-Antarctic,Academy,44120
-Belgium,Unknown,43043
-United States,Civil society,42750
-Australia,Academy,42083
-France,International,40690
-India,Central government,39172
-Spain,International,38740
-Canada,Regional government,38730
+European Union,Central government,1371328
+Unknown,International,1292022
+Germany,Regional government,1231084
+Unknown,Unknown,1169649
+Germany,Central government,769993
+United States,Central government,596193
+Germany,Unknown,454757
+Australia,Regional government,427950
+Indonesia,Central government,287050
+Germany,Local government,240600
+Indonesia,Unknown,225602
+United States,Academy,220220
+United States,Unknown,209662
+World,Business,208349
+Russian Federation,Academy,195624
+European Union,Unknown,180187
+Netherlands,Academy,168040
+Germany,Academy,150535
+United Kingdom,Academy,139755
+European Union,Academy,120028
+Portugal,Academy,115450
+France,Unknown,111741
+Canada,Unknown,105314
+Australia,Unknown,97652
+Brazil,Unknown,83437
+Australia,Academy,81144
+Poland,Academy,80626
+France,Regional government,77512
+Australia,Central government,70670
+Canada,Academy,70401
+World,International,69716
+United Kingdom,Central government,69008
+Switzerland,Business,68718
+Brazil,Regional government,67672
+Italy,Unknown,65355
+Netherlands,Unknown,64860
+France,Central government,64497
+Austria,Central government,64143
+Spain,Unknown,63118
+Argentina,Central government,58589
+Thailand,Central government,56662
+United States,Regional government,54225
+World,Civil society,53557
+Canada,Central government,53111
+United States,Local government,52350
+Netherlands,Central government,49733
+Switzerland,Unknown,49665
+"{'id': 'RS', 'name': 'Serbia'}",International,49411
+Brazil,Central government,48371
+"{'id': 'SE', 'name': 'Sweden'}",International,46655
+"{'id': 'GB', 'name': 'United Kingdom'}",International,45300
+"{'id': 'FR', 'name': 'France'}",International,45085
+"{'id': 'NL', 'name': 'Netherlands'}",International,44764
+Antarctic,Academy,44111
+Spain,Regional government,43539
+United States,Civil society,42873
+"{'id': 'ES', 'name': 'Spain'}",International,42776
+"{'id': 'AT', 'name': 'Austria'}",International,41362
+"{'id': 'IT', 'name': 'Italy'}",International,41051
+"{'id': 'AU', 'name': 'Australia'}",International,39111
+"{'id': 'CA', 'name': 'Canada'}",International,38908
+"{'id': 'CH', 'name': 'Switzerland'}",International,38571
 New Zealand,Central government,38294
-Austria,International,37537
-Netherlands,Central government,37399
-Belgium,Regional government,36833
-United Kingdom,International,36776
-Italy,International,36752
-Sweden,International,36630
-Colombia,Unknown,35842
-Spain,Regional government,35729
-Australia,International,35706
-Switzerland,International,34708
-Canada,International,34160
-Netherlands,International,33892
-Finland,International,33814
-Belgium,International,33325
-United States,International,32775
-Germany,International,32698
-Japan,International,32429
-Ireland,International,31994
-All countries (total),International,31322
-Luxembourg,International,31185
-Thailand,Central government,30884
-Denmark,International,30449
-New Zealand,Business,30246
-Poland,Business,30202
-Colombia,Central government,30049
-World,Business,29990
-India,International,29686
-Brazil,International,29617
-South Africa,International,29117
-Chile,International,28995
-Thailand,Unknown,28177
-European Union,Academy,27939
-Greece,International,27746
-Portugal,International,27448
-Canada,Academy,27371
-World,Civil society,27258
-Mexico,International,27148
-Greece,Unknown,26646
-Switzerland,Central government,26499
-Philippines,International,26447
-Indonesia,Regional government,26014
-Norway,International,25948
-Poland,Unknown,25866
-Singapore,International,24750
-Indonesia,International,24221
-Finland,Unknown,24190
-China,International,24158
-Kenya,International,24099
-Nigeria,International,24071
-Madagascar,International,23934
-Rwanda,International,23872
-Uganda,International,23717
-Argentina,International,23475
-Cote d'Ivoire,International,23360
-Panama,International,23339
-Zambia,International,23292
-Thailand,International,23252
-Liberia,International,23183
-Hungary,International,23153
-Lithuania,International,23105
-Djibouti,International,23097
-Colombia,International,23045
-Cameroon,International,23011
-Cambodia,International,23000
-Latvia,International,22992
-Mongolia,International,22981
-Poland,International,22951
-Ethiopia,International,22929
-Tajikistan,International,22915
-Nicaragua,International,22805
-Pakistan,International,22803
-Burkina Faso,International,22801
-Peru,International,22754
-Mauritius,International,22733
-Malaysia,International,22728
-Morocco,International,22724
-Bangladesh,International,22717
-Benin,International,22701
-Sierra Leone,International,22701
-Moldova,International,22691
-Kyrgyz Republic,International,22633
-Bulgaria,International,22558
-Albania,International,22557
-Dominican Republic,International,22528
-Georgia,International,22478
-Costa Rica,International,22468
-New Zealand,Unknown,22395
-Nepal,International,22391
-Romania,International,22296
-Paraguay,International,22289
-Guatemala,International,22257
-Croatia,International,22185
-Afghanistan,International,22150
-Tunisia,International,22147
-Uruguay,International,22128
-El Salvador,International,22123
-Bolivia,International,22113
-Kazakhstan,International,22057
-Sri Lanka,International,21969
-New Zealand,Academy,21844
-Namibia,International,21842
-"Yemen, Rep.",International,21782
-Bosnia and Herzegovina,International,21759
-Malawi,International,21665
-Russian Federation,International,21648
-Ecuador,International,21596
-"Egypt, Arab Rep.",International,21584
-Senegal,International,21550
-Kosovo,International,21507
-Honduras,International,21467
-Armenia,International,21458
-Lesotho,International,21423
-Ukraine,International,21415
-Togo,International,21395
-Turkiye,International,21364
-Jamaica,International,21343
-Papua New Guinea,International,21264
-Uzbekistan,International,21242
-Jordan,International,21177
-Slovak Republic,International,21157
-Ghana,International,21092
-Mauritania,International,20993
-Fiji,International,20971
-Tanzania,International,20968
-Guinea,International,20868
-"Gambia, The",International,20853
-Mozambique,International,20837
-Botswana,International,20826
-Niger,International,20797
-Slovakia,Unknown,20795
-India,Civil society,20783
-Tonga,International,20781
-Mali,International,20746
-Central African Republic,International,20740
-Belize,International,20740
-Ireland,Central government,20703
-Belarus,International,20684
-West Bank and Gaza,International,20633
-Chad,International,20617
-"Congo, Dem. Rep.",International,20525
-Saudi Arabia,International,20518
-Cyprus,International,20493
-Lebanon,International,20377
-Estonia,International,20356
-Finland,Central government,20337
-Solomon Islands,International,20329
-Angola,International,20291
-Samoa,International,20192
-Maldives,International,20166
-Slovenia,International,20055
-Gabon,International,20053
-Haiti,International,20048
-Czechia,International,20026
-Zimbabwe,International,19997
-Lao PDR,International,19905
-"Congo, Rep.",International,19804
-Malta,International,19778
-Serbia,International,19753
-Sudan,International,19741
-New Zealand,International,19738
-Eswatini,International,19727
-Comoros,International,19688
-Myanmar,International,19657
-Bhutan,International,19453
-Sao Tome and Principe,International,19309
-Montenegro,International,19257
-Azerbaijan,International,19253
-Iraq,International,19150
-South Sudan,International,19117
-Dominica,International,19101
-Timor-Leste,International,19098
-Palau,International,19093
-Isle of Man,International,19074
-Kiribati,International,19055
-Iceland,International,19045
-North Macedonia,International,18942
-France,Academy,18919
-Oceania,Central government,18913
-Viet Nam,International,18816
-"Iran, Islamic Rep.",International,18796
-Israel,International,18776
-"Venezuela, RB",International,18618
-Guinea-Bissau,International,18606
-Cabo Verde,International,18501
-Algeria,International,18441
-Trinidad and Tobago,International,18424
-"Korea, Rep.",International,18384
-Syrian Arab Republic,International,18249
-Argentina,Unknown,18213
-Seychelles,International,18179
-United Kingdom,Civil society,17792
-St. Lucia,International,17773
-Burundi,International,17678
-Vanuatu,International,17641
-Suriname,International,17637
-Marshall Islands,International,17309
-Somalia,International,17266
-Bahrain,International,17262
-"Micronesia, Fed. Sts.",International,17095
-"Hong Kong SAR, China",International,16989
-Sweden,Unknown,16976
-"Bahamas, The",International,16896
-United Arab Emirates,International,16846
-Mexico,Unknown,16405
-Kuwait,International,16185
-Guyana,International,16107
-Sub-Saharan Africa ,International,16071
-Oceania,International,15942
-Oman,International,15923
-Qatar,International,15654
-Barbados,International,15621
-Libya,International,15617
-Antigua and Barbuda,International,15483
-Puerto Rico,International,15438
-Low income,International,15271
-Lower middle income,International,15271
-Upper middle income,International,15271
-South Asia,International,15269
-Cayman Islands,International,15236
-High income,International,15235
-Middle East & North Africa,International,15233
-Europe & Central Asia,International,15233
-Latin America & Caribbean ,International,15233
-East Asia & Pacific,International,15233
-Portugal,Unknown,14969
-Spain,Academy,14966
-Bermuda,International,14797
-Indonesia,Unknown,14797
-Greece,Business,14734
-Grenada,International,14667
-Turkmenistan,International,14653
-Eritrea,International,14511
-Equatorial Guinea,International,14435
-Euro area,International,14412
-Korea,International,14341
-Taiwan,International,14264
-Mexico,Central government,14105
-Aruba,International,13955
-Nauru,International,13950
-St. Vincent and the Grenadines,International,13929
-San Marino,International,13916
-China,Unknown,13892
-St. Kitts and Nevis,International,13844
-Tuvalu,International,13750
-Cuba,International,13397
-Sub-Saharan Africa (excluding high income),International,13362
-Liechtenstein,International,13336
-Brunei Darussalam,International,13281
-French Polynesia,International,13223
-Gibraltar,International,13220
-Turks and Caicos Islands,International,13219
-"Macao SAR, China",International,13017
-Curacao,International,12979
-Sint Maarten (Dutch part),International,12979
-Guam,International,12958
-Virgin Islands (U.S.),International,12947
-Andorra,International,12935
-American Samoa,International,12850
-New Caledonia,International,12843
-Greenland,International,12798
-British Virgin Islands,International,12677
-Faroe Islands,International,12632
-"Korea, Dem. People's Rep.",International,12620
-Monaco,International,12618
-Middle income,International,12571
-Channel Islands,International,12568
-North America,International,12566
-Latin America & Caribbean (excluding high income),International,12560
-Europe & Central Asia (excluding high income),International,12560
-East Asia & Pacific (excluding high income),International,12560
-Middle East & North Africa (excluding high income),International,12560
-Low & middle income,International,12535
-Northern Mariana Islands,International,12535
-OECD members,International,12524
-Arab World,International,12524
-Saudi Arabia,Academy,12502
-St. Martin (French part),International,12488
-Norway,Unknown,11912
-Caribbean small states,International,11661
-Denmark,Unknown,11634
-Cambodia,Civil society,11536
-Japan,Regional government,11482
-Least developed countries: UN classification,International,11406
-IDA total,International,11404
-IBRD only,International,11403
-Small states,International,11331
-Japan,Business,11303
-Heavily indebted poor countries (HIPC),International,11298
-European Union,International,11298
-IDA blend,International,11296
-IDA only,International,11296
-Middle East & North Africa (IDA & IBRD countries),International,11295
-Late-demographic dividend,International,11295
-Latin America & the Caribbean (IDA & IBRD countries),International,11295
-Pre-demographic dividend,International,11295
-Central Europe and the Baltics,International,11295
-IDA & IBRD total,International,11295
-Post-demographic dividend,International,11295
-Early-demographic dividend,International,11295
-Sub-Saharan Africa (IDA & IBRD countries),International,11295
-Other small states,International,11295
-East Asia & Pacific (IDA & IBRD countries),International,11295
-Europe & Central Asia (IDA & IBRD countries),International,11295
-South Asia (IDA & IBRD),International,11295
-Fragile and conflict affected situations,International,11293
-Pacific island small states,International,11293
-Saudi Arabia,Unknown,11222
-Italy,Local government,11061
-Spain,Central government,11030
+Canada,Regional government,38156
+"{'id': 'US', 'name': 'World'}",International,37776
+"{'id': 'BE', 'name': 'Belgium'}",International,37653
+Belgium,Regional government,37232
+"{'id': 'DE', 'name': 'Germany'}",International,36344
+Colombia,Unknown,36313
+Indonesia,Local government,36094
+Czech Republic,Unknown,35914
+"{'id': 'LU', 'name': 'Luxembourg'}",International,35592
+"{'id': 'IE', 'name': 'Ireland'}",International,35415
+"{'id': 'FI', 'name': 'Finland'}",International,35151
+"{'id': 'DK', 'name': 'Denmark'}",International,34797
+Colombia,Central government,34459
+"{'id': 'BR', 'name': 'Brazil'}",International,34001
+"{'id': 'JP', 'name': 'Japan'}",International,33892
+"{'id': 'IN', 'name': 'India'}",International,33199
+"{'id': 'CL', 'name': 'Chile'}",International,32848
+"{'id': 'ZA', 'name': 'South Africa'}",International,32844
+Ukraine,Central government,32205
+"{'id': 'CN', 'name': 'China'}",International,32089
+"{'id': 'TR', 'name': 'Turkey'}",International,31870
+"{'id': 'GR', 'name': 'Greece'}",International,31743
+"{'id': 'NO', 'name': 'Norway'}",International,31625
+Argentina,Unknown,31594
+"{'id': 'PT', 'name': 'Mozambique'}",International,31302
+"{'id': 'MX', 'name': 'Mozambique'}",International,31213
+Belgium,Unknown,30850
+"{'id': 'TO', 'name': 'Tonga'}",International,30788
+Poland,Business,30618
+Indonesia,Regional government,30617
+France,Academy,29697
+"{'id': 'PH', 'name': 'Phillipines'}",International,29569
+"Korea, Democratic People's Republic of",International,29512
+United Kingdom,Unknown,29332
+"{'id': 'HK', 'name': 'Hong Kong'}",International,29295
+Greece,Unknown,28648
+New Zealand,Unknown,28361
+"{'id': 'ID', 'name': 'Indonesia'}",International,28090
+Switzerland,Central government,27978
+"{'id': 'CO', 'name': 'Colombia'}",International,27935
+"{'id': 'NG', 'name': 'Nigeria'}",International,27840
+Liberia,International,27682
+"{'id': 'RU', 'name': 'Russian Federation'}",International,27519
+"{'id': 'SS', 'name': 'South Sudan'}",International,27510
+"{'id': 'SK', 'name': 'Slovakia'}",International,27339
+"{'id': 'PL', 'name': 'Poland'}",International,27284
+"{'id': 'JO', 'name': 'Jordan'}",International,27251
+"{'id': 'HU', 'name': 'Hungary'}",International,27051
+"{'id': 'LT', 'name': 'Lithuania'}",International,26819
+"{'id': 'AR', 'name': 'Argentina'}",International,26763
+"{'id': 'BG', 'name': 'Bulgaria'}",International,26708
+"{'id': 'LV', 'name': 'Latvia'}",International,26668
+"{'id': 'SG', 'name': 'Singapore'}",International,26520
+Japan,Unknown,26426
+"{'id': 'TH', 'name': 'Thailand'}",International,26337
+"{'id': 'UY', 'name': 'Uruguay'}",International,26216
+"{'id': 'PA', 'name': 'Panama'}",International,26181
+Italy,Regional government,26115
+"{'id': 'PE', 'name': 'Peru'}",International,26104
+Ireland,Central government,26077
+"{'id': 'CR', 'name': 'Costa Rica'}",International,26022
+Sierra Leone,International,26003
+"{'id': 'NI', 'name': 'Nicaragua'}",International,25980
+Finland,Central government,25889
+Saint Lucia,International,25872
+"{'id': 'GT', 'name': 'Guatemala'}",International,25765
+"{'id': 'HR', 'name': 'Croatia'}",International,25735
+"{'id': 'DO', 'name': 'Republica Dominicana'}",International,25638
+"{'id': 'RW', 'name': 'Rwanda'}",International,25568
+"{'id': 'KE', 'name': 'Kenya'}",International,25504
+"{'id': 'SV', 'name': 'El Salvador'}",International,25501
+Mauritius,International,25480
+"{'id': 'RO', 'name': 'Romania'}",International,25275
+Uruguay,Central government,25251
+Djibouti,International,25236
+"{'id': 'UG', 'name': 'Uganda'}",International,25181
+"{'id': 'PY', 'name': 'Paraguay'}",International,24992
+"{'id': 'CZ', 'name': 'Czech Republic'}",International,24981
+Japan,Regional government,24967
+"{'id': 'MG', 'name': 'Madagascar'}",International,24958
+"{'id': 'EG', 'name': 'Egypt'}",International,24910
+"{'id': 'MA', 'name': 'Marocco'}",International,24866
+Afghanistan,International,24820
+"{'id': 'ZM', 'name': 'Zambia'}",International,24788
+"{'id': 'CI', 'name': 'Republic of Ivory Coast'}",International,24668
+"{'id': 'JM', 'name': 'Jamaica'}",International,24636
+"{'id': 'EC', 'name': 'Ecuador'}",International,24560
+"{'id': 'MN', 'name': 'Mongolia'}",International,24450
+"{'id': 'KH', 'name': 'Cambodia'}",International,24371
+"{'id': 'PK', 'name': 'Pakistan'}",International,24341
+"{'id': 'BZ', 'name': 'Belize'}",International,24296
+"{'id': 'UA', 'name': 'Ukraine'}",International,24290
+"{'id': 'BD', 'name': 'Bangladesh'}",International,24097
+"{'id': 'LB', 'name': 'Lebanon'}",International,24083
+Finland,Unknown,24075
+"{'id': 'MD', 'name': 'Moldova'}",International,24072
+"{'id': 'TN', 'name': 'Tunis'}",International,23992
+"{'id': 'HN', 'name': 'Honduras'}",International,23928
+"{'id': 'TJ', 'name': 'Tajikistan'}",International,23920
+"{'id': 'EE', 'name': 'Estonia'}",International,23893
+Portugal,Unknown,23849
+"{'id': 'ET', 'name': 'Ethiopia'}",International,23805
+"{'id': 'MY', 'name': 'Malaysia'}",International,23758
+"{'id': 'CY', 'name': 'Cyprus'}",International,23730
+"{'id': 'GE', 'name': 'Georgia'}",International,23728
+"{'id': 'LK', 'name': 'Sri Lanka'}",International,23709
+"{'id': 'CM', 'name': 'Cameroon'}",International,23683
+Timor-Leste,International,23674
+"{'id': 'AM', 'name': 'Armenia'}",International,23652
+"{'id': 'BO', 'name': 'Bolivia'}",International,23644
+New Zealand,Business,23638
+Thailand,Unknown,23581
+"{'id': 'BF', 'name': 'Burkina Faso'}",International,23563
+"{'id': 'BJ', 'name': 'Benin'}",International,23552
+"{'id': 'SI', 'name': 'Slovenia'}",International,23499
+"{'id': 'AL', 'name': 'Albania'}",International,23451
+"{'id': 'KG', 'name': 'Kyrgyzstan'}",International,23382
+"{'id': 'SN', 'name': 'Senegal'}",International,23379
+Niger,International,23317
+"{'id': 'MZ', 'name': 'Mozambique'}",International,23315
+"{'id': 'NP', 'name': 'Nepal'}",International,23245
+India,Civil society,23120
+"{'id': 'YE', 'name': 'Yemen'}",International,23109
+Chad,International,23046
+"{'id': 'BA', 'name': 'Bosnia and Herzegovina'}",International,22985
+"{'id': 'TT', 'name': 'Trinidad and Tobago'}",International,22969
+Eswatini,International,22958
+Guinea,International,22876
+Sudan,International,22857
+"{'id': 'MT', 'name': 'Malta'}",International,22812
+"{'id': 'AO', 'name': 'Angola'}",International,22777
+"{'id': 'TG', 'name': 'Togo'}",International,22765
+"{'id': 'NA', 'name': 'Namibia'}",International,22643
+"{'id': 'LS', 'name': 'Lesotho'}",International,22520
+Central African Republic,International,22473
+New Zealand,Academy,22452
+"{'id': 'TZ', 'name': 'Tanzania'}",International,22441
+"{'id': 'MW', 'name': 'Malawi'}",International,22367
+"{'id': 'KZ', 'name': 'Kazakhstan'}",International,22335
+"{'id': 'HT', 'name': 'Haiti'}",International,22226
+"{'id': 'BW', 'name': 'Botswana'}",International,22213
+Comoros,International,22200
+Sao Tome and Principe,International,22158
+Syrian Arab Republic,International,22133
+"{'id': 'GH', 'name': 'Ghana'}",International,22061
+"{'id': 'PS', 'name': 'Palestine'}",International,22058
+Congo,International,21981
+"{'id': 'GM', 'name': 'Gambia'}",International,21824
+"{'id': 'IQ', 'name': 'Iraq'}",International,21794
+"{'id': 'FJ', 'name': 'Fiji'}",International,21781
+Gabon,International,21774
+"{'id': 'PG', 'name': 'Papua New Guinea'}",International,21765
+"{'id': 'SA', 'name': 'Saudi Arabia'}",International,21731
+"{'id': 'UZ', 'name': 'Uzbekistan'}",International,21717
+Bahamas,International,21625
+"{'id': 'MR', 'name': 'Mauritania'}",International,21625
+Poland,Unknown,21589
+"{'id': 'IR', 'name': 'Iran'}",International,21566
+"{'id': 'IL', 'name': 'Israel'}",International,21528
+"{'id': 'IS', 'name': 'Iceland'}",International,21515
+"{'id': 'ML', 'name': 'Mali'}",International,21505
+"{'id': 'LA', 'name': 'Laos'}",International,21498
+"{'id': 'ZW', 'name': 'Zimbabwe'}",International,21492
+"{'id': 'WS', 'name': 'Samoa'}",International,21370
+"{'id': 'SO', 'name': 'Somalia'}",International,21261
+Japan,Central government,21244
+"{'id': 'SB', 'name': 'Solomon Islands'}",International,21196
+"{'id': 'BY', 'name': 'Belarus'}",International,21192
+"{'id': 'CD', 'name': 'Democratic Republic of the Congo'}",International,21190
+"{'id': 'VN', 'name': 'Vietnam'}",International,21122
+"{'id': 'MM', 'name': 'Myanmar'}",International,21091
+Guinea-Bissau,International,21087
+"{'id': 'MV', 'name': 'Maldives'}",International,20975
+"{'id': 'DM', 'name': 'Dominica'}",International,20838
+Guyana,International,20717
+"{'id': 'NZ', 'name': 'New Zealand'}",International,20511
+"{'id': 'SR', 'name': 'Suriname'}",International,20233
+"{'id': 'ME', 'name': 'Montenegro'}",International,20143
+"{'id': 'VE', 'name': 'Venezuela'}",International,20108
+"{'id': 'MK', 'name': 'Makedonia'}",International,20048
+"{'id': 'BT', 'name': 'Bhutan'}",International,20030
+"{'id': 'KI', 'name': 'Kiribati'}",International,19981
+"{'id': 'PW', 'name': 'Palau'}",International,19558
+"{'id': 'AZ', 'name': 'Azerbaijan'}",International,19453
+"{'id': 'SC', 'name': 'Seychelles'}",International,19423
+"{'id': 'KR', 'name': 'South Korea'}",International,19422
+Isle of Man,International,19215
+"{'id': 'CV', 'name': 'Cabo Verde'}",International,19179
+Libya,International,19155
+Oceania,Central government,19138
+"{'id': 'VU', 'name': 'Vanuatu'}",International,18668
+"{'id': 'DZ', 'name': 'Algeria'}",International,18666
+"{'id': 'BI', 'name': 'Burundi'}",International,18452
+Grenada,International,18439
+"{'id': 'MH', 'name': 'Republic of Marshall Islands'}",International,18151
+Puerto Rico,International,18089
+"{'id': 'BB', 'name': 'Barbados'}",International,18078
+Cayman Islands,International,18045
+United Kingdom,Civil society,18039
+"{'id': 'BH', 'name': 'Bahrain'}",International,18018
+"{'id': 'AE', 'name': 'United Arab Emirates'}",International,17891
+"{'id': 'FM', 'name': 'Micronesia'}",International,17458
+"{'id': 'TW', 'name': 'Taiwan'}",International,17401
+Slovenia,Central government,17325
+Saint Vincent and the Grenadines,International,17249
+"{'id': 'AG', 'name': 'Antigua and Barbuda'}",International,17083
+Saint Kitts and Nevis,International,16816
+Italy,Central government,16689
+"{'id': 'KW', 'name': 'Kuwait'}",International,16458
+Chile,Unknown,16365
+San Marino,International,16332
+"{'id': 'OM', 'name': 'Oman'}",International,16106
+Eritrea,International,16074
+Equatorial Guinea,International,16049
+"{'id': 'QA', 'name': 'Qatar'}",International,15943
+Spain,Academy,15689
+Aruba,International,15611
+"{'id': 'TM', 'name': 'Turkmenistan'}",International,15269
+"{'id': 'CU', 'name': 'Cuba'}",International,15159
+"{'id': 'TC', 'name': 'Turks and Caicos Islands'}",International,15143
+Bermuda,International,14955
+Sint Maarten (Dutch part),International,14887
+Mexico,Central government,14840
+Greece,Business,14727
+"{'id': 'TV', 'name': 'Tuvalu'}",International,14652
+"{'id': 'AD', 'name': 'Andorra'}",International,14642
+"{'id': 'NR', 'name': 'Nauru'}",International,14581
+"Virgin Islands, British",International,14537
+Italy,Local government,14473
+Oceania,International,14265
+Sweden,Unknown,14159
+"{'id': 'BN', 'name': 'Brunei'}",International,14113
+Norway,Unknown,14044
+Monaco,International,13901
+"{'id': 'LI', 'name': 'Liechtenstein'}",International,13608
+Japan,Business,13539
+French Polynesia,International,13422
+Gibraltar,International,13254
+"{'id': 'MO', 'name': 'Macau'}",International,13214
+"{'id': 'NC', 'name': 'New Caledonia'}",International,13197
+"Virgin Islands, U.S.",International,13177
+Guam,International,13093
+Curaçao,International,13074
+"{'id': 'AS', 'name': 'American Samoa'}",International,12880
+"{'id': 'GL', 'name': 'Greenland'}",International,12835
+Colombia,Regional government,12738
+"{'id': 'FO', 'name': 'Faroe Islands'}",International,12656
+Northern Mariana Islands,International,12586
+Saint Martin (French part),International,12522
+Cambodia,Civil society,12412
+Switzerland,Academy,12294
+Taiwan,Regional government,11639
 Greece,Central government,10952
-Hong Kong,International,10722
-Brazil,Academy,10622
-Russian Federation,Unknown,10152
-Spain,Local government,9995
-Colombia,Regional government,9923
-Vietnam,Unknown,9714
-Mexico,Community,9712
-World,Academy,8816
-Russian Federation,Civil society,8365
-Peru,Unknown,8246
-France,Local government,8181
-Ireland,Unknown,8168
-Estonia,Unknown,8109
-Canada,Local government,8080
-Makedonia,Unknown,7974
-Latvia,Unknown,7968
-Ecuador,Central government,7788
-Türkiye,International,7624
-Africa,Civil society,7619
-Portugal,Central government,7613
-India,Unknown,7572
-Italy,Regional government,7281
+Canada,Local government,10870
+Mexico,Unknown,10849
+Brazil,Academy,10736
+Poland,Central government,10602
+Saudi Arabia,Academy,10283
+China,Unknown,10083
+Spain,Local government,9888
+Switzerland,Local government,9852
+Norway,Central government,9773
+Denmark,Unknown,9757
+World,Academy,9749
+Mexico,Community,9728
+Africa,Civil society,9299
+France,Local government,9157
+Argentina,Local government,8518
+Vietnam,Unknown,8516
+Estonia,Unknown,8417
+Russian Federation,Civil society,8368
+Ireland,Unknown,8317
+Estonia,Central government,8288
+India,Unknown,8271
+Peru,Unknown,8103
+Ecuador,Central government,8060
+Latvia,Unknown,7985
+Portugal,Central government,7839
+Makedonia,Unknown,7630
+Slovakia,Unknown,7435
+Israel,Civil society,7022
 Saudi Arabia,Central government,6987
+Colombia,Academy,6885
+United Kingdom,Regional government,6808
+Mongolia,Central government,6765
 Sweden,Business,6595
-Switzerland,Academy,6511
-Romania,Central government,6426
-Chile,Unknown,6378
-Mexico,Academy,6341
-Austria,Unknown,6093
-Israel,Unknown,6091
-Pakistan,Regional government,6085
-Israel,Civil society,6078
-Estonia,Central government,6064
-Lithuania,Unknown,6057
-Kazakhstan,Regional government,5924
-Bolivia,Central government,5819
-Serbia,Academy,5799
-United Kingdom,Local government,5792
-China,Academy,5723
+Austria,Unknown,6553
+Iceland,Unknown,6503
+Mexico,Regional government,6400
+Mexico,Academy,6363
+Pakistan,Regional government,6262
+Serbia,Academy,6167
+Kazakhstan,Regional government,6081
+Ecuador,Unknown,6071
+Russian Federation,Business,5932
+Lithuania,Unknown,5737
 European Union,Regional government,5715
-Netherlands,Regional government,5534
-Mexico,Regional government,5426
-Iceland,Unknown,5388
-Malaysia,Unknown,5277
-Czech Republic,Unknown,5208
-Guernsey,International,5187
-Indonesia,Local government,5175
-South Korea,Unknown,5024
-Slovakia,Central government,4961
-,International,4960
-Macao SAR,International,4909
-Austria,Academy,4901
-Jersey,International,4876
+United Kingdom,Local government,5703
+Israel,Central government,5363
+Guernsey,International,5276
+Netherlands,Regional government,5270
+Taiwan,Unknown,5131
+Panama,Central government,5080
+Austria,Academy,5050
+Jersey,International,4975
+Slovakia,Central government,4972
+China,Academy,4893
+Luxemburg,Unknown,4887
+India,Central government,4718
 Mauritania,Central government,4665
-Luxemburg,Unknown,4491
-Panama,Central government,4474
-Ecuador,Unknown,4460
-Japan,Unknown,4416
-Ecuador,Academy,4345
-Japan,Local government,4334
-Indonesia,Academy,4249
-Iran,Civil society,4215
-Tunis,Central government,4016
-Luxembourg,Central government,3953
-Denmark,Central government,3918
-Nigeria,Central government,3860
-United Kingdom,Regional government,3772
-Peru,Central government,3503
-Taiwan,Local government,3437
-Australia,Local government,3407
-Sweden,Central government,3400
-World,Unknown,3313
-Greenland,Unknown,3268
-Russian Federation,Regional government,3208
-Hong Kong,Unknown,3195
-Romania,Unknown,3085
-Bulgaria,Unknown,3002
+Japan,Local government,4547
+Israel,Unknown,4447
+Indonesia,Academy,4350
+Ecuador,Academy,4346
+Luxembourg,Central government,4278
+Iran,Civil society,4235
+Finland,International,4233
+Denmark,Central government,4195
+Tunis,Central government,4091
+Phillipines,Academy,3981
+Nigeria,Central government,3862
+India,Local government,3837
+Hong Kong,Unknown,3719
+United States,Business,3630
+Romania,Central government,3587
+South Korea,Unknown,3526
+Romania,Unknown,3514
+Netherlands,Business,3507
+World,Unknown,3464
+Australia,Local government,3440
+Estonia,Local government,3253
+Latvia,Central government,3250
+Greenland,Unknown,3237
+Chile,Central government,3223
+Slovakia,Regional government,3132
+Qatar,Central government,3090
+Bulgaria,Unknown,3069
 Kenya,Central government,2998
-Latvia,Central government,2988
-Colombia,Academy,2958
-Africa Eastern and Southern,International,2957
-Africa Western and Central,International,2957
-Marocco,Unknown,2933
-Iceland,Central government,2883
-Uruguay,Unknown,2830
-Croatia,Central government,2828
-Estonia,Local government,2821
+Estonia,Business,2995
+Switzerland,Regional government,2958
+Iceland,Central government,2949
+Croatia,Central government,2930
+China,Business,2869
+Mongolia,Unknown,2820
+Marocco,Unknown,2820
+Faroe Islands,Unknown,2810
+Russian Federation,Regional government,2809
+Ireland,Academy,2799
+Taiwan,Academy,2748
+Portugal,Local government,2720
 Latin America,Civil society,2717
-Faroe Islands,Unknown,2621
-Czech Republic,Central government,2585
-Egypt,Central government,2558
-Kazakhstan,Local government,2536
-Laos,Unknown,2459
-Taiwan,Regional government,2411
-Qatar,Central government,2398
-Spain,Business,2390
-Estonia,Business,2365
-Phillipines,Central government,2334
-China,Business,2330
-Russia,International,2291
-New Zealand,Local government,2267
-Hungary,Unknown,2264
-Sri Lanka,Unknown,2088
-Mongolia,Unknown,2083
-Slovakia,International,2080
-Portugal,Local government,2067
-Costa Rica,Unknown,2015
+Malaysia,Unknown,2684
+Uruguay,Unknown,2663
+Costa Rica,Unknown,2662
+Singapore,Academy,2599
+Cabo Verde,Unknown,2547
+Laos,Unknown,2541
+Spain,Business,2516
+Ukraine,Unknown,2505
+South Africa,International,2449
+South Africa,Central government,2441
+Hungary,Central government,2422
+Phillipines,Central government,2333
+Ecuador,Local government,2296
+Belgium,Academy,2249
+United Arab Emirates,Unknown,2225
+Hungary,Unknown,2201
+Namibia,International,2184
+Norway,International,2169
+Serbia,Central government,2107
+Sri Lanka,Unknown,2076
+Sri Lanka,Central government,2063
+Angola,International,2060
+New Zealand,Local government,2058
+China,International,2028
+Estonia,International,2019
+Thailand,International,2016
+Austria,International,1998
+Montserrat,International,1986
+Dominican Republic,International,1982
+Peru,Central government,1982
+Malaysia,International,1980
+Italy,Academy,1971
+Türkiye,International,1969
+Netherlands,International,1969
+Italy,International,1961
+Poland,International,1959
 Kazakhstan,Academy,1955
+Cyprus,International,1954
 Singapore,Central government,1953
-Brazil,Local government,1914
-Italy,Academy,1871
-Taiwan,Academy,1836
-Andorra,Central government,1830
-Norway,Academy,1821
-Japan,Central government,1755
-Cyprus,Central government,1739
-Kazakhstan,Central government,1720
-Slovakia,Regional government,1700
+Switzerland,International,1949
+United Kingdom,International,1943
+Slovenia,International,1940
+"Iran, Islamic Republic of",International,1935
+Hungary,International,1932
+Denmark,International,1931
+Belgium,International,1928
+Lithuania,International,1928
+Australia,International,1927
+Bangladesh,International,1921
+Malta,International,1920
+Greece,International,1919
+Pakistan,International,1917
+Ireland,International,1911
+Sweden,International,1906
+Morocco,International,1893
+Tunisia,International,1891
+Czechia,International,1890
+Jordan,International,1888
+Myanmar,International,1886
+Maldives,International,1871
+Brazil,International,1866
+Israel,International,1860
+Norway,Academy,1855
+Germany,International,1855
+Viet Nam,International,1852
+Georgia,International,1852
+Chile,International,1847
+Cyprus,Central government,1842
+"Moldova, Republic of",International,1840
+Togo,International,1833
+Andorra,Central government,1833
+Kazakhstan,Central government,1829
+India,International,1828
+Ukraine,International,1824
+Canada,International,1822
+Uganda,International,1820
+France,International,1818
+Japan,International,1817
+United States,International,1816
+Mexico,International,1814
+Falkland Islands (Malvinas),International,1814
+Oman,International,1813
+Costa Rica,International,1810
+Trinidad and Tobago,International,1799
+Singapore,International,1795
+Rwanda,International,1785
+Serbia,International,1784
+Qatar,International,1778
+Armenia,International,1777
+Ghana,International,1777
+Guadeloupe,International,1776
+Turkey,Local government,1772
+Paraguay,International,1768
+Benin,International,1763
+Philippines,International,1761
+Latvia,International,1758
+Malawi,International,1758
+Belize,International,1756
+Burkina Faso,International,1755
+Côte d'Ivoire,International,1755
+Bhutan,International,1752
+Guatemala,International,1751
+"Bonaire, Sint Eustatius and Saba",International,1750
+Zimbabwe,International,1748
+Belarus,International,1744
+Albania,International,1742
+Kyrgyzstan,International,1741
+Peru,International,1739
+Mongolia,International,1738
+Senegal,International,1736
+Croatia,International,1733
+El Salvador,International,1732
+Colombia,International,1731
+Azerbaijan,International,1731
+Mali,International,1729
+Honduras,International,1727
+Uruguay,International,1727
+Kenya,International,1726
+Ethiopia,International,1722
+Spain,International,1722
+Tajikistan,International,1720
+Russian Federation,Unknown,1720
+Bulgaria,International,1717
+"Korea, Republic of",International,1713
+Gambia,International,1711
+Zambia,International,1710
+Lebanon,International,1707
+Martinique,International,1706
+Laos,Central government,1706
+Fiji,International,1704
+Panama,International,1698
+Uzbekistan,International,1697
+Madagascar,International,1695
+Honduras,Unknown,1695
+Lao People's Democratic Republic,International,1694
+Kyrgyzstan,Central government,1694
+Luxembourg,International,1693
+Romania,International,1691
+Mauritania,International,1691
+Burundi,International,1690
+Argentina,International,1682
 Turkey,Unknown,1680
-Honduras,Unknown,1656
-Not classified,International,1642
-Montenegro,Unknown,1575
-Greece,Regional government,1567
-The Bahamas,International,1563
-Russian Federation,Central government,1551
-Kyrgyzstan,Central government,1493
-Argentina,Local government,1491
-Argentina,Regional government,1488
-Croatia,Unknown,1474
-Slovenia,Unknown,1465
-Lithuania,Central government,1448
-Denmark,Academy,1424
+Nepal,International,1678
+Jamaica,International,1678
+Iceland,International,1677
+Indonesia,International,1676
+Bolivia,Central government,1674
+Portugal,International,1672
+Russian Federation,International,1669
+Anguilla,International,1667
+Bangladesh,Central government,1661
+Croatia,Unknown,1661
+Lesotho,International,1660
+Vietnam,Academy,1655
+Finland,Regional government,1654
+Slovakia,International,1653
+Iraq,International,1653
+Brunei Darussalam,International,1647
+French Guiana,International,1644
+Cambodia,International,1643
+Sri Lanka,International,1637
+Kazakhstan,International,1636
+Nigeria,International,1636
+Cuba,International,1634
+Greece,Regional government,1634
+Cabo Verde,International,1634
+Russian Federation,Central government,1630
+Bosnia and Herzegovina,International,1623
+Egypt,International,1622
+Montenegro,International,1617
+Mozambique,International,1616
+Cameroon,International,1612
+Algeria,International,1609
+New Zealand,International,1607
+Ecuador,International,1602
+"Congo, The Democratic Republic of the",International,1594
+Turkmenistan,International,1589
+"Tanzania, United Republic of",International,1586
+Papua New Guinea,International,1572
+Seychelles,International,1570
+Botswana,International,1570
+Slovenia,Unknown,1568
+Nicaragua,International,1566
+Kiribati,International,1562
+North Macedonia,International,1551
+Bahrain,International,1550
+Suriname,International,1547
+"Bolivia, Plurinational State of",International,1539
+Lithuania,Central government,1523
+Saudi Arabia,International,1521
+Somalia,International,1501
+Cook Islands,International,1497
+Argentina,Regional government,1483
+Yemen,International,1480
+Haiti,International,1478
+Czech Republic,Central government,1476
+Jordan,Central government,1472
+Barbados,International,1470
+"Venezuela, Bolivarian Republic of",International,1470
+Tuvalu,International,1450
+Vanuatu,International,1448
+Peru,Academy,1438
+Samoa,International,1435
+Tonga,International,1429
+Solomon Islands,International,1413
+United Arab Emirates,International,1406
 Algeria,Academy,1391
-United Arab Emirates,Central government,1357
-Vanuatu,Central government,1346
-Developing Europe,International,1334
-South Africa,Unknown,1299
-Mongolia,Central government,1253
-Italy,Central government,1236
-Hungary,Academy,1224
-Bolivia,Unknown,1210
-Sweden,Local government,1159
-Belgium,Academy,1158
-Jordan,Central government,1133
-Laos,Central government,1129
-Israel,Central government,1079
-Chile,Academy,1070
-Africa,International,1059
-Greenland,Central government,1048
-Netherlands Antilles,International,1045
-Guatemala,Unknown,1020
-All exchanges,International,1008
-Republica Dominicana,Central government,1007
-Mongolia,Academy,985
-Ukraine,Unknown,964
-Kuwait,Unknown,949
-Malaysia,Central government,917
-Bangladesh,Unknown,915
-Germany,Business,898
-West Indies UK,International,896
-Middle East and North Africa (IFC classification),International,881
-Middle East (developing only),International,881
-Sub-Saharan Africa (IFC classification),International,881
-Latin America and the Caribbean (IFC classification),International,881
-East Asia and the Pacific (IFC classification),International,881
-South Asia (IFC classification),International,881
-Europe and Central Asia (IFC classification),International,881
-Malawi,Central government,850
-Sub-Saharan Africa excluding South Africa and Nigeria,International,838
-Sub-Saharan Africa excluding South Africa,International,838
-North Africa,International,838
-Thailand,Regional government,833
-Papua New Guinea,Central government,826
+South Africa,Unknown,1389
+Denmark,Academy,1382
+South Sudan,International,1380
+Sweden,Central government,1379
+"Micronesia, Federated States of",International,1358
+Africa,International,1354
+United Arab Emirates,Central government,1350
+Antigua and Barbuda,International,1340
+Kuwait,International,1334
+Brazil,Local government,1334
+Marshall Islands,International,1321
+Palau,International,1300
+Moldova,Unknown,1298
+Poland,Local government,1295
+Dominica,International,1294
+Andorra,International,1288
+Nauru,International,1250
+Bolivia,Unknown,1225
+Niue,International,1206
+South Africa,Local government,1138
+Sweden,Local government,1118
+Thailand,Regional government,1114
+Vanuatu,Central government,1098
+Chile,Academy,1097
+Pakistan,Academy,1092
+Guatemala,Unknown,1073
+El Salvador,Central government,1067
+Greenland,Central government,1053
+Malawi,Central government,1033
+Mongolia,Academy,1028
+Montenegro,Unknown,1023
+India,Regional government,1002
+Rwanda,Unknown,990
+Ireland,Local government,985
+Germany,Business,929
+Bosnia and Herzegovina,Unknown,923
+Vietnam,Regional government,904
+Kazakhstan,Business,883
+Malaysia,Central government,872
+Kuwait,Unknown,859
+Mozambique,Central government,847
+El Salvador,Unknown,846
+Papua New Guinea,Central government,831
+Finland,Local government,830
+Uganda,Civil society,830
 South Korea,Central government,822
-Hungary,Central government,818
 Trinidad and Tobago,Unknown,818
-El Salvador,Unknown,808
-Curaçao,International,806
-Kazakhstan,Business,787
-Luxembourg,Regional government,784
-Switzerland,Local government,784
+Luxembourg,Regional government,794
+Japan,Civil society,778
 Tunis,Local government,777
-Japan,Civil society,752
-Paraguay,Unknown,751
-Bangladesh,Central government,749
-Venezuela,International,743
-Iceland,Academy,739
 Barbados,Unknown,737
-Netherlands,Business,737
-Bosnia and Herzegovina,Unknown,734
-Finland,Local government,725
-Serbia,Unknown,715
-Denmark,Civil society,707
-Chile,Central government,697
-United States,Business,694
-Peru,Academy,684
-Colombia,Local government,682
-Ethiopia,Central government,678
-Euro area 20 - 2023,International,660
-Vietnam,International,646
-Ireland,Local government,644
-Switzerland,Regional government,643
-Lebanon,Academy,632
-United Arab Emirates,Unknown,630
-Nepal,Civil society,629
-Taiwan,Unknown,625
-Uruguay,Central government,622
-Republic of North Macedonia,Central government,607
-Paraguay,Central government,604
-Tanzania,Central government,594
-Slovenia,Central government,578
-Solomon Islands,Central government,570
-Bolivia,Local government,569
-Micronesia,Central government,562
+Bangladesh,Unknown,719
+Ethiopia,Central government,718
+Lebanon,Academy,714
+Ghana,Central government,711
+Denmark,Civil society,711
+Colombia,Local government,696
+France,Civil society,681
+Wallis and Futuna,International,680
+Paraguay,Central government,670
+Republic of North Macedonia,Central government,656
+"{'id': 'CK', 'name': 'Cook Islands'}",International,656
+Unknown,Community,645
+Uganda,Unknown,635
+Nepal,Civil society,630
+Serbia,Unknown,622
+Morocco,Central government,616
+Albania,Central government,592
+Solomon Islands,Central government,583
+Micronesia,Central government,572
+Kuwait,Regional government,570
 Nauru,Central government,559
-Albania,Central government,556
-Tanzania,Unknown,554
-Egypt,International,550
-Caribbean,Civil society,545
-Niue,Central government,541
-Turkey,Local government,536
-Cook Islands,Central government,531
-Trinidad and Tobago,Academy,530
-Panama,Academy,529
+Bosnia and Herzegovina,Regional government,552
+Bolivia,Local government,552
+Panama,Academy,550
+Caribbean,Civil society,546
+Saudi Arabia,Business,542
+Niue,Central government,542
+Croatia,Academy,538
+Cook Islands,Central government,537
+Trinidad and Tobago,Academy,531
 Tuvalu,Central government,527
-Croatia,Academy,522
-Finland,Regional government,519
 Tonga,Central government,519
-Uganda,Unknown,515
-Mozambique,Unknown,515
-France,Business,515
-Norway,Regional government,514
-India,Local government,507
-Serbia,Central government,500
-Taiwan,Central government,491
+"Palestine, State of",International,512
+Mozambique,Unknown,509
+France,Business,505
+New Zealand,Regional government,501
 Kiribati,Central government,488
-Iran,International,487
+Taiwan,Central government,487
 Uzbekistan,Unknown,480
 Palau,Central government,475
-Palestine,Unknown,470
-Costa Rica,Central government,468
-Gambia,Business,464
-Poland,Local government,462
-Vietnam,Regional government,462
-Bosnia and Herzegovina,Regional government,462
+Gambia,Central government,470
+Republic of Marshall Islands,Central government,462
+Lithuania,Academy,460
+Malta,Central government,459
+Saudi Arabia,Regional government,459
 Norway,Civil society,457
-New Zealand,Regional government,454
-Republic of Marshall Islands,Central government,453
+Portugal,Regional government,456
+Nepal,Central government,453
+South Korea,Academy,453
+Egypt,Central government,449
 Malta,Unknown,448
-Portugal,Regional government,446
-South Korea,Academy,444
-Lithuania,Academy,442
-Poland,Central government,428
-Bolivia,Academy,423
-Morocco,Central government,421
-Kyrgyzstan,Academy,417
-Serbia and Montenegro,International,412
-Haiti,Central government,411
-Nepal,Central government,399
-Bahrain,Central government,395
+"{'id': 'NU', 'name': 'Niue'}",International,447
+Moldova,Central government,445
+Bahrain,Central government,433
+Tokelau,International,432
+Bolivia,Academy,429
+Kyrgyzstan,Academy,423
+Liechtenstein,Central government,399
+Papua New Guinea,Unknown,395
 Liechtenstein,Unknown,393
+Mexico,Local government,388
+Iceland,Academy,386
 Montenegro,Central government,386
-Netherlands,Local government,384
-Côte d'Ivoire,International,374
+Costa Rica,Local government,381
+Madagascar,Central government,379
+Netherlands,Local government,378
+Macau,Central government,374
 Macau,Unknown,370
 Venezuela,Central government,368
+Pakistan,Unknown,366
+Palestine,Unknown,365
+Paraguay,Unknown,364
 Niue,Unknown,357
-France,Civil society,352
-Costa Rica,Local government,350
 Georgia,Unknown,348
-Papua New Guinea,Unknown,345
-Uganda,Civil society,343
-Mexico,Local government,343
-Pakistan,Unknown,339
-Saudi Arabia,Regional government,338
-Madagascar,Central government,331
-Norway,Central government,328
+Turkey,Regional government,348
+Cyprus,Unknown,343
+Norway,Regional government,341
+Bosnia and Herzegovina,Central government,337
+Antigua and Barbuda,Central government,327
 Samoa,Central government,327
-Rwanda,Unknown,315
-Czech Republic,Local government,301
-Norway,Business,298
+Czech Republic,Local government,325
+Costa Rica,Central government,321
+Ireland,Regional government,316
+Bulgaria,Central government,313
+Kuwait,Academy,312
+Slovakia,Local government,306
+Kenya,Unknown,306
+Norway,Business,303
+Georgia,Central government,301
+Iceland,Regional government,299
 Antigua and Barbuda,Unknown,297
-Bosnia and Herzegovina,Central government,296
 Tunis,Business,286
-Bulgaria,Central government,285
-Moldova,Central government,285
-Georgia,Central government,278
-Slovenia,Academy,275
-Ireland,Regional government,267
-St Lucia,International,262
-Netherlands,Community,258
+Montenegro,Local government,283
+Slovenia,Academy,279
+Netherlands,Community,275
+Palestine,Central government,275
+Tanzania,Central government,273
+Slovenia,Regional government,262
+Nepal,Local government,261
+Oman,Business,257
 Belize,Academy,256
+American Samoa,Central government,256
 Lebanon,Unknown,254
-Kenya,Unknown,244
-Zimbabwe,Unknown,238
-Nepal,Local government,234
-European Union,Business,232
-Belarus,Community,229
+Tunis,Civil society,250
+Ukraine,Local government,247
+European Union,Business,245
+Belgium,Central government,241
+Uzbekistan,Central government,241
+Tanzania,Unknown,226
+Israel,Local government,226
 Madagascar,Unknown,223
+South Africa,Civil society,220
+Vietnam,Central government,219
 Albania,Unknown,216
-Cyprus,Academy,206
+Cyprus,Academy,215
+Belgium,Business,211
+Malaysia,Academy,206
+United Arab Emirates,Regional government,204
+South Africa,Academy,202
 Nicaragua,Central government,202
-Belgium,Central government,200
-Republic of Congo,International,198
-Laos,International,198
-Mongolia,Civil society,197
-Armenia,Academy,196
-Albania,Local government,194
-Israel,Local government,193
-Czechoslovakia,International,192
+Mongolia,Civil society,201
+Malaysia,Regional government,201
+Greece,Academy,201
+Finland,Academy,200
+Hong Kong,Central government,196
+Republic of Ivory Coast,Business,195
+Czech Republic,Regional government,193
+Myanmar,Civil society,193
 Tajikistan,Civil society,190
-Myanmar,Civil society,187
-Belgium,Business,187
-Egypt,Academy,185
-Venezuela,Unknown,184
+Peru,Regional government,190
+Egypt,Academy,190
+Greece,Local government,186
 Republic of Ivory Coast,Unknown,181
 Zimbabwe,Business,179
-Finland,Academy,178
-Croatia,Local government,175
-Greece,Academy,175
-Dominican Republic,Unknown,169
-Moldova,Unknown,167
-Slovenia,Regional government,163
-Dominica,Unknown,158
-United Arab Emirates,Regional government,156
-Bhutan,Unknown,150
+Afganistan,Civil Society,178
+Armenia,Academy,168
+United Kingdom,Business,167
+Cameroon,Central government,151
+Bhutan,Academy,150
 Uruguay,Regional government,148
-South Africa,Academy,145
-Sri Lanka,Central government,144
+Croatia,Local government,145
 Estonia,Regional government,139
-Togo,Unknown,131
+Phillipines,Local government,137
 Togo,Central government,131
-Africa,Community,129
-Ghana,Central government,126
-Cameroon,Central government,125
-Singapore,Unknown,121
-Tunis,Civil society,120
-Cyprus,Unknown,116
-Lesotho,Unknown,113
-Argentina,Business,110
-Europe & Central Asia (IDA-eligible countries),International,109
-Latin America & the Caribbean (IDA-eligible countries),International,109
-Middle East & North Africa (IDA-eligible countries),International,109
-East Asia & Pacific (IDA-eligible countries),International,109
-Sub-Saharan Africa (IDA-eligible countries),International,109
-South Asia (IDA-eligible countries),International,109
-Argentina,Academy,107
+Hong Kong,Academy,128
+Cote d Ivoire,Unknown,122
+Argentina,Business,118
+Senegal,Central government,113
+Argentina,Academy,112
+Trinidad and Tobago,Central government,111
+Honduras,Civil society,103
 Jamaica,Academy,103
-Senegal,Unknown,103
-Senegal,Central government,103
-Armenia,Civil society,102
+Phillipines,Unknown,102
 Armenia,Unknown,101
-Cabo Verde,Unknown,99
-Residual British Overseas Territories,International,96
-Switzerland,Business,91
-Belgium,Local government,91
-Netherlands,Civil society,90
-Cote d Ivoire,Unknown,90
-Vietnam,Central government,88
-Hong Kong,Central government,82
-Mali,Central government,82
+Unknown,Local government,98
+Belgium,Local government,94
+Botswana,Regional government,93
+Netherlands,Civil society,92
+Mozambique,Civil society,91
+Mali,Central government,87
+Republica Dominicana,Central government,87
+Australia,Business,83
+Réunion,International,83
+Honduras,Academy,82
+Hungary,Academy,82
 Azerbaijan,Central government,80
+Jamaica,Central government,78
+Saudi Arabia,Local government,78
 Haiti,Unknown,77
-Jordan,Regional government,75
-Hong Kong,Academy,71
-Greece,Local government,70
-Azerbaijan,Unknown,70
-Syria,International,70
-Hungary,Civil society,69
-Saudi Arabia,Local government,69
-Belarus,Unknown,68
+Angola,Business,76
+Spain,Central government,76
+Vietnam,Local government,73
+Hungary,Civil society,71
+Bahamas,Central government,71
+Dominican Republic,Unknown,70
+Jordan,Regional government,70
 Nigeria,Business,65
-Australia,Business,64
 Bhutan,Central government,64
-Peru,Regional government,64
-Jamaica,Central government,63
-Uruguay,Academy,63
-Trinidad and Tobago,Central government,62
-Zambia,Central government,60
-Slovakia,Local government,60
+Brazil,Business,62
+Zambia,Central government,62
+Latvia,Academy,62
 Algeria,Business,60
-Latvia,Academy,58
-Brazil,Business,51
+Uruguay,Academy,58
+Dominica,Central government,55
+Western Sahara,International,54
+Saint Lucia,Central government,54
+Macao,International,54
+Austria,Business,53
+Mexico,Civil society,52
+Hong Kong,International,51
 Sri Lanka,Business,51
-Uganda,Central government,50
-North American exchanges,International,48
-Iran,Unknown,48
-Austria,Business,48
-European exchanges,International,48
-Asian exchanges,International,48
-Other exchanges,International,48
-Asian/Pacific exchanges,International,48
-Australia/New Zealand exchanges,International,48
+Madagascar,Community,48
+Uganda,Central government,46
 Egypt,Regional government,46
-Finland,Business,42
+Guatemala,Central government,44
+Ghana,Academy,42
 Japan,Academy,41
-Ghana,Academy,40
-Palestine,Central government,40
+Mauritius,Central government,40
+Turks and Caicos Islands,International,37
 Czech Republic,Academy,37
-European Union,Community,34
 Yemen,Academy,34
-United Kingdom,Business,34
-Canada,Civil society,32
+European Union,Community,33
 Chile,Civil society,32
+Canada,Civil society,32
+Namibia,Business,32
 Romania,Local government,31
 Rwanda,Central government,30
-Norway,Local government,30
-Angola,Central government,26
-Fiji,Unknown,26
+Liechtenstein,International,30
+Norway,Local government,29
+"Saint Helena, Ascension and Tristan da Cunha",International,28
+American Samoa,International,27
 Armenia,Central government,26
+Angola,Central government,26
 Estonia,Academy,26
-Advanced economies,International,25
+Suriname,Business,26
+Fiji,Unknown,26
+Fiji,Business,26
+Germany,Civil society,25
 Belize,Business,25
-Emerging market economies (aggregate),International,22
-G20 economies,International,21
-Benin,Academy,21
-All reporting economies,International,21
+Greenland,International,21
+Finland,Business,21
 Paraguay,Business,20
-Phillipines,Unknown,19
-Suriname,Business,19
+Lithuania,Regional government,19
+Lebanon,Civil society,19
+New Caledonia,International,18
+Burkina Faso,Central government,17
 Burkina Faso,Unknown,17
-Tajikistan,Central government,17
-Mozambique,Central government,17
-Lebanon,Civil society,16
-Botswana,Central government,15
-Jamaica,Unknown,14
-Vietnam,Academy,13
+Vietnam,Business,16
+Botswana,Central government,16
+Jamaica,Unknown,15
+Algeria,Unknown,15
+Canada,Business,12
+Mayotte,International,12
+Norfolk Island,International,11
+Guyana,Central government,10
 Turkey,Civil society,9
+Belarus,Unknown,8
 New Caledonia,Central government,8
+Iran,Unknown,7
 Thailand,Academy,7
-Brunei,International,7
-Residual developed countries,International,6
-Waemu,International,6
-Montserrat,International,6
-São Tomé and Príncipe,International,6
-Micronesia,International,6
-EU developing countries,International,6
-Yemen,International,6
-St Vincent and the Grenadines,International,6
-Lithuania,Regional government,6
-Other developing Europe,International,6
-The Gambia,International,6
-Uzbekistan,Central government,6
-St Kitts and Nevis,International,6
-Anguilla,International,6
-Democratic Republic of the Congo,International,6
+Saint Pierre and Miquelon,International,6
 Belarus,Regional government,4
-Guatemala,Central government,4
 Guatemala,Academy,3
-Algeria,Unknown,3
+Faroe Islands,International,2
+Belarus,Central government,2
+Costa Rica,Business,2

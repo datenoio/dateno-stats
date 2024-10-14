@@ -201,7 +201,7 @@ def run():
     save_current(['crawledsources', coll.distinct('source.uid'), TYPE_LIST])
     save_current(['stats_software', aggregate_field_unwind(coll, 'source.software.name'), TYPE_AGG])
     save_current(['stats_langs', aggregate_field_unwind(coll, 'source.langs.name'), TYPE_AGG])
-    save_current(['stats_countries', aggregate_field_unwind(coll, 'source.countries.name'), TYPE_AGG])
+#    save_current(['stats_countries', aggregate_field_unwind(coll, 'source.countries.name'), TYPE_AGG])
     save_current(['stats_subregions', aggregate_field_unwind(coll, 'source.subregions.name'), TYPE_AGG])
     save_current(['stats_macroregions', aggregate_field_unwind(coll, 'source.macroregions.name'), TYPE_AGG])
     save_current(['stats_topics', aggregate_array(coll, 'dataset.topics'), TYPE_AGG])

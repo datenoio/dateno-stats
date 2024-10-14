@@ -1,1776 +1,2243 @@
 name,count
-,11065315
-application/json,5376668
-text/plain,1730095
-image/jpeg,1638438
-text/html,1299237
-text/xml,996528
-text/csv,870033
-application/pdf,803520
-application/vnd.ogc.wms_xml,791420
-image/tiff,581391
-application/octet-stream,539781
-application/vnd.google-earth.kml+xml,473022
-image/png,412966
-application/zip,339984
-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,292837
-WWW:DOWNLOAD-1.0-http--download,268662
-text/tab-separated-values,224389
-csv,191236
-json,190803
-SHAPE-ZIP,189285
-text/xml; subtype=gml/3.1.1,186342
-text/xml; subtype=gml/2.1.2,175827
-gml3,175824
-GML2,175824
-gml32,175755
-text/xml; subtype=gml/3.2,175755
-application/vnd.google-earth.kmz,170795
-image/gif,169753
-image/svg+xml,165182
-application/atom+xml,163493
-image/geotiff8,163399
-image/geotiff,163399
-image/tiff8,163399
-application/xml,156388
-application/vnd.geo+json,145192
-image/png; mode=8bit,133941
-application/vnd.google-earth.kml+xml;mode=networklink,133235
-text/html; subtype=openlayers,131902
-application/rss+xml,131158
-application/gml+xml; version=3.2,129421
-KML,125509
-application/vnd.google-earth.kml xml,125506
-application/json;type=utfgrid,125433
-image/vnd.jpeg-png,125174
-application/vnd.ms-excel,111280
-text/html; subtype=openlayers3,106539
-text/html; subtype=openlayers2,106539
-application/x-netcdf,101632
-image/vnd.jpeg-png8,98550
-application/rdf+xml,76575
-application/dicom,76032
+,18449446
+application/json,5557878
+image/jpeg,2007465
+text/html,1992468
+text/plain,1808125
+text/csv,1498887
+application/pdf,1247569
+text/xml,1117110
+application/vnd.ogc.wms_xml,846662
+image/tiff,709105
+application/octet-stream,651181
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,616545
+application/vnd.google-earth.kml+xml,595825
+application/zip,581167
+image/png,520969
+WWW:DOWNLOAD-1.0-http--download,258519
+json,247942
+csv,247860
+SHAPE-ZIP,247033
+text/xml; subtype=gml/3.1.1,242909
+text/tab-separated-values,241771
+text/xml; subtype=gml/2.1.2,227299
+gml3,227279
+GML2,227279
+gml32,227210
+text/xml; subtype=gml/3.2,227210
+application/xml,224750
+application/vnd.ms-excel,219396
+image/gif,215991
+application/vnd.google-earth.kmz,211719
+image/svg+xml,206888
+application/atom+xml,205029
+image/geotiff,204790
+image/tiff8,204790
+image/geotiff8,204790
+application/vnd.geo+json,193016
+application/gml+xml; version=3.2,152386
+application/vnd.google-earth.kml xml,149048
+KML,148898
+image/png; mode=8bit,146314
+,145597
+text/html; subtype=openlayers,144241
+application/rss+xml,143260
+application/vnd.google-earth.kml+xml;mode=networklink,142251
+application/json;type=utfgrid,138521
+image/vnd.jpeg-png,138152
+text/html; subtype=openlayers2,120243
+text/html; subtype=openlayers3,120243
+image/vnd.jpeg-png8,114410
+application/rdf+xml,104164
+application/x-netcdf,101310
+application/http,96923
+application/dicom,77143
+GML2-GZIP,76466
 data/various-formats,67654
-application/http,53624
-text/x-fixed-field,51869
-application/matlab-mat,48467
-GML2-GZIP,48164
-application/gzip,47650
-,43959
-OGC:WFS,41724
-text/plain; charset=US-ASCII,41229
-1,38485
-application/json;type=geojson,37786
-application/json;type=topojson,37786
-excel,37717
-application/vnd.mapbox-vector-tile,37254
-application/x-gzip,37085
-HTTPS,36239
-application/x-stata-syntax,35336
-https://www.iana.org/assignments/media-types/text/csv,32723
-application/geo+json,32254
-text/javascript,31257
-image/png8,29524
-type/x-r-syntax,28725
-application/vnd.openxmlformats-officedocument.wordprocessingml.document,28389
-application/fits,27445
-WWW:LINK-1.0-http--metadata-URL,27142
-excel2007,27110
-application/vnd.mif,26271
-audio/midi,26270
-HTTP,26002
-application/netcdf,25116
-audio/prs.sid,24781
-application/msword,23748
-application/x-hdf,20150
-text/x-matlab,18691
-application/mp4,15887
-chemical/x-xyz,15372
-application/x-gpkg,15241
-image/fits,14334
+text/x-fixed-field,60048
+application/matlab-mat,59154
+image/png8,58542
+application/gzip,54547
+application/vnd.openxmlformats-officedocument.wordprocessingml.document,54111
+FILE:RASTER,52518
+text/plain; charset=US-ASCII,49944
+OGC:WFS,48050
+excel,46503
+WWW:LINK-1.0-http--metadata-URL,45663
+application/msword,44174
+application/x-gzip,43589
+1,42598
+HTTPS,39223
+application/vnd.mapbox-vector-tile,38553
+application/json;type=topojson,38228
+application/json;type=geojson,38228
+application/x-gpkg,37708
+geopackage,35939
+geopkg,35939
+gpkg,35939
+application/x-stata-syntax,35887
+application/vnd.mif,33659
+audio/midi,33512
+https://www.iana.org/assignments/media-types/text/csv,31374
+application/geo+json,30987
+excel2007,30804
+type/x-r-syntax,29351
+application/netcdf,27755
+text/javascript,27618
+application/fits,27550
+audio/prs.sid,24613
+chemical/x-xyz,23508
+application/x-hdf,21290
+OGC:WMTS,20243
+text/x-matlab,19977
+application/geopackage+sqlite3,19301
 "
         application/zip
-      ",14284
-OGC:WFS-1.0.0-http-get-capabilities,13837
+      ",18793
+application/x-msdos-program,18596
+video/mp4,17156
+application/mp4,15887
+application/vnd.oasis.opendocument.spreadsheet,15626
+gml2,15621
+https://www.iana.org/assignments/media-types/text/xml,15254
+OGC:WFS-1.0.0-http-get-capabilities,14765
+image/fits,14375
+application/x-tar,13785
+WWW:DOWNLOAD-1.0-http--csiro-oa-app,13500
 image/x-adobe-dng,13360
-2,13247
-video/mp4,13228
-geopackage,13077
-geopkg,13077
-gpkg,13077
-application/stac+json,12857
-application/x-stata,12183
-https://www.iana.org/assignments/media-types/application/xml,12138
-application/vnd.sdmx.data+csv; charset=utf-8; labels=both,12062
-application/zipped-shapefile,11835
-GLG:KML-2.0-http-get-map,11559
-application/prj,11547
-https://www.iana.org/assignments/media-types/application/json,11461
+application/prj,12760
+text/comma-separated-values,12621
+application/zipped-shapefile,12488
+https://www.iana.org/assignments/media-types/text/xlsx,12476
+application/x-stata,12304
+application/vnd.sdmx.data+csv; charset=utf-8; labels=both,12077
+2,11900
+application/dbf,11765
+https://www.iana.org/assignments/media-types/application/xml,11742
+application/x-matlab-data,11739
+GLG:KML-2.0-http-get-map,11522
 http-get,11225
-gml2,10525
-application/geopackage+sqlite3,10237
-text/comma-separated-values,10049
-application/dbf,10034
-OGC:WFS-2.0.0-http-get-capabilities,10019
-OGC:WFS-2.0.0-http-get-feature,9986
-WWW:DOWNLOAD-1.0-ftp--download,9791
-application/x-tar,9649
-image/x-ms-bmp,9552
-4,9508
-3,9442
-application/x-rlang-transport,9316
-text/tsv,8741
-audio/x-wav,8590
-application/x-hdf5,8454
-WWW:DOWNLOAD-1.0-http--csiro-oa-app,8349
-application/shp,8278
-application/shx,8112
-audio/vnd.wave,7786
+https://www.iana.org/assignments/media-types/application/json,11089
+text/wms,10685
+application/vnd.sdmx.data+csv; labels=both; charset=utf-8,10307
+audio/x-wav,10306
+OGC:WFS-2.0.0-http-get-capabilities,10118
+OGC:WFS-2.0.0-http-get-feature,10008
+application/unknown,9856
+application/shx,9828
+text/tsv,9745
+application/shp,9591
+application/gml+xml,9552
+image/x-ms-bmp,9549
+application/x-hdf5,9486
+application/x-rlang-transport,9399
+audio/vnd.wave,8967
 "
         application/pdf
-      ",7315
-application/vnd.oasis.opendocument.spreadsheet,7233
-image/bmp,7064
-OGC:WCS,6685
-application/x-tex,6506
-OGC:GML,6502
-DXF,6407
-DXF-ZIP,6407
-application/gml+xml,6400
-text/x-python,6309
-CSV,6157
-audio/wav,6150
-download,6150
-5,6090
-JSON,6054
-https://www.iana.org/assignments/media-types/application/atom+xml,5954
-audio/mpeg,5921
-text/pc-axis,5892
-OGC:KML,5709
-ZIP-SHAPE,5708
-landingpage,5683
-application/x-spss-sav,5581
-application/x-sql,5359
-application/x-sqlite3,5312
+      ",8746
+text/x-python,8484
+OGC:WCS,8409
+3,8400
+OGC:WFS-1.3.0-http-get-capabilities,8331
+4,8317
+OGC:GML,8056
+image/bmp,8043
+CSV,7851
+JSON,7718
+WWW:DOWNLOAD-1.0-ftp--download,7699
+application/x-sql,7511
+OGR-KML,7452
+OGC:KML,7262
+OGR-MIF,7241
+OGR-CSV,7241
+OGR-TAB,7241
+ZIP-SHAPE,7222
+application/x-tex,6684
+audio/wav,6581
+application/x-zip-compressed,6470
+HTTP,6448
+https://www.iana.org/assignments/media-types/application/atom+xml,6355
+DXF,6272
+DXF-ZIP,6272
+audio/mpeg,6185
+ArcGIS MapService,6060
+text/markdown,5775
+application/stac+json,5769
+application/x-spss-sav,5715
 image/ARW,5228
-image/nii,4908
-application/postscript,4742
-application/x-sas-syntax,4625
-ArcGIS MapService,4591
-application/x-msdos-program,4495
-application/vnd.ms-pki.stl,4416
-OGR-KML,4320
-OGR-CSV,4110
-OGR-MIF,4110
-OGR-TAB,4110
-application/vnd.palm,4094
-text/wms,4069
-video/quicktime,3990
+text/pc-axis,5173
+application/postscript,5163
+5,5135
+application/x-7z-compressed,5130
+application/vnd.ogc.fg+json,5073
+application/rtf,5067
+download,5010
+application/x-sas-syntax,5000
+image/nii,4943
+landingpage,4824
+application/vnd.ms-pki.stl,4594
+application/vnd.openxmlformats-officedocument.presentationml.presentation,4518
+video/quicktime,4471
+application/x-rar-compressed,4429
+application/vnd.palm,4232
+application/x-sqlite3,4129
+image/vnd.dxf,4106
+DOI,4095
+ZIP,4024
+text/turtle,3977
 LINK download-store,3816
-6,3788
-application/x-rar-compressed,3713
-DOI,3657
-application/x-h5,3623
+Download,3765
+application/x-h5,3675
 video/mpeg4,3618
-OGC:CSW-2.0.2-http-get-capabilities,3416
-application/x-7z-compressed,3367
-application/x-bzip2,3303
-application/x-stata-ado,3269
-image/vnd.dxf,3256
-7,3222
-html,3193
-video/x-msvideo,3124
-application/x-zip-compressed,3124
-application/vnd.openxmlformats-officedocument.presentationml.presentation,3053
-application/x-spss-syntax,3006
+ArcGIS FeatureService,3564
+OGC:CSW-2.0.2-http-get-capabilities,3516
+application/x-stata-ado,3465
+audio/x-wave,3422
+application/vnd.antix.game-component,3370
+application/x-bzip2,3341
+6,3329
+video/x-msvideo,3249
+application/vnd.isac.fcs,3084
+application/x-spss-syntax,3056
+null,2991
+text/json,2909
 text/x-stata-syntax; charset=US-ASCII,2850
-text/markdown,2845
-ArcGIS FeatureService,2738
-application/vnd.isac.fcs,2722
-audio/x-wave,2719
-application/x-matlab-data,2718
-https://www.iana.org/assignments/media-types/text/xml,2713
-application/vnd.antix.game-component,2562
-OGC:WCS-1.1.1-http-get-coverage,2535
-OGC:WCS-1.1.1-http-get-capabilities,2535
-application/vnd.pc-axis,2504
-text/turtle,2502
-application/x-xfig,2458
-application/vnd.sdmx.data+csv; labels=both; charset=utf-8,2392
-ATOM Syndication Format,2358
+application/x-xfig,2798
+7,2793
+html,2712
+application/rar,2710
+application/sbx,2655
+application/html,2631
+OGC:WCS-1.1.1-http-get-coverage,2494
+OGC:WCS-1.1.1-http-get-capabilities,2494
+application/vnd.pc-axis,2474
+WWW:DOWNLOAD-1.0-link--download,2462
+ATOM Syndication Format,2449
+image/png;mode=32bit,2441
+OGC:CSW,2345
+image/bil,2297
+image/dds,2297
+application/sbn,2294
 application/vnd.flographit,2255
-https://www.iana.org/assignments/media-types/application/pdf,2213
-image/bil,2204
-image/dds,2204
-text/x-sas-syntax,2113
-application/sbn,2100
-application/sbx,2091
-application/x-qgis,2054
-OGC:CSW,2050
-application/vnd.ogc.fg+json,2044
-WWW:URL,2028
-text/csv+extended,1949
-ESRI REST: Map Service,1940
-text/plain; charset=UTF-8,1866
-null,1803
-WWW:STAC,1798
-application/rtf,1794
-text/x-c,1791
-text/xml-graphml,1776
-WWW:FTP,1770
-application/vnd.ms-excel.sheet.macroenabled.12,1744
-https://www.iana.org/assignments/media-types/application/gml+xml,1736
-application/x-stata-14,1722
-application/vnd.shana.informed.formtemplate,1712
-audio/ogg,1711
-WWW:DOWNLOAD-1.0-link--download,1679
+text/x-log,2244
+application/x-qgis,2186
+text/x-sas-syntax,2127
+"
+        image/jpeg
+      ",2126
+text/x-c,2079
+audio/ogg,2064
+application/vnd.shana.informed.formtemplate,1967
+ESRI REST: Map Service,1967
+text/csv+extended,1951
+application/vnd.oasis.opendocument.text,1930
+WWW:STAC,1911
+text/plain; charset=UTF-8,1887
+application/x-ipynb+json,1883
+https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml,1878
+application/vnd.ms-excel.sheet.macroenabled.12,1861
+application/x-stata-14,1860
+text/xml-graphml,1777
+https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,1773
+application/x-beyond2020,1737
+application/xls,1735
+image/pjpeg,1693
 application/x-thermo-isodat,1650
-video/avi,1508
-application/x-ipynb+json,1496
-https://www.iana.org/assignments/media-types/application/vnd.geospace,1448
-application/x-beyond2020,1405
-OGC:WMTS,1382
-application/x-protobuf;type=mapbox-vector,1319
-Download,1311
+video/avi,1643
+https://www.iana.org/assignments/media-types/application/gml+xml,1588
+ATOM,1566
+application/x-compressed,1533
 application/x-shockwave-flash,1310
-INSPIRE Atom,1290
-pdf,1277
-text/x-java-source,1260
+Information,1288
+application/ld+json,1281
+https://www.iana.org/assignments/media-types/application/vnd.geospace,1278
+text/x-java-source,1271
+text/n3,1271
+text/x-fortran,1243
+INSPIRE Atom,1222
 application/vnd.sun.xml.math,1213
-text/x-fortran,1204
-ZIP,1203
-application/html,1196
-FILE:GEO,1195
-application/mac-compactpro,1179
-8,1171
-EEA:FILEPATH,1132
-OGC:WFS-http-get-capabilities,1129
-https://www.iana.org/assignments/media-types/application/zip,1115
-application/x-compressed-tar,1093
+OGC:WFS-http-get-capabilities,1200
+application/mac-compactpro,1190
+application/x-msaccess,1189
+application/x-sh,1163
+https://www.iana.org/assignments/media-types/application/rdf+xml,1153
+"
+        image/png
+      ",1138
+8,1130
+application/x-compressed-tar,1100
+application/x-msdownload,1092
 text/x-spss-syntax; charset=US-ASCII,1092
-image/pjpeg,1061
-text/x-vcard,1047
-application/rar,1045
-zip,1042
-WWW:LINK,1039
-application/x-bzip,1035
-application/x-compressed,1022
-application/javascript,1017
+application/x-bzip,1084
+https://www.iana.org/assignments/media-types/application/octet-stream,1079
+https://www.iana.org/assignments/media-types/application/ld+json,1075
+https://www.iana.org/assignments/media-types/text/turtle,1074
+WWW:FTP,1072
+FILE:GEO,1060
+application/vnd.ms-powerpoint,1058
+https://www.iana.org/assignments/media-types/text/n3,1058
+https://www.iana.org/assignments/media-types/application/parquet,1058
+HTML,1057
+application/javascript,1052
+text/x-vcard,1046
+ESRI REST: Feature Service,1028
+image/vnd.dwg,1022
+http://www.opengis.net/def/serviceType/ogc/wms,1015
+application/zip+text/csv,1012
 application/vnd.tcpdump.pcap,1012
 application/x-tika-msoffice,1010
-OGC:WFS-1.0.0-http-get-feature,1005
-application/vnd.lotus-approach,979
-application/x-msdownload,973
-http://www.opengis.net/def/serviceType/ogc/wms,956
-HTML,952
-application/x-sh,935
-ESRI:REST,924
-ESRI REST: Feature Service,922
-website,899
-model/vnd.vtu,893
+OGC:WFS-1.0.0-http-get-feature,1000
+application/vnd.lotus-approach,983
+pdf,982
+tif,953
+text/x-python-script,950
+text/x-objcsrc,945
+application/vnd.ogc.wfs_xml,933
+website,907
+image/x-freehand,903
+text/plain;charset=UTF-8,900
+model/vnd.vtu,896
 application/x-spss-por,893
 Shape,884
-EEA:FOLDERPATH,883
-application/x-msaccess,873
-image/vnd.dwg,866
-application/x-stata-smcl,858
-text/plain;charset=UTF-8,857
+application/excel,880
+Web Map Service (WMS),868
+application/x-stata-smcl,864
+WWW:URL,862
+OGC:WFS-1.1.0-http-getfeature,859
 video/h264,856
-MIF,855
 GPX,855
-9,832
-text/x-objcsrc,814
-application/x-sas-system,813
-application/winhlp,807
+MIF,855
+WWW:DOWNLOAD,850
+UKST,833
+GPKG,832
+9,829
+application/x-sas-system,828
+application/winhlp,821
 image/DNG,798
-UKST,783
+WWW:LINK,796
+csv-with-metadata-header,786
+csv-restricted-column,786
+text/rtf,780
 OGC:API:Features,778
-application/xls,775
-csv-with-metadata-header,773
-csv-restricted-column,773
-text/x-python-script,771
-Web Map Service (WMS),770
-WWW:OPENDAP,757
-text/rtf,746
-application/vnd.ms-powerpoint,737
-ATOM,719
-WWW:DOWNLOAD,717
-text/x-log,714
-image/x-freehand,707
-ESRI REST: Map Server,705
-text/x-stata-syntax,688
-https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,675
-text/x-r-notebook,665
-None,664
-10,657
-application/x-font-bdf,630
-application/vnd.ogc.ows,622
-MYO:MOTU-SUB,619
-xlsx,618
-application/java-vm,616
-application/x-matlab-workspace,614
+application/x-protobuf;type=mapbox-vector,752
+application/vnd.geo json,741
+zip,739
+ESRI REST: Map Server,737
+image/x-sony-arw,737
+text/x-r-notebook,731
+text/x-stata-syntax,698
+IMOS:AGGREGATION--bodaac,689
+text/css,685
+application/csv,679
+EEA:FILEPATH,673
+application/vnd.ogc.ows,668
+None,667
+10,663
+xml,659
+application/x-font-bdf,650
+application/x-matlab-workspace,650
+application/java-vm,631
+IMOS:NCWMS--proto,630
+image/x-png,629
+application/marc,624
+application/x-rar,620
+WWW:DOWNLOAD-1.0-http--csiro-dap,616
+OGC:WFS-1.0.0-http-get-feature--shapefile,612
 image/raw,612
 [],603
 wms:WMS_Capabilities (WMS 1.3.0),602
-application/excel,601
-application/vnd.lotus-1-2-3,598
-application/x-stata-13,587
-text/css,585
-text/n3,572
-application/ld+json,568
-application/marc,565
-11,563
-image/RAW,551
-text/x-r-source,534
+application/x-tgif,598
+application/vnd.lotus-1-2-3,597
+application/x-stata-13,589
+image/RAW,580
+application/gpx+xml,574
+wms,562
+text/x-r-source,561
+application/x-font-ghostscript,556
+11,554
+https://www.iana.org/assignments/media-types/application/zip,535
+WWW:OPENDAP,530
 WWW-DOWNLOAD,527
-image/x-sony-arw,518
-HTTP:Information,517
-12,516
-application/x-tgif,515
+esri rest,520
+HTTP:Information,515
 image/dicom-rle,512
+application/vnd.ms-excel.sheet.macroEnabled.12,505
+text/vnd.ascii-art,504
+12,503
 application/vnd.ms-ims,502
-application/vnd.ms-excel.sheet.macroEnabled.12,498
-"
-        image/png
-      ",491
-application/vnd.ogc.wfs_xml,486
+https://www.iana.org/assignments/media-types/application/vnd.ms-excel,497
+application/vnd.rar,494
+OGC:WCS-1.1.0-http-get-capabilities,494
+ESRI:REST,494
+ArcSDE Connection,488
+application/x-pkcs7-certificates,481
+geojson,481
 http://www.opengis.net/def/serviceType/ogc/wfs,476
 application/cnt,475
-wms,455
-application/x-xz,445
-application/x-iso9660-image,444
-geojson,443
-marvl xml,442
+application/x-xz,467
+application/x-iso9660-image,462
+application/flatgeobuf,445
+marvl xml,443
 application/warc,439
-OGC:WFS-1.0.0-http-get-feature--shapefile,437
-OGC:WCS-1.1.0-http-get-capabilities,436
-IMOS:AGGREGATION--bodaac,425
-application/vnd.oasis.opendocument.text,424
-xls,418
-application/flatgeobuf,412
-application/x-font-ghostscript,406
-esri rest,405
-13,398
-application/x-pkcs7-certificates,383
-IMOS:NCWMS--proto,382
-dataset,381
-xml,381
-"
-        image/jpeg
-      ",375
-application/csv,370
-ArcSDE Connection,366
-https://www.iana.org/assignments/media-types/text/html,364
-text/x-spss-syntax,344
-text/CSV,339
-text/x-sas-syntax; charset=US-ASCII,334
-audio/x-aac,333
-XML,332
-OGC:WMS,322
-application/x-mscardfile,321
-kml,320
-video/webm,317
+application/x-mscardfile,423
+OGC:WPS--gogoduck,414
+MYO:MOTU-SUB,412
+text/CSV,411
+text/x-pascal,411
+dataset,408
+xlsx,407
+13,406
 "
         application/vnd.google-earth.kml+xml
-      ",303
-Web Feature Service (WFS),300
-application/vndms-excel,298
-WWW:DOWNLOAD-1.0-http--csiro-dap,297
-text/x-pascal,291
-application/vnd.rar,284
-image/x-png,282
-https://www.iana.org/assignments/media-types/application/geo+json,282
-https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml,277
-EEA:DBPG,274
-WWW:LINK-1.0-http--link,269
-application/vnd.wordperfect,269
-OGC:WFS-1.1.0-http-getfeature,266
-14,265
-data,263
-application/gpx+xml,263
-HTTP:OGC:WMS,259
-application/mathematica,258
-image/x-tiff,257
-Information,256
-OGC:WPS--gogoduck,250
-video/mpeg,249
-kmz,245
-INSPIRE-ATOM,243
-application/vnd.ms-excel.sheet.binary.macroenabled.12,234
-OGR-GPKG,233
+      ",400
+audio/mp4,389
+xls,388
+image/x-tiff,375
+https://www.iana.org/assignments/media-types/text/html,373
+OGC API - Features,370
+chemical/x-cif,357
+Web Feature Service (WFS),355
+text/x-spss-syntax,350
+https://www.iana.org/assignments/media-types/application/geopackage+sqlite3,349
+application/vnd.ms-access,339
+XML,336
+text/x-sas-syntax; charset=US-ASCII,334
+audio/x-aac,333
+application/vndms-excel,330
+application/txt,327
+OGC:WMS,322
+kml,321
+video/webm,318
+INSPIRE-ATOM,315
+OTHER,304
+https://www.iana.org/assignments/media-types/application/geo+json,299
+https://www.iana.org/assignments/media-types/text/plain,295
+application/mathematica,295
+https://www.iana.org/assignments/media-types/application/gpx+xml,294
+https://www.iana.org/assignments/media-types/application/msword,293
+STATA do,293
+application/vnd.wolfram.mathematica.package,293
+application/x-dtbresource+xml,293
+WMS,291
+image/x-3ds,286
+14,284
+XLS,281
+application/vnd.wordperfect,272
+application/x-sas,272
+video/mpeg,267
+kmz,266
+HTTP:OGC:WMS,261
+WWW:DOWNLOAD-1.1-http--download,254
+wfs,245
+application/CDFV2,243
+EEA:FOLDERPATH,242
+RT-DC,242
+application/acad,237
+none,237
+application/vnd.ms-excel.sheet.binary.macroenabled.12,235
 image/emf,231
-wfs,227
+application/xhdf5,228
 OGC:OGC-API-Features-items,226
 application/x-shapefile,222
-XLS,219
-OGR-MIF-ZIP,210
-OGR-TAB-ZIP,210
-OGR-KML-ZIP,210
-OGR-DXF-ZIP,210
-OGR-SHP-ZIP,210
-OGR-DGN-ZIP,210
-OGR-CSV-ZIP,210
-false,209
+text/html; charset=utf-8,222
+data,220
+Shapefile/ZIP,218
+GeoDatabase/ZIP,218
+application/vnd.sdmx.data+csv; labels=name; version=2; charset=utf-8,213
+OGR-DXF-ZIP,211
+OGR-KML-ZIP,211
+OGR-DGN-ZIP,211
+OGR-CSV-ZIP,211
+OGR-MIF-ZIP,211
+OGR-TAB-ZIP,211
+OGR-SHP-ZIP,211
 wcs:Capabilities (WCS 2.0),208
 image/x-apple-ios-png,207
-text/html; charset=utf-8,205
-WMS,199
+OGC:OWS-C,205
+R,203
+NETWORK:LINK,199
  ,197
 SOAP,195
-undefined,192
-OGC:WMTS-1.0.0-http-get-capabilities,188
+video/x-ms-wmv,195
+application/vnd.realvnc.bed,193
+appliation/zip,188
+text/rdf+xml,188
 Dirección Web (URL-Uniforme Resource Locators),188
-audio/x-aiff,185
-application/x-sas,184
+audio/x-aiff,187
+AMQPS,186
+EEA:DBPG,184
+text/x-sh,183
+WFS,183
+OGC:WPS,182
 text/plain;charset=US-ASCII,182
-15,179
-text/x-r-markdown,177
-application/unknown,176
+application/x-research-info-systems,180
+text/x-r-markdown,180
 OGC:WCS-2.0.0-http-get-coverage,175
 shapefile (gezippt),174
-text/vnd.ascii-art,172
-AMQPS,172
+XLSX,174
 api,170
+image/vnd.adobe.photoshop,170
+text/x-comma-separated-values,170
 WWW:DOWNLOAD-1.0-https--download,169
-image/vnd.adobe.photoshop,168
-OGC:WPS,165
-http,164
-HTTP:Nedladdning,164
-application/x-research-info-systems,161
-16,160
-application/x-rar,160
-application/x-sas-data,159
-shp,156
-https://www.iana.org/assignments/media-types/text/rdf+xml,156
-application/vnd.realvnc.bed,154
-text/json,153
+application/msaccess,168
+15,168
+HTTP:Nedladdning,167
+application/vnd.ms-excel.sheet.binary.macroEnabled.12,167
+OGC:WFS-1.1.0-http-get-feature,165
+chemical/x-pdb,162
+file,160
+application/vnd.api+json,158
+ArcGIS Mapservice,156
+application/x-sas-data,154
+OGC:WMTS-1.0.0-http-get-capabilities,154
 OGC:WCS-2.0.1-http-get-coverage,152
+https://www.iana.org/assignments/media-types/application/pdf,150
 application/biosequence.fasta,149
-application/ESRI REST,147
-NETWORK:LINK,146
-text/x-rsrc,146
-OGC:OWS-C,146
-text/x-sh,145
-application/txt,144
-application/vnd.ms-excel.sheet.binary.macroEnabled.12,143
-17,140
-chemical/x-cif,139
-OGC:WFS-1.1.0-http-get-feature,139
-chemical/x-pdb,138
-application/vnd.shp+zip,134
-application/msaccess,134
-https://www.iana.org/assignments/media-types/application/vnd.shp,134
-application/Data Viewer,132
-https://www.iana.org/assignments/media-types/application/rdf+xml,132
-application/vnd.groove-tool-template,130
-image/x-3ds,130
-WWW:OPENSEARCH,130
+text/x-rsrc,147
+16,146
+WWW:LINK-1.0-http--link,145
+shp,143
+https://www.iana.org/assignments/media-types/application/vnd.shp,143
+application/vnd.shp+zip,143
+PDF,140
+audio/mp3,137
+application/x-shellscript,137
+undefined,136
+application/vnd.ms-xpsdocument,132
+17,131
+application/vnd.groove-tool-template,131
+WWW:OPENSEARCH,131
+application/api,130
+txt,129
+video/x-m4v,127
+application/vnd.openxmlformats-officedocument.spreadsheetml.template,126
 CZML-ZIP,125
-video/x-m4v,125
-OGC:WMTS-1.0.0-http-get-tile,125
+message/rfc822,125
 CZML,125
-18,124
 OGC:OGC-API-Features-landingpage,123
-WFS,122
-application/x-shellscript,122
+STATA data,122
 ESRI REST: Image Service,121
-audio/mp3,119
-application/vnd.api+json,116
-GeoDatabase/ZIP,113
-application/acad,113
-Shapefile/ZIP,113
-19,110
-audio/x-m4a,109
-message/rfc822,107
-application/xhtml+xml,105
-chemical/x-mdl-sdfile,105
-application/vnd.wolfram.mathematica.package,102
-model/x3d+xml,102
-application/java-archive,102
-20,101
-text/html;charset=utf-8,100
-application/x-msmetafile,99
+application/dat,115
+18,114
+application/x-font-ttf,114
+model/x3d+xml,113
+audio/x-m4a,111
+application/java-archive,108
+application/vnd.ogc.wmc,106
+GEOJSON,106
+chemical/x-mdl-sdfile,104
+application/x-msmetafile,102
+application/x-troff-man,101
+application/vnd.koan,101
+text/html;charset=utf-8,101
+Website,100
+WWW:DOWNLOAD-1.0-http--downloaddata,99
 image/heic,98
+text/pdf,98
 OGC:WCS-1.1.0-http-get-coverage,98
-21,96
-application/vnd.ms-xpsdocument,96
+ESRI:MAP-1.0-rest-get-open,98
+19,96
+video/x-matroska,96
+application/x-apple-diskimage,95
 text/plain; charset=utf-8,94
-appliation/zip,94
-text/rdf+xml,94
+text/x-tex,93
 text/wfs,93
 application/x-stata-dta,92
-application/x-font-ttf,90
+MYO:MOTU-DGF,91
+http,91
+application/x-dbf,90
+application/x-dosexec,90
 tiff,89
-https://www.iana.org/assignments/media-types/image/tiff,89
-application/CDFV2,89
 application/vnd.lotus-notes,89
-WWW:DOWNLOAD-1.0-link--order,88
-application/x-troff-man,87
-https://www.iana.org/assignments/media-types/application/vnd.ms-excel,85
-video/x-ms-wmv,84
-atom,82
-OGC:WCS-2.0.1-http-get-capabilities,81
-XLSX,81
-FTP,80
+20,88
+application/xhtml+xml,86
+ArcGIS mapservice,86
+ArcGIS featureservice,86
+WMTS,85
+OGC:WFS-1.1.0-http-get-capabilities,85
+application/vnd.publishare-delta-tree,85
+atom,84
+OGC:WCS-2.0.1-http-get-capabilities,84
+OGC:WMTS-1.0.0-http-get-tile,84
+application/sparql-query,84
+image/jp2,83
+OGC:WFS-1.1.1-http-get-feature,82
+application/download,82
+21,82
+ArcGIS Featureservice,82
 WWW:DOWNLOAD-1.0-http—download,80
-application/pgp-keys,78
-22,76
-text/troff,76
-application/sparql-query,76
-OGC:WFS-1.1.0-http-get-capabilities,76
-GEOJSON,75
-text/pdf,75
-txt,74
-text/x-tex,73
-application/vnd.shp,73
-23,72
-application/x-dbf,70
-OGC Web Map Service,69
-xsl,69
+https://www.iana.org/assignments/media-types/image/tiff,79
+FTP,79
+application/x-fasta,78
+text/troff,77
+OGC:WMC-1.1.0-http-get-capabilities,77
+image/webp,76
+ESRI REST,75
+text/vcard,75
+application/text,75
+application/blender,73
+application/x-graphpad-prism-pzfx,73
+text/html; charset=iso-8859-1,73
+OGC Web Map Service,70
+OGC API – Features,70
+application/x-yaml,70
 text/prs.lines.tag,69
-Website,69
-ArcGIS mapservice,66
-OGC API – Features,66
-ArcGIS featureservice,66
-application/vnd.publishare-delta-tree,66
-application/api,66
-image/jp2,65
-video/x-matroska,65
-OGC Web Feature Service,63
+xsl,69
+application/gml xml,68
+text/TXT,67
+text/vtt,67
+application/vnd.oma.drm.message,67
+application/vnd.ms-word.document.macroenabled.12,64
+audio/x-flac,64
 application/x-swc,63
+application/x-iwork-keynote-sffkey,63
+OGC Web Feature Service,63
+text/vnd.fmi.flexstor,62
+application/vnd.pg.format,62
+application/vnd.nintendo.snes.rom,62
+application/x-tcl,62
+https://www.iana.org/assignments/media-types/text/rdf+xml,62
+22,61
+application/vnd.openxmlformats-officedocument.presentationml.pre,61
+dwg/dxf,61
+OGC:WFS-2.0.0-http-describefeaturetype,61
+application/nappdf,60
+SHP ZIP,60
+application/pjnz,59
+application/php,59
+shx,58
+prj,58
+dbf,58
+23,57
+model/vrml,57
+HTTP:Information:Produktspecifikation,57
+application/vnd.enliven,57
+audio/basic,56
 "
         application/word
-      ",63
-application/x-iwork-keynote-sffkey,63
-text/vnd.fmi.flexstor,62
-OGC:WFS-2.0.0-http-describefeaturetype,61
-application/download,61
-dwg/dxf,61
-application/text,61
-audio/x-flac,60
-application/x-troff,60
-HTTP:Information:Produktspecifikation,59
-application/vnd.pg.format,58
-prj,58
-audio/basic,58
-dbf,58
-shx,58
-application/vnd.ms-word.document.macroenabled.12,57
-ArcGIS Mapservice,57
-url,57
-24,57
-application/x-tcl,56
-application/x-graphpad-prism-pzfx,56
-ESRI REST,56
-application/x-yaml,56
-OGC:OpenSearch,55
+      ",56
+image/x-raw-nikon,55
 application/x-matroska,54
-application/vnd.enliven,54
-text/vcard,53
+application/x-bittorrent,53
 application/vnd.ecowin.chart,52
-application/dat,52
-application/pjnz,51
-text/html; charset=iso-8859-1,51
+text/calendar,51
 application/vnd.americandynamics.acc,51
+application/pgp-signature,50
+application/ESRI REST,50
 Arcgis Mapserver,50
+application/x-gtar,50
+video/ogg,50
 application/x-sas-catalog,50
-text/x-comma-separated-values,50
-WMTS,49
-text/tab,48
-text/html; charset=UTF-8,48
-application/x-fasta,48
+audio/mid,49
+RDF,49
+rel-canonical,48
+application/x-troff,48
+GeoTIFF,48
+application/x-zip,48
+multipart/x-zip,48
 png,47
-text/calendar,47
-video/ogg,46
-application/softgrid-do,46
+image/x-raw-panasonic,47
+application/opensearchdescription+xml,47
+TXT,47
+shape,46
 rdf,46
+DB:POSTGIS,46
+application/softgrid-do,46
+application/msexcel,45
 application/x-matlab-figure,45
-MAPML,45
-shape,45
 application/xml-dtd,45
-application/x-r-data,43
-TXT,43
-audio/x-ms-wma,43
-application/vnd.oasis.opendocument.chart,43
-application/vnd.ogc.wmc,43
+MAPML,45
+audio/x-ms-wma,45
+application/vnd.shp,45
+gml,45
+application/Data Viewer,44
 igis_wms,43
+application/x-r-data,43
+24,43
+application/shapefile,43
+application/vnd.oasis.opendocument.chart,43
+image/x-xpixmap,43
 application/csv; charset=utf-8,43
-application/vnd.koan,41
-application/x-zipped-shp,41
+application/x-subrip,42
+text/x-web-markdown,42
 application/x-emf,41
-26,40
-multipart/x-zip,40
-application/x-esri-shape,40
-application/x-gameboy-rom,40
+26,41
 25,40
-text/TXT,40
+application/x-gameboy-rom,40
+application/vnd.lotus-organizer,40
+application/x-esri-shape,40
+text/html; charset=UTF-8,40
 application/icms,39
-gml,39
-application/p21,39
-file,39
+http://publications.europa.eu/resource/authority/file-type/csv,39
 application/x-json-hypothesis,38
+application/x-zipped-shp,38
 text/sis,37
-gpx,37
-WWW:DOWNLOAD-1.0-http--downloaddata,37
 application/sla,37
-image/vnd.fst,36
-application/xcap-diff+xml,36
-audio/wave,35
-27,35
-DB:POSTGIS,35
-application/x-bibtex-text-file,34
-OGC:SOS,34
-image/webp,34
-mp4,34
-application/x-msexcel,33
-application/x-dtbresource+xml,33
-application/nappdf,33
-model/vrml,33
-application/shapefile,33
-application/x-tar-compressed,32
-application/opensearchdescription+xml,32
-application/blender,32
-OGC:WFS-1.1.1-http-get-feature,32
-image/x-panasonic-rw,32
-CHTOPO:specialised-geoportal,32
-WWW:DOWNLOAD:MIF / MID,32
-application/vnd.openxmlformats-officedocument.presentationml.pre,32
-29,32
-28,31
-application/vnd.shx,30
-application/x-gtar,30
-application/vnd.dna,30
-application/vnd.epson.ssf,30
-application/macbinary,29
-ESRI Hub,28
-docx,28
-REST,28
-application/x-webarchive,27
-application/pgp-signature,27
-application/x-aportisdoc,27
-30,27
-application/WMS,27
-application/pkix-attr-cert,26
-OGC:WCS-http-get-capabilities,26
-text/x-markdown,26
-text/x-web-markdown,26
-text/x-spss-syntax; charset=UTF-8,26
-audio/mod,26
-xml/soap,25
-SD,25
-application/x-ms-shortcut,25
-image/RWL,24
-application/vnd.openxmlformats,24
-application/vnd.llamagraphics.life-balance.exchange+xml,24
-iris,24
-application/vnd.wolfram.nb,24
-application/x-wais-source,24
-31,24
-OGC API - Features,24
-33,23
-32,23
-application/vnd.sun.xml.calc.template,23
-application/x-123,23
-application/x-font-woff,23
-application/x-dbase,22
-"text/html, application/XML, text/plain, application/sparql-results+json, application/sparql-results+xml, application/rdf+xml, text/rdf+n3, application/x-turtle, application/x-trig, application/trix, text/boolean",22
-WWW:DOWNLOAD-1.1-http--download,22
-esri shapefile,22
-application/JSON,22
-Web Map Tile Service (WMTS),22
-application/pkcs7-signature,22
-tiff (gezippt),22
-application/x-zip,21
-application/x-director,21
-application/vnd.ogc.wmts_xml,21
-WWW:DOWNLOAD-1.0-http--related,21
-application/vnd.ms-htmlhelp,21
-34,21
-application/x-spss-sps,21
-application/x-mspublisher,21
-application/rat-file,20
-application/x-font-type1,20
-35,20
-WWW:DOWNLOAD:JP2-E80,20
-ESRI:AIMS--http-get-feature,20
-text/x-yaml,20
-https://www.iana.org/assignments/media-types/image/png,20
-multipart/form-data,20
-text/x-uri,20
-text/php,19
-video/vnd.dlna.mpeg-tts,19
-application/yaml,19
-application/x-jmp-data,19
-RDF,19
-application/morphographx.mgxm,19
-application/n-triples,19
-application/x-download,19
-http:,19
-application/json; charset=utf-8,19
-AODN:FILE-list,19
-audio/vnd.dts,19
-WWW:DOWNLOAD-1.0-http download,18
-application/vnd.dynageo,18
-text/directory,18
-application/vnd,18
-audio/mp4,18
-lpk,18
-Arcgis Feature,18
-application/fdt+xml,18
-text/x-c++src,17
-HTTP:Nedladdning:Atom,17
-application/x-sas-transport,17
-https://www.iana.org/assignments/media-types/application/ld+json,17
-text/x-r-doc,17
-application/x-pdf,17
-application/sql,17
-application/vnd.google-apps.document,17
-application/vnd.wm.igor.pxp,17
-application/vnd.ogc.csw.capabilities.response_xml,16
-https://www.iana.org/assignments/media-types/text/turtle,16
-text/x-bibtex,16
-application/x-bibtex,16
-gtfs,16
-WWW:BROADCAST,16
-36,16
-application/java-serialized-object,16
-application/vnd.openxmlformats-officedocument.wordprocessingml.d,16
-audio/audible,16
-application/wms,16
-39,16
-text/x-asm,15
-text/rdf,15
-Rest,15
-OGC:GEOPACKAGE,15
-API,15
-OGC:WMC-1.1.0-http-get-capabilities,15
-application/Groundwater Level Data Viewer,15
-TIFF,15
-image/vnd.microsoft.icon,15
-model/iges,14
-text/x-perl-script,14
-37,14
-application/x-cfs-compressed,14
-multipart/mixed,14
-http://www.opengis.net/def/serviceType/ogc/wmts,14
-application/x-iwork-keynote-sffnumbers,14
-38,14
-application/vnd.lotus-organizer,14
-application/xlsx,14
-image/jpg,14
-chemical/x-gamess-input,14
-application/x-sas-log,14
-WCS,14
-video/x-flv,14
-application/x-python-code,14
-application/x-archive,14
-OAS,14
-https://www.iana.org/assignments/media-types/text/plain,13
-xlb,13
-image/png;charset=UTF-8,13
-40,13
-application/x-docker-file,13
-jpg,13
-41,13
-42,13
-text/x-makefile,13
-application/x-stuffit,13
-text/x-expect,13
-WWW:DOWNLOAD:MIF/MID,12
-application/aspx,12
-chemical/x-mopac-input,12
-ibge@ibge.gov.br,12
-image/svg,12
-application/vnd.google-earth,12
-HTTP:OGC:WFS,12
-"text/html; charset=""utf-8""",12
-DSP:ESRI,12
-NCSS,12
-application/vnd.snapgene.dna,12
-application/x-jmp-report,12
-chemical/x-cdx,12
-application/vnd.wolfram.mathematica,12
-text/x-jmp-script,12
-model/mesh,12
-image/x-raw-panasonic,12
-application/vnd.Kinar,12
-Rest Service,12
-APP,12
-Standard de données CNIG,12
-OPENDAP,12
-OGC:WMC,11
-application/docx,11
-44,11
-application/vnd.google-earth.kmz+xml,11
-FILE:RASTER,11
-arcgis,11
-image/x-icon,11
-https://www.iana.org/assignments/media-types/application/n-triples,11
-45,11
-audio/vnd.dlna.adts,11
-43,11
-application/x-ruby,11
-https://napr.gov.ge/p/567,11
-NeTEx,11
-application/tar,11
-application/vnd.openxmlformats-officedocument.spreadsheetml.template,11
-application/x-wine-extension-do,11
-http://publications.europa.eu/resource/authority/file-type/CSV,11
-spreadsheet,11
-text/x-stata-syntax; charset=UTF-8,11
-text/csv; charset=utf-8,11
-46,11
-https://www.iana.org/assignments/media-types/image/jpeg,11
-47,10
-audio/x-ape,10
-text/html; subtype=emikat,10
-application/x-itunes-itlp,10
-application/force-download,10
-application/x-turtle,10
-application/vnd.ms-office,10
-application/jsv,10
-application/vnd.ms-fontobject,10
-application/xls; charset=utf-8,10
-48,10
-application/x-javascript,10
-OGC:WFS-1.3.0-http-get-capabilities,10
-image/tiff; application=geotiff,10
-Accès à la documentation,10
-video/x-smv,10
-application/xml;charset=UTF-8,10
-application/vnd.openxmlformats-officedocument.spreadsheetml.shee,10
-ESRI REST: Feature Server,10
-application/rdf+xml; qs=0.9,10
-text/asp,9
-REST Service,9
-application/WMTS,9
-text/JSON,9
-application/xslt+xml,9
-text/x-qml,9
-test/42,9
-zip/shp,9
-application/xml+gml,9
-FILE:DOWNLOAD-1.0-file-P-download,9
-text/x-julia,9
-https,9
-49,9
-application/wfs,9
-text/html;charset=UTF-8,9
-50,9
-application/x-tika-ooxml,9
-application/haansoftdocx,9
-application/PDF,9
+gpx,37
+image/vnd.fst,37
+27,36
 "
         application/vnd.google-earth.kmz
-      ",9
+      ",36
+application/xcap-diff+xml,36
+audio/wave,35
+application/vnd.openxmlformats-officedocument.wordprocessingml.d,35
+application/x-spss-sps,35
+OGC:SOS,35
+SRC,35
+mp4,34
+text/x-perl,34
+application/x-bibtex-text-file,34
+application/x-msexcel,33
+application/x-download,33
+OGC:OpenSearch,33
+application/vnd.apache.parquet,33
+TIFF,32
+application/rdf xml,32
+image/x-panasonic-rw,32
+application/vnd.shx,32
+application/x-tar-compressed,32
+29,32
+28,32
+image/jpg,31
+application/vnd.epson.ssf,30
+application/vnd.dna,30
+false,30
+application/x-ms-shortcut,29
+application/macbinary,29
+30,29
+text/x-markdown,29
+EXCEL,28
+url,28
+text/x-c++src,28
+WWW:DOWNLOAD-1.0-http--related,28
+REST,28
+https://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet,28
+31,27
+application/xlsx,27
+AODN:FILE-list,27
+application/x-aportisdoc,27
+image/x-tga,27
+application/x-pdf,27
+binary/octet-stream,27
+audio/mod,26
+OGC:WCS-http-get-capabilities,26
+ESRI Hub,26
+application/pkix-attr-cert,26
+text/x-spss-syntax; charset=UTF-8,26
+text/rdf,26
+application/vnd.openxmlformats-officedocument.spreadsheetml.shee,25
+32,25
+text/gff3,25
+SD,25
+image/RWL,25
+application/vnd.wolfram.nb,25
+application/dwg,25
+WWW:DOWNLOAD-1.0-http download,25
+application/x-director,24
+application/sql,24
+application/force-download,24
+iris,24
+application/vnd.llamagraphics.life-balance.exchange+xml,24
+application/x-wais-source,24
+application/vnd.openxmlformats,24
+API,24
+multipart/form-data,23
+ESRI:AIMS--http-get-feature,23
+audio/vnd.dlna.adts,23
+application/x-endnote-library,23
+application/x-font-woff,23
+application/vnd.sun.xml.calc.template,23
+33,23
+application/x-123,23
+WWW:DOWNLOAD:MIF / MID,22
+application/x-dbase,22
+tiff (gezippt),22
+"text/html, application/XML, text/plain, application/sparql-results+json, application/sparql-results+xml, application/rdf+xml, text/rdf+n3, application/x-turtle, application/x-trig, application/trix, text/boolean",22
+application/vnd.yamaha.smaf-audio,22
+URL,22
+esri shapefile,22
+application/x-itunes-itlp,22
+application/pkcs7-signature,22
+text/x-hdf5,22
+WWW:DOWNLOAD:JP2-E80,21
+application/vnd.ms-htmlhelp,21
+Standard de données CNIG,21
+35,21
+application/x-mspublisher,21
+video/x-flv,21
+Web Map Tile Service (WMTS),21
+text/html; subtype=mapml,20
+application/vnd.ogc.wmts_xml,20
+application/vnd.google-earth.kmz+xml,20
+text/x-uri,20
+text/mapml,20
+application/XLS,20
+Rest,20
+application/fractals,20
+audio/vnd.dts,20
+application/x-font-type1,20
+image/x-emf,20
+application/rat-file,20
+text/x-yaml,19
+image/x-xcf,19
+application/vnd.dynageo,19
+text/php,19
+application/yaml,19
+application/x-jmp-data,19
+text/tab,19
+video/vnd.dlna.mpeg-tts,19
+application/morphographx.mgxm,19
+34,19
+HTTP:Nedladdning:Atom,19
+OGC API-Features,18
+application/fdt+xml,18
+application/x-docker-file,18
+application/vnd.ms-pkistl,18
+application/x-bibtex,18
+text/directory,18
+application/vnd.wm.igor.pxp,18
+application/PDF,18
+image/svg,18
+lpk,18
+Arcgis Feature,18
+application/json; charset=utf-8,18
+text/x-bibtex,18
+application/x-sas-transport,17
+jpg,17
+text/x-r-doc,17
+application/x-info,17
+39,17
+image/x-lwo,17
+36,17
+https://geoservicos.sgb.gov.br/geonetwork/srv/por/metadata.edit?id=352,17
+application/vnd.ogc.csw.capabilities.response_xml,16
+application/vnd.google-earth,16
+Accès WMS Public,16
+image/vnd.microsoft.icon,16
+Rest Service,16
+application/java-serialized-object,16
+audio/audible,16
+WWW:BROADCAST,16
+text/x-makefile,16
+application/vnd.dbf,16
+application/vnd.google-apps.document,16
+chemical/x-molconn-Z,16
+OGC:GEOPACKAGE,15
+text/x-asm,15
+SPS,15
+text/x-perl-script,15
+model/obj,15
+http:,15
+docx,15
+38,15
+WWW:WMS,15
+application/x-webarchive,15
+gtfs,15
+37,15
+multipart/mixed,14
+42,14
+application/x-archive,14
+image/x-icon,14
+application/x-python-code,14
+RASTER,14
+application/x-iwork-keynote-sffnumbers,14
+application/ms-tnef,14
+41,14
+VECTOR,14
+chemical/x-gamess-input,14
+application/x-sas-log,14
+OAS,14
+40,14
+text/HTML,14
+application/x-cfs-compressed,14
+model/iges,14
+application/x-stuffit,13
+application/cu-seeme,13
+Web Coverage Service (WCS),13
+https,13
+application/n-triples,13
+ESRI:AIMS--http--configuration,13
+https://www.iana.org/assignments/media-types/image/png,13
+HTTP:OGC:WFS,13
+model/mesh,13
+text/x-expect,13
+text/x-jmp-script,12
+text/x-shellscript,12
+audio/flac,12
+http://publications.europa.eu/resource/authority/file-type/rdata,12
+http://publications.europa.eu/resource/authority/file-type/sas,12
+application/x-ole-storage,12
+application/x-jmp-report,12
+http://publications.europa.eu/resource/authority/file-type/sav,12
+43,12
+model/example,12
+zip/shp,12
+WWW:DOWNLOAD-1.0-http--downloadother,12
+text/JSON,12
+chemical/x-cdx,12
+text/yaml,12
+application/vnd.snapgene.dna,12
+application/vnd.Kinar,12
+"text/html; charset=""utf-8""",12
+http://publications.europa.eu/resource/authority/file-type/dta,12
+46,12
+application/xml;charset=UTF-8,12
+REST Service,12
+JPEG,12
+application/vnd.wolfram.mathematica,12
+DSP:ESRI,12
+text/csv; charset=utf-8,12
+http://publications.europa.eu/resource/authority/file-type/CSV,12
+Documentation,12
+WMS/WFS,12
+Accès à la documentation,12
+44,12
+GeoJSON,12
+http://www.opengis.net/def/serviceType/ogc/wmts,12
+45,12
+OGC:KML-2.2.0-http-get-view,12
+chemical/x-mopac-input,12
+https://www.iana.org/assignments/media-types/application/n-triples,11
+OGC:ATOM,11
+spreadsheet,11
+text/x-stata-syntax; charset=UTF-8,11
+48,11
+application/tar,11
+application/x-wine-extension-do,11
+WWW:DOWNLOAD-1.0-ftp--dowload,11
+OGC:WMC,11
+LOG,11
+arcgis,11
+https://napr.gov.ge/p/567,11
+application/x-ruby,11
+application/x-javascript,11
+https://,11
+text/html;charset=UTF-8,11
+47,11
+WAF,10
+application/vnd.amiga.ami,10
+application/rdf+xml; qs=0.9,10
+application/x-turtle,10
+application/xls; charset=utf-8,10
+Accès WMS,10
+application/vnd.ms-fontobject,10
+image/tiff; application=geotiff,10
+video/x-smv,10
+Accès au téléchargement - Lien direct WFS Public,10
+49,10
+text/x-csrc,10
+text/html; subtype=emikat,10
+application/hyperstudio,10
+APP,10
+application/vnd.ms-office,10
+CSV ZIP,10
+audio/x-ape,10
+text/x-qml,10
+50,10
+59,9
+53,9
+application/ppt,9
+56,9
+test/42,9
+application/vnd.stepmania.stepchart,9
+image/example,9
+FILE:DOWNLOAD-1.0-file-P-download,9
+application/WMS,9
+application/x-tika-ooxml,9
+text/x-chdr,9
+model/vnd.collada+xml,9
+ibge@ibge.gov.br,9
+text/x-julia,9
+54,9
+52,9
+application/vnd.afpc.modca-overlay,9
+55,9
 biosequence/fasta,9
-extern,9
-application/vnd.ms-pkistl,8
-57,8
-WWW:DOWNLOAD-1.0-http--downloadother,8
-ESRI:ArcGIS-10.6.1-http--configuration,8
-ESRI:ArcGIS-10.6.1-http--layer,8
-54,8
-URL,8
-FILE:other,8
-ESRI:AIMS--http--configuration,8
-image/x-eps,8
-application/vnd.ms-access,8
-Catalogue Service for the Web (CSW),8
-56,8
-doc,8
-55,8
-51,8
-Access Database,8
-text/x-common-lisp,8
-OGC SensorThingsAPI,8
-58,8
-application/mbox,8
-image/x-lwo,8
-application/x-sas-output,8
-application/vnd.inquisit.data,8
+SERVICE,9
+application/haansoftdocx,9
+58,9
+57,9
+51,9
 chemical/seq-na-genbank,8
-52,8
-application/vnd.mcd,8
-53,8
-59,8
-binary/octet-stream,8
+application/JSON,8
+application/vnd.inquisit.data,8
+Dataset,8
+chemical/x-cerius,8
+diverse,8
+image/x-eps,8
+ESRI:ArcGIS-10.6.1-http--layer,8
+http://www.cprm.gov.br/suscetibilidade/SIG_Januaria_MG.zip,8
+Access Database,8
+61,8
+rest service,8
+application/x-sas-output,8
 https://www.iana.org/assignments/media-types/text/tab-separated-values,8
-65,7
-application/trig,7
-application/>octet-stream,7
-application/mx20,7
-Documentation,7
-geotiff,7
-64,7
-application/vnd.proteus.magazine,7
-63,7
-image/x-hdr,7
-GML,7
-62,7
-61,7
-application/rpki-ghostbusters,7
-application/x-apple-diskimage,7
-text/x-csv,7
-text/rdf+n3,7
-60,7
-MYO:MOTU-DGF,7
-OPeNDAP:OPeNDAP,7
+ESRI REST: Feature Server,8
+doc,8
+text/x-common-lisp,8
+application/xslt+xml,8
+Geopackage,8
+application/vnd.epson.msf,8
+application/vnd.mcd,8
+application/x-rss+xml,8
+60,8
+application/kmz,8
+application/mx20,8
+ESRI:ArcGIS-10.6.1-http--configuration,8
+WWW:DOWNLOAD:MIF/MID,8
+application/vnd.openxmlformates-officedocument.spreadsheetml.sheet,8
+62,8
+application/x-photoshop,8
+application/vnd.sqlite3,8
+Donwnload,8
+application/mbox,8
+ESRI:IMAGE-1.0-rest-get-open,8
+application/wms,7
 application/nx,7
+application/x-iwork-numbers-sffnumbers,7
+OPeNDAP:OPeNDAP,7
+63,7
+text/x-csv,7
+audio/x-mod,7
+geotiff,7
+text/vnd.dvb.subtitle,7
+WWW:DOWNLOAD:GeoPackage,7
+image/x-hdr,7
+application/rpki-ghostbusters,7
+FILE:other,7
+Catalogue Service for the Web (CSW),7
+65,7
+GML,7
 image/x-imagewebserver-ecw,7
-WWW:DOWNLOAD:laz,7
-doi,6
-application/xqgis,6
-application/WFS,6
-chemical/x-embl-dl-nucleotide,6
-rest service,6
-69,6
-application/x-Research-Info-Systems,6
-OGC API - features,6
-application/vnd.mobius.daf,6
-application/vnd.eszigno3+xml,6
-application/x-iwork-numbers-sffnumbers,6
-JPEG,6
-68,6
-text/x-chdr,6
-66,6
+application/trig,7
+64,7
+text/rdf+n3,7
+application/vnd.ms-powerpoint.presentation.macroenabled.12,7
+Pour télécharger la donnée cliquer ici,7
+application/vnd.rn-realmedia,7
+https://www.iana.org/assignments/media-types/image/vn.dxf,7
+application/vnd.proteus.magazine,7
+application/oebps-package+xml,7
+Accès à la donnée (téléchargement par département),7
+application/>octet-stream,7
+application/x-Research-Info-Systems,7
+WWW:DOWNLOAD-1.0-ftp--downloaddata,7
 OGC:API tiles,6
-application/7-zip,6
-model/example,6
-application/vnd.epson.msf,6
-WWW:DOWNLOAD:ESRI Shapefile,6
-http://seadatanet.maris2.nl/v_cdi_v3/search.asp,6
-application/vnd.openxmlformats-officedocument.presentationml.slideshow,6
-image/example,6
-70,6
-application/vnd.dbf,6
-ESRI:ArcGIS--http--configuration,6
-text/HTML,6
-Telechargement,6
-67,6
-application/tsv,6
-example/rdf+xml,6
-WWW:DOWNLOAD:SHP,6
-application/kmz,6
-text/x-sql,6
-Dataset,6
+text/xlsx,6
+Dicionário,6
 OGC-WMTS,6
-WWW:DOWNLOAD-URL,6
-application/vnd.sqlite3,6
-application/vnd.afpc.modca-overlay,6
-application/x-ms-wmz,5
-text/csv;charset=UTF-8,5
-image/x-tga,5
-none,5
-application/json;charset=UTF-8,5
-application/x-r-project,5
-application/nc,5
-application/x-endnote-connect,5
-http://barreto.md.ieo.es/arcgis/services/wms/wmsBase/MapServer/WMSServer?,5
-diverse,5
-Arcgis Feature server,5
-ArcGis Feature,5
+application/x-font-linux-psf,6
+example/rdf+xml,6
+67,6
+Pour télécharger la donnée,6
+application/vnd.oasis.opendocument.presentation,6
+document/unknown,6
+http://seadatanet.maris2.nl/v_cdi_v3/search.asp,6
+WWW:DOWNLOAD:SHP,6
+Consultation,6
+ESRI:ArcGIS--http--configuration,6
+chemical/x-embl-dl-nucleotide,6
+69,6
+70,6
+66,6
+application/json+gzip,6
+Feature Service,6
+application/vnd.mobius.daf,6
+68,6
+application/cvs,6
+Accès au téléchargement - Lien direct WFS,6
+application/CDFV2-unknown,6
+application/vnd.eszigno3+xml,6
+application/vnd.openstreetmap.data+xml,6
+application/vnd.openxmlformats-officedocument.wordprocessingml.template,6
+application/vnd.openxmlformats-officedocument.presentationml.slideshow,6
+application/pgp-keys,6
+application/vnd,6
+video/example,6
+Accès au téléchargement - Lien direct WFS public,6
+Telechargement,6
+text/x-sql,6
+application/tsv,6
+text/asp,6
+OGC API - features,6
+application/x-shar,5
+application/jsv,5
+application/vnd.openxmlformats-officedocument.wordprocessingml.t,5
 application/vnd.ms-officetheme,5
-application/x-stata-do,5
-application/vnd.multiad.creator.cif,5
-application/x-esri-crs,5
-Pour télécharger la donnée,5
-text/xml;charset=UTF-8,5
-Rapport,5
-Accès à la donnée (téléchargement par département),5
-http://www.ideo-base.ieo.es/,5
-application/vnd.ms-outlook,5
-WWW:DOWNLOAD-1.0-ftp--downloaddata,5
-application/x-python,5
-application/epub+zip,5
-https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz,5
-http://sig.magrama.es/geoportal/,5
-text/x-haxe,5
-ESRI:AIMS--http-get-image,5
-text/vnd.graphviz,5
-application/mx22,5
-WWW:DOWNLOAD:JP2_080,5
-application/x-applix-spreadsheet,5
-application/x-rss+xml,5
 TURTLE,5
-application/vnd.oasis.opendocument.presentation,5
-application/x-gzip-compressed,5
+application/ascii,5
+http://www.ideo-base.ieo.es/,5
+application/vnd.chemdraw+xml,5
 chemical/x-sdlfile,5
-application/x-ole-storage,4
-application/vnd.pmi.widget,4
-132,4
-83,4
-109,4
-Web Coverage Service (WCS),4
-112,4
-128,4
-134,4
-94,4
-application/vndams-excel,4
-rss,4
-102,4
-118,4
-OGC API - Feature,4
-PDF,4
-133,4
-WWW:DOWNLOAD:GPKG,4
-application/vnd.ibm.rights-management,4
-140,4
-142,4
-103,4
-104,4
-application/x-ns-proxy-autoconfig,4
-application/viplab+json,4
-80,4
-audio/x-mpegurl,4
-130,4
-95,4
-https://www.iana.org/assignments/media-types/application/vnd.hdt,4
-105,4
-application/gpkg,4
-application/x-dna,4
-139,4
-90,4
-Karttataso Oskari-karttapalvelussa,4
-application/x-executable,4
-video/example,4
-application/ppt,4
-application/xhdf5,4
-137,4
-111,4
-application/vnd.arinc,4
-148,4
-application/x-fasta+txt,4
-LDES,4
-146,4
-77,4
-138,4
-text/xlsx,4
-document/unknown,4
-114,4
-application/x-shar,4
-WWW:DOWNLOAD:ASC,4
-96,4
+apploication/vnd.ms-excel,5
+application/vnd.multiad.creator.cif,5
+application/Groundwater Level Data Viewer,5
+application/x-esri-crs,5
+text/x-haxe,5
+https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz,5
+application/x-r-project,5
+ESRI:AIMS--http-get-image,5
+application/nc,5
+application/xqgis,5
+audio/x-ms-wmv,5
+application/vnd.hzn-3d-crossword,5
+rss,5
+application/ibooks,5
+application/x-python,5
+Shapefile,5
+WWW:DOWNLOAD:ESRI Shapefile,5
+ArcGis Feature,5
+application/x-stata-do,5
+application/x-applix-spreadsheet,5
+application/x-msi,5
+application/vnd.ms-outlook,5
+Arcgis Feature server,5
+http://barreto.md.ieo.es/arcgis/services/wms/wmsBase/MapServer/WMSServer?,5
+application/x-endnote-connect,5
+application/mx22,5
+documentation,5
+application/epub+zip,5
+application/x-ms-wmz,5
+application/p21,5
+text/SGML,5
+http://sig.magrama.es/geoportal/,5
+application/x-gzip-compressed,5
+application/vnd.wolfram.cdf,5
+text/vnd.graphviz,5
+Rapport,5
+NeTEx,5
 upload,4
-WW:DOWNLOAD-1.0-http--download,4
-107,4
-OGC:OUS,4
+application/x-fasta+txt,4
+test/csv,4
+128,4
+application/x-lzh-compressed,4
+Feature service,4
+120,4
+application/vnd.android.package-archive,4
+135,4
+114,4
+https://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text,4
+WWW:DOWNLOAD:ASC,4
+audio/x-psid,4
+73,4
+136,4
 141,4
-145,4
-129,4
-126,4
-Dataportaal Provincie Noord-Holland,4
-93,4
-116,4
-119,4
-106,4
-pptx,4
-OGC:WMTS-http-get-capabilities,4
-application/illustrator,4
-88,4
-91,4
-chemical/x-molfile,4
-99,4
-cvs,4
-Feature Service,4
-89,4
-108,4
+78,4
+142,4
+application/x-dna,4
+115,4
+79,4
+application/vnd.arinc,4
+application/x-perl,4
+application/vnd.wolfram.player,4
+111,4
+application/x-sharedlib,4
+170,4
+audio/aiff,4
+sigar.agglo-larochelle.fr,4
 124,4
-81,4
-123,4
-131,4
+99,4
+application/png,4
+144,4
+155,4
+WWW:DOWNLOAD:GPKG,4
+104,4
+103,4
+text.html,4
+application/x-csh,4
+application/vnd.pmi.widget,4
+129,4
+OGC:OUS,4
+91,4
+application/x-font-otf,4
+Get JSON,4
+application/parquet,4
+77,4
+text/htm,4
+76,4
+146,4
+OGC:WMTS-http-get-capabilities,4
+Acte d'engagement,4
+119,4
+RESTFUL API,4
+122,4
+163,4
+https://www.iana.org/assignments/media-types/application/vnd.hdt,4
+Accès données,4
+152,4
+text/zip,4
+137,4
+148,4
+82,4
+LDES,4
+application/x-authorware-seg,4
+159,4
+SITO RIFERIMENTO,4
+unknown/unknown,4
 143,4
 WEB,4
-72,4
-application/x-csh,4
-110,4
-144,4
-122,4
-100,4
-92,4
-71,4
-84,4
-121,4
-75,4
-74,4
-147,4
-"""application/pdf""",4
-98,4
-chemical/x-cerius,4
-85,4
-OGC API – Coverages,4
-117,4
-78,4
-79,4
-149,4
-unknown/unknown,4
-text/SGML,4
+140,4
+OGC API - Records,4
+157,4
 text/x-patch,4
-127,4
-application/vnd.android.package-archive,4
-115,4
-82,4
-application/x-sharedlib,4
-application/x-photoshop,4
+81,4
+161,4
+154,4
+video/vnd.dece-mp4,4
+145,4
+WWW:DOWNLOAD:Cloud Optimized GeoTIFF,4
+application/rest,4
+74,4
+126,4
+147,4
+application/jpeg,4
+93,4
+application/aspx,4
+166,4
+158,4
 86,4
-136,4
-120,4
-135,4
+Accès catalogue CARA,4
 97,4
-application/x-lzh-compressed,4
-76,4
-113,4
-OGC:EDR,4
-Mapa en formato PDF,4
-Consultation,4
-87,4
+application/vndams-excel,4
+150,4
 101,4
-73,4
+96,4
 125,4
-text/x-perl,4
-text/rss,3
-application/shapefiles,3
-150,3
-application/rest,3
-https://www.iana.org/assignments/media-types/application/json+gzip,3
-Get JSON,3
-Feature service,3
-166,3
-157,3
-text/gml+xml,3
-application/vnd.stardivision.draw,3
-application/x-octet-stream,3
-OGC:WFS-1.1.0-http-describefeaturetype,3
-ArcGis Featureservice,3
-application/cu-seeme,3
-165,3
-161,3
-154,3
-155,3
-image/cgm,3
-application/ascii,3
-application/rdf\+xml,3
-RESTFUL API,3
-168,3
-163,3
-application/x-chimera,3
-SERVICE,3
-152,3
-162,3
-text/zip,3
-WWW:WMS,3
-UKMT,3
-164,3
-application/x-msi,3
-application/turtle,3
-application/vnd.chemdraw+xml,3
-Accès WMS,3
-image/x-applix-graphics,3
-test/csv,3
-application/vnd.openxmlformats-officedocument.wordprocessingml.template,3
-159,3
-application/softgrid-7z,3
-apploication/vnd.ms-excel,3
-text/html;charset=ISO-8859-1,3
-unspecified,3
-application/asx,3
-156,3
-text/x-c++hdr,3
-application/vnd.ms-powerpoint.presentation.macroenabled.12,3
-Acte d'engagement,3
-Image/png,3
-mdb,3
-wfs:WFS_Capabilities (WFS 2.0),3
-Pour télécharger la donnée cliquer ici,3
-153,3
-application/wsdl+xml,3
-application/vnd.rim.cod,3
-https://,3
-application/x-graphpad-prism-pzf,3
-application/x-latex,3
-application/vnd.ms-excel.template.macroEnabled.12,3
-application/png,3
-text.html,3
-application/Data Download,3
-167,3
-application/rdf+turtle,3
-application/x-dosexec,3
-Dirección NAS - SINCHI,3
-text/x-sfv,3
-application/xqis,3
-application/json+gzip,3
-160,3
-ESRI:ArcGIS--http--layer,3
-application/x-perl,3
-jpeg,3
-application/vnd.snesdev-page-table,3
-audio/x-matroska,3
-application/nvivo-project,3
-tesxt/json,3
-application/haansofthwp,3
+application/htmlf,4
+Karttataso Oskari-karttapalvelussa,4
+149,4
+164,4
+139,4
+89,4
+121,4
+167,4
+72,4
+text/x-quarto-markdown,4
+application/x-executable,4
+application/example,4
+audio/x-mpegurl,4
+75,4
+application/x-spss,4
+71,4
+application/x-ns-proxy-autoconfig,4
+165,4
+100,4
+130,4
+102,4
+WWW:DOWNLOAD:JP2_080,4
+169,4
+108,4
+application/shapefiles,4
+Téléchargement France entière ou par régions,4
+Dataportaal Provincie Noord-Holland,4
+109,4
+application/x-pkcs7-crl,4
+video/3gpp,4
+153,4
+OGC API - Feature,4
+chemical/x-molfile,4
+83,4
+138,4
+134,4
+TMS,4
+113,4
+Téléchargement France entière ou par région,4
+156,4
+107,4
+88,4
+168,4
+87,4
+117,4
+90,4
+95,4
+160,4
+162,4
+105,4
+OGC API – Coverages,4
+127,4
+118,4
+131,4
+84,4
+85,4
+92,4
+image/tif,4
+application/vnd.ibm.rights-management,4
+98,4
+110,4
+application/gml,4
+Accès à la métadonnées sur le catalogue SIGENA,4
+80,4
+133,4
+132,4
+106,4
+116,4
+application/viplab+json,4
+application/illustrator,4
+151,4
+APPLICATION/HTML,4
+123,4
+112,4
+94,4
 WWW:DOWNLOAD:Texte,3
-158,3
-ESRI Shapefile,3
-151,3
-application/softgrid-sps,3
-application/vnd.google-apps.map,3
-wma,3
-application/mxf,3
-application/x-dvi,3
-application/a-qgis,3
-application/text-plain:formatted,3
+212,3
+https://www.geoservicos1.segeth.df.gov.br/arcgis/services/Equipamentos_Urbanos/ESCOLAS_REGULARIZACAO/MapServer/WMSServer?request=GetCapabilities&service=WMS,3
+254,3
+197,3
+296,3
+303,3
+XML / NeTEx / EPIP,3
+294,3
+OGC:EDR,3
+application/vnd.wm.igor.ibw,3
+183,3
+306,3
 application/dsb,3
-audio/x-ms-wmv,3
-bin,2
-application/x-pkcs7-crl,2
-"https://kartat.tampere.fi/oskari?zoomLevel=4&coord=344075.3045520923_6828220.603176316&mapLayers=18+100+raster,2001+100+&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
-application/vnd.stardivision.writer,2
-Lisätietoa,2
-text/r,2
-OGC:WMTS-1.0.0-http-get-featureinfo,2
-geoJSON,2
-text/x-tcl,2
-Téléchargement France entière ou par régions,2
-application/x-font-otf,2
-"Sidney Island Shorebird Surveys, British Columbia - Transects Line",2
-R,2
-WWW:DOWNLOAD-1.0-http-get-map,2
-WWW:DOWNLOAD:JP2_100 (Normal),2
-text/sql,2
-application/vnd.ms-pki.seccat,2
-application/twbx,2
-OGC:API features,2
-WWW:DOWNLOAD:GeoPackage,2
-application/zip; charset=utf-8,2
-http://,2
-text/x-rst,2
-video/x-dv,2
-image/x-wmf,2
-https://www.opengis.net/def/serviceType/ogc/wfs,2
-APPLICATION/HTML,2
-audio/x-sd2,2
-application/DCD,2
-text/nlogo,2
-TEXT/HTML,2
-application/irp,2
-text/vnd.dvb.subtitle,2
-RFC:ATOM,2
-sbx,2
-WWW:DOWNLOAD:WFS,2
-Accès au téléchargement - Lien direct WFS Public,2
-sigar.agglo-larochelle.fr,2
-image/x-cmx,2
-arcgis Map,2
-Accès à la métadonnées sur le catalogue SIGENA,2
-application/rdf+json,2
-application/vnd.ms-word.document.12,2
-biosequence/phylip,2
-OGC:WNS,2
-sbn,2
-OGC:WFS/OGC-WFS Web Feature Service,2
-WMS/WFS,2
-Accés à la documentation,2
-https://www.kuopio.fi/meluselvitykset-2022,2
-ArcGIS Server Map Service,2
-Arcgis Feature acces,2
-text/vtt,2
-model/stl,2
-application/vnd.ms-publisher,2
-text/example,2
-WWW:DOWNLOAD:GeoTIFF,2
-hjemmeside,2
-application/mspowerpoint,2
-WWW:DDOWNLOAD-1.0-http--download,2
-application/x-ntriples,2
-application/example,2
-"Pelagic Seabird Atlas Survey Effort, 2009",2
-application/x-fityk,2
-application/applixware,2
-WAF,2
-text/unknown,2
-Accès catalogue CARA,2
-text/x-readme,2
-text/x-ms-regedit,2
-arcgis mapserver,2
-text/htm,2
-application/vnd.wolfram.player,2
-http://www.opengis.net/def/serviceType/ogc/wcs,2
-image/jpx,2
-application/vnd.openxmlformats-officedocument.wordprocessingml.t,2
-application/x-python-bytecode,2
-text/xls,2
-http://inspire.ec.europa.eu/id/ats/download-service/3.1/OGC-API-Features,2
-api/sparql,2
-application/bzip2,2
-application/x-ms-application,2
-WWW:DOWNLOAD:gpkg,2
-application/x-tex-pk,2
-https://kartta.hsy.fi/geoserver/wms?request=GetCapabilities&service=WMS,2
-application/smil+xml,2
-application/vnd.chipnuts.karaoke-mmd,2
-application/softgrid-inp,2
-SHP,2
-svg,2
-Sensor Observation Service (SOS),2
-Accès WMS Public,2
-https://www.iana.org/assignments/media-types/application/x-qgis,2
-"Pelagic Seabird Atlas Grids Surveyed, 2009",2
-applicaton/octet-stream,2
-"https://kartat.tampere.fi/oskari?zoomLevel=6&coord=331519.3598398452_6823340.254041212&mapLayers=18+100+raster,2461+100+raster&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
-application/hyperstudio,2
-application/vnd.oasis.opendocument.database,2
-https://tools.ietf.org/html/rfc4287,2
-application/ibooks,2
-application/vnd.ms-excel.12,2
-text/html; charset=utf-8; charset=utf-8,2
-http://inspire.ec.europa.eu/id/ats/download-service/3.1/predefined-atom,2
-application/x-excel,2
-WWW :LINK-1.0-http—link,2
-"Pelagic Seabird Atlas Study Area, 2009",2
-video/vnd.dece-mp4,2
-SITO RIFERIMENTO,2
-image/x-mrsid-image,2
-"Pelagic Seabird Atlas Average Grid Cell Density, 2009",2
-application/sparql-results+xml,2
-application/x-desktop,2
-image/tif,2
-Atlantic Colonies - Density Analysis,2
-application/KaluzaAnalysis,2
-https://geodata.tampere.fi/geoserver/ows?service=wfs&version=2.0.0&request=GetCapabilities,2
-pdf/xls,2
-rest,2
-DBF,2
-application/wps-office.docx,2
-169,2
-text/gff3,2
-image/x-portable-graymap,2
-application/vnd.nexus.nex,2
-application/x-font-snf,2
-application/vnd.wolfram.cdf,2
-xodr,2
-INSPIRE WFS,2
-"Tofino Mudflats Shorebird Surveys, British Columbia - Survey Areas",2
-application/htmlf,2
-http://www.emodnet-geology.eu/emodnet/srv/eng/home,2
-application/rdata,2
-OGC:WCTS,2
-CSv,2
-WWW:Download,2
-170,2
-OGC:WCS-1.1.1-http-describecoverage,2
-Accès données,2
-Téléchargement France entière ou par région,2
-application/x-font-linux-psf,2
-application/x-stuffitx,2
-OGC API - features (STAC API),2
-image/x-emf,2
-"https://kartat.tampere.fi/oskari?zoomLevel=7&coord=328264.66825000057_6821528.745550003&mapLayers=18+100+raster,4537+100+&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
-application/x-abiword,2
-http://indamar.ieo.es/,2
+application/softgrid-7z,3
+text/rss,3
+184,3
+222,3
+ESRI:ArcGIS--http--layer,3
+191,3
+174,3
+266,3
+appication/xml,3
+241,3
+187,3
+269,3
+209,3
+279,3
+207,3
+298,3
+250,3
+194,3
+206,3
+pdf/xls,3
+284,3
+281,3
+application/wsdl+xml,3
+267,3
+http://,3
+application/WMTS,3
+291,3
+wmts,3
+Dirección NAS - SINCHI,3
+292,3
+https://www.geoportal.seduh.df.gov.br/mapa/,3
+application/x-graphpad-prism-pzf,3
+232,3
+image/x-portable-graymap,3
+257,3
+235,3
+285,3
+261,3
+280,3
+mdb,3
+application/xml+gml,3
+221,3
+247,3
+image/x-applix-graphics,3
+205,3
+application/wfs,3
+215,3
+245,3
+text/csv;charset=UTF-8,3
+227,3
+189,3
+305,3
+unspecified,3
+230,3
+Téléchargement France entière,3
+307,3
+240,3
+application/softgrid-sps,3
+282,3
+180,3
+259,3
+application/x-chimera,3
+OGC:TMS,3
+n/a,3
+Accés à la documentation,3
+302,3
+audio/x-matroska,3
+177,3
+WWW:DOWNLOAD:GeoTIFF,3
+200,3
+246,3
+217,3
+application/nvivo-project,3
+276,3
+application/vnd.snesdev-page-table,3
+224,3
+application/gpkg,3
+226,3
+220,3
+193,3
+293,3
+195,3
+ESRI:ArcGIS-10.3.1-http--configuration,3
+application/x-latex,3
+192,3
+253,3
+application/json;charset=UTF-8,3
+application/vnd.ms-excel.template.macroEnabled.12,3
+242,3
+204,3
+244,3
+188,3
+286,3
+213,3
+234,3
+application/stream,3
+268,3
+289,3
+application/rdf\+xml,3
+233,3
+262,3
+182,3
+image/x-cmx,3
+236,3
+application/mxf,3
+appplication/pdf,3
+214,3
+264,3
+274,3
+251,3
+210,3
+218,3
+238,3
+190,3
+186,3
+271,3
+wma,3
+application/x-trash,3
+geoJSON,3
+CSIRO-INTERNAL-LINK,3
+295,3
+273,3
+173,3
+jpeg,3
+256,3
+text/x-sfv,3
+223,3
+297,3
+239,3
+application/haansofthwp,3
+272,3
+176,3
+208,3
+255,3
+299,3
+278,3
+301,3
+216,3
+application/msword-template,3
+196,3
+application/rdf+turtle,3
+UKMT,3
+image/cgm,3
+248,3
+229,3
+185,3
+263,3
+178,3
+270,3
+application/vnd.ms-powerpoint.presentation.macroEnabled.12,3
+TEXT/HTML,3
+277,3
+203,3
+Accès téléchargement ( France entière),3
+275,3
+Datex II,3
+wfs:WFS_Capabilities (WFS 2.0),3
+290,3
+225,3
+179,3
+202,3
+237,3
+application/x-rtf,3
+application/turtle,3
+265,3
+258,3
+300,3
+260,3
+219,3
+text/x-c++hdr,3
+application/x-dvi,3
+304,3
+201,3
+181,3
+283,3
+PLU,3
+243,3
+199,3
+211,3
+252,3
+249,3
+OGC:WFS-1.1.0-http-describefeaturetype,3
+application/x-octet-stream,3
+application/vnd.stardivision.draw,3
+171,3
+application/vnd.rim.cod,3
+287,3
+228,3
+application/text-plain:formatted,3
+175,3
+172,3
+231,3
+http://cartografia.salvador.ba.gov.br,3
+198,3
+288,3
 application/x-osptracker,2
-application/x-trash,2
-WWW:https://kartat.tampere.fi/oskari/,2
-application/dwg,2
-application/vnd.clustal.aln,2
-tsv,2
-audio/mid,2
-https://kartat.tampere.fi/oskari/?lang=fi&uuid=cf237bc6-7977-4812-81da-14a95a4d94cc,2
-image/vnd.radiance,2
-application/wordperfect,2
-OGC:WFS-1.1.0-http-getgmlobject,2
-application/x-rtf,2
-appplication/pdf,2
 GIS Shape,2
-audio/x-stm,2
-"Tofino Mudflats Shorebird Surveys, British Columbia - Survey Transects",2
-CSIRO-INTERNAL-LINK,2
-application/vnd.rn-realmedia,2
-WWW:DOWNLOAD-OGC:OWS-C,2
+text/html;charset=ISO-8859-1,2
+OGC:API features,2
+https://www.iana.org/assignments/media-types/image/vn.dwg,2
+https://kartat.tampere.fi/oskari/?lang=fi&uuid=cf237bc6-7977-4812-81da-14a95a4d94cc,2
+http://www.opengis.net/def/serviceType/ogc/wcs,2
+OGC:WFS-1.1.0-http-getgmlobject,2
 Suunnittelutarvealueet.pdf,2
+OGC:WMTS-1.0.0-http-get-featureinfo,2
+tsv,2
+http://www.emodnet-geology.eu/emodnet/srv/eng/home,2
+application/asx,2
+WWW:DOWNLOAD-OGC:OWS-C,2
+OGC:WFS/OGC-WFS Web Feature Service,2
+application/vnd.nexus.nex,2
+https://www.kuopio.fi/meluselvitykset-2022,2
+hjemmeside,2
+application/x-stuffitx,2
+WFS (Carte forestière V2),2
+text/gml+xml,2
+WWW:DOWNLOAD:JP2,2
+WWW :LINK-1.0-http—link,2
+"Pelagic Seabird Atlas Grids Surveyed, 2009",2
+WCS,2
+image/x-mrsid-image,2
+Atlantic Colonies - Density Analysis,2
+WMS (Carte forestière V2),2
+https://kartta.hsy.fi/geoserver/wms?request=GetCapabilities&service=WMS,2
+Sensor Observation Service (SOS),2
+arcgis Map,2
+pptx,2
+application/vnd.ms-pki.seccat,2
+Lisätietoa,2
+WWW:DOWNLOAD-1.0-http,2
+http://inspire.ec.europa.eu/id/ats/download-service/3.1/predefined-atom,2
+application/twbx,2
+text/x-ms-regedit,2
+http://inspire.ec.europa.eu/id/ats/download-service/3.1/OGC-API-Features,2
+Télécharger les données France entière,2
+application/applixware,2
+"https://kartat.tampere.fi/oskari?zoomLevel=7&coord=328264.66825000057_6821528.745550003&mapLayers=18+100+raster,4537+100+&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
+application/vnd.hp-hps,2
+Accès à la métadonnée des ZPS sur le catalogue SIGENA,2
+En savoir plus,2
+application/geo json,2
+application/x-ms-dos-executable,2
+application/softgrid-inp,2
+application/x-ms-application,2
+Image/png,2
+application/xqis,2
+application/vnd.ms-publisher,2
+application/wps-office.docx,2
+INSPIRE WFS,2
+Arcgis Feature acces,2
+application/x-abiword,2
+tesxt/json,2
+OGC API - features (STAC API),2
+"Pelagic Seabird Atlas Study Area, 2009",2
+WWW:Download,2
+application/x-excel,2
+application/zip; charset=utf-8,2
+text/nlogo,2
+WWW:DOWNLOAD-1.0-http--rss,2
+application/vnd.oasis.opendocument.database,2
+ArcGis Featureservice,2
+"Pelagic Seabird Atlas Average Grid Cell Density, 2009",2
+Accès à la métadonnée des habitats naturels sur le catalogue SIGENA (avec lien de téléchargement des données),2
+biosequence/embl,2
+application/irp,2
+Accès à la métadonnée des ZNIEFF de type 1 sur le catalogue SIGENA,2
+OGC:WNS,2
+application/rdata,2
+DBF,2
+"https://kartat.tampere.fi/oskari?zoomLevel=4&coord=344075.3045520923_6828220.603176316&mapLayers=18+100+raster,2001+100+&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
+application/KaluzaAnalysis,2
+application/x-font-pcf,2
+WWW:DOWNLOAD:JP2_100 (Normal),2
+OGC:WFS-http-get-feature,2
+rest,2
+application/vnd.stardivision.writer,2
+WWW:https://kartat.tampere.fi/oskari/,2
+image/vnd.radiance,2
+application/WFS,2
+Accès à la métadonnée des ZSC et SIC sur le catalogue SIGENA,2
+OGC:WCS-1.1.2-http-get-capabilities,2
+text/x-readme,2
+image/jpx,2
+api/sparql,2
+biosequence/genbank,2
+WMTS (Carte forestière V2),2
+audio/x-stm,2
+sav,2
+application/bzip2,2
+Accès à la métadonnées sur le catalogue SIGENA (avec liens pour le téléchargement des données),2
+text/xls,2
+Pour aller plus loin,2
+application/wordperfect,2
+non diffusable,2
+biosequence/phylip,2
+ArcGIS Server Map Service,2
+application/vnd.ms-word.document.12,2
+EXCEL ZIP,2
+sbn,2
+application/vnd.ogc.se_xml,2
+Accès à la donnée (téléchargement France entière),2
+"Tofino Mudflats Shorebird Surveys, British Columbia - Survey Areas",2
+model/stl,2
+WWW:DOWNLOAD:laz,2
+application/mspowerpoint,2
+309,2
+applicaton/json,2
+application/sparql-results+xml,2
+text/sgml,2
+OGC SensorThingsAPI,2
+image/x-wmf,2
+application/vnd.visio,2
+RFC:ATOM,2
+308,2
+text/x-tcl,2
+text/x-rst,2
+application/x-tex-pk,2
+xht,2
+audio/x-sd2,2
+https://tools.ietf.org/html/rfc4287,2
+application/vnd.oasis.opendocument.spreadsheet-template,2
+WWW:DOWNLOAD-1.0-http-get-map,2
+"https://kartat.tampere.fi/oskari?zoomLevel=6&coord=331519.3598398452_6823340.254041212&mapLayers=18+100+raster,2461+100+raster&uuid=0ee42977-540a-42e6-9107-bc9767d00fac&noSavedState=true&showIntro=false",2
+text/unknown,2
+http://indamar.ieo.es/,2
+application/x-ntriples,2
+application/vnd.google-apps.map,2
+Téléchargement des données,2
+text/plain-bas,2
 LINK-1.0-http--partners,2
-application/jpeg,2
-application/x-endnote-library,1
-186,1
-Service,1
-application/vnd.stardivision.impress,1
-application/x-wtt,1
-application/vnd.trueapp,1
-application/xhtml+xml;charset=UTF-8,1
-Zonas de Amortiguamiento Shapefile y Layer,1
-Donnée d'origine,1
-application/softgrid-rdata,1
-214,1
-image/pdf,1
-model/vnd.mts,1
-"Shapefile del productores beneficiarios del ""Proyecto cacao""",1
-WWW:DOWNLOAD-1.0-ftp--dowload,1
-179,1
-http://www.magrama.gob.es/ide/metadatos/index.html?srv=metadata.show&uuid=7672013f-69a7-49c9-b7f4-9aaaa525c6d3,1
-application/vnd.novadigm.ext,1
-203,1
-233,1
-249,1
-application/x-mobipocket-ebook,1
-aplication/vnd.ogc.wms_xml,1
-Protocole : WWW:DOWNLOAD-1.0-http—download,1
-text/html;charset=iso-8859-1,1
-application/x-font-pcf,1
-Protocole : WWW:DOWNLOAD-1.0-http--download,1
-Datex II,1
-rd,1
-multipart/related,1
-WWW:DOWNLOAD-1.0-http,1
-247,1
-WMTS - ORTHOIMAGERY.ORTHOPHOTOS2014,1
-model/gltf-binary,1
-Accès à la métadonnée des ZSC et SIC sur le catalogue SIGENA,1
-image/x-pict,1
-Accès téléchargement (France entière - 2011),1
-application/vnd.ms-excel.template.macroenabled.12,1
-application/vnd.stardivision.math,1
-238,1
-https://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet,1
-xht,1
-video/3gpp,1
-TMS,1
-Mapa de superficie agrícola provincial,1
-application/x-qgis-project-container,1
-application/x-qtiplot,1
-WWW:DOWNLOAD:CityJson,1
-application/vnd.sun.xml.base,1
-225,1
-application/vnd.ogc.wcs_xml,1
-253,1
-Arcgis mapserver,1
-application/vnd.ogc.csw_xml,1
-Layer Subcategorías de la ZF San Martín,1
-vmf,1
-190,1
-Accès à la métadonnées sur le catalogue interministériel (avec liens pour le téléchargement et la consultation des données),1
-"text/html, application/XML, text/plain, application/sparql-results+json, application/sparql-results+xml, application/rdf+xml,, text/rdf+n3, application/x-turtle, application/x-trig, application/trix, text/boolean",1
-Accès à la métadonnée des habitats naturels sur le catalogue SIGENA (avec lien de téléchargement des données),1
-GZ,1
-WWW:DOWNLOAD:CityGML,1
-application/mipc,1
-GeoJSON,1
-image/tiff+zip,1
-application/rdf xml,1
-WWW:DOWNLOAD:EDIGEO,1
-WFS (Carte forestière V2),1
-Documento ZEE Alto Mayo,1
-192,1
-194,1
-248,1
-application/x-awk,1
-261,1
-188,1
-Diccionario de datos SERNANP,1
-application/x-wine-extension-ztq,1
-text/x-emacs-lisp,1
-262,1
-application/mex,1
-application/vnd.hal+xml,1
-chemical/x-vmd,1
-"Shapefile de productores beneficiarios del ""Proyecto Naranja""",1
-XLs,1
-appication/xml,1
-application/vnd.openxmlformats-officedocument.word,1
-GDB de Bosques locales,1
-application/oxps,1
-GDB de la ZEE Alto Mayo,1
-text/x-go,1
-OGC: WFS,1
-229,1
-rel-canonical,1
-178,1
-185,1
-text/xml; charset=utf-8,1
-application/vnd.openxmlformats-officedocument.spre,1
-257,1
-application/x-001-compressed,1
-235,1
-Accès à la métadonnée des ZNIEFF de type 1 sur le catalogue SIGENA,1
-pbf,1
-172,1
-application/zipl,1
-application/x-file,1
-https://www.iana.org/assignments/media-types/application/EDI-consent,1
-GDB Meso ZEE Cumbaza,1
-application/x-virtualbox-ova,1
-application/vnd.ms-pdf,1
-application/vnd.oma.drm.content,1
-Geodatabase de Infraestructura Agraria,1
-application/x-jdf,1
-application/vnd.google-apps.presentation,1
-application/ms-excel,1
-x-gis/x-shapefile,1
-application/xml-sitemap,1
-application/x-wine-extension-opj,1
-GDB de autorizaciones para desbosque,1
-application/vnd.visio,1
-REST-API,1
-259,1
-INSPIRE Atom feed,1
-application/softgrid-tex,1
-Memoria descriptiva de la superficie agrícola del departamento San Martín 2022,1
-doi10.5194hess-15-453-2011,1
-WWW:DOWLOAD-1.0-http--download,1
-application/vnd.geogebra.file,1
-GDB de Permisos,1
-217,1
-239,1
-WWW:DOWNLOAD:DXF,1
-250,1
-199,1
-176,1
-WMTS - Masse Médoc sud est,1
-CVS,1
-te,1
-application,1
-223,1
-application/esri,1
-application/x-futuresplash,1
-http://wms.magrama.es/sig/Biodiversidad/RiquezaEspecies/wms.aspx,1
-266,1
-8.0,1
-LINK-1.0-http--link,1
-196,1
-application/vnd.nitf,1
-application/vnd.hp-hps,1
-211,1
-226,1
-application/vnd.recordare.musicxml,1
-application/vnd.apple.installer+xml,1
-216,1
-Provincias del departamento de San Martín,1
-"Shapefile de productores beneficiarios del ""Proyecto Maíz""",1
-OGC STAC API,1
-254,1
-wsf/gml,1
-"LAS/LAZ, Tiff",1
-application/x-gretldata,1
-Argis Feature,1
-application/x-iwork-pages-sffpages,1
-230,1
-application/sparql-results+json application/sparql-results+xml ,1
-Télécharger les données France entière,1
-tar,1
-GDB Supervisiones Ambientales,1
-GDB de Concesiones,1
-application/zlib,1
-netCDF,1
-189,1
-Téléchargement France entière,1
-http://www.emodnet-geology.eu/emodnet/srv/eng/progress#wp7,1
-application/x-bzip-compressed-tar,1
-WWW:DOWNLOAD:JP2_080 (Optimisé),1
-Accès téléchargement (France entière - 2010),1
-202,1
-Bosque y No Bosque,1
-212,1
-application/vnd.fdsn.mseed,1
-doi10.5194hess-17-3707-2013,1
-174,1
-Arcgis Mapservices,1
-WMTS - Masse Médoc nord,1
-image/g3fax,1
-text/x-maximasession,1
-En savoir plus,1
+text/xml;charset=UTF-8,2
+application/x-python-bytecode,2
+application/vnd.chipnuts.karaoke-mmd,2
+arcgis mapserver,2
+application/vnd.clustal.aln,2
+CSv,2
+xodr,2
+310,2
+application/x-fityk,2
+"Pelagic Seabird Atlas Survey Effort, 2009",2
+application/x-font-snf,2
+text/example,2
+WWW:DDOWNLOAD-1.0-http--download,2
+OGC:WCS-1.1.1-http-describecoverage,2
+video/x-dv,2
+Atom,2
+application/DCD,2
+application/rdf+json,2
+sbx,2
+Accès à la métadonnées sur le catalogue interministériel (avec liens pour le téléchargement et la consultation des données),2
+application/x-desktop,2
+WWW:DOWNLOAD:WFS,2
+OGC:WCTS,2
+"Tofino Mudflats Shorebird Surveys, British Columbia - Survey Transects",2
+https://geodata.tampere.fi/geoserver/ows?service=wfs&version=2.0.0&request=GetCapabilities,2
+Accès à la métadonnée des ZNIEFF de type 2 sur le catalogue SIGENA,2
+texl/html,2
+Télécharger plus de versions,2
+application/smil+xml,2
+SHP,2
+text/sql,2
+WWW:DOWNLOAD:gpkg,2
+WWW,2
+"Sidney Island Shorebird Surveys, British Columbia - Transects Line",2
+application/vnd.ms-excel.12,2
+text/r,2
+text/html; charset=utf-8; charset=utf-8,2
 OGC:WCS-2.0.0-http-get-capabilities,1
+395,1
+441,1
+Protocole : WWW:DOWNLOAD-1.0-http--download,1
+489,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14923,1
+application/vnd.fdsn.mseed,1
+450,1
+application/json-ld,1
+application/x-debian-package,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14865,1
+application/x-gretldata,1
+application/vnd.novadigm.EXT,1
+application/x-pkcs12,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14921,1
+application/fits-gzipped,1
+382,1
 WMTS - Masse Médoc sud CH2582,1
-Accès à la métadonnées sur le catalogue SIGENA (avec liens pour le téléchargement des données),1
-Shapefile,1
-application/x-extension-fcstd,1
-application/vnd.ms-word,1
-Turtle,1
-sav,1
-Secteur de collecte des déchets 2024 - WFS,1
-FILE,1
-Téléchargement des données,1
-Accès au téléchargement - Lien direct WFS,1
-210,1
-ArcGis Map Services,1
-228,1
-text/x-sas-syntax;charset=US-ASCII,1
-BAG,1
-LAS/LAZ,1
-221,1
-application/vnd.oasis.opendocument.spreadsheet-template,1
-218,1
-251,1
-Télécharger plus de versions,1
-cad,1
-Área de ecosistemas frágiles en San Martín,1
-application/x-stata-15,1
-application/gxf,1
-175,1
-INSPIRE ATOM,1
-XSL,1
-WWW:DOWNLOAD:Tableur Excel,1
-application/x-gtar-compressed,1
-application/zstd,1
-GDB ZoCRES Inmatriculados,1
-application/x-raw-disk-image,1
-OGC:WMTS-1.0.0-http-get-map,1
-application/vnd.ms-powerpoint.presentation.macroEnabled.12,1
-245,1
-text/calendar;charset=UTF-8,1
-chemical/x-molconn-Z,1
-205,1
-227,1
-"Productores Beneficiarios del ""Proyecto Arroz""",1
-215,1
-application/vnd.eln+zip,1
-turtle,1
-application/msword-template,1
-242,1
-"Productores beneficiarios del ""proyecto Café""",1
-231,1
-PDF Documento Final Meso ZEE Cumbaza,1
-doi10.5194hess-15-967-2011,1
-model/x.stl-binary,1
-text/x-moz-deleted,1
-applicationxml,1
-application/wps-office.pdf,1
-ArcGis Feature Services,1
-WMS (Carte forestière V2),1
-application/attachment,1
-GDB de la Zonificación Forestal del Departamento de San Martín,1
-tif,1
-application/haansoftpptx,1
-application/x-wine-extension-ztt,1
-WWW:DOWNLOAD:JP2,1
-Mapa de Infraestructura Agraria,1
-application/nvivo-qdpx-project,1
-application/x-troff-me,1
-232,1
-234,1
-text/html; charset=us-ascii,1
-api/json,1
-application/x-lzh,1
-195,1
-193,1
-213,1
-263,1
-182,1
-Données sources,1
-application/oebps-package+xml,1
-GDB de ZoCREs Otorgadas en San Martín,1
-236,1
-rdf/xml,1
-Datos Abiertos,1
-chemical/x-jcamp-dx,1
-application/haansoftxls,1
-Límites,1
-204,1
-application/x-tar-gz,1
-Distritos de San Martín,1
-application/vnd.sun.xml.writer.template,1
-image/jpeg2000,1
-177,1
-201,1
-http://wms.magrama.es/sig/Biodiversidad/AMP/wms.aspx?,1
-application/x-info,1
-Accès à la donnée (téléchargement France entière),1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14981,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15181,1
+416,1
 Xls,1
-OTHER,1
+447,1
+Arcgis services,1
+application/x-tar-gz,1
+456,1
+https://webcarto.infogeo54.fr/index.php/lizmap/service/?repository=opendata&project=opendata&SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities,1
+Accès WFS sécurisé,1
+application/vnd.geogebra.file,1
+text/x-c  src,1
+application/x-nquads,1
+457,1
+WMTS - Masse Médoc nord,1
+329,1
+te,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15219/CS-Sumare.pdf?sequence=1,1
+application/vnd.nokia.n-gage.ac+xml,1
+information,1
+351,1
 "
         image/gif
       ",1
-tdyn/html,1
 application/vnd.iccprofile,1
-224,1
-https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml,1
-181,1
-209,1
-222,1
-application/x-httpd-php,1
-220,1
-180,1
-184,1
-173,1
-CSWV,1
-Áreas de Conservación Regional Shapefile y Layer,1
-206,1
-187,1
-application/rdf+n3,1
-"application/xhtml+xml, text/plain, application/rdf+json,application/rdf+xml.text/rdf+n3",1
-xml/rdf,1
-256,1
-application/x-compress,1
-fmwt,1
-application/x-dtbncx+xml,1
-WWW:DOWNLOAD:DAE,1
-GDB Comunidades Nativas Tituladas,1
-241,1
-207,1
-WWW:DOWNLOAD:JP2_100,1
-171,1
-252,1
+394,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14993,1
+application/x-wine-extension-opj,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14919,1
+image/jpeg2000,1
+482,1
+470,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14924,1
+WWW:DOWNLOAD:JPEG2000,1
+application/esri,1
+https://www.iana.org/assignments/media-types/application/EDI-consent,1
+tdyn/html,1
+FILE,1
 application/x-empty,1
+CSWV,1
+OGC: WFS,1
+363,1
+490,1
+Arcgis mapserver,1
+378,1
+347,1
+434,1
+405,1
+application,1
+application/vnd.sun.xml.writer.template,1
+Pas de restriction d'accès public selon INSPIRE,1
+fmwt,1
+478,1
+"Diretiva INSPIRE - Serviço WFS relativo ao tema ""Distribuição das espécies""",1
+http://www.cprm.gov.br/suscetibilidade/SIG_Diogo_de_Vasconcelos_MG.zip,1
+400,1
+359,1
+352,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14992,1
+458,1
+Descriptif du contenu BD Topo 2016,1
+application/vnd.apple.installer+xml,1
+332,1
+349,1
+362,1
+application/oxps,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/14933/CS-Januaria.pdf?sequence=1,1
+application/pgp-encrypted,1
+application/vnd.ogc.wcs_xml,1
+INPIRE-ATOM,1
+319,1
+model/gltf+json,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15021,1
+334,1
+340,1
+application/x-wine-extension-ztt,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14931,1
+applicationxml,1
+Web,1
+ArcGis Feature Services,1
+323,1
+pbf,1
+341,1
+text/x-script.python,1
+446,1
+REST-API,1
+application/vnd.openxmlformats-officedocument.word,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15182/CS-Itapetininga.pdf?sequence=1,1
+379,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15103,1
+application/x-jdf,1
+application/x-troff-me,1
+396,1
+353,1
+application/zipl,1
+429,1
+model/vnd.mts,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14885,1
+413,1
+Documentation et téléchargement IGN,1
+INSPIRE ATOM,1
+rd,1
+325,1
+application/vnd.trueapp,1
+application/vnd.novadigm.ext,1
+Donnée d'origine,1
+398,1
+WWW:DOWNLOAD:JP2_080 (Optimisé),1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14866,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15164,1
+485,1
+text/fa,1
+image/x-pict,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14934,1
+tgz,1
+image/CR2,1
+475,1
+aplication/vnd.ogc.wms_xml,1
+466,1
+428,1
+473,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15663,1
+turtle,1
+application/vnd.eln+zip,1
+Téléchargement France entière par régions,1
+391,1
+WWW:DOWNLOAD:Tableur Excel,1
+Local,1
+425,1
+460,1
+multipart/related,1
+application/vnd.ms-excel.template.macroenabled.12,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14971,1
+http://www.cprm.gov.br/suscetibilidade/ipt_sp/SIG_RibeiraoPires_SP.zip,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15171,1
+383,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Belem_PA.zip,1
+423,1
+420,1
+467,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14887,1
+WMT,1
+417,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14863,1
+application/a-qgis,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15034,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14875,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14918,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15161,1
 application/scvp-vp-request,1
-200,1
-text/x-csl,1
-208,1
-244,1
-246,1
-rtf,1
-258,1
-255,1
-Lien vers le service WMS du Géoportail de l'urbanisme,1
-application/rcp,1
-GDB Bosques de Producción Permanente,1
-application/json-ld,1
-application/application/csv,1
-application/x-pkcs12,1
-198,1
-arcgis Mapserver,1
-application/font-woff,1
-ESRI:AIMS-4.0-http--configuration,1
-243,1
-application/x-maple-worksheet,1
-text/richtext,1
-ANP de Administración Nacional Shapefile y Layer,1
-image/x-xcf,1
-183,1
-260,1
-application/fits-gzipped,1
-191,1
-240,1
-197,1
-Accès à la métadonnée des ZPS sur le catalogue SIGENA,1
-265,1
-text/x-troff-me,1
-text/html; charset: utf-8; charset=utf-8,1
-OGC:SOS-1.0.0-http-post-observation,1
-Áreas de Conservación Privada Shapefile y Layer,1
-237,1
-WMTS (Carte forestière V2),1
-chemical/x-fastq,1
-text/vnd.in3d.3dml,1
-application/owl+xml,1
-Mapa en PDF,1
-219,1
-application/x-ms-dos-executable,1
-application/vnd.claymore,1
-Mapa de superficie agrícola departamental,1
-264,1
+Turtle,1
+408,1
+427,1
+application/sparql-results+json application/sparql-results+xml ,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15098,1
+439,1
+384,1
+application/vnd.ms-word,1
+Projets cartographiques (.zip),1
+320,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14862,1
+348,1
+wsf/gml,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15179/CS-Iguape.pdf?sequence=1,1
+text/x-maximasession,1
+392,1
+WMS 1.3.0,1
+application/vnd.google-apps.presentation,1
+https://carto.marennes-oleron.com/auth/login#/data/geodata/,1
+application/kml,1
+366,1
+application/ecmascript,1
+409,1
+Accès téléchargement (France entière - 2010),1
 OGC:WMTS-1.1.1-http-get-capabilities,1
-text/rdf+json,1
-WWW:DOWNLOAD:OBJ,1
-application/x-trig,1
-Accès à la métadonnée des ZNIEFF de type 2 sur le catalogue SIGENA,1
-application/ html,1
-RM 039-2020-MINAM,1
-application/octect-stream,1
+tar,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15031,1
 application/x-unknown,1
-WWW:DOWNLOAD:ESRI,1
-GDB de autorizaciones de cambio de uso con fines agropecuarios,1
-application/vnd.nokia.n-gage.ac+xml,1
+application/x-httpd-php,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Branquinha_AL.zip,1
+LINK-1.0-http--link,1
+390,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15210,1
+application/ html,1
+WORD,1
+402,1
+application/nvivo-qdpx-project,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14978,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14985,1
+application/vnd.las,1
+406,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Nova_Vicosa_BA.zip,1
+342,1
+370,1
+txt/html,1
+ESRI Dashboard,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14999,1
+Documentation BD_ Carthage,1
+x-gis/x-shapefile,1
+application/ms-excel,1
+368,1
+http://wms.magrama.es/sig/Biodiversidad/AMP/wms.aspx?,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15816,1
+399,1
+444,1
+335,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14937,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15029,1
+8.0,1
+316,1
+application/vnd.ms-pdf,1
+369,1
+452,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15018,1
+rtf,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15196,1
+386,1
+442,1
+454,1
+377,1
+465,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15198,1
+339,1
+380,1
+421,1
+404,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14977,1
+application/x-awk,1
+https://www.opengis.net/def/serviceType/ogc/wms,1
+application/attachment,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15218,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15163/CS-Campinas.pdf?sequence=1,1
+application/x-mif,1
+application/haansoftxls,1
+application/mipc,1
+application/x-file,1
+https://www.iana.org/assignments/media-types/text/css,1
+http://www.sandre.eaufrance.fr,1
+488,1
+1.3.0.,1
+api/json,1
+"Diretiva INSPIRE - Serviço WMS relativo ao tema ""Distribuição das espécies""",1
+481,1
+343,1
+text/x-emacs-lisp,1
+436,1
+330,1
+397,1
+application/vnd.openxmlformats-officedocument.spre,1
+text/x-go,1
+cad,1
+375,1
+387,1
+BAG,1
+356,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15022,1
+application/vnd.stardivision.impress,1
+389,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14974,1
+XSL,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14927,1
+application/gxf,1
+text/x-sas-syntax;charset=US-ASCII,1
+application/x-wtt,1
+vmf,1
+Téléchargement,1
+322,1
+application/x-raw-disk-image,1
+application/zstd,1
+357,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14914,1
+application/x-mobipocket-ebook,1
+application/x-qtiplot,1
+text/html; charset: utf-8; charset=utf-8,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14880,1
+application/x-stata-15,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15027,1
+451,1
+ESRI:ArcGIS-10.4.1-http--configuration,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Camacan_BA.zip,1
+361,1
+476,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15017,1
+374,1
+arcgis Mapserver,1
+text/rdf+json,1
+chemical/x-fastq,1
+438,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15033,1
+314,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14995,1
+application/vnd.3gpp2.sms,1
+Feature Server,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14987,1
 Accès téléchargement (France entière - 2012),1
+application/vnd.openxmlformats-officedocument.presentationml.template,1
+326,1
+448,1
+OGC STAC API,1
+MAP:PDF,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14933,1
+ESRI Shapefile,1
+application/zlib,1
+WMTS - Masse Médoc sud est,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Morada_Nova_CE.zip,1
+OGC:SOS-1.0.0-http-post-observation,1
+image/g3fax,1
+2.0.0.,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14935,1
+462,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15172/CS-Eldorado.pdf?sequence=1,1
+application/x-dtbncx+xml,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14867,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14930,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14972,1
+"application/xhtml+xml, text/plain, application/rdf+json,application/rdf+xml.text/rdf+n3",1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14942,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14997,1
+371,1
+DATA:ZIP,1
+311,1
+WMS-Raster du Géoportail - pour une exploitation sous QGIS/ArcGIS,1
+414,1
+WWW:DOWNLOAD:LAZ,1
+application/vnd.recordare.musicxml,1
+WWW:DOWNLOAD:JP2_100,1
+application/map,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14944,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14929,1
+http://wms.magrama.es/sig/Biodiversidad/RiquezaEspecies/wms.aspx,1
+401,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14925,1
+xml/rdf,1
+437,1
+application/vnd.ogc.csw_xml,1
+chemical/x-gaussian-cube,1
+application/x-futuresplash,1
+application/rdf+n3,1
+358,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15818,1
+432,1
+application/x-compress,1
+345,1
+application/x-trig,1
+text/kmz,1
+468,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15025,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14878,1
+333,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14998,1
+346,1
+application/owl+xml,1
+text/inquisit-data3,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15032,1
+text/html; charset=us-ascii,1
+372,1
+463,1
+application/mex,1
+chemical/x-vmd,1
+XLs,1
+http://www.cprm.gov.br/suscetibilidade/ipt_sp/SIG_Caieiras_SP.zip,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15035,1
+application/Data Download,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15101,1
+OGC Web Map Tile Service,1
+application/haansoftpptx,1
+"text/html, application/XML, text/plain, application/sparql-results+json, application/sparql-results+xml, application/rdf+xml,, text/rdf+n3, application/x-turtle, application/x-trig, application/trix, text/boolean",1
+application/x-001-compressed,1
+312,1
+474,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15099,1
+image/tiff+zip,1
+315,1
+455,1
+354,1
+Accès WFS - Téléchargement,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Almeirim_PA.zip,1
+application/xml-sitemap,1
+424,1
+application/vnd.sun.xml.writer,1
+321,1
+bin,1
+application/x-wine-extension-ztq,1
+application/vnd.hal+xml,1
+application/xml+eaf,1
+Datos Abiertos,1
+WFS-Shapefile,1
+wfs_srvc,1
+453,1
+https://www.opengis.net/def/serviceType/ogc/wfs,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15200,1
+LAS/LAZ,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15024,1
+412,1
+407,1
+image/pdf,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15028,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15201,1
+application/x-troff-ms,1
+445,1
+471,1
+327,1
+text/calendar;charset=UTF-8,1
+Visualizador Geográfico IDE.A – Serviço WMS LIFE IP Azores Natura,1
+388,1
+364,1
+text/xml; charset=utf-8,1
+application/vnd.stardivision.math,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15104,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15020,1
+443,1
+xlb,1
+487,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14928,1
+Protocole : WWW:DOWNLOAD-1.0-http—download,1
+OGC:WMTS-1.0.0-http-get-map,1
+483,1
+OGC:WFS-G,1
+application/x-kword,1
+Accès téléchargement (France entière - 2011),1
+application/vnd.sealed.xls,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14915,1
+video/vnd.sealedmedia.softseal.mov,1
+449,1
+netCDF,1
+application/x-iwork-pages-sffpages,1
+381,1
+Argis Feature,1
+338,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14884,1
+application/x-maple-worksheet,1
 chemical/x-cml,1
-application/x-nquads,1
-https://webcarto.infogeo54.fr/index.php/lizmap/service/?repository=opendata&project=opendata&SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities,1
-non diffusable,1
-Arcgis services,1
+http://www.emodnet-geology.eu/emodnet/srv/eng/progress#wp7,1
+403,1
+376,1
+350,1
+wms_srvc,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15016,1
+http://rigeo.cprm.gov.br/xmlui/bitstream/handle/doc/15160/CS-Bauru.pdf?sequence=1,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14886,1
+440,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14996,1
+application/rcp,1
+459,1
 application/x-maker,1
+application/vnd.oma.drm.content,1
+application/x-grace,1
+Secteur de collecte des déchets 2024 - WFS,1
+application/x-bzip-compressed-tar,1
+application/x-extension-fcstd,1
+handle,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14922,1
+application/x-gtar-compressed,1
+Arcgis Mapservices,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15000,1
+479,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14979,1
+application/vnd.claymore,1
+CVS,1
+Adresse du service REST d'ArcGIS.com,1
+OGC API - Tiles,1
+http://rigeo.cphttp://rigeo.cprm.gov.br/xmlui/handle/doc/14973,1
+http://publications.europa.eu/resource/authority/file-type/XLS,1
+336,1
+application/octect-stream,1
+INSPIRE Atom feed,1
+Données sources,1
+313,1
+application/mx24,1
+application/vnd.nitf,1
+application/x-virtualbox-ova,1
+477,1
+application/mspowerpoin,1
+model/x.stl-binary,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15208,1
+text/richtext,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14994,1
+435,1
+464,1
+419,1
+Lien vers le service WMS du Géoportail de l'urbanisme,1
+418,1
+application/vnd.ms-visio.viewer,1
+text/x-csl,1
+text/x-troff-me,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14864,1
+484,1
+application/wps-office.pdf,1
+328,1
+WWW:DOWLOAD-1.0-http--download,1
+461,1
+application/softgrid-tex,1
+https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Altamira_PA.zip,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14943,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15102,1
+411,1
+Accès au téléchargement direct - WFS,1
+373,1
+text/x-moz-deleted,1
+text/x-hex,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14940,1
+393,1
+431,1
+application/application/csv,1
+426,1
+https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html,1
+Accès à un échantillon (.zip),1
+367,1
+GZ,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14868,1
+472,1
+http://www.cprm.gov.br/suscetibilidade/SIG_Senhor_do_Bonfim_BA.zip,1
+480,1
+331,1
+491,1
+317,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15209,1
+application/xhtml+xml;charset=UTF-8,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14984,1
+415,1
+486,1
+OGC:WFS-2.0.0,1
+chemical/x-jcamp-dx,1
+318,1
+344,1
+rdf/xml,1
+410,1
+json_ld,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15173,1
+355,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15015,1
+OGC Web Map Services,1
+365,1
+422,1
+"WMTS du Géoportail en WebMarcator - pour une exploitation sur votre site web, contactez sig@soluris.fr",1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14941,1
+ArcGis Map Services,1
+application/softgrid-rdata,1
+385,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14939,1
+WMTS - ORTHOIMAGERY.ORTHOPHOTOS2014,1
+http://www.magrama.gob.es/ide/metadatos/index.html?srv=metadata.show&uuid=7672013f-69a7-49c9-b7f4-9aaaa525c6d3,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15105,1
+http://www.cprm.gov.br/suscetibilidade/ipt_sp/SIG_Mairipora_SP.zip,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/14920,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15213,1
+433,1
+469,1
+téléchargement direct,1
+application/font-woff,1
+324,1
+430,1
+application/x-qgis-project-container,1
+application/vnd.sun.xml.base,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15107,1
+text/html;charset=iso-8859-1,1
+model/gltf-binary,1
+text/vnd.in3d.3dml,1
+360,1
+http://rigeo.cprm.gov.br/xmlui/handle/doc/15100,1
+337,1
+application/vnd.xara,1
