@@ -446,8 +446,8 @@ Benin,Indicators catalog,1763
 Philippines,Indicators catalog,1761
 Malawi,Indicators catalog,1758
 Belize,Indicators catalog,1756
-Burkina Faso,Indicators catalog,1755
 Côte d'Ivoire,Indicators catalog,1755
+Burkina Faso,Indicators catalog,1755
 Bhutan,Indicators catalog,1752
 Guatemala,Indicators catalog,1751
 "Bonaire, Sint Eustatius and Saba",Indicators catalog,1750
@@ -463,8 +463,8 @@ El Salvador,Indicators catalog,1732
 Colombia,Indicators catalog,1731
 Azerbaijan,Indicators catalog,1731
 Mali,Indicators catalog,1729
-Honduras,Indicators catalog,1727
 Uruguay,Indicators catalog,1727
+Honduras,Indicators catalog,1727
 Kenya,Indicators catalog,1726
 Ethiopia,Indicators catalog,1722
 Spain,Indicators catalog,1722
@@ -481,8 +481,8 @@ Panama,Indicators catalog,1698
 Uzbekistan,Indicators catalog,1697
 Madagascar,Indicators catalog,1695
 Lao People's Democratic Republic,Indicators catalog,1694
-Mauritania,Indicators catalog,1691
 Romania,Indicators catalog,1691
+Mauritania,Indicators catalog,1691
 Burundi,Indicators catalog,1690
 Argentina,Indicators catalog,1682
 Jamaica,Indicators catalog,1678
@@ -584,8 +584,8 @@ Phillipines,Open data portal,682
 Wallis and Futuna,Indicators catalog,680
 Paraguay,Open data portal,670
 Singapore,Geoportal,658
-"{'id': 'CK', 'name': 'Cook Islands'}",Indicators catalog,656
 Republic of North Macedonia,Open data portal,656
+"{'id': 'CK', 'name': 'Cook Islands'}",Indicators catalog,656
 Madagascar,Geoportal,650
 Georgia,Geoportal,649
 Antigua and Barbuda,Geoportal,624
@@ -612,8 +612,8 @@ Sweden,Open data portal,531
 Tuvalu,Open data portal,527
 Tonga,Open data portal,519
 "Palestine, State of",Indicators catalog,512
-Namibia,Geoportal,500
 Uganda,Open data portal,500
+Namibia,Geoportal,500
 Egypt,Geoportal,495
 Kiribati,Open data portal,488
 Colombia,Microdata catalog,485
@@ -669,8 +669,8 @@ Zimbabwe,Geoportal,179
 Afganistan,Geoportal,178
 Qatar,Open data portal,173
 Costa Rica,Microdata catalog,157
-Ethiopia,Geoportal,151
 Cameroon,Geoportal,151
+Ethiopia,Geoportal,151
 Trinidad and Tobago,Open data portal,147
 Togo,Geoportal,131
 Chile,Scientific data repository,129
@@ -684,8 +684,8 @@ Jamaica,Scientific data repository,103
 Africa,Microdata catalog,99
 Botswana,Geoportal,93
 Vietnam,Indicators catalog,88
-Mali,Microdata catalog,87
 Republica Dominicana,Geoportal,87
+Mali,Microdata catalog,87
 Réunion,Indicators catalog,83
 Azerbaijan,Geoportal,80
 Kenya,Microdata catalog,80
@@ -709,8 +709,8 @@ Hong Kong,Indicators catalog,51
 Tanzania,Microdata catalog,47
 Uganda,Microdata catalog,46
 Bolivia,Open data portal,43
-Ghana,Microdata catalog,40
 Palestine,Open data portal,40
+Ghana,Microdata catalog,40
 Mauritius,Geoportal,40
 El Salvador,Open data portal,38
 Turks and Caicos Islands,Indicators catalog,37
@@ -718,17 +718,17 @@ Yemen,Geoportal,34
 Burkina Faso,Geoportal,34
 Russian Federation,Scientific data repository,33
 Iceland,Scientific data repository,30
-Jamaica,Geoportal,30
 Croatia,Scientific data repository,30
+Jamaica,Geoportal,30
 "Saint Helena, Ascension and Tristan da Cunha",Indicators catalog,28
-Portugal,Scientific data repository,27
 American Samoa,Indicators catalog,27
+Portugal,Scientific data repository,27
 Iran,Geoportal,27
 Suriname,Geoportal,26
-Angola,Microdata catalog,26
 Estonia,Scientific data repository,26
-Armenia,Microdata catalog,26
+Angola,Microdata catalog,26
 Makedonia,Open data portal,26
+Armenia,Microdata catalog,26
 Argentina,Scientific data repository,24
 New Caledonia,Indicators catalog,18
 Botswana,Microdata catalog,16
@@ -744,8 +744,8 @@ New Caledonia,Open data portal,8
 Colombia,Scientific data repository,8
 Angola,Open data portal,8
 Saint Pierre and Miquelon,Indicators catalog,6
-Morocco,Geoportal,5
-Myanmar,Open data portal,5
 Liberia,Geoportal,5
+Myanmar,Open data portal,5
+Morocco,Geoportal,5
 Ecuador,Scientific data repository,2
 Zambia,Microdata catalog,2
