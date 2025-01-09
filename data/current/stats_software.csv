@@ -1,7 +1,8 @@
 name,count
-CKAN,5812082
+CKAN,5816283
 Data.WorldBank.org platform,4833586
 Geonetwork,3986264
+ECB data portal,2979490
 Data.bis.org platform,1181012
 ArcGIS Server,888925
 GeoServer,473483
@@ -14,6 +15,7 @@ GeoNode,155066
 Socrata,133115
 PxWeb,57889
 DKAN,57466
+Erddap,34577
 NADA,25891
 OpenDataSoft,20820
 Invenio,14368

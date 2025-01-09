@@ -1,6 +1,7 @@
 name,count
-ckan,5817758
+ckan,5821959
 wb,4833586
+ecb,2979490
 csw,2453196
 geonetwork,1681692
 databisorg,1181012
@@ -14,6 +15,7 @@ wms,208500
 ilostat,167605
 pxweb,57889
 geonodelayers,36691
+erddap,34577
 nada,25891
 opendatasoft,20820
 inveniordm,18687
