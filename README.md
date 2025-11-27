@@ -2,12 +2,44 @@
 
 This repository keeps statistics from Dateno search service dateno.io
 
-* data/current - most recent statistics
-* data/archive - archived statistics
+## Directory layout
 
-Statistics updated irregularly for now, but later it will be published monthly or weekly, not more often yet since it's resource consuming.
+* `data/current` – output of the latest statistics run. Each metric is written as a pair of JSON/CSV files, plus a `stats_summary.json` describing the run.
+* `data/archive` – timestamped folders containing previous `data/current` contents. Every refresh moves the existing snapshots into a folder named `YYYY-MM-DD_HH-MM-SS`.
+
+Statistics are updated irregularly for now, but later it will be published monthly or weekly, not more often yet since it's resource consuming.
 
 It's not yet about data quality, but quality reports are next step and will be available in this repository later.
+
+## Updating the statistics
+
+Statistics are recomputed with `scripts/build_es_stats.py`, which queries the Dateno Elasticsearch index using the same aggregation logic as the historic MongoDB pipeline.
+
+1. Set the required environment variables:
+
+   ```bash
+   export CDIAPI_ELASTIC_KEY="<api key>"
+   export CDIAPI_ELASTIC_INDEX="<es index name>"
+   # optional: override cluster host (defaults to https://es.dateno.io)
+   export CDI_ELASTIC_HOST="https://es.dateno.io"
+   ```
+
+2. Run the generator:
+
+   ```bash
+   python scripts/build_es_stats.py build
+   # optional filters example:
+   python scripts/build_es_stats.py build --filters 'source.catalog_type=portal'
+   ```
+
+What the script does:
+
+* ensures `data/current` and `data/archive` exist
+* moves any existing files from `data/current` into a timestamped archive folder
+* executes Elasticsearch term aggregations for all supported dimensions
+* writes fresh JSON/CSV files into `data/current`
+* derives `stats_continents.*` (from macroregions) and `stats_totals.*` (from source counts)
+* writes a `stats_summary.json` containing metadata, missing-dimension warnings, and flags that indicate whether the custom continent/total statistics were generated
 
 ## Available statistics
 
